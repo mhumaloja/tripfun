@@ -1,6 +1,10 @@
 // TripFun – lasten selainsivu.
-// Liittyy auton luomaan Supabase Realtime -kanavaan `tripfun:<koodi>`.
+// Liittyy auton luomaan Supabase Realtime -kanavaan `tripfun:<istuntotunnus>`.
 // Pelaaja näkyy autolle Presencen kautta; mitään ei tallenneta tietokantaan.
+//
+// Istuntotunnus (QR:n ?s=) on 26 merkkiä aakkostosta ABCDEFGHJKMNPQRSTUVWXYZ23456789
+// (≈ 2^129), jotta vieras ei voi arvata kanavaa ja lähettää lapsille omia viestejään.
+// Näytöillä näytetään vain 4 ensimmäistä merkkiä tunnistamista varten.
 //
 // Viestit (Broadcast):
 //   auto -> puhelin: question {id, text, options[], seconds}
@@ -158,10 +162,11 @@ function join(name) {
   show("lobby-view");
 }
 
-if (!/^[A-Z0-9]{4}$/.test(code)) {
+// 4 merkin koodi: vanhat auton sovellusversiot (ennen tripfun-app #11). Poistetaan, kun autot on päivitetty.
+if (!/^([A-Z0-9]{4}|[A-Z0-9]{26})$/.test(code)) {
   show("no-code-view");
 } else {
-  $("join-code").textContent = code;
+  $("join-code").textContent = code.slice(0, 4);
   $("name").value = savedName();
   show("join-view");
   $("join-form").addEventListener("submit", (e) => {
