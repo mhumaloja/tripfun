@@ -9,7 +9,10 @@
 </head>
 <body>
   <main>
-    <h1>TripFun 🚗</h1>
+    <header>
+      <h1>TripFun 🚗</h1>
+      <p id="status" class="status"></p>
+    </header>
 
     <!-- 1. Nimen syöttö -->
     <section id="join-view" hidden>
@@ -22,12 +25,29 @@
       <p class="code">Peli <strong id="join-code"></strong></p>
     </section>
 
-    <!-- 2. Aula: odotetaan pelin alkua -->
+    <!-- 2. Aula: odotetaan kysymystä -->
     <section id="lobby-view" hidden>
-      <p class="lead">Hei <strong id="me"></strong>! Odotetaan, että peli alkaa…</p>
-      <h2>Pelaajat</h2>
-      <ul id="players"></ul>
-      <p id="status" class="status"></p>
+      <p class="lead">Hei <strong class="me-name"></strong>! Odotetaan seuraavaa kysymystä…</p>
+    </section>
+
+    <!-- 3. Kysymys -->
+    <section id="question-view" hidden>
+      <div class="timer"><span id="seconds"></span> s</div>
+      <p id="question-text" class="question"></p>
+      <div id="options" class="options"></div>
+      <p id="answered" class="lead" hidden>Vastaus lähetetty! Odotetaan muita…</p>
+    </section>
+
+    <!-- 4. Kierroksen tulos -->
+    <section id="result-view" hidden>
+      <p id="result-title" class="result"></p>
+      <p class="lead">Oikea vastaus: <strong id="result-answer"></strong></p>
+    </section>
+
+    <!-- Pisteet näkyvät liittymisen jälkeen aina -->
+    <section id="scores-view" hidden>
+      <h2>Pisteet</h2>
+      <ul id="scores"></ul>
     </section>
 
     <!-- Virhe: koodi puuttuu -->

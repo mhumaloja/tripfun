@@ -24,6 +24,7 @@ main {
   padding: 24px 16px calc(24px + env(safe-area-inset-bottom));
 }
 
+header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
 h1 { font-size: 2rem; margin: 0 0 16px; }
 h2 { font-size: 1.1rem; color: var(--muted); margin: 24px 0 8px; }
 .lead { font-size: 1.25rem; }
@@ -58,7 +59,46 @@ li {
   font-size: 1.15rem;
 }
 li.me { outline: 2px solid var(--accent); }
+li { display: flex; justify-content: space-between; }
+.points { font-weight: 700; }
 
-.status { color: var(--muted); font-size: .9rem; margin-top: 24px; }
+.status { color: var(--muted); font-size: .85rem; margin: 0; }
 .status.ok { color: var(--ok); }
 .status.err { color: var(--err); }
+
+/* Kysymys */
+.timer {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--accent);
+  text-align: center;
+}
+.question { font-size: 1.5rem; font-weight: 700; margin: 8px 0 20px; }
+.options { display: grid; gap: 12px; }
+.option {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 64px;
+  text-align: left;
+  color: #fff;
+}
+.option .letter {
+  display: inline-grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, .25);
+  flex: none;
+}
+.option-0 { background: #e53935; }
+.option-1 { background: #1e88e5; }
+.option-2 { background: #43a047; }
+.option-3 { background: #8e24aa; }
+.option.chosen { outline: 4px solid #fff; opacity: 1; }
+
+/* Tulos */
+.result { font-size: 2rem; font-weight: 800; text-align: center; margin: 16px 0; }
+.result.right { color: var(--ok); }
+.result.wrong { color: var(--muted); }

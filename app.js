@@ -1,12 +1,19 @@
 // TripFun – lasten selainsivu.
 // Liittyy auton luomaan Supabase Realtime -kanavaan `tripfun:<koodi>`.
 // Pelaaja näkyy autolle Presencen kautta; mitään ei tallenneta tietokantaan.
+//
+// Viestit (Broadcast):
+//   auto -> puhelin: question {id, text, options[], seconds}
+//                    result   {qid, correct, correctPlayers[], scores[]}
+//                    sync     {scores[], question?, lastResult?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
+//   puhelin -> auto: answer   {qid, playerId, option}
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 import { SUPABASE_URL, SUPABASE_KEY } from "./config.js";
 
 const $ = (id) => document.getElementById(id);
+const VIEWS = ["join-view", "lobby-view", "question-view", "result-view", "no-code-view"];
 const show = (id) => {
-  for (const v of ["join-view", "lobby-view", "no-code-view"]) $(v).hidden = v !== id;
+  for (const v of VIEWS) $(v).hidden = v !== id;
 };
 
 const code = (new URLSearchParams(location.search).get("s") || "").toUpperCase();
@@ -38,31 +45,106 @@ function setStatus(text, cls = "") {
   $("status").className = `status ${cls}`;
 }
 
-function renderPlayers(channel, myId) {
-  const list = $("players");
+const LETTERS = ["A", "B", "C", "D"];
+const myId = playerId();
+let channel = null;
+let currentQuestion = null;
+let countdown = null;
+
+function renderScores(scores) {
+  const list = $("scores");
   list.replaceChildren();
-  const state = channel.presenceState();
-  const players = Object.entries(state)
-    .filter(([key]) => key !== "car")
-    .map(([key, metas]) => ({ id: key, name: metas[0]?.name ?? "?" }))
-    .sort((a, b) => a.name.localeCompare(b.name, "fi"));
-  for (const p of players) {
+  scores.forEach((s, i) => {
     const li = document.createElement("li");
-    li.textContent = `🎮 ${p.name}`;
-    if (p.id === myId) li.classList.add("me");
+    const medal = s.points > 0 ? ["🥇", "🥈", "🥉"][i] ?? "🎮" : "🎮";
+    li.textContent = `${medal} ${s.name}`;
+    const pts = document.createElement("span");
+    pts.className = "points";
+    pts.textContent = `${s.points} p`;
+    li.append(pts);
+    if (s.id === myId) li.classList.add("me");
     list.append(li);
-  }
+  });
+  $("scores-view").hidden = false;
+}
+
+function showQuestion(q) {
+  currentQuestion = q;
+  $("question-text").textContent = q.text;
+  $("answered").hidden = true;
+
+  const options = $("options");
+  options.replaceChildren();
+  q.options.forEach((text, i) => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = `option option-${i}`;
+    b.innerHTML = `<span class="letter">${LETTERS[i]}</span>`;
+    b.append(text);
+    b.addEventListener("click", () => answer(i, b));
+    options.append(b);
+  });
+
+  let left = q.seconds;
+  $("seconds").textContent = left;
+  clearInterval(countdown);
+  countdown = setInterval(() => {
+    left = Math.max(0, left - 1);
+    $("seconds").textContent = left;
+    if (left === 0) {
+      clearInterval(countdown);
+      for (const b of $("options").children) b.disabled = true;
+    }
+  }, 1000);
+
+  show("question-view");
+  navigator.vibrate?.(200);
+}
+
+function answer(option, button) {
+  if (!currentQuestion) return;
+  channel.send({
+    type: "broadcast",
+    event: "answer",
+    payload: { qid: currentQuestion.id, playerId: myId, option },
+  });
+  for (const b of $("options").children) b.disabled = true;
+  button.classList.add("chosen");
+  $("answered").hidden = false;
+}
+
+function showResult(r) {
+  clearInterval(countdown);
+  const q = currentQuestion;
+  currentQuestion = null;
+  const iWasRight = r.correctPlayers.includes(myId);
+  $("result-title").textContent = iWasRight ? "🎉 Oikein! +1 piste" : "😅 Ei tällä kertaa";
+  $("result-title").className = `result ${iWasRight ? "right" : "wrong"}`;
+  $("result-answer").textContent = q && q.id === r.qid ? q.options[r.correct] : "–";
+  renderScores(r.scores);
+  show("result-view");
 }
 
 function join(name) {
-  const id = playerId();
   const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
-  const channel = supabase.channel(`tripfun:${code}`, {
-    config: { presence: { key: id }, broadcast: { self: false } },
+  channel = supabase.channel(`tripfun:${code}`, {
+    config: { presence: { key: myId }, broadcast: { self: false } },
   });
 
   channel
-    .on("presence", { event: "sync" }, () => renderPlayers(channel, id))
+    .on("broadcast", { event: "question" }, ({ payload }) => showQuestion(payload))
+    .on("broadcast", { event: "result" }, ({ payload }) => showResult(payload))
+    .on("broadcast", { event: "sync" }, ({ payload }) => {
+      renderScores(payload.scores);
+      if (payload.question) {
+        // Ei näytetä samaa kysymystä uudelleen, jos siihen on jo vastattu.
+        if (payload.question.id !== currentQuestion?.id) showQuestion(payload.question);
+      } else if (currentQuestion) {
+        // Kysymys päättyi sillä välin kun yhteys oli poikki (esim. näyttö lukossa).
+        if (payload.lastResult?.qid === currentQuestion.id) showResult(payload.lastResult);
+        else { clearInterval(countdown); currentQuestion = null; show("lobby-view"); }
+      }
+    })
     .subscribe(async (status) => {
       if (status === "SUBSCRIBED") {
         await channel.track({ name });
@@ -72,7 +154,7 @@ function join(name) {
       }
     });
 
-  $("me").textContent = name;
+  for (const el of document.querySelectorAll(".me-name")) el.textContent = name;
   show("lobby-view");
 }
 
