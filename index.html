@@ -14,14 +14,11 @@
       <p id="status" class="status"></p>
     </header>
 
-    <!-- 1. Nimen syöttö -->
+    <!-- 1. Pelimerkin valinta (luettelo tulee autosta) -->
     <section id="join-view" hidden>
-      <p class="lead">Liity matkapeliin!</p>
-      <form id="join-form">
-        <label for="name">Nimesi tai nimimerkkisi</label>
-        <input id="name" name="name" maxlength="16" autocomplete="nickname" required autofocus>
-        <button type="submit">Mukaan!</button>
-      </form>
+      <p class="lead">Valitse pelimerkkisi!</p>
+      <div id="tokens" class="tokens"></div>
+      <p id="token-status" class="code">Haetaan pelimerkkejä…</p>
       <p class="code">Peli <strong id="join-code"></strong></p>
     </section>
 

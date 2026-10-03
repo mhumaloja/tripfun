@@ -1,16 +1,19 @@
 // TripFun – lasten selainsivu.
 // Liittyy auton luomaan Supabase Realtime -kanavaan `tripfun:<istuntotunnus>`.
-// Pelaaja näkyy autolle Presencen kautta; mitään ei tallenneta tietokantaan.
+// Puhelin näkyy autolle Presencen kautta (vain pelaajan id). Lapsi valitsee pelimerkin eikä
+// kirjoita nimeä, joten henkilötietoja ei käsitellä. Mitään ei tallenneta tietokantaan.
 //
 // Istuntotunnus (QR:n ?s=) on 26 merkkiä aakkostosta ABCDEFGHJKMNPQRSTUVWXYZ23456789
 // (≈ 2^129), jotta vieras ei voi arvata kanavaa ja lähettää lapsille omia viestejään.
 // Näytöillä näytetään vain 4 ensimmäistä merkkiä tunnistamista varten.
 //
 // Viestit (Broadcast):
-//   auto -> puhelin: question {id, text, options[], seconds}
+//   auto -> puhelin: tokens   {catalog[{id, emoji, name}], taken{playerId: tokenId}}
+//                    question {id, text, options[], seconds}
 //                    result   {qid, correct, correctPlayers[], scores[]}
-//                    sync     {scores[], question?, lastResult?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
-//   puhelin -> auto: answer   {qid, playerId, option}
+//                    sync     {scores[], tokens, question?, lastResult?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
+//   puhelin -> auto: claim    {playerId, token}   (auto myöntää vapaan merkin; merkki pysyy koko pelin)
+//                    answer   {qid, playerId, option}
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 import { SUPABASE_URL, SUPABASE_KEY } from "./config.js";
 
@@ -40,9 +43,6 @@ function playerId() {
   }
 }
 
-function savedName() {
-  try { return localStorage.getItem("tripfun-name") || ""; } catch { return ""; }
-}
 
 function setStatus(text, cls = "") {
   $("status").textContent = text;
@@ -129,16 +129,68 @@ function showResult(r) {
   show("result-view");
 }
 
-function join(name) {
+// Pelimerkit: auto on ainoa, joka päättää kenelle merkki kuuluu.
+let myToken = null;
+let claiming = null;
+
+function handleTokens(tokens) {
+  if (!tokens) return;
+  const mine = tokens.catalog.find((t) => t.id === tokens.taken[myId]);
+  if (mine) {
+    const first = !myToken;
+    myToken = mine;
+    for (const el of document.querySelectorAll(".me-name")) el.textContent = `${mine.emoji} ${mine.name}`;
+    if (first && !$("join-view").hidden) show("lobby-view");
+    return;
+  }
+  renderTokenPicker(tokens);
+}
+
+function renderTokenPicker(tokens) {
+  const takenIds = new Set(Object.values(tokens.taken));
+  if (claiming && takenIds.has(claiming)) {
+    $("token-status").textContent = "Ehti mennä toiselle – valitse toinen!";
+  } else {
+    $("token-status").textContent = "";
+  }
+  claiming = null;
+  const grid = $("tokens");
+  grid.replaceChildren();
+  for (const t of tokens.catalog) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "token";
+    b.disabled = takenIds.has(t.id);
+    const emoji = document.createElement("span");
+    emoji.className = "emoji";
+    emoji.textContent = t.emoji;
+    b.append(emoji, t.name);
+    b.addEventListener("click", () => claim(t.id, b));
+    grid.append(b);
+  }
+}
+
+function claim(tokenId, button) {
+  claiming = tokenId;
+  for (const b of $("tokens").children) b.disabled = true;
+  button.classList.add("waiting");
+  $("token-status").textContent = "Varataan…";
+  channel.send({ type: "broadcast", event: "claim", payload: { playerId: myId, token: tokenId } });
+}
+
+function join() {
   const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
   channel = supabase.channel(`tripfun:${code}`, {
     config: { presence: { key: myId }, broadcast: { self: false } },
   });
 
   channel
-    .on("broadcast", { event: "question" }, ({ payload }) => showQuestion(payload))
-    .on("broadcast", { event: "result" }, ({ payload }) => showResult(payload))
+    .on("broadcast", { event: "tokens" }, ({ payload }) => handleTokens(payload))
+    .on("broadcast", { event: "question" }, ({ payload }) => myToken && showQuestion(payload))
+    .on("broadcast", { event: "result" }, ({ payload }) => myToken && showResult(payload))
     .on("broadcast", { event: "sync" }, ({ payload }) => {
+      handleTokens(payload.tokens);
+      if (!myToken) return; // ensin pelimerkki, sitten peliin
       renderScores(payload.scores);
       if (payload.question) {
         // Ei näytetä samaa kysymystä uudelleen, jos siihen on jo vastattu.
@@ -151,29 +203,19 @@ function join(name) {
     })
     .subscribe(async (status) => {
       if (status === "SUBSCRIBED") {
-        await channel.track({ name });
+        await channel.track({});
         setStatus("● Yhteys kunnossa", "ok");
       } else if (status === "CHANNEL_ERROR" || status === "TIMED_OUT") {
         setStatus("● Yhteys katkesi, yritetään uudelleen…", "err");
       }
     });
 
-  for (const el of document.querySelectorAll(".me-name")) el.textContent = name;
-  show("lobby-view");
+  show("join-view");
 }
 
-// 4 merkin koodi: vanhat auton sovellusversiot (ennen tripfun-app #11). Poistetaan, kun autot on päivitetty.
-if (!/^([A-Z0-9]{4}|[A-Z0-9]{26})$/.test(code)) {
+if (!/^[A-Z0-9]{26}$/.test(code)) {
   show("no-code-view");
 } else {
   $("join-code").textContent = code.slice(0, 4);
-  $("name").value = savedName();
-  show("join-view");
-  $("join-form").addEventListener("submit", (e) => {
-    e.preventDefault();
-    const name = $("name").value.trim().slice(0, 16);
-    if (!name) return;
-    try { localStorage.setItem("tripfun-name", name); } catch {}
-    join(name);
-  });
+  join();
 }
