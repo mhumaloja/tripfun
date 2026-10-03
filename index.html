@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#111418">
+  <title>TripFun</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>TripFun 🚗</h1>
+
+    <!-- 1. Nimen syöttö -->
+    <section id="join-view" hidden>
+      <p class="lead">Liity matkapeliin!</p>
+      <form id="join-form">
+        <label for="name">Nimesi tai nimimerkkisi</label>
+        <input id="name" name="name" maxlength="16" autocomplete="nickname" required autofocus>
+        <button type="submit">Mukaan!</button>
+      </form>
+      <p class="code">Peli <strong id="join-code"></strong></p>
+    </section>
+
+    <!-- 2. Aula: odotetaan pelin alkua -->
+    <section id="lobby-view" hidden>
+      <p class="lead">Hei <strong id="me"></strong>! Odotetaan, että peli alkaa…</p>
+      <h2>Pelaajat</h2>
+      <ul id="players"></ul>
+      <p id="status" class="status"></p>
+    </section>
+
+    <!-- Virhe: koodi puuttuu -->
+    <section id="no-code-view" hidden>
+      <p class="lead">Skannaa auton näytöllä oleva QR-koodi liittyäksesi peliin.</p>
+    </section>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
