@@ -9,16 +9,17 @@
 //
 // Viestit (Broadcast):
 //   auto -> puhelin: tokens   {catalog[{id, emoji, name}], taken{playerId: tokenId}}
+//                    guide    {name, text, image?}   (Matkaopas; image = polku tällä sivustolla, esim. data/vaakunat/FI/297.png)
 //                    question {id, text, options[], seconds}
 //                    result   {qid, correct, correctPlayers[], scores[]}
-//                    sync     {scores[], tokens, question?, lastResult?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
+//                    sync     {scores[], tokens, question?, lastResult?, guide?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
 //   puhelin -> auto: claim    {playerId, token}   (auto myöntää vapaan merkin; merkki pysyy koko pelin)
 //                    answer   {qid, playerId, option}
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 import { SUPABASE_URL, SUPABASE_KEY } from "./config.js";
 
 const $ = (id) => document.getElementById(id);
-const VIEWS = ["join-view", "lobby-view", "question-view", "result-view", "no-code-view"];
+const VIEWS = ["join-view", "lobby-view", "guide-view", "question-view", "result-view", "no-code-view"];
 const show = (id) => {
   for (const v of VIEWS) $(v).hidden = v !== id;
 };
@@ -178,6 +179,18 @@ function claim(tokenId, button) {
   channel.send({ type: "broadcast", event: "claim", payload: { playerId: myId, token: tokenId } });
 }
 
+function showGuide(g) {
+  $("guide-name").textContent = g.name;
+  $("guide-text").textContent = g.text;
+  // Vain tämän sivuston vaakunat: kanavalle voi lähettää kuka tahansa QR:n skannannut (#24),
+  // eikä puhelin saa hakea kuvaa vieraalta palvelimelta (IP-osoite vuotaisi).
+  const safe = typeof g.image === "string" && /^data\/vaakunat\/[A-Z]{2}\/\d{3,4}\.png$/.test(g.image);
+  const img = $("guide-image");
+  img.hidden = !safe;
+  if (safe) img.src = g.image;
+  show("guide-view");
+}
+
 function join() {
   const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
   channel = supabase.channel(`tripfun:${code}`, {
@@ -186,12 +199,14 @@ function join() {
 
   channel
     .on("broadcast", { event: "tokens" }, ({ payload }) => handleTokens(payload))
+    .on("broadcast", { event: "guide" }, ({ payload }) => myToken && !currentQuestion && showGuide(payload))
     .on("broadcast", { event: "question" }, ({ payload }) => myToken && showQuestion(payload))
     .on("broadcast", { event: "result" }, ({ payload }) => myToken && showResult(payload))
     .on("broadcast", { event: "sync" }, ({ payload }) => {
       handleTokens(payload.tokens);
       if (!myToken) return; // ensin pelimerkki, sitten peliin
       renderScores(payload.scores);
+      if (payload.guide && !payload.question) showGuide(payload.guide);
       if (payload.question) {
         // Ei näytetä samaa kysymystä uudelleen, jos siihen on jo vastattu.
         if (payload.question.id !== currentQuestion?.id) showQuestion(payload.question);
