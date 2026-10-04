@@ -16,20 +16,20 @@
 
     <!-- 1. Pelimerkin valinta (luettelo tulee autosta) -->
     <section id="join-view" hidden>
-      <p class="lead">Valitse pelimerkkisi!</p>
+      <p class="lead" data-i18n="choose_token">Valitse pelimerkkisi!</p>
       <div id="tokens" class="tokens"></div>
-      <p id="token-status" class="code">Haetaan pelimerkkejä…</p>
-      <p class="code">Peli <strong id="join-code"></strong></p>
+      <p id="token-status" class="code" data-i18n="loading_tokens">Haetaan pelimerkkejä…</p>
+      <p class="code"><span data-i18n="game">Peli</span> <strong id="join-code"></strong></p>
     </section>
 
     <!-- 2. Aula: odotetaan kysymystä -->
     <section id="lobby-view" hidden>
-      <p class="lead">Hei <strong class="me-name"></strong>! Odotetaan seuraavaa kysymystä…</p>
+      <p class="lead"><span data-i18n="hello">Hei</span> <strong class="me-name"></strong>! <span data-i18n="waiting">Odotetaan seuraavaa kysymystä…</span></p>
     </section>
 
     <!-- Bongausbingo: oma ruudukko, perusnäkymä kun bingo on päällä -->
     <section id="bingo-view" hidden>
-      <p class="lead">Bongaa ja napauta! <strong class="me-name"></strong></p>
+      <p class="lead"><span data-i18n="bingo_lead">Bongaa ja napauta!</span> <strong class="me-name"></strong></p>
       <div id="bingo-grid" class="bingo"></div>
       <p id="bingo-flash" class="bingo-flash" role="status" hidden></p>
     </section>
@@ -41,32 +41,32 @@
         <h2 id="guide-name"></h2>
       </div>
       <p id="guide-text" class="lead"></p>
-      <p class="code">Lähde: Wikipedia (CC BY-SA 4.0), Wikidata, Wikimedia Commons</p>
+      <p class="code"><span data-i18n="source">Lähde</span>: Wikipedia (CC BY-SA 4.0), Wikidata, Wikimedia Commons</p>
     </section>
 
     <!-- 3. Kysymys -->
     <section id="question-view" hidden>
-      <div class="timer"><span id="seconds"></span> s</div>
+      <div class="timer"><span id="seconds"></span> <span data-i18n="seconds">s</span></div>
       <p id="question-text" class="question"></p>
       <div id="options" class="options"></div>
-      <p id="answered" class="lead" hidden>Vastaus lähetetty! Oikea vastaus paljastuu, kun aika loppuu…</p>
+      <p id="answered" class="lead" data-i18n="answered" hidden>Vastaus lähetetty! Oikea vastaus paljastuu, kun aika loppuu…</p>
     </section>
 
     <!-- 4. Kierroksen tulos -->
     <section id="result-view" hidden>
       <p id="result-title" class="result"></p>
-      <p class="lead">Oikea vastaus: <strong id="result-answer"></strong></p>
+      <p class="lead"><span data-i18n="correct_answer">Oikea vastaus:</span> <strong id="result-answer"></strong></p>
     </section>
 
     <!-- Pisteet näkyvät liittymisen jälkeen aina -->
     <section id="scores-view" hidden>
-      <h2>Pisteet</h2>
+      <h2 data-i18n="scores">Pisteet</h2>
       <ul id="scores"></ul>
     </section>
 
     <!-- Virhe: koodi puuttuu -->
     <section id="no-code-view" hidden>
-      <p class="lead">Skannaa auton näytöllä oleva QR-koodi liittyäksesi peliin.</p>
+      <p class="lead" data-i18n="no_code">Skannaa auton näytöllä oleva QR-koodi liittyäksesi peliin.</p>
     </section>
   </main>
 

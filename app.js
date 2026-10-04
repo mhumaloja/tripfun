@@ -8,7 +8,7 @@
 // Näytöillä näytetään vain 4 ensimmäistä merkkiä tunnistamista varten.
 //
 // Viestit (Broadcast):
-//   auto -> puhelin: tokens   {catalog[{id, emoji, name}], taken{playerId: tokenId}}
+//   auto -> puhelin: tokens   {catalog[{id, emoji, name}], taken{playerId: tokenId}, lang?}   (lang = auton kieli: fi, en, sv, nb)
 //                    guide    {name, text, image?}   (Matkaopas; image = polku tällä sivustolla, esim. data/vaakunat/FI/297.png)
 //                    question {id, text, options[], seconds}
 //                    result   {qid, correct, correctPlayers[], scores[]}
@@ -24,6 +24,7 @@
 //                    mark     {playerId, cell, marked}   (oman ruudukon ruutu 0–15; auto pisteyttää rivit)
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 import { SUPABASE_URL, SUPABASE_KEY } from "./config.js";
+import { t, setLanguage } from "./i18n.js";
 
 const $ = (id) => document.getElementById(id);
 const VIEWS = ["join-view", "lobby-view", "bingo-view", "guide-view", "question-view", "result-view", "no-code-view"];
@@ -52,8 +53,14 @@ function playerId() {
 }
 
 
-function setStatus(text, cls = "") {
-  $("status").textContent = text;
+// Pysyvät tilatekstit data-i18n-avaimella, jotta ne vaihtuvat kielen mukana.
+function setText(el, key) {
+  el.dataset.i18n = key;
+  el.textContent = t(key);
+}
+
+function setStatus(key, cls = "") {
+  setText($("status"), key);
   $("status").className = `status ${cls}`;
 }
 
@@ -72,7 +79,7 @@ function renderScores(scores) {
     li.textContent = `${medal} ${s.name}`;
     const pts = document.createElement("span");
     pts.className = "points";
-    pts.textContent = `${s.points} p`;
+    pts.textContent = t("points", { n: s.points });
     li.append(pts);
     if (s.id === myId) li.classList.add("me");
     list.append(li);
@@ -130,7 +137,7 @@ function showResult(r) {
   const q = currentQuestion;
   currentQuestion = null;
   const iWasRight = r.correctPlayers.includes(myId);
-  $("result-title").textContent = iWasRight ? "🎉 Oikein! +1 piste" : "😅 Ei tällä kertaa";
+  $("result-title").textContent = t(iWasRight ? "right" : "wrong");
   $("result-title").className = `result ${iWasRight ? "right" : "wrong"}`;
   $("result-answer").textContent = q && q.id === r.qid ? q.options[r.correct] : "–";
   renderScores(r.scores);
@@ -144,6 +151,7 @@ let claiming = null;
 
 function handleTokens(tokens) {
   if (!tokens) return;
+  setLanguage(tokens.lang);
   const mine = tokens.catalog.find((t) => t.id === tokens.taken[myId]);
   if (mine) {
     const first = !myToken;
@@ -158,8 +166,9 @@ function handleTokens(tokens) {
 function renderTokenPicker(tokens) {
   const takenIds = new Set(Object.values(tokens.taken));
   if (claiming && takenIds.has(claiming)) {
-    $("token-status").textContent = "Ehti mennä toiselle – valitse toinen!";
+    setText($("token-status"), "token_taken");
   } else {
+    delete $("token-status").dataset.i18n;
     $("token-status").textContent = "";
   }
   claiming = null;
@@ -183,7 +192,7 @@ function claim(tokenId, button) {
   claiming = tokenId;
   for (const b of $("tokens").children) b.disabled = true;
   button.classList.add("waiting");
-  $("token-status").textContent = "Varataan…";
+  setText($("token-status"), "claiming");
   channel.send({ type: "broadcast", event: "claim", payload: { playerId: myId, token: tokenId } });
 }
 
@@ -249,7 +258,7 @@ function handleBingo(b) {
     lines: new Set(b.lines?.[myId] ?? []),
   };
   renderBingo();
-  if (newRound) flashBingo("✨ Uudet ruudut!");
+  if (newRound) flashBingo(t("new_grid"));
   if (!$("lobby-view").hidden) showIdle();
 }
 
@@ -297,11 +306,11 @@ function showBingoResult(r) {
   renderScores(r.scores);
   const full = r.kind === "full";
   if (r.playerId === myId) {
-    flashBingo(full ? `🎉 BINGO! +${r.points} p` : `🎉 RIVI! +${r.points} p`);
+    flashBingo(t(full ? "my_full" : "my_line", { n: r.points }));
     navigator.vibrate?.([100, 50, 100]);
   } else {
-    const who = r.scores.find((s) => s.id === r.playerId)?.name ?? "Joku";
-    flashBingo(full ? `${who} sai bingon!` : `${who} sai rivin!`);
+    const who = r.scores.find((s) => s.id === r.playerId)?.name ?? t("someone");
+    flashBingo(t(full ? "other_full" : "other_line", { who }));
   }
 }
 
@@ -338,15 +347,16 @@ function join() {
         await channel.track({});
         // Uudelleenlatauksessa Presence ei näytä autolle paluuta (vanha yhteys poistuu vasta myöhemmin).
         channel.send({ type: "broadcast", event: "hello", payload: { playerId: myId } });
-        setStatus("● Yhteys kunnossa", "ok");
+        setStatus("status_ok", "ok");
       } else if (status === "CHANNEL_ERROR" || status === "TIMED_OUT") {
-        setStatus("● Yhteys katkesi, yritetään uudelleen…", "err");
+        setStatus("status_err", "err");
       }
     });
 
   show("join-view");
 }
 
+setLanguage(); // selaimen kieli, kunnes auto kertoo omansa
 if (!/^[A-Z0-9]{26}$/.test(code)) {
   show("no-code-view");
 } else {
