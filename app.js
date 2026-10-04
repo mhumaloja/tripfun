@@ -12,14 +12,21 @@
 //                    guide    {name, text, image?}   (Matkaopas; image = polku tällä sivustolla, esim. data/vaakunat/FI/297.png)
 //                    question {id, text, options[], seconds}
 //                    result   {qid, correct, correctPlayers[], scores[]}
-//                    sync     {scores[], tokens, question?, lastResult?, guide?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
+//                    bingo    {active, round?, items[{emoji, name}]?, grids{playerId: [16 kohdeindeksiä]}?,
+//                              marks{playerId: [ruutu]}?, lines{playerId: [riviindeksi]}?}
+//                             (Bongausbingo; kaikkien ruudukot, puhelin poimii omansa. Ruudut 0–15 riveittäin,
+//                              rivit 0–3 vaaka, 4–7 pysty, 8 ja 9 vinot. active=false: bingo sammutettiin)
+//                    bingoResult {playerId, kind: "line"|"full", points, scores[]}
+//                    sync     {scores[], tokens, question?, lastResult?, guide?, bingo?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
 //   puhelin -> auto: claim    {playerId, token}   (auto myöntää vapaan merkin; merkki pysyy koko pelin)
 //                    answer   {qid, playerId, option}
+//                    hello    {playerId}   (kanavalle liittyessä; auto vastaa syncillä, myös sivun uudelleenlatauksessa)
+//                    mark     {playerId, cell, marked}   (oman ruudukon ruutu 0–15; auto pisteyttää rivit)
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 import { SUPABASE_URL, SUPABASE_KEY } from "./config.js";
 
 const $ = (id) => document.getElementById(id);
-const VIEWS = ["join-view", "lobby-view", "guide-view", "question-view", "result-view", "no-code-view"];
+const VIEWS = ["join-view", "lobby-view", "bingo-view", "guide-view", "question-view", "result-view", "no-code-view"];
 const show = (id) => {
   for (const v of VIEWS) $(v).hidden = v !== id;
 };
@@ -128,6 +135,7 @@ function showResult(r) {
   $("result-answer").textContent = q && q.id === r.qid ? q.options[r.correct] : "–";
   renderScores(r.scores);
   show("result-view");
+  returnToIdle(RESULT_PAUSE_MS);
 }
 
 // Pelimerkit: auto on ainoa, joka päättää kenelle merkki kuuluu.
@@ -141,7 +149,7 @@ function handleTokens(tokens) {
     const first = !myToken;
     myToken = mine;
     for (const el of document.querySelectorAll(".me-name")) el.textContent = `${mine.emoji} ${mine.name}`;
-    if (first && !$("join-view").hidden) show("lobby-view");
+    if (first && !$("join-view").hidden) showIdle();
     return;
   }
   renderTokenPicker(tokens);
@@ -189,6 +197,112 @@ function showGuide(g) {
   img.hidden = !safe;
   if (safe) img.src = g.image;
   show("guide-view");
+  returnToIdle(readingTimeMs(`${g.name}. ${g.text}`));
+}
+
+// Samat ajat kuin autossa (QuizMode.RESULT_PAUSE_MS, GuideMode.readingTimeMs): esitys peittää
+// ruudukon vain sen ajan, kun auto esittää sitä.
+const RESULT_PAUSE_MS = 5000;
+const readingTimeMs = (text) => Math.min(25000, Math.max(8000, (text.length * 1000) / 15));
+
+let idleTimer = null;
+function returnToIdle(ms) {
+  clearTimeout(idleTimer);
+  // Ilman bingoa esitys jää näkyviin seuraavaan asti, kuten ennenkin.
+  idleTimer = setTimeout(() => {
+    if (bingo && !currentQuestion) showIdle();
+  }, ms);
+}
+
+// Perusnäkymä esitysten välillä: bingoruudukko, jos bingo on päällä, muuten aula.
+function showIdle() {
+  clearTimeout(idleTimer);
+  show(bingo ? "bingo-view" : "lobby-view");
+}
+
+// Bongausbingo: auto pitää tilan ja pisteyttää, puhelin näyttää oman ruudukon ja lähettää merkinnät.
+const BINGO_CELLS = 16;
+const BINGO_LINES = [
+  [0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11], [12, 13, 14, 15],
+  [0, 4, 8, 12], [1, 5, 9, 13], [2, 6, 10, 14], [3, 7, 11, 15],
+  [0, 5, 10, 15], [3, 6, 9, 12],
+];
+let bingo = null; // {round, items, grid, marks:Set, lines:Set}
+
+function handleBingo(b) {
+  if (!b) return;
+  const grid = b.active && b.grids?.[myId];
+  const valid = Array.isArray(b.items) && b.items.length === BINGO_CELLS &&
+    Array.isArray(grid) && grid.length === BINGO_CELLS && grid.every((i) => Number.isInteger(i) && b.items[i]);
+  const wasShowing = !$("bingo-view").hidden;
+  if (!valid) {
+    bingo = null;
+    if (wasShowing) showIdle();
+    return;
+  }
+  const newRound = bingo && bingo.round !== b.round;
+  bingo = {
+    round: b.round,
+    items: b.items,
+    grid,
+    marks: new Set(b.marks?.[myId] ?? []),
+    lines: new Set(b.lines?.[myId] ?? []),
+  };
+  renderBingo();
+  if (newRound) flashBingo("✨ Uudet ruudut!");
+  if (!$("lobby-view").hidden) showIdle();
+}
+
+function renderBingo() {
+  const inLine = new Set([...bingo.lines].flatMap((l) => BINGO_LINES[l] ?? []));
+  const board = $("bingo-grid");
+  board.replaceChildren();
+  bingo.grid.forEach((itemIndex, cell) => {
+    const item = bingo.items[itemIndex];
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "cell";
+    b.classList.toggle("marked", bingo.marks.has(cell));
+    b.classList.toggle("line", inLine.has(cell));
+    b.setAttribute("aria-pressed", bingo.marks.has(cell));
+    const emoji = document.createElement("span");
+    emoji.className = "emoji";
+    emoji.textContent = item.emoji;
+    b.append(emoji, item.name);
+    b.addEventListener("click", () => mark(cell));
+    board.append(b);
+  });
+}
+
+function mark(cell) {
+  if (!bingo || currentQuestion) return;
+  const marked = !bingo.marks.has(cell);
+  // Näytetään heti; auton seuraava bingo-viesti on silti totuus.
+  if (marked) bingo.marks.add(cell);
+  else bingo.marks.delete(cell);
+  renderBingo();
+  channel.send({ type: "broadcast", event: "mark", payload: { playerId: myId, cell, marked } });
+}
+
+let flashTimer = null;
+function flashBingo(text) {
+  const el = $("bingo-flash");
+  el.textContent = text;
+  el.hidden = false;
+  clearTimeout(flashTimer);
+  flashTimer = setTimeout(() => { el.hidden = true; }, 4000);
+}
+
+function showBingoResult(r) {
+  renderScores(r.scores);
+  const full = r.kind === "full";
+  if (r.playerId === myId) {
+    flashBingo(full ? `🎉 BINGO! +${r.points} p` : `🎉 RIVI! +${r.points} p`);
+    navigator.vibrate?.([100, 50, 100]);
+  } else {
+    const who = r.scores.find((s) => s.id === r.playerId)?.name ?? "Joku";
+    flashBingo(full ? `${who} sai bingon!` : `${who} sai rivin!`);
+  }
 }
 
 function join() {
@@ -202,10 +316,13 @@ function join() {
     .on("broadcast", { event: "guide" }, ({ payload }) => myToken && !currentQuestion && showGuide(payload))
     .on("broadcast", { event: "question" }, ({ payload }) => myToken && showQuestion(payload))
     .on("broadcast", { event: "result" }, ({ payload }) => myToken && showResult(payload))
+    .on("broadcast", { event: "bingo" }, ({ payload }) => myToken && handleBingo(payload))
+    .on("broadcast", { event: "bingoResult" }, ({ payload }) => myToken && showBingoResult(payload))
     .on("broadcast", { event: "sync" }, ({ payload }) => {
       handleTokens(payload.tokens);
       if (!myToken) return; // ensin pelimerkki, sitten peliin
       renderScores(payload.scores);
+      handleBingo(payload.bingo ?? { active: false });
       if (payload.guide && !payload.question) showGuide(payload.guide);
       if (payload.question) {
         // Ei näytetä samaa kysymystä uudelleen, jos siihen on jo vastattu.
@@ -213,12 +330,14 @@ function join() {
       } else if (currentQuestion) {
         // Kysymys päättyi sillä välin kun yhteys oli poikki (esim. näyttö lukossa).
         if (payload.lastResult?.qid === currentQuestion.id) showResult(payload.lastResult);
-        else { clearInterval(countdown); currentQuestion = null; show("lobby-view"); }
+        else { clearInterval(countdown); currentQuestion = null; showIdle(); }
       }
     })
     .subscribe(async (status) => {
       if (status === "SUBSCRIBED") {
         await channel.track({});
+        // Uudelleenlatauksessa Presence ei näytä autolle paluuta (vanha yhteys poistuu vasta myöhemmin).
+        channel.send({ type: "broadcast", event: "hello", payload: { playerId: myId } });
         setStatus("● Yhteys kunnossa", "ok");
       } else if (status === "CHANNEL_ERROR" || status === "TIMED_OUT") {
         setStatus("● Yhteys katkesi, yritetään uudelleen…", "err");
