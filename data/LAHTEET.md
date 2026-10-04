@@ -22,3 +22,7 @@ Tuotetaan työkalulla `tools/opas.py` (auton sovelluksen repossa). Kunta yhdiste
 | Vaakunat (`vaakunat/<MAA>/<koodi>.png`) | Wikimedia Commons; tiedostokohtainen lisenssi ja lähde kentässä `vaakuna` | tiedostokohtainen (suomalaiset vaakunat pääosin public domain) |
 
 Henkilöt: kunnassa syntyneet, kolme eniten Wikipedia-artikkeleita omaavaa; rikoksesta tuomitut (Wikidata P1399) suodatettu pois. Lista tarkistetaan PR:ssä ennen julkaisua.
+
+## Bongausbingo (`bingo.<kieli>.json`)
+
+Käsin koottu tienvarsipakka (emoji ja nimi, valinnaisesti `maat` ja `kuukaudet`; puuttuva kenttä = kaikki). Ei ulkoista lähdettä, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fi). Tarkistetaan työkalulla `tools/bingo.py` (auton sovelluksen repossa): jokaiselle maan ja kuukauden yhdistelmälle vähintään 16 kohdetta 4×4-ruudukkoon.
