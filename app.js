@@ -6,6 +6,9 @@
 // Istuntotunnus (QR:n ?s=) on 26 merkkiä aakkostosta ABCDEFGHJKMNPQRSTUVWXYZ23456789
 // (≈ 2^129), jotta vieras ei voi arvata kanavaa ja lähettää lapsille omia viestejään.
 // Näytöillä näytetään vain 4 ensimmäistä merkkiä tunnistamista varten.
+// QR:n k= on auton julkinen avain: viestit kulkevat todennetussa kuoressa (session.js, #24),
+// ja alla oleva sisältö on kuoren d-kentän JSON (aina mukana juokseva n; puhelimen viesteissä
+// myös lähettäjän playerId, joka on puhelimen avaimen tiiviste).
 //
 // Viestit (Broadcast):
 //   auto -> puhelin: tokens   {catalog[{id, emoji, name}], taken{playerId: tokenId}, lang?}   (lang = auton kieli: fi, en, sv, nb)
@@ -20,11 +23,12 @@
 //                    sync     {scores[], tokens, question?, lastResult?, guide?, bingo?}   (myöhään liittyneelle / uudelleen yhdistäneelle)
 //   puhelin -> auto: claim    {playerId, token}   (auto myöntää vapaan merkin; merkki pysyy koko pelin)
 //                    answer   {qid, playerId, option}
-//                    hello    {playerId}   (kanavalle liittyessä; auto vastaa syncillä, myös sivun uudelleenlatauksessa)
+//                    hello    {p, k}   (kuoreton: pelaajan id ja julkinen avain; kanavalle liittyessä, auto vastaa syncillä)
 //                    mark     {playerId, cell, marked}   (oman ruudukon ruutu 0–15; auto pisteyttää rivit)
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 import { SUPABASE_URL, SUPABASE_KEY } from "./config.js";
 import { t, setLanguage } from "./i18n.js";
+import { openSession } from "./session.js";
 
 const $ = (id) => document.getElementById(id);
 const VIEWS = ["join-view", "lobby-view", "bingo-view", "guide-view", "question-view", "result-view", "no-code-view"];
@@ -32,25 +36,9 @@ const show = (id) => {
   for (const v of VIEWS) $(v).hidden = v !== id;
 };
 
-const code = (new URLSearchParams(location.search).get("s") || "").toUpperCase();
-
-// crypto.randomUUID toimii vain https-sivuilla; kehityksessä sivu on http-osoitteessa.
-const randomId = () =>
-  crypto.randomUUID?.() ?? Array.from(crypto.getRandomValues(new Uint8Array(16)), (b) => b.toString(16).padStart(2, "0")).join("");
-
-// Pysyvä tunniste tälle puhelimelle, jotta sivun päivitys ei luo uutta pelaajaa.
-function playerId() {
-  try {
-    let id = localStorage.getItem("tripfun-id");
-    if (!id) {
-      id = randomId();
-      localStorage.setItem("tripfun-id", id);
-    }
-    return id;
-  } catch {
-    return randomId();
-  }
-}
+const params = new URLSearchParams(location.search);
+const code = (params.get("s") || "").toUpperCase();
+const carKey = params.get("k") || "";
 
 
 // Pysyvät tilatekstit data-i18n-avaimella, jotta ne vaihtuvat kielen mukana.
@@ -65,8 +53,18 @@ function setStatus(key, cls = "") {
 }
 
 const LETTERS = ["A", "B", "C", "D"];
-const myId = playerId();
+let session = null;
+let myId = null; // puhelimen avaimesta (session.js)
 let channel = null;
+
+// Viestit autolle todennettuina ja lähetysjärjestyksessä: auto hylkää numeroltaan vanhemman
+// viestin toistona, joten nopeat peräkkäiset merkinnät eivät saa ohittaa toisiaan.
+let outbox = Promise.resolve();
+function send(event, data) {
+  outbox = outbox.then(async () => {
+    channel.send({ type: "broadcast", event, payload: await session.seal(event, data) });
+  });
+}
 let currentQuestion = null;
 let countdown = null;
 
@@ -122,11 +120,7 @@ function showQuestion(q) {
 
 function answer(option, button) {
   if (!currentQuestion) return;
-  channel.send({
-    type: "broadcast",
-    event: "answer",
-    payload: { qid: currentQuestion.id, playerId: myId, option },
-  });
+  send("answer", { qid: currentQuestion.id, option });
   for (const b of $("options").children) b.disabled = true;
   button.classList.add("chosen");
   $("answered").hidden = false;
@@ -193,7 +187,7 @@ function claim(tokenId, button) {
   for (const b of $("tokens").children) b.disabled = true;
   button.classList.add("waiting");
   setText($("token-status"), "claiming");
-  channel.send({ type: "broadcast", event: "claim", payload: { playerId: myId, token: tokenId } });
+  send("claim", { token: tokenId });
 }
 
 function showGuide(g) {
@@ -290,7 +284,7 @@ function mark(cell) {
   if (marked) bingo.marks.add(cell);
   else bingo.marks.delete(cell);
   renderBingo();
-  channel.send({ type: "broadcast", event: "mark", payload: { playerId: myId, cell, marked } });
+  send("mark", { cell, marked });
 }
 
 let flashTimer = null;
@@ -320,46 +314,59 @@ function join() {
     config: { presence: { key: myId }, broadcast: { self: false } },
   });
 
-  channel
-    .on("broadcast", { event: "tokens" }, ({ payload }) => handleTokens(payload))
-    .on("broadcast", { event: "guide" }, ({ payload }) => myToken && !currentQuestion && showGuide(payload))
-    .on("broadcast", { event: "question" }, ({ payload }) => myToken && showQuestion(payload))
-    .on("broadcast", { event: "result" }, ({ payload }) => myToken && showResult(payload))
-    .on("broadcast", { event: "bingo" }, ({ payload }) => myToken && handleBingo(payload))
-    .on("broadcast", { event: "bingoResult" }, ({ payload }) => myToken && showBingoResult(payload))
-    .on("broadcast", { event: "sync" }, ({ payload }) => {
-      handleTokens(payload.tokens);
-      if (!myToken) return; // ensin pelimerkki, sitten peliin
-      renderScores(payload.scores);
-      handleBingo(payload.bingo ?? { active: false });
-      if (payload.guide && !payload.question) showGuide(payload.guide);
-      if (payload.question) {
-        // Ei näytetä samaa kysymystä uudelleen, jos siihen on jo vastattu.
-        if (payload.question.id !== currentQuestion?.id) showQuestion(payload.question);
-      } else if (currentQuestion) {
-        // Kysymys päättyi sillä välin kun yhteys oli poikki (esim. näyttö lukossa).
-        if (payload.lastResult?.qid === currentQuestion.id) showResult(payload.lastResult);
-        else { clearInterval(countdown); currentQuestion = null; showIdle(); }
-      }
-    })
-    .subscribe(async (status) => {
-      if (status === "SUBSCRIBED") {
-        await channel.track({});
-        // Uudelleenlatauksessa Presence ei näytä autolle paluuta (vanha yhteys poistuu vasta myöhemmin).
-        channel.send({ type: "broadcast", event: "hello", payload: { playerId: myId } });
-        setStatus("status_ok", "ok");
-      } else if (status === "CHANNEL_ERROR" || status === "TIMED_OUT") {
-        setStatus("status_err", "err");
-      }
+  // Auton viestit tarkistetaan ennen käsittelyä; jono pitää ne saapumisjärjestyksessä,
+  // vaikka tarkistus on asynkroninen. Väärennetyt ja toistetut viestit ohitetaan hiljaa.
+  let inbox = Promise.resolve();
+  const on = (event, handler) =>
+    channel.on("broadcast", { event }, ({ payload }) => {
+      inbox = inbox.then(async () => {
+        const data = await session.open(event, payload).catch(() => null);
+        if (data) handler(data);
+      });
     });
+
+  on("tokens", (payload) => handleTokens(payload));
+  on("guide", (payload) => myToken && !currentQuestion && showGuide(payload));
+  on("question", (payload) => myToken && showQuestion(payload));
+  on("result", (payload) => myToken && showResult(payload));
+  on("bingo", (payload) => myToken && handleBingo(payload));
+  on("bingoResult", (payload) => myToken && showBingoResult(payload));
+  on("sync", (payload) => {
+    handleTokens(payload.tokens);
+    if (!myToken) return; // ensin pelimerkki, sitten peliin
+    renderScores(payload.scores);
+    handleBingo(payload.bingo ?? { active: false });
+    if (payload.guide && !payload.question) showGuide(payload.guide);
+    if (payload.question) {
+      // Ei näytetä samaa kysymystä uudelleen, jos siihen on jo vastattu.
+      if (payload.question.id !== currentQuestion?.id) showQuestion(payload.question);
+    } else if (currentQuestion) {
+      // Kysymys päättyi sillä välin kun yhteys oli poikki (esim. näyttö lukossa).
+      if (payload.lastResult?.qid === currentQuestion.id) showResult(payload.lastResult);
+      else { clearInterval(countdown); currentQuestion = null; showIdle(); }
+    }
+  });
+  channel.subscribe(async (status) => {
+    if (status === "SUBSCRIBED") {
+      await channel.track({});
+      // Uudelleenlatauksessa Presence ei näytä autolle paluuta (vanha yhteys poistuu vasta myöhemmin).
+      channel.send({ type: "broadcast", event: "hello", payload: session.hello() });
+      setStatus("status_ok", "ok");
+    } else if (status === "CHANNEL_ERROR" || status === "TIMED_OUT") {
+      setStatus("status_err", "err");
+    }
+  });
 
   show("join-view");
 }
 
 setLanguage(); // selaimen kieli, kunnes auto kertoo omansa
-if (!/^[A-Z0-9]{26}$/.test(code)) {
+// Ilman auton avainta (vanha QR) tai suojattua yhteyttä (WebCrypto) peliin ei liitytä.
+session = /^[A-Z0-9]{26}$/.test(code) ? await openSession(carKey).catch(() => null) : null;
+if (!session) {
   show("no-code-view");
 } else {
+  myId = session.playerId;
   $("join-code").textContent = code.slice(0, 4);
   join();
 }
