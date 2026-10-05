@@ -13,7 +13,7 @@ Maiden ulkorajat (sovelluksen mukana): Natural Earth, public domain.
 
 ## Matkaopas (`opas-<MAA>.<kieli>.json`, `vaakunat/`)
 
-Tuotetaan työkalulla `tools/opas.py` (auton sovelluksen repossa). Kunta yhdistetään Wikidataan virallisella kuntakoodilla.
+Tuotetaan työkalulla `tools/opas.py` (auton sovelluksen repossa) kielille fi, en, sv ja nb (norjan tiivistelmät no.wikipedia.org:sta). Kunta yhdistetään Wikidataan virallisella kuntakoodilla. Jos kunnalla ei ole artikkelia kielellä, esittelyssä on vain Wikidatan tiedot.
 
 | Sisältö | Lähde | Lisenssi |
 |---|---|---|
@@ -25,4 +25,4 @@ Henkilöt: kunnassa syntyneet, kolme eniten Wikipedia-artikkeleita omaavaa; riko
 
 ## Bongausbingo (`bingo.<kieli>.json`)
 
-Käsin koottu tienvarsipakka (emoji ja nimi, valinnaisesti `maat` ja `kuukaudet`; puuttuva kenttä = kaikki). Ei ulkoista lähdettä, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fi). Tarkistetaan työkalulla `tools/bingo.py` (auton sovelluksen repossa): jokaiselle maan ja kuukauden yhdistelmälle vähintään 16 kohdetta 4×4-ruudukkoon.
+Käsin koottu tienvarsipakka, käännetty kielille fi, en, sv ja nb (samat kohteet samassa järjestyksessä) (emoji ja nimi, valinnaisesti `maat` ja `kuukaudet`; puuttuva kenttä = kaikki). Ei ulkoista lähdettä, [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fi). Tarkistetaan työkalulla `tools/bingo.py` (auton sovelluksen repossa): jokaiselle maan ja kuukauden yhdistelmälle vähintään 16 kohdetta 4×4-ruudukkoon.

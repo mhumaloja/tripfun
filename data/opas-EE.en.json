@@ -1,0 +1,1496 @@
+{
+ "maa": "EE",
+ "kieli": "en",
+ "lahde": "Wikipedia (en, CC BY-SA 4.0), Wikidata (CC0), vaakunat Wikimedia Commons",
+ "kunnat": {
+  "Alutaguse vald": {
+   "nimi": "Alutaguse Rural Municipality",
+   "wikidata": "Q42892510",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alutaguse_Parish",
+   "tiivistelma": "Alutaguse Parish is a rural municipality in Ida-Viru County. The administrative centre is Iisaku.",
+   "vakiluku": 4176,
+   "pinta_ala_km2": 1459,
+   "henkilot": [
+    {
+     "nimi": "Ülo Valk",
+     "kuvaus": "Estonian boxer and coach (1935-2018)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0130.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Alutaguse%20valla%20vapp.svg"
+   }
+  },
+  "Anija vald": {
+   "nimi": "Anija Rural Municipality",
+   "wikidata": "Q44491324",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anija_Parish",
+   "tiivistelma": "Anija Parish is a rural municipality in the eastern part of Harju County, Estonia.",
+   "vakiluku": 6478,
+   "pinta_ala_km2": 533,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0141.png",
+    "lisenssi": "Public domain",
+    "tekija": "Anija Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Anija%20valla%20vapp.svg"
+   }
+  },
+  "Antsla vald": {
+   "nimi": "Antsla Rural Municipality",
+   "wikidata": "Q44491738",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antsla_Parish",
+   "tiivistelma": "Antsla Parish is a rural municipality of Estonia, in Võru County.",
+   "vakiluku": 4095,
+   "pinta_ala_km2": 415,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0145.png",
+    "lisenssi": "Public domain",
+    "tekija": "Antsla Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Antsla%20valla%20vapp.svg"
+   }
+  },
+  "Elva vald": {
+   "nimi": "Elva Rural Municipality",
+   "wikidata": "Q42811297",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elva_Parish",
+   "tiivistelma": "Elva is a rural parish in Tartu County, Estonia, with an area of 650 km2 (250 sq mi). As of 2017, it has a population of 14,241 inhabitants.",
+   "vakiluku": 14863,
+   "pinta_ala_km2": 732,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0171.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kristi Koppel",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Elva%20valla%20vapp.svg"
+   }
+  },
+  "Haapsalu linn": {
+   "nimi": "Haapsalu City",
+   "wikidata": "Q43281004",
+   "wikipedia": "https://en.wikipedia.org/wiki/Haapsalu_(urban_municipality)",
+   "tiivistelma": "Haapsalu is an urban municipality of Estonia, in Lääne County. It comprises the town of Haapsalu and settlements of the former parish of Ridala.",
+   "vakiluku": 13379,
+   "pinta_ala_km2": 272,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Hanna-Maria Sell",
+     "kuvaus": "Estonian model (born 1998)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0184.png",
+    "lisenssi": "Public domain",
+    "tekija": "City of Haapsalu",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Haapsalu%20vapp.svg"
+   }
+  },
+  "Haljala vald": {
+   "nimi": "Haljala Rural Municipality",
+   "wikidata": "Q44518517",
+   "wikipedia": "https://en.wikipedia.org/wiki/Haljala_Parish",
+   "tiivistelma": "Haljala Parish is a rural municipality of Estonia, in Lääne-Viru County. The municipality got its current borders following the 2017 administrative reform when Vihula municipality was merged with Haljala municipality.",
+   "vakiluku": 4072,
+   "pinta_ala_km2": 549,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0191.png",
+    "lisenssi": "Public domain",
+    "tekija": "Haljala Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Haljala%20valla%20vapp.svg"
+   }
+  },
+  "Harku vald": {
+   "nimi": "Harku Rural Municipality",
+   "wikidata": "Q990067",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harku_Parish",
+   "tiivistelma": "Harku Parish is a rural municipality in Harju County, northern Estonia, located west and neighbouring the capital Tallinn. It occupies an area of 159.77 km2 (61.69 sq mi) and has a population of 19,128.",
+   "vakiluku": 18176,
+   "pinta_ala_km2": 159,
+   "henkilot": [
+    {
+     "nimi": "Edgar Savisaar",
+     "kuvaus": "Estonian politician (1950–2022)"
+    },
+    {
+     "nimi": "Heino Roomere",
+     "kuvaus": "Estonian association football player (1907-1966)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0198.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Harku%20valla%20vapp.svg"
+   }
+  },
+  "Hiiumaa vald": {
+   "nimi": "Hiiumaa Rural Municipality",
+   "wikidata": "Q31277892",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hiiumaa_Parish",
+   "tiivistelma": "Hiiumaa Parish is a rural municipality of Estonia on the island of Hiiumaa. Hiiumaa Parish was established by merging Emmaste Parish, Hiiu Parish, Käina Parish and Pühalepa Parish after the municipal elections held on 15 October 2017.",
+   "vakiluku": 8418,
+   "pinta_ala_km2": 1032,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0205.png",
+    "lisenssi": "Public domain",
+    "tekija": "Flying Saucer",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Hiiumaa%20Parish.svg"
+   }
+  },
+  "Häädemeeste vald": {
+   "nimi": "Häädemeeste Rural Municipality",
+   "wikidata": "Q44511402",
+   "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A4%C3%A4demeeste_Parish",
+   "tiivistelma": "Häädemeeste is a municipality located in Pärnu County of Estonia. Häädemeeste literally means \"(place) of good men\" in Estonian.",
+   "vakiluku": 4733,
+   "pinta_ala_km2": 494,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0214.png",
+    "lisenssi": "Public domain",
+    "tekija": "Häädemeeste Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%A4%C3%A4demeeste%20valla%20vapp.svg"
+   }
+  },
+  "Järva vald": {
+   "nimi": "Järva Rural Municipality",
+   "wikidata": "Q42808650",
+   "wikipedia": "https://en.wikipedia.org/wiki/J%C3%A4rva_Parish",
+   "tiivistelma": "Järva Parish is a municipality in Järva County, Estonia. It was created in 2017 as a merger of 6 municipalities: Albu Parish, Ambla Parish, Imavere Parish, Järva-Jaani Parish, Kareda Parish and Koigi Parish.",
+   "vakiluku": 8725,
+   "pinta_ala_km2": 1223,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0255.png",
+    "lisenssi": "Public domain",
+    "tekija": "Alar Kriisa, Ahto Härm",
+    "lahde": "https://commons.wikimedia.org/wiki/File:J%C3%A4rva%20valla%20vapp.svg"
+   }
+  },
+  "Jõelähtme vald": {
+   "nimi": "Jõelähtme Rural Municipality",
+   "wikidata": "Q993036",
+   "wikipedia": "https://en.wikipedia.org/wiki/J%C3%B5el%C3%A4htme_Parish",
+   "tiivistelma": "Jõelähtme Parish is a municipality in Estonia. It was established in 1992 and is administratively part of the Harju County, in northwestern Estonia.",
+   "vakiluku": 7552,
+   "pinta_ala_km2": 211,
+   "henkilot": [
+    {
+     "nimi": "Pontus Brevern de la Gardie",
+     "kuvaus": "Baltic German statesman (1814–1890)"
+    },
+    {
+     "nimi": "Gustav Heinrich Schüdlöffel",
+     "kuvaus": "Baltic German writer (1798-1859)"
+    },
+    {
+     "nimi": "Ewald Ovir",
+     "kuvaus": "Baltic German missionary and protestant martyr (1873-1896)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0245.png",
+    "lisenssi": "Public domain",
+    "tekija": "Jõelähtme Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:J%C3%B5el%C3%A4htme%20valla%20vapp.svg"
+   }
+  },
+  "Jõgeva vald": {
+   "nimi": "Jõgeva Rural Municipality",
+   "wikidata": "Q44624256",
+   "wikipedia": "https://en.wikipedia.org/wiki/J%C3%B5geva_Parish",
+   "tiivistelma": "Jõgeva Parish is a rural municipality of Estonia, in Jõgeva County. It has a population of 12,849 (2025) and an area of 1,039.66 km2 (401.41 sq mi), with a population density of 12.36/km2.",
+   "vakiluku": 13122,
+   "pinta_ala_km2": 1040,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0247.png",
+    "lisenssi": "Public domain",
+    "tekija": "Jõgeva vald",
+    "lahde": "https://commons.wikimedia.org/wiki/File:J%C3%B5geva%20valla%20vapp.svg"
+   }
+  },
+  "Jõhvi vald": {
+   "nimi": "Jõhvi Rural Municipality",
+   "wikidata": "Q1640282",
+   "vakiluku": 12391,
+   "pinta_ala_km2": 124,
+   "henkilot": [
+    {
+     "nimi": "Andrei Hvostov",
+     "kuvaus": "Estonian journalist and writer (born 1963)"
+    },
+    {
+     "nimi": "Hans Hindpere",
+     "kuvaus": "Estonian composer (1928-2012)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0251.png",
+    "lisenssi": "Public domain",
+    "tekija": "Jõhvi Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:J%C3%B5hvi%20valla%20vapp.svg"
+   }
+  },
+  "Kadrina vald": {
+   "nimi": "Kadrina Rural Municipality",
+   "wikidata": "Q1013773",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kadrina_Parish",
+   "tiivistelma": "Kadrina Parish is a rural municipality in Lääne-Viru County, northern Estonia. It covers an area of 329.26 km² and has a population of 4,629.",
+   "vakiluku": 4799,
+   "pinta_ala_km2": 354,
+   "henkilot": [
+    {
+     "nimi": "Heinrich Ludwig von Vietinghoff",
+     "kuvaus": "1783-1853"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0272.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kadrina Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kadrina%20valla%20vapp.svg"
+   }
+  },
+  "Kambja vald": {
+   "nimi": "Kambja Rural Municipality",
+   "wikidata": "Q44625992",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kambja_Parish",
+   "tiivistelma": "Kambja Parish is a rural municipality in Tartu County, Estonia.",
+   "vakiluku": 13705,
+   "pinta_ala_km2": 275,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0283.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kambja Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kambja%20valla%20vapp%202020.svg"
+   }
+  },
+  "Kanepi vald": {
+   "nimi": "Kanepi Rural Municipality",
+   "wikidata": "Q44627721",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kanepi_Parish",
+   "tiivistelma": "Kanepi Parish is a rural municipality in Estonia, located in Põlva County. It has a population of 4,662 and covers an area of 524.68 km2 (202.58 sq mi).",
+   "vakiluku": 4453,
+   "pinta_ala_km2": 525,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0284.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kanepi%20valla%20vapp.svg"
+   }
+  },
+  "Kastre vald": {
+   "nimi": "Kastre Rural Municipality",
+   "wikidata": "Q31271803",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kastre_Parish",
+   "tiivistelma": "Kastre Parish is a rural municipality in Tartu County, Estonia.",
+   "vakiluku": 6148,
+   "pinta_ala_km2": 493,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0291.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kastre Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kastre%20valla%20vapp.svg"
+   }
+  },
+  "Kehtna vald": {
+   "nimi": "Kehtna Rural Municipality",
+   "wikidata": "Q44625244",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kehtna_Parish",
+   "tiivistelma": "Kehtna Parish is a rural municipality in central Estonia. It is a part of Rapla County.",
+   "vakiluku": 5454,
+   "pinta_ala_km2": 512,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0293.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kehtna Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kehtna%20valla%20vapp.svg"
+   }
+  },
+  "Keila linn": {
+   "nimi": "Keila",
+   "wikidata": "Q207275",
+   "wikipedia": "https://en.wikipedia.org/wiki/Keila",
+   "tiivistelma": "Keila is a town and an urban municipality in Harju County in north-western Estonia, 25 km (16 mi) southwest of Tallinn. As of 2025, the town has a population of 11,024 inhabitants.",
+   "vakiluku": 10964,
+   "pinta_ala_km2": 11,
+   "henkilot": [
+    {
+     "nimi": "Olexander Yakymenko",
+     "kuvaus": "Ukrainian public servant (born 1964)"
+    },
+    {
+     "nimi": "Pavel Marin",
+     "kuvaus": "Estonian association football player (born 1995)"
+    },
+    {
+     "nimi": "Nublu",
+     "kuvaus": "Estonian rapper (born 1996)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0296.png",
+    "lisenssi": "Public domain",
+    "tekija": "Keila linn",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Keila%20vapp.svg"
+   }
+  },
+  "Kihnu vald": {
+   "nimi": "Kihnu Rural Municipality",
+   "wikidata": "Q2633508",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kihnu_Parish",
+   "tiivistelma": "Kihnu Parish is a rural municipality of Estonia, in Pärnu County. The parish covers the 16.88 km² area of Kihnu island, making it one of the smallest parishes in Estonia.",
+   "vakiluku": 529,
+   "pinta_ala_km2": 17,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0303.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kihnu_vapp.jpg: Kihnu vald\nderivative work: Zache (talk)",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kihnu%20vapp.svg"
+   }
+  },
+  "Kiili vald": {
+   "nimi": "Kiili Rural Municipality",
+   "wikidata": "Q992974",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kiili_Parish",
+   "tiivistelma": "Kiili Parish is a rural municipality of Harju County in northwestern Estonia, south of the national capital, Tallinn. Its population was 7,360 as of 1 January 2026 and its area is 100.4 km2 (38.8 mi2).",
+   "vakiluku": 6709,
+   "pinta_ala_km2": 101,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0305.png",
+    "lisenssi": "Public domain",
+    "tekija": "Unknown authorUnknown author",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kiili%20coat%20of%20arms.svg"
+   }
+  },
+  "Kohila vald": {
+   "nimi": "Kohila Rural Municipality",
+   "wikidata": "Q1024708",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kohila_Parish",
+   "tiivistelma": "Kohila Parish is the northernmost municipality of Rapla County, Estonia. It has a population of 5,925 and an area of 230.20 km (143.04 mi).",
+   "vakiluku": 7819,
+   "pinta_ala_km2": 230,
+   "henkilot": [
+    {
+     "nimi": "Enver Jääger",
+     "kuvaus": "Estonian footballer (born 1982)"
+    },
+    {
+     "nimi": "Merit Männiste",
+     "kuvaus": "Estonian musician, singer and actress (born 1996)"
+    },
+    {
+     "nimi": "Edgar Talvik",
+     "kuvaus": "Estonian jurist and gardener (1911-1992)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0317.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kohila Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kohila%20valla%20vapp.svg"
+   }
+  },
+  "Kohtla-Järve linn": {
+   "nimi": "Kohtla-Järve",
+   "wikidata": "Q201391",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kohtla-J%C3%A4rve",
+   "tiivistelma": "Kohtla-Järve is a city and municipality in Ida-Viru County, northeastern Estonia, founded in 1924 and incorporated as a town in 1946.",
+   "vakiluku": 33434,
+   "pinta_ala_km2": 39,
+   "perustettu": 1946,
+   "henkilot": [
+    {
+     "nimi": "Kristiina Ojuland",
+     "kuvaus": "Estonian politician (born 1966)"
+    },
+    {
+     "nimi": "Jevgeni Ossinovski",
+     "kuvaus": "Estonian politician (born 1986)"
+    },
+    {
+     "nimi": "Anastasiya Verameyenka",
+     "kuvaus": "Belarusian basketball player (born 1987)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0321.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tõnu Kukk",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Kohtla-Jarve.svg"
+   }
+  },
+  "Kose vald": {
+   "nimi": "Kose Rural Municipality",
+   "wikidata": "Q992983",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kose_Parish",
+   "tiivistelma": "Kose Parish is a rural municipality in northern Estonia. It is a part of Harju County.",
+   "vakiluku": 7839,
+   "pinta_ala_km2": 533,
+   "henkilot": [
+    {
+     "nimi": "Joachim Gottlieb Schwabe",
+     "kuvaus": "Baltic German clergyman and writer (1754-1800)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0338.png",
+    "lisenssi": "Public domain",
+    "tekija": "Kose Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kose%20valla%20vapp.svg"
+   }
+  },
+  "Kuusalu vald": {
+   "nimi": "Kuusalu Rural Municipality",
+   "wikidata": "Q990542",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kuusalu_Parish",
+   "tiivistelma": "Kuusalu Parish is a rural municipality in northern Estonia, in terms of territory the largest in Harju County. It united with the former Loksa Parish in 2005.",
+   "vakiluku": 6459,
+   "pinta_ala_km2": 710,
+   "henkilot": [
+    {
+     "nimi": "Erika Nõva",
+     "kuvaus": "Estonian architect (1905-1987)"
+    },
+    {
+     "nimi": "Hugo Lepnurm",
+     "kuvaus": "Estonian organist, composer and music pedagogue (1914–1999)"
+    },
+    {
+     "nimi": "Ludvig Oskar",
+     "kuvaus": "Estonian painter (1874-1951)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0353.png",
+    "lisenssi": "Public domain",
+    "tekija": "Unknown authorUnknown author; traced by Quibik",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kuusalu%20Parish%20coat%20of%20arms.svg"
+   }
+  },
+  "Loksa linn": {
+   "nimi": "Loksa",
+   "wikidata": "Q213740",
+   "wikipedia": "https://en.wikipedia.org/wiki/Loksa",
+   "tiivistelma": "Loksa is a town and municipality in Harju County, Estonia, best known for its shipping industry. Loksa is the northernmost town in Estonia.",
+   "vakiluku": 2536,
+   "pinta_ala_km2": 4,
+   "henkilot": [
+    {
+     "nimi": "Maksim Liksutov",
+     "kuvaus": "Russian entrepreneur and politician (born 1976)"
+    },
+    {
+     "nimi": "Artur Tiganik",
+     "kuvaus": "Estonian military personnel (born 1971)"
+    },
+    {
+     "nimi": "Tõnu Mikiver",
+     "kuvaus": "Estonian actor (1943-2017)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0424.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Loksa%20suurvapp.gif"
+   }
+  },
+  "Luunja vald": {
+   "nimi": "Luunja Rural Municipality",
+   "wikidata": "Q1639142",
+   "wikipedia": "https://en.wikipedia.org/wiki/Luunja_Parish",
+   "tiivistelma": "Luunja Parish is a rural municipality in Tartu County, Estonia.",
+   "vakiluku": 5612,
+   "pinta_ala_km2": 132,
+   "henkilot": [
+    {
+     "nimi": "Eduard Sõrmus",
+     "kuvaus": "Estonian musician and revolutionary (1878-1940)"
+    },
+    {
+     "nimi": "Ernst Hiis",
+     "kuvaus": "Estonian pianomaker (1872-1964)"
+    },
+    {
+     "nimi": "Johannes Saal",
+     "kuvaus": "Estonian painter (1911-1964)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0432.png",
+    "lisenssi": "Public domain",
+    "tekija": "Ivo-Manfred Rebane",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Luunja%20valla%20vapp.svg"
+   }
+  },
+  "Lääne-Harju vald": {
+   "nimi": "Lääne-Harju Rural Municipality",
+   "wikidata": "Q42309166",
+   "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4ne-Harju_Parish",
+   "tiivistelma": "Lääne-Harju Parish is a rural municipality in northern Estonia. It is a part of Harju County.",
+   "vakiluku": 13837,
+   "pinta_ala_km2": 646,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0431.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:L%C3%A4%C3%A4ne-Harju%20valla%20vapp.svg"
+   }
+  },
+  "Lääne-Nigula vald": {
+   "nimi": "Lääne-Nigula Rural Municipality",
+   "wikidata": "Q43281154",
+   "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4ne-Nigula_Parish",
+   "tiivistelma": "Lääne-Nigula Parish is a rural municipality of Estonia, in Lääne County. It has a population of 6907 and an area of 1,449 km2 (559 sq mi).",
+   "vakiluku": 6974,
+   "pinta_ala_km2": 1449,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0441.png",
+    "lisenssi": "Public domain",
+    "tekija": "Ülo Leis",
+    "lahde": "https://commons.wikimedia.org/wiki/File:L%C3%A4%C3%A4ne-Nigula%20valla%20vapp.svg"
+   }
+  },
+  "Lääneranna vald": {
+   "nimi": "Lääneranna Rural Municipality",
+   "wikidata": "Q31273628",
+   "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4neranna_Parish",
+   "tiivistelma": "Lääneranna Parish is a rural municipality in Pärnu County. It includes the town of Lihula.",
+   "vakiluku": 4951,
+   "pinta_ala_km2": 1363,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0430.png",
+    "lisenssi": "Public domain",
+    "tekija": "Erkki Pung",
+    "lahde": "https://commons.wikimedia.org/wiki/File:L%C3%A4%C3%A4neranna%20valla%20vapp.svg"
+   }
+  },
+  "Lüganuse vald": {
+   "nimi": "Lüganuse Rural Municipality",
+   "wikidata": "Q44826366",
+   "wikipedia": "https://en.wikipedia.org/wiki/L%C3%BCganuse_Parish",
+   "tiivistelma": "Lüganuse Parish is a municipality of Ida-Viru County in northern Estonia. As of 1 January 2015, it had a population of 2,941.",
+   "vakiluku": 8250,
+   "pinta_ala_km2": 599,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0442.png",
+    "lisenssi": "Public domain",
+    "tekija": "Lüganuse Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:L%C3%BCganuse%20valla%20vapp.svg"
+   }
+  },
+  "Maardu linn": {
+   "nimi": "Maardu",
+   "wikidata": "Q206555",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maardu",
+   "tiivistelma": "Maardu is a town and a municipality in Harju County, Estonia. It is part of Tallinn metropolitan area, located about 15 kilometres (9.3 mi) east of the capital city.",
+   "vakiluku": 17017,
+   "pinta_ala_km2": 23,
+   "henkilot": [
+    {
+     "nimi": "Vladimir Avilov",
+     "kuvaus": "Estonian footballer (born 1995)"
+    },
+    {
+     "nimi": "Yevgeni Kharin",
+     "kuvaus": "Estonian-Russian association football player (born 1995)"
+    },
+    {
+     "nimi": "Maxim Bilovitskiy",
+     "kuvaus": "Estonian YouTuber and scientific photographer (born 1992)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0446.png",
+    "lisenssi": "Public domain",
+    "tekija": "Maardu linn",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Maardu%20vapp.svg"
+   }
+  },
+  "Muhu vald": {
+   "nimi": "Muhu Rural Municipality",
+   "wikidata": "Q634654",
+   "wikipedia": "https://en.wikipedia.org/wiki/Muhu_Parish",
+   "tiivistelma": "Muhu Parish is a rural municipality of Estonia, in Saare County. It consists of 52 villages with a total population of 2,142 and a total area of 208 km2 (80 sq mi).",
+   "vakiluku": 1627,
+   "pinta_ala_km2": 208,
+   "henkilot": [
+    {
+     "nimi": "Siim Veski",
+     "kuvaus": "Estonian sportsperson (1949–2003)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0478.png",
+    "lisenssi": "Public domain",
+    "tekija": "Priit Herodes",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Muhu%20Valla%20vapp.svg"
+   }
+  },
+  "Mulgi vald": {
+   "nimi": "Mulgi Rural Municipality",
+   "wikidata": "Q31273592",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mulgi_Parish",
+   "tiivistelma": "Mulgi Parish is a rural municipality in southern Estonia. It is a part of Viljandi County.",
+   "vakiluku": 7086,
+   "pinta_ala_km2": 881,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0480.png",
+    "lisenssi": "Public domain",
+    "tekija": "Mulgi Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mulgi%20valla%20vapp.svg"
+   }
+  },
+  "Mustvee vald": {
+   "nimi": "Mustvee Rural Municipality",
+   "wikidata": "Q42802743",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mustvee_Parish",
+   "tiivistelma": "Mustvee Parish is a rural municipality within Jõgeva County, in Estonia. It includes the town of Mustvee.",
+   "vakiluku": 4952,
+   "pinta_ala_km2": 616,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0486.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mustvee%20valla%20vapp.svg"
+   }
+  },
+  "Märjamaa vald": {
+   "nimi": "Märjamaa Rural Municipality",
+   "wikidata": "Q44848112",
+   "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A4rjamaa_Parish",
+   "tiivistelma": "Märjamaa Parish is an Estonian municipality located in Rapla County. It had a population of 7,015 and an area of 1,164 km2 (336.54 mi2).",
+   "vakiluku": 7405,
+   "pinta_ala_km2": 1164,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0502.png",
+    "lisenssi": "Public domain",
+    "tekija": "Vector-Images.com",
+    "lahde": "https://commons.wikimedia.org/wiki/File:EE%20Marjamaa.png"
+   }
+  },
+  "Narva linn": {
+   "nimi": "Narva",
+   "wikidata": "Q102158",
+   "wikipedia": "https://en.wikipedia.org/wiki/Narva",
+   "tiivistelma": "Narva is a city and municipality in Estonia. It is located in Ida-Viru County, at the eastern extreme point of Estonia, on the west bank of the Narva river, which forms the Estonia–Russia international border.",
+   "vakiluku": 53360,
+   "pinta_ala_km2": 69,
+   "perustettu": 1345,
+   "henkilot": [
+    {
+     "nimi": "Paul Keres",
+     "kuvaus": "Estonian chess player and sportsperson (1916–1975)"
+    },
+    {
+     "nimi": "Valeri Karpin",
+     "kuvaus": "Estonian-Russian footballer and manager (born 1969)"
+    },
+    {
+     "nimi": "Alika Milova",
+     "kuvaus": "Estonian singer-songwriter (born 2002)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0511.png",
+    "lisenssi": "Public domain",
+    "tekija": "WikedKentaur",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Narva%20vapp.svg"
+   }
+  },
+  "Narva-Jõesuu linn": {
+   "nimi": "Narva-Jõesuu City",
+   "wikidata": "Q43266354",
+   "wikipedia": "https://en.wikipedia.org/wiki/Narva-J%C3%B5esuu_(urban_municipality)",
+   "tiivistelma": "Narva-Jõesuu is an urban municipality of Estonia, in Ida-Viru County. It comprises the town of Narva-Jõesuu, settlements of the former parish of Vaivara, and two former distant exclaves of the urban municipality of Kohtla-Järve.",
+   "vakiluku": 4269,
+   "pinta_ala_km2": 405,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0515.png",
+    "lisenssi": "Public domain",
+    "tekija": "Narva-Jõesuu linn",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Narva-J%C3%B5esuu%20vapp.svg"
+   }
+  },
+  "Nõo vald": {
+   "nimi": "Nõo Rural Municipality",
+   "wikidata": "Q1020142",
+   "wikipedia": "https://en.wikipedia.org/wiki/N%C3%B5o_Parish",
+   "tiivistelma": "Nõo Parish is a rural municipality in Tartu County, Estonia.",
+   "vakiluku": 4289,
+   "pinta_ala_km2": 169,
+   "henkilot": [
+    {
+     "nimi": "Hannes Hanso",
+     "kuvaus": "Estonian politician (born 1971)"
+    },
+    {
+     "nimi": "Andreas Virginius",
+     "kuvaus": "Baltic German clergyman (1640–1701)"
+    },
+    {
+     "nimi": "Irja Saar",
+     "kuvaus": "Estonian mycologist and botanist (born 1973)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0528.png",
+    "lisenssi": "Public domain",
+    "tekija": "Upload:  Flying Saucer Vectorization:  Magasjukur2",
+    "lahde": "https://commons.wikimedia.org/wiki/File:N%C3%B5o%20valla%20vapp.svg"
+   }
+  },
+  "Otepää vald": {
+   "nimi": "Otepää Rural Municipality",
+   "wikidata": "Q44509132",
+   "wikipedia": "https://en.wikipedia.org/wiki/Otep%C3%A4%C3%A4_Parish",
+   "tiivistelma": "Otepää Parish is a rural municipality in Valga County, southern Estonia. It includes the town of Otepää, which is referred to as the \"winter capital\" of Estonia.",
+   "vakiluku": 6342,
+   "pinta_ala_km2": 520,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0557.png",
+    "lisenssi": "Public domain",
+    "tekija": "Otepää Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Otep%C3%A4%C3%A4%20Parish.svg"
+   }
+  },
+  "Paide linn": {
+   "nimi": "Paide City",
+   "wikidata": "Q44792192",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paide_(urban_municipality)",
+   "tiivistelma": "Paide is an urban municipality of Estonia, in Järva County. It comprises the town of Paide and settlements of former parishes of Paide and Roosna-Alliku.",
+   "vakiluku": 10664,
+   "pinta_ala_km2": 443,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Marielle Kleemeier",
+     "kuvaus": "Estonian athletics competitor (born 1996)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0567.png",
+    "lisenssi": "Public domain",
+    "tekija": "Paide Town",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Paide%20vapp.svg"
+   }
+  },
+  "Peipsiääre vald": {
+   "nimi": "Peipsiääre Rural Municipality",
+   "wikidata": "Q44490248",
+   "wikipedia": "https://en.wikipedia.org/wiki/Peipsi%C3%A4%C3%A4re_Parish",
+   "tiivistelma": "Peipsiääre Parish is a rural municipality located in the Tartu County, Estonia. The municipality of Peipsiäere was formed as a result of the administrative reform on 23 October 2017.",
+   "vakiluku": 5059,
+   "pinta_ala_km2": 652,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0586.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Peipsi%C3%A4%C3%A4re%20valla%20vapp.svg"
+   }
+  },
+  "Pärnu linn": {
+   "nimi": "Pärnu City",
+   "wikidata": "Q23890603",
+   "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A4rnu_(urban_municipality)",
+   "tiivistelma": "Pärnu is an urban municipality of Estonia, in Pärnu County. It comprises the town of Pärnu and settlements of former parishes of Audru, Paikuse and Tõstamaa.",
+   "vakiluku": 52362,
+   "pinta_ala_km2": 858,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Bruno Tomberg",
+     "kuvaus": "Estonian designer (1926-2021)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0624.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Et-Parnu%20coa.svg"
+   }
+  },
+  "Põhja-Sakala vald": {
+   "nimi": "Põhja-Sakala Rural Municipality",
+   "wikidata": "Q31273591",
+   "wikipedia": "https://en.wikipedia.org/wiki/P%C3%B5hja-Sakala_Parish",
+   "tiivistelma": "Põhja-Sakala Parish is a rural municipality in Viljandi County.",
+   "vakiluku": 7748,
+   "pinta_ala_km2": 1153,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0615.png",
+    "lisenssi": "Public domain",
+    "tekija": "Unknown authorUnknown author",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Suure-Jaani%20valla%20vapp.svg"
+   }
+  },
+  "Põltsamaa vald": {
+   "nimi": "Põltsamaa Rural Municipality",
+   "wikidata": "Q44854656",
+   "wikipedia": "https://en.wikipedia.org/wiki/P%C3%B5ltsamaa_Parish",
+   "tiivistelma": "Põltsamaa is a rural municipality of Estonia, in Jõgeva County. It has a population of 2722 (2001) and an area of 416.9 km2 (161.0 mi2).",
+   "vakiluku": 9665,
+   "pinta_ala_km2": 890,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0618.png",
+    "lisenssi": "Public domain",
+    "tekija": "Põltsamaa Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:P%C3%B5ltsamaa%20valla%20vapp.svg"
+   }
+  },
+  "Põlva vald": {
+   "nimi": "Põlva Rural Municipality",
+   "wikidata": "Q44489788",
+   "wikipedia": "https://en.wikipedia.org/wiki/P%C3%B5lva_Parish",
+   "tiivistelma": "Põlva Parish is a rural municipality in Põlva County, southeastern Estonia.",
+   "vakiluku": 13534,
+   "pinta_ala_km2": 706,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0622.png",
+    "lisenssi": "Public domain",
+    "tekija": "Põlva vald",
+    "lahde": "https://commons.wikimedia.org/wiki/File:P%C3%B5lva%20valla%20vapp.svg"
+   }
+  },
+  "Raasiku vald": {
+   "nimi": "Raasiku Rural Municipality",
+   "wikidata": "Q1432542",
+   "wikipedia": "https://en.wikipedia.org/wiki/Raasiku_Parish",
+   "tiivistelma": "Raasiku Parish in located in Harju County, southeast of Tallinn. The primary highway serving the parish is the Jüri-Aruküla-Raasiku-Jägala road.",
+   "vakiluku": 5345,
+   "pinta_ala_km2": 159,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0651.png",
+    "lisenssi": "Public domain",
+    "tekija": "Raasiku Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Raasiku%20valla%20vapp.svg"
+   }
+  },
+  "Rae vald": {
+   "nimi": "Rae Rural Municipality",
+   "wikidata": "Q1009353",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rae_Parish",
+   "tiivistelma": "Rae Parish is a rural municipality in northern Estonia. It is a part of Harju County.",
+   "vakiluku": 24902,
+   "pinta_ala_km2": 207,
+   "henkilot": [
+    {
+     "nimi": "Merle Karusoo",
+     "kuvaus": "Estonian stage director and writer (born 1944)"
+    },
+    {
+     "nimi": "Andres Vooremaa",
+     "kuvaus": "Estonian chess player (1944-2022)"
+    },
+    {
+     "nimi": "Hans Kitvel",
+     "kuvaus": "Estonian aviator, lieutenant colonel (1901-1942)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0653.png",
+    "lisenssi": "Public domain",
+    "tekija": "Slav",
+    "lahde": "https://commons.wikimedia.org/wiki/File:EE%20Rae.png"
+   }
+  },
+  "Rakvere linn": {
+   "nimi": "Rakvere",
+   "wikidata": "Q191889",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rakvere",
+   "tiivistelma": "Rakvere is the administrative center, or county seat, of Lääne-Viru County in northern Estonia, about 100 km southeast of Tallinn and 20 km south of the Gulf of Finland and the Baltic Sea.",
+   "vakiluku": 15695,
+   "pinta_ala_km2": 11,
+   "henkilot": [
+    {
+     "nimi": "Ene Ergma",
+     "kuvaus": "Estonian politician and astrophysicist (born 1944)"
+    },
+    {
+     "nimi": "Aino Pervik",
+     "kuvaus": "Estonian writer (1932–2025)"
+    },
+    {
+     "nimi": "Epp Mäe",
+     "kuvaus": "Estonian amateur wrestler, judoka and sumo wrestler (born 1992)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0663.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Rakvere%20vapp.svg"
+   }
+  },
+  "Rakvere vald": {
+   "nimi": "Rakvere Rural Municipality",
+   "wikidata": "Q44857261",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rakvere_Parish",
+   "tiivistelma": "Rakvere Parish is a rural municipality of Estonia, in Lääne-Viru County. Rakvere municipality surrounds the city of Rakvere and is located in north east Estonia.",
+   "vakiluku": 5859,
+   "pinta_ala_km2": 295,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0661.png",
+    "lisenssi": "Public domain",
+    "tekija": "Rakvere Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Rakvere%20valla%20vapp.svg"
+   }
+  },
+  "Rapla vald": {
+   "nimi": "Rapla Rural Municipality",
+   "wikidata": "Q44624835",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rapla_Parish",
+   "tiivistelma": "Rapla Parish is an Estonian municipality located in Rapla County. It has a population of 13,193 and an area of 859 km2.",
+   "vakiluku": 13453,
+   "pinta_ala_km2": 859,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0668.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Rapla%20valla%20vapp.svg"
+   }
+  },
+  "Ruhnu vald": {
+   "nimi": "Ruhnu Rural Municipality",
+   "wikidata": "Q604504",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ruhnu_Parish",
+   "tiivistelma": "Ruhnu Parish is a municipality in Saare County, Estonia. It encompasses the island of Ruhnu in the Gulf of Riga, together with a number of uninhabited islets.",
+   "vakiluku": 90,
+   "pinta_ala_km2": 12,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0689.png",
+    "lisenssi": "Public domain",
+    "tekija": "Ruhnu Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ruhnu%20valla%20vapp.svg"
+   }
+  },
+  "Räpina vald": {
+   "nimi": "Räpina Rural Municipality",
+   "wikidata": "Q44846768",
+   "wikipedia": "https://en.wikipedia.org/wiki/R%C3%A4pina_Parish",
+   "tiivistelma": "Räpina Parish is a rural municipality of Estonia, in Põlva County. It has a population of 4,611 and an area of 265.93 km2.",
+   "vakiluku": 6049,
+   "pinta_ala_km2": 593,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0708.png",
+    "lisenssi": "Public domain",
+    "tekija": "Räpina Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:R%C3%A4pina%20valla%20vapp.svg"
+   }
+  },
+  "Rõuge vald": {
+   "nimi": "Rõuge Rural Municipality",
+   "wikidata": "Q44511803",
+   "wikipedia": "https://en.wikipedia.org/wiki/R%C3%B5uge_Parish",
+   "tiivistelma": "Rõuge Parish is a rural municipality of Estonia, in Võru County. In 2019, it had a population of 5,427 and an area of 933 km2.",
+   "vakiluku": 4748,
+   "pinta_ala_km2": 933,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Aksel Kallas",
+     "kuvaus": "Estonian theologian and writer (1890–1922)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0698.png",
+    "lisenssi": "Public domain",
+    "tekija": "Rõuge Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:R%C3%B5uge%20valla%20vapp.svg"
+   }
+  },
+  "Saarde vald": {
+   "nimi": "Saarde Rural Municipality",
+   "wikidata": "Q44856630",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saarde_Parish",
+   "tiivistelma": "Saarde is a municipality located in Pärnu County, one of the 15 counties of Estonia.",
+   "vakiluku": 4393,
+   "pinta_ala_km2": 1065,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0712.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tõnu Lauk",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Saarde%20valla%20vapp.svg"
+   }
+  },
+  "Saaremaa vald": {
+   "nimi": "Saaremaa Rural Municipality",
+   "wikidata": "Q31273165",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saaremaa_Parish",
+   "tiivistelma": "Saaremaa Parish, also known as Saaremaa Municipality, is a municipality in Saare County in western Estonia. It is the largest municipality by land area and largest rural municipality – or parish – by population in Estonia.",
+   "vakiluku": 30304,
+   "pinta_ala_km2": 2718,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Robert Virves",
+     "kuvaus": "Estonian rally driver (born 2000)"
+    },
+    {
+     "nimi": "Jan Teevet",
+     "kuvaus": "Estonian theatrical director and dramaturge (born 1994)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0714.png",
+    "lisenssi": "Public domain",
+    "tekija": "Priit Herodes",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Saaremaa%20vald%20vapp.svg"
+   }
+  },
+  "Saku vald": {
+   "nimi": "Saku Rural Municipality",
+   "wikidata": "Q527669",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saku_Parish",
+   "tiivistelma": "Saku Parish is a rural municipality in Harju County, north-western Estonia.",
+   "vakiluku": 11832,
+   "pinta_ala_km2": 170,
+   "henkilot": [
+    {
+     "nimi": "Oskar Suursööt",
+     "kuvaus": "Estonian politician (1893-1950)"
+    },
+    {
+     "nimi": "Eduard Birkenberg",
+     "kuvaus": "Estonian politician (1872-1943)"
+    },
+    {
+     "nimi": "Toomas Agasild",
+     "kuvaus": "Estonian entrepreneur (1951-2024)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0719.png",
+    "lisenssi": "Public domain",
+    "tekija": "Saku Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Saku%20valla%20vapp.svg"
+   }
+  },
+  "Saue vald": {
+   "nimi": "Saue Rural Municipality",
+   "wikidata": "Q44822024",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saue_Parish",
+   "tiivistelma": "Saue Parish is a rural municipality in Harju County, north-western Estonia.",
+   "vakiluku": 26079,
+   "pinta_ala_km2": 628,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0725.png",
+    "lisenssi": "Public domain",
+    "tekija": "Saue Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Saue%20valla%20vapp.svg"
+   }
+  },
+  "Setomaa vald": {
+   "nimi": "Setomaa Rural Municipality",
+   "wikidata": "Q42900601",
+   "wikipedia": "https://en.wikipedia.org/wiki/Setomaa_Parish",
+   "tiivistelma": "Setomaa Parish is a rural municipality of Estonia, in Võru County. Setomaa Parish was formed in 2017 during the administrative reform by merging Mikitamäe, Meremäe and Värska parishes and some parts of Misso parish.",
+   "vakiluku": 2784,
+   "pinta_ala_km2": 463,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Jaan Roose",
+     "kuvaus": "Estonian slackliner (born 1992)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0732.png",
+    "lisenssi": "Public domain",
+    "tekija": "Setomaa vald",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Setomaa%20valla%20vapp.svg"
+   }
+  },
+  "Sillamäe linn": {
+   "nimi": "Sillamäe",
+   "wikidata": "Q207748",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sillam%C3%A4e",
+   "tiivistelma": "Sillamäe is a town in Ida-Viru County in the northeastern part of Estonia, on the southern coast of the Gulf of Finland. It has a population of 11,824 and covers an area of 12.15 km2.",
+   "vakiluku": 12352,
+   "pinta_ala_km2": 12,
+   "henkilot": [
+    {
+     "nimi": "Andrei Sidorenkov",
+     "kuvaus": "Estonian footballer (born 1984)"
+    },
+    {
+     "nimi": "Anna Iljuštšenko",
+     "kuvaus": "Estonian athletics competitor (born 1985)"
+    },
+    {
+     "nimi": "Aleksandr Kulik",
+     "kuvaus": "Estonian footballer (born 1981)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0736.png",
+    "lisenssi": "Public domain",
+    "tekija": "Sillamäe  linn",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sillam%C3%A4e%20vapp.svg"
+   }
+  },
+  "Tallinn": {
+   "nimi": "Tallinn",
+   "wikidata": "Q1770",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tallinn",
+   "tiivistelma": "Tallinn is the capital and largest city of Estonia. Located on a bay in northern Estonia, on the shore of the Gulf of Finland of the Baltic Sea, it has a population of 452,563 as of 2026, making it the third most-populous city in the Baltics.",
+   "vakiluku": 457572,
+   "pinta_ala_km2": 159,
+   "henkilot": [
+    {
+     "nimi": "Kaja Kallas",
+     "kuvaus": "Estonian politician and former prime minister of Estonia (born 1977)"
+    },
+    {
+     "nimi": "Jüri Ratas",
+     "kuvaus": "Estonian politician (born 1978)"
+    },
+    {
+     "nimi": "Patriarch Alexius II",
+     "kuvaus": "15th Patriarch of Moscow and all the Rus', the primate of the Russian Orthodox Church (1929–2008)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0784.png",
+    "lisenssi": "Public domain",
+    "tekija": "Unknown authorUnknown author (original)\nArch (derivative work)",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tallinn%20wapen.svg"
+   }
+  },
+  "Tapa vald": {
+   "nimi": "Tapa Rural Municipality",
+   "wikidata": "Q23890484",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tapa_Parish",
+   "tiivistelma": "Tapa Parish is a rural municipality in Lääne-Viru County in northern Estonia.",
+   "vakiluku": 11082,
+   "pinta_ala_km2": 480,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0792.png",
+    "lisenssi": "CC0",
+    "tekija": "Tapa Vallavalitsus",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tapa%20valla%20vapp.png"
+   }
+  },
+  "Tartu linn": {
+   "nimi": "Tartu City",
+   "wikidata": "Q42307965",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tartu_(urban_municipality)",
+   "tiivistelma": "Tartu is an urban municipality of Estonia, in Tartu County. It consists of the city of Tartu, as well as the former Tähtvere Parish bordering the city in the north-west.",
+   "vakiluku": 101032,
+   "pinta_ala_km2": 154,
+   "henkilot": [
+    {
+     "nimi": "Lisette Täks",
+     "kuvaus": "Finnish-Estonian ice hockey player"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0793.png",
+    "lisenssi": "Public domain",
+    "tekija": "Government of Estonia, Quibik",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tartu%20coat%20of%20arms.svg"
+   }
+  },
+  "Tartu vald": {
+   "nimi": "Tartu Rural Municipality",
+   "wikidata": "Q44843864",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tartu_Parish",
+   "tiivistelma": "Tartu Parish is a rural municipality in Tartu County, Estonia. It has a population of 12,725 and covers an area of 742 km2 (286 sq mi).",
+   "vakiluku": 12941,
+   "pinta_ala_km2": 742,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Peeter Karin",
+     "kuvaus": "Estonian politician (1877-1944)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0796.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tartu Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tartu%20valla%20vapp.svg"
+   }
+  },
+  "Toila vald": {
+   "nimi": "Toila Rural Municipality",
+   "wikidata": "Q44819151",
+   "wikipedia": "https://en.wikipedia.org/wiki/Toila_Parish",
+   "tiivistelma": "Toila Parish was an Estonian municipality located in Ida-Viru County. It had a population of 4,735 (2019) and an area of 266 km².",
+   "vakiluku": 4268,
+   "pinta_ala_km2": 266,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0803.png",
+    "lisenssi": "Public domain",
+    "tekija": "Toila Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Toila%20valla%20vapp.svg"
+   }
+  },
+  "Tõrva vald": {
+   "nimi": "Tõrva Rural Municipality",
+   "wikidata": "Q42814725",
+   "wikipedia": "https://en.wikipedia.org/wiki/T%C3%B5rva_Parish",
+   "tiivistelma": "Tõrva Parish is a rural municipality in Valga County. It includes the town of Tõrva.",
+   "vakiluku": 5889,
+   "pinta_ala_km2": 647,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Madis Hindre",
+     "kuvaus": "Estonian journalist (born 1991)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0824.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tõrva Vald",
+    "lahde": "https://commons.wikimedia.org/wiki/File:T%C3%B5rva%20valla%20vapp.svg"
+   }
+  },
+  "Türi vald": {
+   "nimi": "Türi Rural Municipality",
+   "wikidata": "Q44818587",
+   "wikipedia": "https://en.wikipedia.org/wiki/T%C3%BCri_Parish",
+   "tiivistelma": "Türi Parish is a rural municipality in Järva County, Estonia.",
+   "vakiluku": 10683,
+   "pinta_ala_km2": 1008,
+   "perustettu": 2017,
+   "henkilot": [
+    {
+     "nimi": "Ruth Jyrjo",
+     "kuvaus": "Estonian poet (born 1969)"
+    },
+    {
+     "nimi": "Victor Karl Gustav Baron von Taube",
+     "kuvaus": "1854-1914"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0834.png",
+    "lisenssi": "Public domain",
+    "tekija": "Türi Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:T%C3%BCri%20valla%20vapp.svg"
+   }
+  },
+  "Valga vald": {
+   "nimi": "Valga Rural Municipality",
+   "wikidata": "Q42846054",
+   "wikipedia": "https://en.wikipedia.org/wiki/Valga_Parish",
+   "tiivistelma": "Valga Parish is a rural municipality in Valga County. It includes the town of Valga.",
+   "vakiluku": 15693,
+   "pinta_ala_km2": 745,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0857.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Valga%20valla%20vapp.svg"
+   }
+  },
+  "Viimsi vald": {
+   "nimi": "Viimsi Rural Municipality",
+   "wikidata": "Q993014",
+   "wikipedia": "https://en.wikipedia.org/wiki/Viimsi_Parish",
+   "tiivistelma": "Viimsi Parish is a rural municipality in Northern Estonia, situated on the southern coast of the Gulf of Finland and neighbouring the capital Tallinn. With a population of 22,935, Viimsi is considered to be the wealthiest municipality in Estonia.",
+   "vakiluku": 23018,
+   "pinta_ala_km2": 73,
+   "henkilot": [
+    {
+     "nimi": "Patrik Kristal",
+     "kuvaus": "Estonian footballer (born 2007)"
+    },
+    {
+     "nimi": "Kevin Dubrovski",
+     "kuvaus": "Estonian footballer (born 2004)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0890.png",
+    "lisenssi": "Public domain",
+    "tekija": "Viimsi Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Viimsi%20valla%20vapp.svg"
+   }
+  },
+  "Viljandi linn": {
+   "nimi": "Viljandi",
+   "wikidata": "Q44840",
+   "wikipedia": "https://en.wikipedia.org/wiki/Viljandi",
+   "tiivistelma": "Viljandi is a city and municipality in southern Estonia with a population of 17,000 in 2026. It is the capital of Viljandi County and is geographically located between two major Estonian cities, Pärnu and Tartu.",
+   "vakiluku": 17255,
+   "pinta_ala_km2": 15,
+   "perustettu": 1263,
+   "henkilot": [
+    {
+     "nimi": "Mart Laar",
+     "kuvaus": "Estonian politician and historian (born 1960)"
+    },
+    {
+     "nimi": "Ragnar Klavan",
+     "kuvaus": "Estonian footballer (born 1985)"
+    },
+    {
+     "nimi": "Stefan Airapetjan",
+     "kuvaus": "Estonian singer-songwriter (born 1997)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0897.png",
+    "lisenssi": "Public domain",
+    "tekija": "Unknown authorUnknown author",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Et-Viljandi%20coa.svg"
+   }
+  },
+  "Viljandi vald": {
+   "nimi": "Viljandi Rural Municipality",
+   "wikidata": "Q15100022",
+   "wikipedia": "https://en.wikipedia.org/wiki/Viljandi_Parish",
+   "tiivistelma": "Viljandi Parish is a rural municipality of Viljandi County, Estonia. It is located around the town of Viljandi, but does not include it.",
+   "vakiluku": 13450,
+   "pinta_ala_km2": 1372,
+   "perustettu": 2013,
+   "henkilot": [
+    {
+     "nimi": "Mats Nõges",
+     "kuvaus": "Estonian physician and politician (1879-1973)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0899.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tõnno Habicht",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Viljandi%20valla%20vapp.svg"
+   }
+  },
+  "Vinni vald": {
+   "nimi": "Vinni Rural Municipality",
+   "wikidata": "Q301179",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vinni_Parish",
+   "tiivistelma": "Vinni Parish is a rural municipality of Estonia, in Lääne-Viru County. It has a population of 5,630 and an area of 486.65 km2 (187.90 sq mi).",
+   "vakiluku": 6716,
+   "pinta_ala_km2": 1013,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0901.png",
+    "lisenssi": "Public domain",
+    "tekija": "Riigikantselei",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Vinni%20Parish.png"
+   }
+  },
+  "Viru-Nigula vald": {
+   "nimi": "Viru-Nigula Rural Municipality",
+   "wikidata": "Q44492600",
+   "wikipedia": "https://en.wikipedia.org/wiki/Viru-Nigula_Parish",
+   "tiivistelma": "Viru-Nigula Parish is a rural municipality of Estonia, in Lääne-Viru County. It has a population of 1,293 and an area of 312 km2 (120 sq mi).",
+   "vakiluku": 5813,
+   "pinta_ala_km2": 312,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0903.png",
+    "lisenssi": "Public domain",
+    "tekija": "Viru-Nigula Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Viru-Nigula%20valla%20vapp.svg"
+   }
+  },
+  "Vormsi vald": {
+   "nimi": "Vormsi Rural Municipality",
+   "wikidata": "Q426207",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vormsi_Parish",
+   "tiivistelma": "Vormsi Parish is a rural municipality of Estonia, in Lääne County. It covers the area of Vormsi island.",
+   "vakiluku": 272,
+   "pinta_ala_km2": 95,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0907.png",
+    "lisenssi": "Public domain",
+    "tekija": "Original design: See source, Vector drawing: User:Blackngold29",
+    "lahde": "https://commons.wikimedia.org/wiki/File:VormsiParishCoatOfArms.svg"
+   }
+  },
+  "Väike-Maarja vald": {
+   "nimi": "Väike-Maarja Rural Municipality",
+   "wikidata": "Q1020183",
+   "wikipedia": "https://en.wikipedia.org/wiki/V%C3%A4ike-Maarja_Parish",
+   "tiivistelma": "Väike-Maarja Parish is a rural municipality of Estonia, in Lääne-Viru County. It has a population of 5,421 and an area of 457.39 km².",
+   "vakiluku": 5653,
+   "pinta_ala_km2": 682,
+   "perustettu": 2005,
+   "henkilot": [
+    {
+     "nimi": "Alar Kotli",
+     "kuvaus": "Estonian architect (1904–1963)"
+    },
+    {
+     "nimi": "Tuudur Vettik",
+     "kuvaus": "Estonian conductor, composer and music educator (1898-1982)"
+    },
+    {
+     "nimi": "Hugo Erkmaa",
+     "kuvaus": "Estonian basketball player (born 1999)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0928.png",
+    "lisenssi": "Public domain",
+    "tekija": "Väike-Maarja Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4ike-Maarja%20valla%20vapp.svg"
+   }
+  },
+  "Võru linn": {
+   "nimi": "Võru",
+   "wikidata": "Q205271",
+   "wikipedia": "https://en.wikipedia.org/wiki/V%C3%B5ru",
+   "tiivistelma": "Võru is a town and a municipality in south-eastern Estonia. It is the center of both the Võru County and the Võru Parish although the town itself is not part of the Võru Parish but forms a separate urban municipality.",
+   "vakiluku": 12112,
+   "pinta_ala_km2": 14,
+   "perustettu": 1784,
+   "henkilot": [
+    {
+     "nimi": "Erki Nool",
+     "kuvaus": "Estonian athletics competitor and politician (born 1970)"
+    },
+    {
+     "nimi": "Uku Suviste",
+     "kuvaus": "Estonian singer (born 1982)"
+    },
+    {
+     "nimi": "Kauksi Ülle",
+     "kuvaus": "Estonian poet (born 1962)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0919.png",
+    "lisenssi": "Public domain",
+    "tekija": "Town of Võru",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%B5ru%20vapp.svg"
+   }
+  },
+  "Võru vald": {
+   "nimi": "Võru Rural Municipality",
+   "wikidata": "Q44827469",
+   "wikipedia": "https://en.wikipedia.org/wiki/V%C3%B5ru_Parish",
+   "tiivistelma": "Võru Parish is a rural municipality of Estonia, in Võru County. It has a population of 4,770 and an area of 202.23 km2.",
+   "vakiluku": 10310,
+   "pinta_ala_km2": 952,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0917.png",
+    "lisenssi": "Public domain",
+    "tekija": "Võru Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%B5ru%20valla%20vapp%202017.svg"
+   }
+  }
+ }
+}
