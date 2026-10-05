@@ -760,6 +760,21 @@
     "lahde": "https://commons.wikimedia.org/wiki/File:Et-Parnu%20coa.svg"
    }
   },
+  "Põhja-Pärnumaa vald": {
+   "nimi": "Põhja-Pärnumaan kunta",
+   "wikidata": "Q42329911",
+   "wikipedia": "https://fi.wikipedia.org/wiki/P%C3%B5hja-P%C3%A4rnumaan_kunta",
+   "tiivistelma": "Põhja-Pärnumaan kunta sijaitsee Pärnumaan maakunnassa Länsi-Virossa.",
+   "vakiluku": 8088,
+   "pinta_ala_km2": 1011,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0638.png",
+    "lisenssi": "Public domain",
+    "tekija": "Põhja-Pärnumaa Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:P%C3%B5hja-P%C3%A4rnumaa%20valla%20vapp.svg"
+   }
+  },
   "Põhja-Sakala vald": {
    "nimi": "Põhja-Sakalan kunta",
    "wikidata": "Q31273591",
@@ -1144,6 +1159,20 @@
     "lisenssi": "Public domain",
     "tekija": "Toila Parish",
     "lahde": "https://commons.wikimedia.org/wiki/File:Toila%20valla%20vapp.svg"
+   }
+  },
+  "Tori vald": {
+   "nimi": "Torin kunta",
+   "wikidata": "Q44492102",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Torin_kunta",
+   "tiivistelma": "Torin kunta sijaitsee Lounais-Virossa Pärnumaan maakunnassa.",
+   "vakiluku": 12277,
+   "pinta_ala_km2": 611,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0809.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tori Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tori%20valla%20vapp.svg"
    }
   },
   "Tõrva vald": {

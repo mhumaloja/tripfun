@@ -744,6 +744,21 @@
     "lahde": "https://commons.wikimedia.org/wiki/File:Et-Parnu%20coa.svg"
    }
   },
+  "Põhja-Pärnumaa vald": {
+   "nimi": "Põhja-Pärnumaa landkommune",
+   "wikidata": "Q42329911",
+   "wikipedia": "https://no.wikipedia.org/wiki/P%C3%B5hja-P%C3%A4rnumaa_kommune",
+   "tiivistelma": "Põhja-Pärnumaa er en landkommune i Pärnu fylke i Estland. Administrasjonssentrene i kommunen er Vändra og Pärnu-Jaagupi.",
+   "vakiluku": 8088,
+   "pinta_ala_km2": 1011,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0638.png",
+    "lisenssi": "Public domain",
+    "tekija": "Põhja-Pärnumaa Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:P%C3%B5hja-P%C3%A4rnumaa%20valla%20vapp.svg"
+   }
+  },
   "Põhja-Sakala vald": {
    "nimi": "Põhja-Sakala landkommune",
    "wikidata": "Q31273591",
@@ -1100,6 +1115,20 @@
     "lisenssi": "Public domain",
     "tekija": "Toila Parish",
     "lahde": "https://commons.wikimedia.org/wiki/File:Toila%20valla%20vapp.svg"
+   }
+  },
+  "Tori vald": {
+   "nimi": "Tori landkommune",
+   "wikidata": "Q44492102",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tori_kommune",
+   "tiivistelma": " Tori  er en landkommune (vald) i Pärnu fylke i det sørvestlige Estland, og ligger nordøst i fylket. Kommunen har cirka 11 879 innbyggere (2020) og et areal på om lag 611 km².",
+   "vakiluku": 12277,
+   "pinta_ala_km2": 611,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0809.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tori Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tori%20valla%20vapp.svg"
    }
   },
   "Tõrva vald": {

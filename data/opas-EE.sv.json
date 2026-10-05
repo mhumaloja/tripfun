@@ -750,6 +750,21 @@
     "lahde": "https://commons.wikimedia.org/wiki/File:Et-Parnu%20coa.svg"
    }
   },
+  "Põhja-Pärnumaa vald": {
+   "nimi": "Põhja-Pärnumaa kommun",
+   "wikidata": "Q42329911",
+   "wikipedia": "https://sv.wikipedia.org/wiki/P%C3%B5hja-P%C3%A4rnumaa_kommun",
+   "tiivistelma": "Põhja-Pärnumaa kommun är en kommun i landskapet Pärnumaa i sydvästra Estland. Köpingarna Vändra och Pärnu-Jaagupi utgör kommunens centralorter.",
+   "vakiluku": 8088,
+   "pinta_ala_km2": 1011,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0638.png",
+    "lisenssi": "Public domain",
+    "tekija": "Põhja-Pärnumaa Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:P%C3%B5hja-P%C3%A4rnumaa%20valla%20vapp.svg"
+   }
+  },
   "Põhja-Sakala vald": {
    "nimi": "Põhja-Sakala kommun",
    "wikidata": "Q31273591",
@@ -1106,6 +1121,20 @@
     "lisenssi": "Public domain",
     "tekija": "Toila Parish",
     "lahde": "https://commons.wikimedia.org/wiki/File:Toila%20valla%20vapp.svg"
+   }
+  },
+  "Tori vald": {
+   "nimi": "Tori kommun",
+   "wikidata": "Q44492102",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Tori_kommun",
+   "tiivistelma": "Tori kommun är en kommun i landskapet Pärnumaa i sydvästra Estland. Kommunen ligger cirka 110 kilometer söder om huvudstaden Tallinn.",
+   "vakiluku": 12277,
+   "pinta_ala_km2": 611,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0809.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tori Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tori%20valla%20vapp.svg"
    }
   },
   "Tõrva vald": {

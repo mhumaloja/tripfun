@@ -410,12 +410,12 @@
      "kuvaus": "Estonian politician (born 1966)"
     },
     {
-     "nimi": "Jevgeni Ossinovski",
-     "kuvaus": "Estonian politician (born 1986)"
-    },
-    {
      "nimi": "Anastasiya Verameyenka",
      "kuvaus": "Belarusian basketball player (born 1987)"
+    },
+    {
+     "nimi": "Riho Terras",
+     "kuvaus": "Estonian military personnel, politician and sportsperson (born 1967)"
     }
    ],
    "vaakuna": {
@@ -822,6 +822,21 @@
     "lahde": "https://commons.wikimedia.org/wiki/File:Et-Parnu%20coa.svg"
    }
   },
+  "Põhja-Pärnumaa vald": {
+   "nimi": "Põhja-Pärnumaa Rural Municipality",
+   "wikidata": "Q42329911",
+   "wikipedia": "https://en.wikipedia.org/wiki/P%C3%B5hja-P%C3%A4rnumaa_Parish",
+   "tiivistelma": "Põhja-Pärnumaa Parish is a rural municipality in Pärnu County.",
+   "vakiluku": 8088,
+   "pinta_ala_km2": 1011,
+   "perustettu": 2017,
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0638.png",
+    "lisenssi": "Public domain",
+    "tekija": "Põhja-Pärnumaa Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:P%C3%B5hja-P%C3%A4rnumaa%20valla%20vapp.svg"
+   }
+  },
   "Põhja-Sakala vald": {
    "nimi": "Põhja-Sakala Rural Municipality",
    "wikidata": "Q31273591",
@@ -1161,8 +1176,8 @@
      "kuvaus": "Estonian politician (born 1978)"
     },
     {
-     "nimi": "Patriarch Alexius II",
-     "kuvaus": "15th Patriarch of Moscow and all the Rus', the primate of the Russian Orthodox Church (1929–2008)"
+     "nimi": "Lennart Meri",
+     "kuvaus": "Estonian writer, filmmaker and politician; President of Estonia in 1992–2001 (1929-2006)"
     }
    ],
    "vaakuna": {
@@ -1240,6 +1255,26 @@
     "lisenssi": "Public domain",
     "tekija": "Toila Parish",
     "lahde": "https://commons.wikimedia.org/wiki/File:Toila%20valla%20vapp.svg"
+   }
+  },
+  "Tori vald": {
+   "nimi": "Tori Rural Municipality",
+   "wikidata": "Q44492102",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tori_Parish",
+   "tiivistelma": "Tori is a municipality located in Pärnu County.",
+   "vakiluku": 12277,
+   "pinta_ala_km2": 611,
+   "henkilot": [
+    {
+     "nimi": "Tõnis Kalbus",
+     "kuvaus": "Estonian politician and lawyer (1880-1942)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/EE/0809.png",
+    "lisenssi": "Public domain",
+    "tekija": "Tori Parish",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tori%20valla%20vapp.svg"
    }
   },
   "Tõrva vald": {
