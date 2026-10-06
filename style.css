@@ -155,3 +155,17 @@ li { display: flex; justify-content: space-between; }
   color: var(--accent);
   margin: 12px 0 0;
 }
+
+/* Tietosuoja-, ehto- ja tukisivut (#57) */
+.doc { max-width: 720px; }
+.doc h1 { font-size: 1.6rem; margin: 8px 0; }
+.doc h2 { color: var(--accent); font-size: 1.15rem; margin: 28px 0 8px; }
+.doc h3 { font-size: 1rem; margin: 18px 0 4px; }
+.doc p, .doc li { font-size: 1rem; line-height: 1.55; }
+.doc a { color: var(--accent); }
+.doc .plain { list-style: disc; padding-left: 1.2em; display: block; }
+.doc .plain li { background: none; padding: 2px 0; display: list-item; border-radius: 0; font-size: 1rem; }
+.doc ol { padding-left: 1.3em; }
+.doc-nav { color: var(--muted); font-size: .9rem; }
+.legal { color: var(--muted); font-size: .85rem; text-align: center; margin-top: 32px; }
+.legal a { color: var(--muted); }

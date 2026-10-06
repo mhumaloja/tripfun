@@ -5,6 +5,13 @@
 const TEXTS = {
   fi: {
     title: "TripFun",
+    // Tietosuoja-, ehto- ja tukisivut (#57); ruotsiksi ja norjaksi englanninkieliset sivut
+    privacy: "Tietosuoja",
+    privacy_href: "tietosuoja.html",
+    location_terms: "Sijaintiehdot",
+    location_terms_href: "sijaintiehdot.html",
+    support: "Tuki",
+    support_href: "tuki.html",
     status_ok: "● Yhteys kunnossa",
     status_err: "● Yhteys katkesi, yritetään uudelleen…",
     choose_token: "Valitse pelimerkkisi!",
@@ -33,6 +40,13 @@ const TEXTS = {
   },
   en: {
     title: "TripFun",
+    // Tietosuoja-, ehto- ja tukisivut (#57); ruotsiksi ja norjaksi englanninkieliset sivut
+    privacy: "Privacy",
+    privacy_href: "privacy.html",
+    location_terms: "Location terms",
+    location_terms_href: "location-terms.html",
+    support: "Support",
+    support_href: "support.html",
     status_ok: "● Connected",
     status_err: "● Connection lost, retrying…",
     choose_token: "Pick your game piece!",
@@ -61,6 +75,13 @@ const TEXTS = {
   },
   sv: {
     title: "TripFun",
+    // Tietosuoja-, ehto- ja tukisivut (#57); ruotsiksi ja norjaksi englanninkieliset sivut
+    privacy: "Integritet",
+    privacy_href: "privacy.html",
+    location_terms: "Platsvillkor",
+    location_terms_href: "location-terms.html",
+    support: "Support",
+    support_href: "support.html",
     status_ok: "● Ansluten",
     status_err: "● Anslutningen bröts, försöker igen…",
     choose_token: "Välj din spelpjäs!",
@@ -89,6 +110,13 @@ const TEXTS = {
   },
   nb: {
     title: "TripFun",
+    // Tietosuoja-, ehto- ja tukisivut (#57); ruotsiksi ja norjaksi englanninkieliset sivut
+    privacy: "Personvern",
+    privacy_href: "privacy.html",
+    location_terms: "Posisjonsvilkår",
+    location_terms_href: "location-terms.html",
+    support: "Støtte",
+    support_href: "support.html",
     status_ok: "● Tilkoblet",
     status_err: "● Forbindelsen ble brutt, prøver igjen…",
     choose_token: "Velg spillebrikken din!",
@@ -135,4 +163,5 @@ export function setLanguage(code) {
   if (lang) current = lang;
   document.documentElement.lang = current;
   for (const el of document.querySelectorAll("[data-i18n]")) el.textContent = t(el.dataset.i18n);
+  for (const el of document.querySelectorAll("[data-i18n-href]")) el.href = t(el.dataset.i18nHref);
 }

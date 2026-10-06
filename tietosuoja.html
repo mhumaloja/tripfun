@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#111418">
+  <title>Tietosuojaseloste – TripFun</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="doc">
+    <p class="doc-nav"><a href="tietosuoja.html">Tietosuoja</a> · <a href="sijaintiehdot.html">Sijaintiehdot</a> · <a href="tuki.html">Tuki</a> · <a href="privacy.html" hreflang="en">In English</a></p>
+    <h1>TripFun – tietosuojaseloste</h1>
+    <p class="code">Päivitetty 6.10.2026</p>
+
+    <h2>Rekisterinpitäjä</h2>
+    <p>GeekEdu (Y-tunnus 2677179-4)<br>Yhteys tietosuoja-asioissa: <a href="mailto:info@geekedu.fi">info@geekedu.fi</a></p>
+
+    <h2>Lyhyesti</h2>
+    <ul class="plain">
+      <li>TripFun ei kerää eikä tallenna kenenkään nimeä, yhteystietoja tai muita henkilötietoja.</li>
+      <li>Lapset valitsevat pelimerkin (esim. 🦔 Sinnikäs Siili) eivätkä kirjoita mitään.</li>
+      <li>Auton sijaintia käytetään vain autossa kunnan tunnistamiseen. Sijaintia ei lähetetä minnekään.</li>
+      <li>Palvelimella ei ole tietokantaa: pelin viestit kulkevat palvelimen läpi tallentumatta.</li>
+      <li>Ei mainoksia, analytiikkaa eikä evästeitä.</li>
+    </ul>
+
+    <h2>Mitä tietoja käsitellään ja miksi</h2>
+    <h3>Auton sovellus</h3>
+    <ul class="plain">
+      <li><strong>Sijainti</strong> (Pleosin Fused Location): sovellus päättelee sijainnista, missä kunnassa auto on, kuntaesittelyä ja kuntakysymyksiä varten. Koordinaatit käsitellään vain autossa eikä niitä tallenneta eikä lähetetä. Sijaintia seurataan pelin ajan myös taustalla; tästä kertoo ilmoitus auton näytöllä.</li>
+      <li><strong>Kunnan nimi ja pelin sisältö</strong> (kysymykset, esittelyt, pisteet, bingoruudut) lähetetään saman pelin puhelimille. Kunnan nimi kertoo karkean sijainnin vain pelin osallistujille.</li>
+      <li><strong>Pelin tila</strong> (pelin tunnus, pelimerkit, pisteet ja bingotilanne) säilytetään auton laitteella enintään 12 tuntia, jotta keskeytynyttä peliä voi jatkaa. Valitut pelimoodit muistetaan, kunnes sovellus poistetaan. Tietoja ei varmuuskopioida.</li>
+      <li><strong>Puhe</strong> tuotetaan auton omalla puhesynteesillä (Pleos TextToSpeech); teksti ei lähde autosta.</li>
+      <li><strong>Sisältöpaketit</strong> (kuntarajat, kuntaesittelyt, bingokohteet) ladataan GitHub Pagesista maittain. Ajoreittiä tai sijaintia ei välitetä Wikipediaan eikä muualle.</li>
+    </ul>
+    <h3>Lasten puhelimet (selainsivu)</h3>
+    <ul class="plain">
+      <li>Puhelin luo satunnaisen avainparin, joka säilyy selaimen tallennustilassa (localStorage), jotta pelaaja pysyy samana sivua päivitettäessä. Pelaajatunniste on tämän avaimen tiiviste; se ei liity henkilöön.</li>
+      <li>Valittu pelimerkki, vastaukset ja bingomerkinnät lähetetään autolle. Viestit on todennettu, jotta kukaan muu ei voi pelata toisen nimissä.</li>
+      <li>Selaimen tallennus on välttämätön pelin toiminnalle, joten siihen ei pyydetä erillistä suostumusta. Sen voi poistaa tyhjentämällä selaimen sivustotiedot.</li>
+    </ul>
+
+    <h2>Palveluntarjoajat</h2>
+    <ul class="plain">
+      <li><strong>Supabase Inc.</strong> (Realtime): välittää pelin viestit auton ja puhelinten välillä. Viestejä ei tallenneta; palveluntarjoaja voi käsitellä teknisiä tietoja kuten IP-osoitteita lokeissaan.</li>
+      <li><strong>GitHub Inc.</strong> (GitHub Pages): jakaa selainsivun ja sisältöpaketit.</li>
+      <li><strong>jsDelivr</strong>: jakaa selainsivun käyttämän Supabase-kirjaston.</li>
+    </ul>
+    <p>Nämä palvelut näkevät laitteen IP-osoitteen yhteyden aikana ja voivat käsitellä tietoja myös EU:n ja ETA:n ulkopuolella. Siirrot perustuvat palveluntarjoajien tietojenkäsittelyehtoihin ja Euroopan komission vakiosopimuslausekkeisiin. Tietoja ei myydä eikä luovuteta muille.</p>
+
+    <h2>Käsittelyn peruste ja säilytys</h2>
+    <p>Käsittely perustuu pelin tarjoamiseen käyttäjän pyynnöstä ja rekisterinpitäjän oikeutettuun etuun pitää palvelu toimivana (EU:n yleinen tietosuoja-asetus, 6 artiklan 1 kohdan b ja f alakohdat). Palvelimella ei säilytetä pelin tietoja; auton laitteella pelin tila poistuu 12 tunnin kuluttua.</p>
+
+    <h2>Lapset</h2>
+    <p>TripFun on perheen yhteinen peli. Lapsilta ei kysytä eikä kerätä henkilötietoja eikä vapaata tekstiä. Huoltaja käynnistää pelin auton näytöltä ja lapset liittyvät huoltajan luvalla skannaamalla QR-koodin.</p>
+
+    <h2>Oikeutesi</h2>
+    <p>Sinulla on oikeus saada tietoa käsittelystä, pyytää tietojen oikaisua tai poistamista ja vastustaa käsittelyä. Koska TripFun ei tallenna henkilötietoja palvelimelle, tiedot voi poistaa itse: auton tiedot poistamalla sovelluksen tai sen tiedot, puhelimen tiedot tyhjentämällä selaimen sivustotiedot. Voit tehdä valituksen tietosuojavaltuutetulle (<a href="https://tietosuoja.fi">tietosuoja.fi</a>).</p>
+
+    <h2>Muutokset</h2>
+    <p>Päivitämme selostetta, jos sovelluksen tietojenkäsittely muuttuu. Päivityspäivä näkyy sivun alussa.</p>
+
+  </main>
+</body>
+</html>
