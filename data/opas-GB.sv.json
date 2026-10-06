@@ -1,0 +1,5525 @@
+{
+ "maa": "GB",
+ "kieli": "sv",
+ "lahde": "Wikipedia (sv, CC BY-SA 4.0), Wikidata (CC0), vaakunat Wikimedia Commons",
+ "kunnat": {
+  "Aberdeen City": {
+   "nimi": "Aberdeen City",
+   "wikidata": "Q62274582",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Aberdeen_City",
+   "tiivistelma": "Aberdeen City är en av Skottlands kommuner belägen i den östra delen av Skottland. Med undantag för kustremsan ligger kommunen helt omgiven av kommunen Aberdeenshire.",
+   "vakiluku": 227560,
+   "pinta_ala_km2": 186,
+   "perustettu": 1975,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000033.png",
+    "lisenssi": "Public domain",
+    "tekija": "Fox-Davies, Arthur Charles, 1871-1928",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Aberdeen-arms.png"
+   }
+  },
+  "Aberdeenshire": {
+   "nimi": "Aberdeenshire",
+   "wikidata": "Q189912",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Aberdeenshire",
+   "tiivistelma": "Aberdeenshire är en av Skottlands 32 kommuner, belägen i den östra delen av Skottland. Centralort är Aberdeen, som ligger i kommunen Aberdeen City utanför kommunen Aberdeenshire.",
+   "vakiluku": 261210,
+   "pinta_ala_km2": 6313,
+   "henkilot": [
+    {
+     "nimi": "Amy Manson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Flora Garry",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Robert Marnock",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000034.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Aberdeenshire%20County%20Council%201890-1975.svg"
+   }
+  },
+  "Adur": {
+   "nimi": "Adur District",
+   "wikidata": "Q379103",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Adur_District",
+   "tiivistelma": "Adur District är ett distrikt i grevskapet West Sussex i England, Storbritannien. Distriktet har 64 889 invånare (2024).",
+   "vakiluku": 63869,
+   "pinta_ala_km2": 42
+  },
+  "Amber Valley": {
+   "nimi": "Amber Valley",
+   "wikidata": "Q457014",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Amber_Valley",
+   "tiivistelma": "Amber Valley är ett distrikt i grevskapet Derbyshire i England, Storbritannien. Distriktet har 130 451 invånare (2024).",
+   "vakiluku": 126678,
+   "pinta_ala_km2": 265,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000032.png",
+    "lisenssi": "CC0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Amber%20Valley.svg"
+   }
+  },
+  "Angus": {
+   "nimi": "Angus",
+   "wikidata": "Q202177",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Angus",
+   "tiivistelma": "Angus är en av Skottlands kommuner och ståthållarskap, belägen i den östra delen av Skottland. Kommunen gränsar mot Aberdeenshire, Perth and Kinross och Dundee.",
+   "vakiluku": 115820,
+   "pinta_ala_km2": 2182,
+   "henkilot": [
+    {
+     "nimi": "Charles Lyell",
+     "kuvaus": "brittisk geolog"
+    },
+    {
+     "nimi": "James Mill",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Don",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000041.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Angus%20Area%20Council.svg"
+   }
+  },
+  "Antrim and Newtownabbey": {
+   "nimi": "Antrim and Newtownabbey",
+   "wikidata": "Q4777347",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Antrim_and_Newtownabbey",
+   "tiivistelma": "Antrim and Newtownabbey är ett distrikt i Nordirland i Storbritannien. Huvudorter är Antrim och Newtownabbey.",
+   "vakiluku": 148100,
+   "pinta_ala_km2": 572
+  },
+  "Ards and North Down": {
+   "nimi": "Ards and North Down",
+   "wikidata": "Q7055155",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Ards_and_North_Down",
+   "tiivistelma": "Ards and North Down är ett distrikt i Nordirland i Storbritannien. Huvudort är Bangor.",
+   "vakiluku": 165415,
+   "pinta_ala_km2": 461
+  },
+  "Argyll and Bute": {
+   "nimi": "Argyll and Bute",
+   "wikidata": "Q202174",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Argyll_and_Bute",
+   "tiivistelma": "Argyll and Bute är en av Skottlands kommuner och ståthållarskap. Kommunen är den näst största till ytan och ligger i västra Skottland.",
+   "vakiluku": 85870,
+   "pinta_ala_km2": 6909,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "George Campbell, 8:e hertig av Argyll",
+     "kuvaus": "brittisk ekonom"
+    },
+    {
+     "nimi": "William MacTaggart (Sir) (1835-1910)",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alexander Campbell Fraser",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Armagh City, Banbridge and Craigavon": {
+   "nimi": "Armagh City, Banbridge and Craigavon",
+   "wikidata": "Q4792580",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Armagh_City,_Banbridge_and_Craigavon",
+   "tiivistelma": "Armagh City, Banbridge and Craigavon är ett distrikt i Nordirland i Storbritannien. Huvudort är Craigavon.",
+   "vakiluku": 222511,
+   "pinta_ala_km2": 1337
+  },
+  "Arun": {
+   "nimi": "Arun District",
+   "wikidata": "Q1725997",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Arun_District",
+   "tiivistelma": "Arun District är ett distrikt i grevskapet West Sussex i England, Storbritannien. Distriktet har 170 064 invånare (2024).",
+   "vakiluku": 159827,
+   "pinta_ala_km2": 221
+  },
+  "Ashfield": {
+   "nimi": "Ashfield District",
+   "wikidata": "Q600996",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Ashfield_District",
+   "tiivistelma": "Ashfield District är ett distrikt i grevskapet Nottinghamshire i England, Storbritannien. Distriktet har 129 572 invånare (2024).",
+   "vakiluku": 127151,
+   "pinta_ala_km2": 110,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Max Dupain",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Ashford": {
+   "nimi": "Ashford District",
+   "wikidata": "Q894074",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Ashford",
+   "tiivistelma": "Borough of Ashford är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 140 936 invånare (2024).",
+   "vakiluku": 129281,
+   "pinta_ala_km2": 581,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000105.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Borough%20of%20Ashford.svg"
+   }
+  },
+  "Babergh": {
+   "nimi": "Babergh",
+   "wikidata": "Q797643",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Babergh",
+   "tiivistelma": "Babergh är ett distrikt i grevskapet Suffolk i England, Storbritannien. Distriktet har 97 033 invånare (2024).",
+   "vakiluku": 91401,
+   "pinta_ala_km2": 594,
+   "perustettu": 1974
+  },
+  "Barking and Dagenham": {
+   "nimi": "London Borough of Barking and Dagenham",
+   "wikidata": "Q205358",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Barking_and_Dagenham",
+   "tiivistelma": "London Borough of Barking and Dagenham är en borough (kommun) i de nordöstra delarna av Storbritanniens huvudstad London.",
+   "vakiluku": 211998,
+   "pinta_ala_km2": 36,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Tim Stevens",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000002.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Barking%20and%20Dagenham.svg"
+   }
+  },
+  "Barnet": {
+   "nimi": "London Borough of Barnet",
+   "wikidata": "Q151048",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Barnet",
+   "tiivistelma": "London Borough of Barnet är en borough (kommun) i de nordvästra delarna av Storbritanniens huvudstad London.",
+   "vakiluku": 392140,
+   "pinta_ala_km2": 87,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Emily Carey",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Peter Banks",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Nigel Marven",
+     "kuvaus": "brittisk naturfilmare och TV-producent"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000003.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Barnet.svg"
+   }
+  },
+  "Barnsley": {
+   "nimi": "Metropolitan Borough of Barnsley",
+   "wikidata": "Q1857382",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Barnsley",
+   "tiivistelma": "Metropolitan Borough of Barnsley är ett storstadsdistrikt (kommun) i South Yorkshire i England, Storbritannien. Distriktet har 251 770 invånare (2024).",
+   "vakiluku": 245199,
+   "pinta_ala_km2": 329,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Joseph Bramah",
+     "kuvaus": "engelsk mekaniker och uppfinnare"
+    }
+   ]
+  },
+  "Basildon": {
+   "nimi": "Basildon (distrikt)",
+   "wikidata": "Q810056",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Basildon",
+   "tiivistelma": "Borough of Basildon är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 193 632 invånare (2024).",
+   "vakiluku": 185862,
+   "pinta_ala_km2": 110,
+   "perustettu": 1974
+  },
+  "Basingstoke and Deane": {
+   "nimi": "Basingstoke and Deane District",
+   "wikidata": "Q810185",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Basingstoke_and_Deane",
+   "tiivistelma": "Basingstoke and Deane är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 193 110 invånare (2024).",
+   "vakiluku": 175729,
+   "pinta_ala_km2": 634
+  },
+  "Bassetlaw": {
+   "nimi": "Bassetlaw District",
+   "wikidata": "Q810508",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Bassetlaw_District",
+   "tiivistelma": "Bassetlaw District är ett distrikt i grevskapet Nottinghamshire i England, Storbritannien. Distriktet har 124 937 invånare (2024).",
+   "vakiluku": 116839,
+   "pinta_ala_km2": 638,
+   "perustettu": 1974
+  },
+  "Bath and North East Somerset": {
+   "nimi": "Bath and North East Somerset",
+   "wikidata": "Q810793",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Bath_and_North_East_Somerset",
+   "tiivistelma": "Bath and North East Somerset är en enhetskommun i det ceremoniella grevskapet Somerset i sydvästra England i Storbritannien. Kommunen har 200 028 invånare (2024).",
+   "vakiluku": 193409,
+   "pinta_ala_km2": 346,
+   "perustettu": 1996
+  },
+  "Bedford": {
+   "nimi": "Bedford",
+   "wikidata": "Q894077",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Bedford",
+   "tiivistelma": "Bedford är en enhetskommun i Bedfordshire i England, Storbritannien. Kommunen har 194 976 invånare (2024).",
+   "vakiluku": 185225,
+   "pinta_ala_km2": 476,
+   "perustettu": 2009
+  },
+  "Belfast": {
+   "nimi": "City of Belfast",
+   "wikidata": "Q1140130",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Belfast",
+   "tiivistelma": "Belfast är huvudstad och största stad i Nordirland. Sedan 1973 har staden varit ett administrativt distrikt City of Belfast och omfattar det närliggande området.",
+   "vakiluku": 341877,
+   "pinta_ala_km2": 132
+  },
+  "Bexley": {
+   "nimi": "London Borough of Bexley",
+   "wikidata": "Q207208",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Bexley",
+   "tiivistelma": "London Borough of Bexley är en borough i sydöstra London. Den bildades 1965 när Borough of Bexley, Borough of Erith, Crayford Urban District och delar av Chislehurst and Sidcup Urban District slogs samman.",
+   "vakiluku": 247258,
+   "pinta_ala_km2": 61,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Godfrey Huggins",
+     "kuvaus": "militärläkare, Storbritannien"
+    },
+    {
+     "nimi": "Thom Puckey",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jacqueline Jossa",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000004.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Ldn%20Borough%20of%20Bexley.svg"
+   }
+  },
+  "Birmingham": {
+   "nimi": "City of Birmingham",
+   "wikidata": "Q20986424",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Birmingham",
+   "tiivistelma": "City of Birmingham är ett storstadsdistrikt (kommun) i grevskapet West Midlands i England, Storbritannien. Distriktet har 1 183 618 invånare (2024).",
+   "vakiluku": 1141374,
+   "pinta_ala_km2": 268,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "James Lees",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Blaby": {
+   "nimi": "Blaby",
+   "wikidata": "Q596076",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Blaby_District",
+   "tiivistelma": " Blaby District är ett distrikt i grevskapet Leicestershire i England, Storbritannien. Distriktet har 108 165 invånare (2024).",
+   "vakiluku": 104182,
+   "pinta_ala_km2": 130,
+   "perustettu": 1894,
+   "henkilot": [
+    {
+     "nimi": "Greg Knight",
+     "kuvaus": "politiker, Storbritannien"
+    }
+   ]
+  },
+  "Blackburn with Darwen": {
+   "nimi": "Blackburn with Darwen",
+   "wikidata": "Q880782",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Blackburn_with_Darwen",
+   "tiivistelma": "Blackburn with Darwen är en enhetskommun i Lancashire i England, Storbritannien. Kommunen har 162 540 invånare (2024).",
+   "vakiluku": 154739,
+   "pinta_ala_km2": 137,
+   "perustettu": 1974
+  },
+  "Blackpool": {
+   "nimi": "Borough of Blackpool",
+   "wikidata": "Q20989106",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Blackpool",
+   "tiivistelma": "Blackpool är en enhetskommun i Lancashire i England, Storbritannien. Kommunen har 144 191 invånare (2024).",
+   "vakiluku": 141036,
+   "pinta_ala_km2": 35,
+   "perustettu": 1851
+  },
+  "Blaenau Gwent": {
+   "nimi": "Blaenau Gwent",
+   "wikidata": "Q596885",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Blaenau_Gwent",
+   "tiivistelma": "Blaenau Gwent är en kommun med county borough-status i södra Wales. Den gränsar till Monmouthshire, Torfaen, Caerphilly och Powys.",
+   "vakiluku": 69713,
+   "pinta_ala_km2": 109,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Blaenau%20Gwent%20County%20Borough%20Council.svg"
+   }
+  },
+  "Bolsover": {
+   "nimi": "Bolsover District",
+   "wikidata": "Q891608",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Bolsover_District",
+   "tiivistelma": "Bolsover District är ett distrikt i grevskapet Derbyshire i England, Storbritannien. Distriktet har 83 773 invånare (2024).",
+   "vakiluku": 79530,
+   "pinta_ala_km2": 160,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Tom Williams, Baron Williams of Barnburgh",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Bolton": {
+   "nimi": "Metropolitan Borough of Bolton",
+   "wikidata": "Q1364541",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Bolton",
+   "tiivistelma": " Metropolitan Borough of Bolton är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 310 085 invånare (2024).",
+   "vakiluku": 298903,
+   "pinta_ala_km2": 140,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000001.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Blason_Le_Brusquet.svg: Aups\nTorse_of_a_British_Gentleman.svg: Sodacan This  PNG graphic was created with Inkscape .\nCoa",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Bolton%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Boston": {
+   "nimi": "Boston District",
+   "wikidata": "Q894076",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Boston",
+   "tiivistelma": "Borough of Boston är ett distrikt i grevskapet Lincolnshire i England, Storbritannien. Distriktet har 71 080 invånare (2024).",
+   "vakiluku": 70806,
+   "pinta_ala_km2": 365,
+   "perustettu": 1974
+  },
+  "Bournemouth, Christchurch and Poole": {
+   "nimi": "Bournemouth, Christchurch and Poole",
+   "wikidata": "Q54366459",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Bournemouth,_Christchurch_and_Poole",
+   "tiivistelma": "Bournemouth, Christchurch and Poole är en enhetskommun i Dorset i England, Storbritannien. Kommunen har 408 967 invånare (2024).",
+   "vakiluku": 400196,
+   "pinta_ala_km2": 161,
+   "perustettu": 2019
+  },
+  "Bracknell Forest": {
+   "nimi": "Bracknell Forest",
+   "wikidata": "Q896725",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Bracknell_Forest",
+   "tiivistelma": "Bracknell Forest är en enhetskommun i Berkshire i England, Storbritannien. Kommunen har 130 806 invånare (2024).",
+   "vakiluku": 124607,
+   "pinta_ala_km2": 109,
+   "perustettu": 1894
+  },
+  "Bradford": {
+   "nimi": "Bradford",
+   "wikidata": "Q2834810",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Bradford",
+   "tiivistelma": "City of Bradford är ett storstadsdistrikt (kommun) i grevskapet West Yorkshire i England, Storbritannien. Distriktet har 563 605 invånare (2024).",
+   "vakiluku": 537173,
+   "pinta_ala_km2": 366,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Amy Walsh",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Aqib Khan",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "John Styles",
+     "kuvaus": "brittisk historiker"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000032.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Bradford%20City%20Council.svg"
+   }
+  },
+  "Braintree": {
+   "nimi": "Braintree (distrikt)",
+   "wikidata": "Q897454",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Braintree_District",
+   "tiivistelma": "Braintree District är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 164 304 invånare (2024).",
+   "vakiluku": 151561,
+   "pinta_ala_km2": 612,
+   "perustettu": 1974
+  },
+  "Breckland": {
+   "nimi": "Breckland District",
+   "wikidata": "Q488142",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Breckland_District",
+   "tiivistelma": "Breckland District är ett distrikt i grevskapet Norfolk i England, Storbritannien. Distriktet har 146 620 invånare (2024).",
+   "vakiluku": 139329,
+   "pinta_ala_km2": 1305,
+   "perustettu": 1974
+  },
+  "Brent": {
+   "nimi": "London Borough of Brent",
+   "wikidata": "Q207201",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Brent",
+   "tiivistelma": "London Borough of Brent är en borough i nordvästra London. Den bildades 1965 när Borough of Wembley och Borough of Willesden slogs ihop och har fått sitt namn av floden Brent.",
+   "vakiluku": 330795,
+   "pinta_ala_km2": 43,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Taio Cruz",
+     "kuvaus": "brittisk sångare"
+    },
+    {
+     "nimi": "Tyrick Mitchell",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Rahul Kohli",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Brent.svg"
+   }
+  },
+  "Brentwood": {
+   "nimi": "Brentwood",
+   "wikidata": "Q427849",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Brentwood",
+   "tiivistelma": "Borough of Brentwood är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 79 326 invånare (2024).",
+   "vakiluku": 76550,
+   "pinta_ala_km2": 153,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Zack Morris",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Reginald Tower",
+     "kuvaus": "brittisk diplomat"
+    },
+    {
+     "nimi": "James Hunt",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Bridgend": {
+   "nimi": "Bridgend",
+   "wikidata": "Q697126",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Bridgend_(kommun)",
+   "tiivistelma": "Bridgend är en kommun med county borough-status i södra Wales. Den har fått sitt namn efter huvudorten Bridgend.",
+   "vakiluku": 144876,
+   "pinta_ala_km2": 251,
+   "henkilot": [
+    {
+     "nimi": "David Bowen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000013.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croaker",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bridgend%20COA%20shield.svg"
+   }
+  },
+  "Brighton and Hove": {
+   "nimi": "Brighton & Hove",
+   "wikidata": "Q1022488",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Brighton_and_Hove",
+   "tiivistelma": "Brighton and Hove är en enhetskommun med status som city vid Englands sydkust i East Sussex i Storbritannien. Kommunen har 283 870 invånare (2024).",
+   "vakiluku": 277103,
+   "pinta_ala_km2": 83,
+   "perustettu": 1997,
+   "henkilot": [
+    {
+     "nimi": "David Pearce",
+     "kuvaus": "brittisk filosof"
+    },
+    {
+     "nimi": "David Feldman",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000043.png",
+    "lisenssi": "CC0",
+    "tekija": "Jonas Magnus Lystad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Brighton%20and%20Hove.svg"
+   }
+  },
+  "Bristol, City of": {
+   "nimi": "City of Bristol",
+   "wikidata": "Q21693433",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Bristol",
+   "tiivistelma": "City of Bristol är ett ceremoniellt grevskap och en enhetskommun i regionen Sydvästra England i Storbritannien. Kommunen har 494 399 invånare (2024).",
+   "vakiluku": 463405,
+   "pinta_ala_km2": 110,
+   "perustettu": 1835
+  },
+  "Broadland": {
+   "nimi": "Broadland",
+   "wikidata": "Q2116353",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Broadland",
+   "tiivistelma": "Broadland är ett distrikt i grevskapet Norfolk i England, Storbritannien. Distriktet har 138 157 invånare (2024).",
+   "vakiluku": 129464,
+   "pinta_ala_km2": 552,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Sally Oliver",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ]
+  },
+  "Bromley": {
+   "nimi": "London Borough of Bromley",
+   "wikidata": "Q208201",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Bromley",
+   "tiivistelma": "London Borough of Bromley är den största av Londons kommuner (boroughs). Det ligger i den sydöstra delen av staden, har en yta på 150 km² och 330 000 invånare (2022).[källa behövs]",
+   "vakiluku": 331096,
+   "pinta_ala_km2": 150,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Fatboy Slim",
+     "kuvaus": "brittisk musiker, musikproducent och DJ"
+    },
+    {
+     "nimi": "Poly Styrene",
+     "kuvaus": "brittisk musiker och sångare"
+    },
+    {
+     "nimi": "Wilfred Baddeley",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000006.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Bromley.svg"
+   }
+  },
+  "Bromsgrove": {
+   "nimi": "Bromsgrove District",
+   "wikidata": "Q1744694",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Bromsgrove_District",
+   "tiivistelma": "Bromsgrove District är ett distrikt i grevskapet Worcestershire i England, Storbritannien. Distriktet har 101 685 invånare (2024).",
+   "vakiluku": 100076,
+   "pinta_ala_km2": 217,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Alfred Edward Housman",
+     "kuvaus": "brittisk poet"
+    },
+    {
+     "nimi": "Rachel Emily Bragg",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Broxbourne": {
+   "nimi": "Broxbourne District",
+   "wikidata": "Q894078",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Broxbourne",
+   "tiivistelma": "Borough of Broxbourne är ett distrikt strax norr om London i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 101 900 invånare (2024).",
+   "vakiluku": 96876,
+   "pinta_ala_km2": 51,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000095.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Broxbourne%20Borough%20Council%20shield.svg"
+   }
+  },
+  "Broxtowe": {
+   "nimi": "Broxtowe District",
+   "wikidata": "Q605605",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Broxtowe",
+   "tiivistelma": "Borough of Broxtowe är ett distrikt i grevskapet Nottinghamshire i England, Storbritannien. Distriktet har 114 565 invånare (2024).",
+   "vakiluku": 112113,
+   "pinta_ala_km2": 80,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Shaun Barker",
+     "kuvaus": "brittisk fotbollsspelare"
+    }
+   ]
+  },
+  "Buckinghamshire": {
+   "nimi": "Buckinghamshire",
+   "wikidata": "Q21694636",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Buckinghamshire_(enhetskommun)",
+   "tiivistelma": "Buckinghamshire är en enhetskommun i det ceremoniella grevskapet Buckinghamshire i England, Storbritannien. Kommunen har 578 772 invånare (2024).",
+   "vakiluku": 560409,
+   "pinta_ala_km2": 1565,
+   "henkilot": [
+    {
+     "nimi": "Giles Milton",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Burnley": {
+   "nimi": "Burnley",
+   "wikidata": "Q894079",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Burnley",
+   "tiivistelma": "Borough of Burnley är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 99 233 invånare (2024).",
+   "vakiluku": 88527,
+   "pinta_ala_km2": 111,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000117.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Mark_vapen.svg: Lokal_Profil\nCoat_of_Arms_of_Henry_IV_of_England_(1399-1413).svg: Sodacan This  PNG graphic was created ",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Burnley%20Borough%20Council.png"
+   }
+  },
+  "Bury": {
+   "nimi": "Metropolitan Borough of Bury",
+   "wikidata": "Q512036",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Bury",
+   "tiivistelma": "Metropolitan Borough of Bury är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 198 921 invånare (2024).",
+   "vakiluku": 190708,
+   "pinta_ala_km2": 99,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000002.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Bull_supporter.svg: Ssolbergj\nCoat_of_Arms_of_The_City_of_London.svg: Sodacan This  PNG graphic was created with Inkscap",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Bury%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Caerphilly": {
+   "nimi": "Caerphilly",
+   "wikidata": "Q748065",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Caerphilly_(kommun)",
+   "tiivistelma": "Caerphilly är en kommun med county borough-status i södra Wales. Det största befolkningscentrat i kommunen är Islwynområdet, med bland annat kommunens administrativa huvudkontor i Hengoed, medan den enskilt största orten är Caerphilly.",
+   "vakiluku": 181019,
+   "pinta_ala_km2": 277,
+   "henkilot": [
+    {
+     "nimi": "Leona Vaughan",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Brian Price",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000018.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croaker",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Caerphilly%20COA%20shield.svg"
+   }
+  },
+  "Calderdale": {
+   "nimi": "Calderdale",
+   "wikidata": "Q1026448",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Calderdale",
+   "tiivistelma": "Calderdale är ett storstadsdistrikt (kommun) i grevskapet West Yorkshire i England, Storbritannien. Distriktet har 210 929 invånare (2024).",
+   "vakiluku": 210082,
+   "pinta_ala_km2": 364,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000033.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croissant_d_or.svg: D2paysac\nTrnova_PZ_CZ_CoA.svg: *Trnova_PZ_CZ_CoA.gif: ?\nderivative work: Martin Kozák (talk)\nBlason_",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Calderdale%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Cambridge": {
+   "nimi": "City of Cambridge",
+   "wikidata": "Q21713103",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Cambridge",
+   "tiivistelma": "City of Cambridge är ett distrikt i grevskapet Cambridgeshire i England, Storbritannien. Distriktet har 149 352 invånare (2024).",
+   "vakiluku": 125758,
+   "pinta_ala_km2": 41,
+   "perustettu": 1835,
+   "henkilot": [
+    {
+     "nimi": "Monty Oxy Moron",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Thomas North Whitehead",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Camden": {
+   "nimi": "London Borough of Camden",
+   "wikidata": "Q202088",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Camden",
+   "tiivistelma": "London Borough of Camden är en kommun (borough) i London som ligger norr om City of Westminster och City of London. Camden har en befolkning på 218 000 personer (2022) och täcker en yta på 22 kvadratkilometer.",
+   "vakiluku": 262226,
+   "pinta_ala_km2": 22,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Peter Ustinov",
+     "kuvaus": "brittisk skådespelare (1921–2004)"
+    },
+    {
+     "nimi": "Henry Addington, 1:e viscount Sidmouth",
+     "kuvaus": "brittisk politiker"
+    },
+    {
+     "nimi": "Skandar Keynes",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000007.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Camden.svg"
+   }
+  },
+  "Cannock Chase": {
+   "nimi": "Cannock Chase",
+   "wikidata": "Q1033439",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cannock_Chase",
+   "tiivistelma": "Cannock Chase är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 104 088 invånare (2024).",
+   "vakiluku": 100109,
+   "pinta_ala_km2": 79,
+   "perustettu": 1974
+  },
+  "Canterbury": {
+   "nimi": "City of Canterbury",
+   "wikidata": "Q1094104",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Canterbury",
+   "tiivistelma": "City of Canterbury är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 162 100 invånare (2024).",
+   "vakiluku": 164553,
+   "pinta_ala_km2": 309,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Richard Wyndham",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000106.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "ModWilson",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Canterbury%20Arms.svg"
+   }
+  },
+  "Cardiff": {
+   "nimi": "Cardiff",
+   "wikidata": "Q24342199",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cardiff_(kommun)",
+   "tiivistelma": "Cardiff är en kommun i riksdelen Wales i Storbritannien. Kommunen har 383 919 invånare (2024).",
+   "vakiluku": 364248,
+   "pinta_ala_km2": 141,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Najla Mangoush",
+     "kuvaus": "Libyens utrikesminister och advokat"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000015.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Felipe Fidelis Tobias",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Cardiff.svg"
+   }
+  },
+  "Carmarthenshire": {
+   "nimi": "Carmarthenshire",
+   "wikidata": "Q217840",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Carmarthenshire",
+   "tiivistelma": "Carmarthenshire är ett grevskap och kommun i Wales. Huvudort är Carmarthen.",
+   "vakiluku": 187568,
+   "pinta_ala_km2": 2370,
+   "henkilot": [
+    {
+     "nimi": "Lindy Hemming",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jonathan Edwards",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Carwyn James",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000010.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Carmarthenshire%20County%20Council.svg"
+   }
+  },
+  "Castle Point": {
+   "nimi": "Castle Point",
+   "wikidata": "Q1049506",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Castle_Point",
+   "tiivistelma": "Castle Point är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 90 581 invånare (2024).",
+   "vakiluku": 90070,
+   "pinta_ala_km2": 45,
+   "perustettu": 1974
+  },
+  "Causeway Coast and Glens": {
+   "nimi": "Causeway Coast and Glens",
+   "wikidata": "Q5054638",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Causeway_Coast_and_Glens",
+   "tiivistelma": "Causeway Coast and Glens är ett distrikt i Nordirland i Storbritannien. Huvudort är Coleraine.",
+   "vakiluku": 141954,
+   "pinta_ala_km2": 1980
+  },
+  "Central Bedfordshire": {
+   "nimi": "Central Bedfordshire",
+   "wikidata": "Q1053723",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Central_Bedfordshire",
+   "tiivistelma": "Central Bedfordshire är en enhetskommun i Bedfordshire i England, Storbritannien. Kommunen har 315 877 invånare (2024).",
+   "vakiluku": 274000,
+   "pinta_ala_km2": 716,
+   "perustettu": 2009,
+   "henkilot": [
+    {
+     "nimi": "Cyril Seedhouse",
+     "kuvaus": "brittisk friidrottare"
+    }
+   ]
+  },
+  "Ceredigion": {
+   "nimi": "Ceredigion",
+   "wikidata": "Q217829",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Ceredigion",
+   "tiivistelma": "Ceredigion är ett grevskap och en kommun i västra Wales. Det var tidigare en del av Dyfed, och var innan dess känt som Cardiganshire.",
+   "vakiluku": 72992,
+   "pinta_ala_km2": 1786,
+   "henkilot": [
+    {
+     "nimi": "Dafydd ap Gwilym",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Catrin Finch",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Ben Lake",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Ceredigion%20County%20Council.svg"
+   }
+  },
+  "Charnwood": {
+   "nimi": "Charnwood District",
+   "wikidata": "Q1067639",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Charnwood",
+   "tiivistelma": "Borough of Charnwood är ett distrikt i grevskapet Leicestershire i England, Storbritannien. Distriktet har 188 385 invånare (2024).",
+   "vakiluku": 184748,
+   "pinta_ala_km2": 279,
+   "perustettu": 1974
+  },
+  "Chelmsford": {
+   "nimi": "Chelmsford",
+   "wikidata": "Q894080",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Chelmsford",
+   "tiivistelma": "City of Chelmsford är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 188 803 invånare (2024).",
+   "vakiluku": 177079,
+   "pinta_ala_km2": 339,
+   "perustettu": 1974
+  },
+  "Cheltenham": {
+   "nimi": "Cheltenham",
+   "wikidata": "Q20989092",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Cheltenham",
+   "tiivistelma": "Borough of Cheltenham är ett distrikt i grevskapet Gloucestershire i England, Storbritannien. Distriktet har 121 739 invånare (2024).",
+   "vakiluku": 117090,
+   "pinta_ala_km2": 47,
+   "perustettu": 1974
+  },
+  "Cherwell": {
+   "nimi": "Cherwell District",
+   "wikidata": "Q1070481",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cherwell_District",
+   "tiivistelma": "Cherwell District är ett distrikt i grevskapet Oxfordshire i England, Storbritannien. Distriktet har 170 426 invånare (2024).",
+   "vakiluku": 149161,
+   "pinta_ala_km2": 589
+  },
+  "Cheshire East": {
+   "nimi": "Cheshire East",
+   "wikidata": "Q1070590",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cheshire_East",
+   "tiivistelma": "Cheshire East är en enhetskommun i Cheshire i England, Storbritannien. Kommunen har 421 298 invånare (2024).",
+   "vakiluku": 380790,
+   "pinta_ala_km2": 1166,
+   "perustettu": 2009,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000049.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Eastern_Crown.svg: Jpb1301\nGold_Griffin_Supporter_(Heraldry).svg: Adelbrecht (talk)\nGeorgian_heraldry_motto.svg: Gaeser\n",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Cheshire%20East%20Borough%20Council.png"
+   }
+  },
+  "Cheshire West and Chester": {
+   "nimi": "Cheshire West and Chester",
+   "wikidata": "Q1070591",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cheshire_West_and_Chester",
+   "tiivistelma": "Cheshire West and Chester är en enhetskommun i Cheshire i England, Storbritannien. Kommunen har 371 652 invånare (2024).",
+   "vakiluku": 340502,
+   "pinta_ala_km2": 917,
+   "perustettu": 2009,
+   "henkilot": [
+    {
+     "nimi": "John Wright Oakes",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Robert Collinson",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Chesterfield": {
+   "nimi": "Chesterfield District",
+   "wikidata": "Q20989091",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Chesterfield_District",
+   "tiivistelma": "Chesterfield är ett distrikt i grevskapet Derbyshire i England, Storbritannien. Distriktet har 106 045 invånare (2024).",
+   "vakiluku": 104110,
+   "pinta_ala_km2": 66,
+   "perustettu": 1974
+  },
+  "Chichester": {
+   "nimi": "Chichester District",
+   "wikidata": "Q1072104",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Chichester_District",
+   "tiivistelma": "Chichester District är ett distrikt i grevskapet West Sussex i England, Storbritannien. Distriktet har 128 934 invånare (2024).",
+   "vakiluku": 120750,
+   "pinta_ala_km2": 786
+  },
+  "Chorley": {
+   "nimi": "Chorley District",
+   "wikidata": "Q894081",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Chorley",
+   "tiivistelma": "Borough of Chorley är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 120 839 invånare (2024).",
+   "vakiluku": 116821,
+   "pinta_ala_km2": 203,
+   "perustettu": 1974
+  },
+  "City of Edinburgh": {
+   "nimi": "City of Edinburgh",
+   "wikidata": "Q2379199",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Edinburgh",
+   "tiivistelma": "City of Edinburgh är en av Skottlands kommuner. Kommunen gränsar mot West Lothian, Midlothian och East Lothian.",
+   "vakiluku": 524930,
+   "pinta_ala_km2": 263
+  },
+  "City of London": {
+   "nimi": "City of London",
+   "wikidata": "Q23311",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_London",
+   "tiivistelma": "City of London är Londons historiska centrum och är en egen stad inom regionen Storlondon, med speciella rättigheter som regionens övriga 32 kommuner (boroughs) inte åtnjuter. Som finansiellt centrum är det jämförbart med Wall Street i New York.",
+   "vakiluku": 8583,
+   "pinta_ala_km2": 3,
+   "henkilot": [
+    {
+     "nimi": "John Vanbrugh",
+     "kuvaus": "brittisk arkitekt och lustspelsförfattare"
+    },
+    {
+     "nimi": "Abraham Cowley",
+     "kuvaus": "brittisk poet"
+    },
+    {
+     "nimi": "Edward Alleyn",
+     "kuvaus": "engelsk skådespelare och teaterledare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000001.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Sodacan",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20The%20City%20of%20London.svg"
+   }
+  },
+  "Clackmannanshire": {
+   "nimi": "Clackmannanshire",
+   "wikidata": "Q207268",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Clackmannanshire",
+   "tiivistelma": "Clackmannanshire är en av Skottlands kommuner och ståthållarskap. Kommunen gränsar mot Perth and Kinross, Stirling och Fife.",
+   "vakiluku": 51540,
+   "pinta_ala_km2": 159,
+   "henkilot": [
+    {
+     "nimi": "Robert Abercromby of Airthrey",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alexander Abercromby",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Clackmannanshire.svg"
+   }
+  },
+  "Colchester": {
+   "nimi": "Colchester (distrikt)",
+   "wikidata": "Q589620",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Colchester",
+   "tiivistelma": "City of Colchester är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 200 222 invånare (2024).",
+   "vakiluku": 192523,
+   "pinta_ala_km2": 329,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Helen Boaden",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000071.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Colchester.svg"
+   }
+  },
+  "Conwy": {
+   "nimi": "Conwy",
+   "wikidata": "Q817971",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Conwy_(kommun)",
+   "tiivistelma": "Conwy är en kommun med county borough-status i norra Wales. Den ligger i ett område som tidigare tillhörde Caernarfonshire och Denbighshire.",
+   "vakiluku": 117181,
+   "pinta_ala_km2": 1126,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Margaret Lacey",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ]
+  },
+  "Cornwall": {
+   "nimi": "Cornwall",
+   "wikidata": "Q22338583",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cornwall_(enhetskommun)",
+   "tiivistelma": "Cornwall är en enhetskommun i det ceremoniella grevskapet Cornwall i England, Storbritannien. Kommunen har 583 289 invånare (2024).",
+   "vakiluku": 565968,
+   "pinta_ala_km2": 3546,
+   "henkilot": [
+    {
+     "nimi": "Endellion",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Paul Carr",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Cotswold": {
+   "nimi": "Cotswold District",
+   "wikidata": "Q581022",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cotswold_District",
+   "tiivistelma": "Cotswold District är ett distrikt i grevskapet Gloucestershire i England, Storbritannien. Distriktet har 91 661 invånare (2024).",
+   "vakiluku": 91563,
+   "pinta_ala_km2": 1165,
+   "perustettu": 1974
+  },
+  "County Durham": {
+   "nimi": "County Durham",
+   "wikidata": "Q1137286",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Durham_(enhetskommun)",
+   "tiivistelma": "Durham, ofta kallat County Durham, är en enhetskommun i det ceremoniella grevskapet Durham i England, Storbritannien. Kommunen har 538 011 invånare (2024).",
+   "vakiluku": 526980,
+   "pinta_ala_km2": 2226,
+   "henkilot": [
+    {
+     "nimi": "Anthony White",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Coventry": {
+   "nimi": "Coventry",
+   "wikidata": "Q20986417",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Coventry",
+   "tiivistelma": "City of Coventry är ett storstadsdistrikt (kommun) i grevskapet West Midlands i England, Storbritannien. Distriktet har 369 026 invånare (2024).",
+   "vakiluku": 366785,
+   "pinta_ala_km2": 99,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Tony Smith",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000026.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Coventry%20City%20Council.svg"
+   }
+  },
+  "Crawley": {
+   "nimi": "Borough of Crawley",
+   "wikidata": "Q21886073",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Crawley",
+   "tiivistelma": "Borough of Crawley är ett distrikt i grevskapet West Sussex i England, Storbritannien. Distriktet har 124 008 invånare (2024).",
+   "vakiluku": 112448,
+   "pinta_ala_km2": 45
+  },
+  "Croydon": {
+   "nimi": "London Borough of Croydon",
+   "wikidata": "Q26888",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Croydon",
+   "tiivistelma": "London Borough of Croydon är en kommun i södra London, omkring 15 km söder om centrala London. Crystal Palace FC:s hemmaarena Selhurst Park ligger i South Norwood.",
+   "vakiluku": 385346,
+   "pinta_ala_km2": 86,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Barbara Burke",
+     "kuvaus": "brittisk friidrottare"
+    },
+    {
+     "nimi": "Cicely M. Barker",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Fergus Anderson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Croydon.svg"
+   }
+  },
+  "Cumberland": {
+   "nimi": "Cumberland",
+   "wikidata": "Q110536343",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Cumberland_(enhetskommun)",
+   "tiivistelma": "Cumberland är en enhetskommun i det ceremoniella grevskapet Cumbria i England, Storbritannien. Kommunen har 280 495 invånare (2024).",
+   "vakiluku": 275390,
+   "perustettu": 2023
+  },
+  "Dacorum": {
+   "nimi": "Dacorum District",
+   "wikidata": "Q931180",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Dacorum",
+   "tiivistelma": "Dacorum är ett distrikt i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 161 420 invånare (2024).",
+   "vakiluku": 154280,
+   "pinta_ala_km2": 212,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Hayley Ladd",
+     "kuvaus": "walesisk fotbollsspelare"
+    },
+    {
+     "nimi": "Melanie Liburd",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Amelia Brightman",
+     "kuvaus": "brittisk sångare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000096.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Ben1we",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Dacorum%20Coat%20of%20Arms.svg"
+   }
+  },
+  "Darlington": {
+   "nimi": "Darlington",
+   "wikidata": "Q1171024",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Darlington",
+   "tiivistelma": "Borough of Darlington är en enhetskommun i Durham i England i Storbritannien. Kommunen har 112 489 invånare (2024).",
+   "vakiluku": 109469,
+   "pinta_ala_km2": 197,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Frank Hall Standish",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Darlington%20Borough%20Council.svg"
+   }
+  },
+  "Dartford": {
+   "nimi": "Borough of Dartford",
+   "wikidata": "Q894082",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Dartford",
+   "tiivistelma": "Dartford är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 125 011 invånare (2024).",
+   "vakiluku": 109709,
+   "pinta_ala_km2": 73
+  },
+  "Denbighshire": {
+   "nimi": "Denbighshire",
+   "wikidata": "Q650682",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Denbighshire",
+   "tiivistelma": "Denbighshire är ett grevskap och en kommun i norra Wales med Ruthin som huvudort. 1974 införlivades grevskapet med Clwyd. Det återupprättades 1996, men omfattande ett mindre område än tidigare.",
+   "vakiluku": 95330,
+   "pinta_ala_km2": 837,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Isaac Roberts",
+     "kuvaus": "brittisk astronom"
+    },
+    {
+     "nimi": "Ann Clwyd",
+     "kuvaus": "brittisk politiker"
+    },
+    {
+     "nimi": "Sara Sugarman",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000004.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Denbighshire%20County%20Council.svg"
+   }
+  },
+  "Derby": {
+   "nimi": "City of Derby",
+   "wikidata": "Q21885980",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Derby",
+   "tiivistelma": "City of Derby är en enhetskommun i grevskapet Derbyshire i England, Storbritannien. Kommunen har 274 149 invånare (2024).",
+   "vakiluku": 257174,
+   "pinta_ala_km2": 78,
+   "perustettu": 1835
+  },
+  "Derbyshire Dales": {
+   "nimi": "Derbyshire Dales District",
+   "wikidata": "Q1199980",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Derbyshire_Dales",
+   "tiivistelma": "Derbyshire Dales är ett distrikt i grevskapet Derbyshire i England, Storbritannien. Distriktet har 71 757 invånare (2024).",
+   "vakiluku": 71977,
+   "pinta_ala_km2": 792,
+   "perustettu": 1974
+  },
+  "Derry City and Strabane": {
+   "nimi": "Derry City and Strabane",
+   "wikidata": "Q15213714",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Derry_City_and_Strabane",
+   "tiivistelma": "Derry City and Strabane är ett distrikt i Nordirland i Storbritannien. Distriktet bildades 2015 i samband med en distriktsreform genom en sammanslagning av distrikten Derry och Strabane.",
+   "vakiluku": 152383,
+   "pinta_ala_km2": 1238,
+   "henkilot": [
+    {
+     "nimi": "Una Henry",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Doncaster": {
+   "nimi": "Metropolitan Borough of Doncaster",
+   "wikidata": "Q1925846",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Doncaster",
+   "tiivistelma": "City of Doncaster är ett storstadsdistrikt (kommun) i South Yorkshire i England, Storbritannien. Distriktet har 319 765 invånare (2024).",
+   "vakiluku": 310542,
+   "pinta_ala_km2": 568,
+   "perustettu": 1974
+  },
+  "Dorset": {
+   "nimi": "Dorset",
+   "wikidata": "Q55231693",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Dorset_(enhetskommun)",
+   "tiivistelma": "Dorset är en enhetskommun i det ceremoniella grevskapet Dorset i England, Storbritannien. Kommunen har 389 947 invånare (2024).",
+   "vakiluku": 376484,
+   "pinta_ala_km2": 2491,
+   "henkilot": [
+    {
+     "nimi": "Stephen Buckland",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Dover": {
+   "nimi": "Dover District",
+   "wikidata": "Q1971967",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Dover_District",
+   "tiivistelma": "Dover District är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 119 768 invånare (2024).",
+   "vakiluku": 116969,
+   "pinta_ala_km2": 315,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000108.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Dover%20District%20Council.svg"
+   }
+  },
+  "Dudley": {
+   "nimi": "Metropolitan Borough of Dudley",
+   "wikidata": "Q1617704",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Dudley",
+   "tiivistelma": "Metropolitan Borough of Dudley är ett storstadsdistrikt (kommun) i grevskapet West Midlands i England, Storbritannien. Distriktet har 331 930 invånare (2024) Det ligger i ett område som kallas för \"Black Country\".",
+   "vakiluku": 320626,
+   "pinta_ala_km2": 98,
+   "perustettu": 1974
+  },
+  "Dumfries and Galloway": {
+   "nimi": "Dumfries and Galloway",
+   "wikidata": "Q126514",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Dumfries_and_Galloway",
+   "tiivistelma": "Dumfries and Galloway är en av Skottlands kommuner. Kommunen gränsar mot South Ayrshire, East Ayrshire, South Lanarkshire och Scottish Borders samt Cumbria i England.",
+   "vakiluku": 148860,
+   "pinta_ala_km2": 6427,
+   "perustettu": 1975,
+   "henkilot": [
+    {
+     "nimi": "William Paterson",
+     "kuvaus": "brittisk ekonom"
+    },
+    {
+     "nimi": "Dervorguilla av Galloway",
+     "kuvaus": "skotsk adelskvinna"
+    },
+    {
+     "nimi": "Marjorie, hertiginna av Carrick",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000006.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "IndysNotHere",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20the%20Dumfries%20and%20Galloway%20Regional%20Council.svg"
+   }
+  },
+  "Dundee City": {
+   "nimi": "City of Dundee",
+   "wikidata": "Q2357511",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Dundee_City",
+   "tiivistelma": "Dundee City är en av Skottlands kommuner, belägen i den östra delen av Skottland. Kommunen har status som city och lieutenancy area (ståthållarskap), och omfattar även andra orter än själva Dundee.",
+   "vakiluku": 149320,
+   "pinta_ala_km2": 60,
+   "perustettu": 1996
+  },
+  "Ealing": {
+   "nimi": "London Borough of Ealing",
+   "wikidata": "Q207218",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Ealing",
+   "tiivistelma": "London Borough of Ealing är en kommun i västra London med ungefär 370 000 invånare (2022). Den har fått namn efter stadsdelen Ealing.",
+   "vakiluku": 341982,
+   "pinta_ala_km2": 56,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Mike Coughlan",
+     "kuvaus": "brittisk ingenjör"
+    },
+    {
+     "nimi": "Neal Foulds",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Steve Soper",
+     "kuvaus": "brittisk racerförare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000009.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Di (they-them) and Berrely, based on source",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ealing%20coat%20of%20arms.svg"
+   }
+  },
+  "East Ayrshire": {
+   "nimi": "East Ayrshire",
+   "wikidata": "Q209135",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Ayrshire",
+   "tiivistelma": "East Ayrshire är en av Skottlands kommuner. Kommunen gränsar till North Ayrshire, Renfrewshire, South Lanarkshire, South Ayrshire och Dumfries and Galloway.",
+   "vakiluku": 122010,
+   "pinta_ala_km2": 1262,
+   "henkilot": [
+    {
+     "nimi": "James Dunlop of Dunlop",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20East%20Ayrshire.svg"
+   }
+  },
+  "East Cambridgeshire": {
+   "nimi": "East Cambridgeshire",
+   "wikidata": "Q1277768",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Cambridgeshire",
+   "tiivistelma": "East Cambridgeshire är ett distrikt i grevskapet Cambridgeshire i England, Storbritannien. Distriktet har 92 906 invånare (2024).",
+   "vakiluku": 89394,
+   "pinta_ala_km2": 651,
+   "perustettu": 1974
+  },
+  "East Devon": {
+   "nimi": "East Devon",
+   "wikidata": "Q1277825",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Devon",
+   "tiivistelma": "East Devon är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 158 239 invånare (2024).",
+   "vakiluku": 154500,
+   "pinta_ala_km2": 814,
+   "henkilot": [
+    {
+     "nimi": "Thomas Jenkins",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "East Dunbartonshire": {
+   "nimi": "East Dunbartonshire",
+   "wikidata": "Q211889",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Dunbartonshire",
+   "tiivistelma": "East Dunbartonshire är en av Skottlands kommuner. Kommunen gränsar till West Dunbartonshire, Glasgow, Stirling och North Lanarkshire.",
+   "vakiluku": 108640,
+   "pinta_ala_km2": 174,
+   "henkilot": [
+    {
+     "nimi": "Lesley Fitz-Simons",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000045.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20East%20Dunbartonshire.svg"
+   }
+  },
+  "East Hampshire": {
+   "nimi": "East Hampshire District",
+   "wikidata": "Q1277894",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Hampshire",
+   "tiivistelma": "East Hampshire är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 129 975 invånare (2024).",
+   "vakiluku": 120681,
+   "pinta_ala_km2": 514
+  },
+  "East Hertfordshire": {
+   "nimi": "East Hertfordshire District",
+   "wikidata": "Q582288",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Hertfordshire",
+   "tiivistelma": "East Hertfordshire är ett distrikt i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 156 875 invånare (2024).",
+   "vakiluku": 151635,
+   "pinta_ala_km2": 476
+  },
+  "East Lindsey": {
+   "nimi": "East Lindsey",
+   "wikidata": "Q82181",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Lindsey",
+   "tiivistelma": "East Lindsey är ett distrikt i grevskapet Lincolnshire i England, Storbritannien. Distriktet har 145 183 invånare (2024).",
+   "vakiluku": 144415,
+   "pinta_ala_km2": 1765,
+   "perustettu": 1974
+  },
+  "East Lothian": {
+   "nimi": "East Lothian",
+   "wikidata": "Q207257",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Lothian",
+   "tiivistelma": "East Lothian, även kallat Haddingtonshire, är en av Skottlands kommuner, ståthållarskap och traditionella grevskap. Kommunen gränsar mot Edinburgh, Scottish Borders och Midlothian.",
+   "vakiluku": 107090,
+   "pinta_ala_km2": 679,
+   "henkilot": [
+    {
+     "nimi": "William Dunbar",
+     "kuvaus": "skotsk skald, 1460-ca 1513"
+    },
+    {
+     "nimi": "Robert Wight",
+     "kuvaus": "skotsk botanist"
+    },
+    {
+     "nimi": "David Lyndsay",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000010.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20East%20Lothian.svg"
+   }
+  },
+  "East Renfrewshire": {
+   "nimi": "East Renfrewshire",
+   "wikidata": "Q211925",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Renfrewshire",
+   "tiivistelma": "East Renfrewshire är en av Skottlands kommuner. East Renfrewshire gränsar mot North Ayrshire, East Ayrshire, Renfrewshire, South Lanarkshire och Glasgow.",
+   "vakiluku": 95530,
+   "pinta_ala_km2": 174
+  },
+  "East Riding of Yorkshire": {
+   "nimi": "East Riding of Yorkshire",
+   "wikidata": "Q21695028",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Riding_of_Yorkshire_(enhetskommun)",
+   "tiivistelma": "East Riding of Yorkshire är en enhetskommun i grevskapet East Riding of Yorkshire i England, Storbritannien. Kommunen har 355 884 invånare (2024).",
+   "vakiluku": 339614,
+   "pinta_ala_km2": 2405
+  },
+  "East Staffordshire": {
+   "nimi": "East Staffordshire",
+   "wikidata": "Q1278032",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Staffordshire",
+   "tiivistelma": "East Staffordshire är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 129 659 invånare (2024).",
+   "vakiluku": 125760,
+   "pinta_ala_km2": 387,
+   "perustettu": 1974
+  },
+  "East Suffolk": {
+   "nimi": "East Suffolk",
+   "wikidata": "Q54554266",
+   "wikipedia": "https://sv.wikipedia.org/wiki/East_Suffolk_District",
+   "tiivistelma": "East Suffolk District är ett distrikt i grevskapet Suffolk i England, Storbritannien. Distriktet har 249 664 invånare (2024).",
+   "vakiluku": 248249,
+   "pinta_ala_km2": 1262,
+   "perustettu": 2019
+  },
+  "Eastbourne": {
+   "nimi": "Eastbourne District",
+   "wikidata": "Q21886079",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Eastbourne",
+   "tiivistelma": "Eastbourne är ett distrikt i grevskapet East Sussex i England, Storbritannien. Distriktet har 104 259 invånare (2024).",
+   "vakiluku": 103160,
+   "pinta_ala_km2": 44,
+   "perustettu": 1883
+  },
+  "Eastleigh": {
+   "nimi": "Eastleigh District",
+   "wikidata": "Q894083",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Eastleigh",
+   "tiivistelma": "Borough of Eastleigh är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 142 933 invånare (2024).",
+   "vakiluku": 129000,
+   "pinta_ala_km2": 80
+  },
+  "Elmbridge": {
+   "nimi": "Elmbridge",
+   "wikidata": "Q1292592",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Elmbridge",
+   "tiivistelma": "Borough of Elmbridge är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 141 926 invånare (2024).",
+   "vakiluku": 136626,
+   "pinta_ala_km2": 95,
+   "henkilot": [
+    {
+     "nimi": "Andrew Donald Booth",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000207.png",
+    "lisenssi": "Attribution",
+    "tekija": "Elmbridge B.C.",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Elmbridge%20BC%20Crest%20of%20Arms.png"
+   }
+  },
+  "Enfield": {
+   "nimi": "London Borough of Enfield",
+   "wikidata": "Q210531",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Enfield",
+   "tiivistelma": "London Borough of Enfield är en kommun (borough) i norra London. Bland annat ligger delområdena Edmonton, Southgate och Enfield Town i Enfield.",
+   "vakiluku": 333869,
+   "pinta_ala_km2": 81,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Laura Haddock",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Emma D'Arcy",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Dexter Fletcher",
+     "kuvaus": "brittisk skådespelare och regissör"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000010.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Enfield.svg"
+   }
+  },
+  "Epping Forest": {
+   "nimi": "Epping Forest",
+   "wikidata": "Q1347659",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Epping_Forest_District",
+   "tiivistelma": "Epping Forest District är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 137 451 invånare (2024).",
+   "vakiluku": 131137,
+   "pinta_ala_km2": 339,
+   "perustettu": 1974
+  },
+  "Epsom and Ewell": {
+   "nimi": "Epsom and Ewell",
+   "wikidata": "Q257577",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Epsom_and_Ewell",
+   "tiivistelma": "Epsom and Ewell är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 83 288 invånare (2024).",
+   "vakiluku": 81184,
+   "pinta_ala_km2": 34
+  },
+  "Erewash": {
+   "nimi": "Erewash District",
+   "wikidata": "Q1350065",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Erewash",
+   "tiivistelma": "Erewash är ett distrikt i grevskapet Derbyshire i England, Storbritannien. Distriktet har 114 253 invånare (2024).",
+   "vakiluku": 115490,
+   "pinta_ala_km2": 110,
+   "perustettu": 1974
+  },
+  "Exeter": {
+   "nimi": "Exeter District",
+   "wikidata": "Q21886091",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Exeter",
+   "tiivistelma": "City of Exeter är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 138 399 invånare (2024).",
+   "vakiluku": 130428,
+   "pinta_ala_km2": 47,
+   "henkilot": [
+    {
+     "nimi": "James Fox",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Falkirk": {
+   "nimi": "Falkirk",
+   "wikidata": "Q216802",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Falkirk_(kommun)",
+   "tiivistelma": "Falkirk är en av Skottlands kommuner (council areas). Kommunen gränsar mot North Lanarkshire, Stirling och West Lothian och täcker delar av de traditionella grevskapen Stirlingshire och West Lothian.",
+   "vakiluku": 160340,
+   "pinta_ala_km2": 297,
+   "henkilot": [
+    {
+     "nimi": "Alan Bissett",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Stuart McManus",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Fareham": {
+   "nimi": "Fareham District",
+   "wikidata": "Q894084",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Fareham",
+   "tiivistelma": "Fareham är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 115 428 invånare (2024).",
+   "vakiluku": 116339,
+   "pinta_ala_km2": 74,
+   "perustettu": 1894
+  },
+  "Fenland": {
+   "nimi": "Fenland District",
+   "wikidata": "Q176029",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Fenland",
+   "tiivistelma": "Fenland är ett distrikt i grevskapet Cambridgeshire i England, Storbritannien. Distriktet har 104 896 invånare (2024).",
+   "vakiluku": 101491,
+   "pinta_ala_km2": 546,
+   "perustettu": 1974
+  },
+  "Fermanagh and Omagh": {
+   "nimi": "Fermanagh and Omagh",
+   "wikidata": "Q5444365",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Fermanagh_and_Omagh",
+   "tiivistelma": "Fermanagh and Omagh är ett distrikt i Nordirland i Storbritannien. Distriktet bildades 2015 i samband med en distriktsreform genom en sammanslagning av distrikten Fermanagh och Omagh.",
+   "vakiluku": 117687,
+   "pinta_ala_km2": 2857,
+   "perustettu": 2015
+  },
+  "Fife": {
+   "nimi": "Fife",
+   "wikidata": "Q201149",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Fife",
+   "tiivistelma": "Fife är en kommun och ett ståthållarskap i östra delen av centrala Skottland. Centralort är Glenrothes.",
+   "vakiluku": 373550,
+   "pinta_ala_km2": 1325,
+   "henkilot": [
+    {
+     "nimi": "Elisabet Stuart",
+     "kuvaus": "kurfurstinna av Pfalz och drottning av Böhmen"
+    },
+    {
+     "nimi": "Thomas Bruce, 7:e earl av Elgin",
+     "kuvaus": "brittisk diplomat"
+    },
+    {
+     "nimi": "James Braid",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000047.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Fife%20Area%20Council.svg"
+   }
+  },
+  "Flintshire": {
+   "nimi": "Flintshire",
+   "wikidata": "Q505610",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Flintshire",
+   "tiivistelma": "Flintshire är ett grevskap och en kommun i norra Wales. Det gränsar mot Wrexham och Denbighshire i Wales, och Merseyside och Cheshire i England.",
+   "vakiluku": 155593,
+   "pinta_ala_km2": 437,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Sam Livesey",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Nicolas Lloyd",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Fanny Mary Katherine Bulkeley-Owen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Flintshire%20County%20Council.svg"
+   }
+  },
+  "Folkestone and Hythe": {
+   "nimi": "Folkestone and Hythe",
+   "wikidata": "Q635416",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Folkestone_and_Hythe",
+   "tiivistelma": "Folkestone and Hythe är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 112 411 invånare (2024).",
+   "vakiluku": 110237,
+   "pinta_ala_km2": 357
+  },
+  "Forest of Dean": {
+   "nimi": "Forest of Dean District",
+   "wikidata": "Q902998",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Forest_of_Dean_District",
+   "tiivistelma": "Forest of Dean är ett distrikt i grevskapet Gloucestershire i England, Storbritannien. Distriktet har 89 753 invånare (2024).",
+   "vakiluku": 87937,
+   "pinta_ala_km2": 526
+  },
+  "Fylde": {
+   "nimi": "Fylde",
+   "wikidata": "Q1478592",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Fylde",
+   "tiivistelma": "Borough of Fylde är ett distrikt i grevskapet Lancashire i England i Storbritannien. Distriktet har 85 447 invånare (2024).",
+   "vakiluku": 79770,
+   "pinta_ala_km2": 166,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "John Southworth",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Gateshead": {
+   "nimi": "Metropolitan Borough of Gateshead",
+   "wikidata": "Q929034",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Gateshead",
+   "tiivistelma": "Metropolitan Borough of Gateshead är ett storstadsdistrikt (kommun) i Tyne and Wear i England, Storbritannien. Distriktet har 202 760 invånare (2024).",
+   "vakiluku": 202508,
+   "pinta_ala_km2": 142,
+   "perustettu": 1974
+  },
+  "Gedling": {
+   "nimi": "Gedling District",
+   "wikidata": "Q1497633",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Gedling",
+   "tiivistelma": "Borough of Gedling är ett distrikt i grevskapet Nottinghamshire i England, Storbritannien. Distriktet har 120 179 invånare (2024).",
+   "vakiluku": 117786,
+   "pinta_ala_km2": 120,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000173.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Gedling.svg"
+   }
+  },
+  "Glasgow City": {
+   "nimi": "Glasgow City",
+   "wikidata": "Q55934339",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Glasgow_City",
+   "tiivistelma": "Glasgow City är en av Skottlands kommuner och har även status som city och ståthållarskap. Glasgow City upprättades år 1996 och gränsar mot Renfrewshire, West Dunbartonshire, East Dunbartonshire, North Lanarkshire, South Lanarkshire och East Renfrewshire.",
+   "vakiluku": 633120,
+   "pinta_ala_km2": 175,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000049.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "TilmannR",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Glasgow%20Coat%20of%20Arms%201996.svg"
+   }
+  },
+  "Gloucester": {
+   "nimi": "Gloucester District",
+   "wikidata": "Q20986485",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Gloucester",
+   "tiivistelma": "Gloucester är ett distrikt i grevskapet Gloucestershire i England, Storbritannien. Distriktet har 138 598 invånare (2024).",
+   "vakiluku": 129285,
+   "pinta_ala_km2": 41,
+   "perustettu": 1888,
+   "henkilot": [
+    {
+     "nimi": "Charles Holloway James",
+     "kuvaus": "brittisk arkitekt"
+    }
+   ]
+  },
+  "Gosport": {
+   "nimi": "Gosport District",
+   "wikidata": "Q21886128",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Gosport",
+   "tiivistelma": "Gosport är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 82 921 invånare (2024).",
+   "vakiluku": 85283,
+   "pinta_ala_km2": 25,
+   "perustettu": 1894
+  },
+  "Gravesham": {
+   "nimi": "Borough of Gravesham",
+   "wikidata": "Q1459781",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Gravesham",
+   "tiivistelma": "Borough of Gravesham är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 110 671 invånare (2024).",
+   "vakiluku": 106385,
+   "pinta_ala_km2": 99
+  },
+  "Great Yarmouth": {
+   "nimi": "Great Yarmouth District",
+   "wikidata": "Q894085",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Great_Yarmouth",
+   "tiivistelma": "Borough of Great Yarmouth är ett distrikt i grevskapet Norfolk i England, Storbritannien. Distriktet har 100 529 invånare (2024).",
+   "vakiluku": 99370,
+   "pinta_ala_km2": 174,
+   "perustettu": 1974
+  },
+  "Greenwich": {
+   "nimi": "Royal Borough of Greenwich",
+   "wikidata": "Q693450",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Royal_Borough_of_Greenwich",
+   "tiivistelma": "Royal Borough of Greenwich (Greenwich uttalas eller ) är en kommun i sydöstra London, som har fått namn efter stadsdelen Greenwich. Den bildades 1965 genom en sammanslagning av Greenwich och den del av Woolwich som låg söder om floden Themsen.",
+   "vakiluku": 291080,
+   "pinta_ala_km2": 47,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "John Lilburne",
+     "kuvaus": "brittisk politiker"
+    },
+    {
+     "nimi": "Jill Posener",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Frederick William Lambert Sladen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000011.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Royal%20Borough%20of%20Greenwich.svg"
+   }
+  },
+  "Guildford": {
+   "nimi": "Guildford District",
+   "wikidata": "Q894086",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Guildford",
+   "tiivistelma": "Borough of Guildford är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 151 359 invånare (2024).",
+   "vakiluku": 147889,
+   "pinta_ala_km2": 271,
+   "perustettu": 1974
+  },
+  "Gwynedd": {
+   "nimi": "Gwynedd",
+   "wikidata": "Q109128",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Gwynedd",
+   "tiivistelma": "Gwynedd är en kommun, tillika ett administrativt och bevarat grevskap i den nordliga delen av Wales. Det har fått sitt namn efter medeltidskungariket Gwynedd, och skapades 1974 som ett av åtta administrativa grevskap i Wales.",
+   "vakiluku": 124560,
+   "pinta_ala_km2": 2535,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Bryn Terfel",
+     "kuvaus": "brittisk operasångare"
+    },
+    {
+     "nimi": "Robin Llywelyn",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Guto Dafydd",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000002.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "AlexD",
+    "lahde": "https://commons.wikimedia.org/wiki/File:GWYNEDD%20Shield.svg"
+   }
+  },
+  "Hackney": {
+   "nimi": "London Borough of Hackney",
+   "wikidata": "Q205679",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Hackney",
+   "tiivistelma": "London Borough of Hackney är en kommun (borough) i nordöstra London med cirka 260 000 invånare (2022). Den bildades 1965 när Borough of Hackney, Borough of Shoreditch och Borough of Stoke Newington slogs ihop.",
+   "vakiluku": 279665,
+   "pinta_ala_km2": 19,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Idris Elba",
+     "kuvaus": "brittisk skådespelare, sångare, rappare och DJ"
+    },
+    {
+     "nimi": "John Berger",
+     "kuvaus": "brittisk författare, målare och konstteoretiker"
+    },
+    {
+     "nimi": "Adrian Smith",
+     "kuvaus": "brittisk gitarrist"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000012.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Nick.perry.uk",
+    "lahde": "https://commons.wikimedia.org/wiki/File:LB%20Hackney%20Coat%20of%20Arms.svg"
+   }
+  },
+  "Halton": {
+   "nimi": "Borough of Halton",
+   "wikidata": "Q376141",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Halton",
+   "tiivistelma": "Borough of Halton är en enhetskommun i i Cheshire i Storbritannien. Den ligger i riksdelen England, i den centrala delen av landet, 270 km nordväst om huvudstaden London.",
+   "vakiluku": 128432,
+   "pinta_ala_km2": 79,
+   "perustettu": 1974
+  },
+  "Hammersmith and Fulham": {
+   "nimi": "London Borough of Hammersmith and Fulham",
+   "wikidata": "Q40478",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Hammersmith_and_Fulham",
+   "tiivistelma": "London Borough of Hammersmith and Fulham är en London borough (kommun) i västra London.",
+   "vakiluku": 185426,
+   "pinta_ala_km2": 16,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "John Fenning",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Digga D",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Claude Friese-Greene",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000013.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Hammersmith%20and%20Fulham.svg"
+   }
+  },
+  "Harborough": {
+   "nimi": "Harborough District",
+   "wikidata": "Q1556307",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Harborough_District",
+   "tiivistelma": "Harborough District är ett distrikt i grevskapet Leicestershire i England, Storbritannien. Distriktet har 104 713 invånare (2024).",
+   "vakiluku": 100481,
+   "pinta_ala_km2": 592,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Dave Alex Riddett",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Haringey": {
+   "nimi": "London Borough of Haringey",
+   "wikidata": "Q213560",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Haringey",
+   "tiivistelma": "London Borough of Haringey är en borough i norra London med cirka 260 000 invånare (2022).",
+   "vakiluku": 270624,
+   "pinta_ala_km2": 30,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Olivia Dean",
+     "kuvaus": "brittisk sångare och låtskrivare"
+    },
+    {
+     "nimi": "Emer Kenny",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Louis Ashbourne Serkis",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000014.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Haringey.svg"
+   }
+  },
+  "Harlow": {
+   "nimi": "Harlow District",
+   "wikidata": "Q21713095",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Harlow_District",
+   "tiivistelma": "Harlow District är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 98 235 invånare (2024).",
+   "vakiluku": 86594,
+   "pinta_ala_km2": 31,
+   "perustettu": 1955
+  },
+  "Harrow": {
+   "nimi": "London Borough of Harrow",
+   "wikidata": "Q210476",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Harrow",
+   "tiivistelma": "London Borough of Harrow är en borough i nordvästra London med cirka 260 000 invånare (2022).",
+   "vakiluku": 250149,
+   "pinta_ala_km2": 50,
+   "perustettu": 1934,
+   "henkilot": [
+    {
+     "nimi": "Roger Bannister",
+     "kuvaus": "brittisk löpare och akademiker"
+    },
+    {
+     "nimi": "Ian Dury",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Guy Butler",
+     "kuvaus": "brittisk friidrottare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000015.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Harrow.svg"
+   }
+  },
+  "Hart": {
+   "nimi": "Hart District",
+   "wikidata": "Q1587050",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Hart_District",
+   "tiivistelma": "Hart är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 103 162 invånare (2024).",
+   "vakiluku": 96293,
+   "pinta_ala_km2": 215,
+   "perustettu": 1974
+  },
+  "Hartlepool": {
+   "nimi": "Borough of Hartlepool",
+   "wikidata": "Q2594690",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Hartlepool",
+   "tiivistelma": "Borough of Hartlepool är en enhetskommun i Durham i England i Storbritannien.",
+   "vakiluku": 93242,
+   "pinta_ala_km2": 94,
+   "perustettu": 1974
+  },
+  "Hastings": {
+   "nimi": "Hastings District",
+   "wikidata": "Q21886138",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Hastings",
+   "tiivistelma": "Hastings är ett distrikt i grevskapet East Sussex i England, Storbritannien. Distriktet har 91 219 invånare (2024).",
+   "vakiluku": 92855,
+   "pinta_ala_km2": 30,
+   "perustettu": 1835
+  },
+  "Havant": {
+   "nimi": "Havant District",
+   "wikidata": "Q4946344",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Havant",
+   "tiivistelma": "Havant är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 126 985 invånare (2024).",
+   "vakiluku": 125813,
+   "pinta_ala_km2": 55
+  },
+  "Havering": {
+   "nimi": "London Borough of Havering",
+   "wikidata": "Q215038",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Havering",
+   "tiivistelma": "London Borough of Havering är en borough i nordöstra London med cirka 265 000 invånare (2022).",
+   "vakiluku": 257810,
+   "pinta_ala_km2": 112,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Tony Adams",
+     "kuvaus": "engelsk fotbollsspelare"
+    },
+    {
+     "nimi": "Francis Quarles",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Daniel Huttlestone",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000016.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Havering.svg"
+   }
+  },
+  "Herefordshire, County of": {
+   "nimi": "Herefordshire, County of",
+   "wikidata": "Q23129",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Herefordshire",
+   "tiivistelma": "Herefordshire, officiellt County of Herefordshire, är ett ceremoniellt grevskap och en enhetskommun i regionen West Midlands i England. Huvudort är Hereford.",
+   "vakiluku": 193615,
+   "pinta_ala_km2": 2180,
+   "henkilot": [
+    {
+     "nimi": "Rosamund Clifford",
+     "kuvaus": "engelsk adelsdam"
+    },
+    {
+     "nimi": "James Brydges, 1:e hertig av Chandos",
+     "kuvaus": "brittisk politiker"
+    },
+    {
+     "nimi": "John Oldcastle",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Herefordshire%20County%20Council.svg"
+   }
+  },
+  "Hertsmere": {
+   "nimi": "Hertsmere District",
+   "wikidata": "Q1614775",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Hertsmere",
+   "tiivistelma": "Hertsmere är ett distrikt strax norr om London i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 110 212 invånare (2024).",
+   "vakiluku": 104205,
+   "pinta_ala_km2": 101,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000098.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hertsmere%20Borough%20Council%20shield.svg"
+   }
+  },
+  "High Peak": {
+   "nimi": "High Peak District",
+   "wikidata": "Q1458060",
+   "wikipedia": "https://sv.wikipedia.org/wiki/High_Peak_District",
+   "tiivistelma": "High Peak District är ett distrikt i grevskapet Derbyshire i England, Storbritannien. Distriktet har 91 959 invånare (2024).",
+   "vakiluku": 92221,
+   "pinta_ala_km2": 539,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000037.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20High%20Peak.svg"
+   }
+  },
+  "Highland": {
+   "nimi": "Highland",
+   "wikidata": "Q208279",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Highland",
+   "tiivistelma": "Highland är den största kommunen i Skottland. Kommunen gränsar mot Perth and Kinross, Moray och Argyll and Bute.",
+   "vakiluku": 235540,
+   "pinta_ala_km2": 25657,
+   "perustettu": 1975,
+   "henkilot": [
+    {
+     "nimi": "David Urquhart",
+     "kuvaus": "brittisk politiker"
+    },
+    {
+     "nimi": "Richard Martinez",
+     "kuvaus": "amerikansk fotbollsspelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000017.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Highland%20Area%20Council.svg"
+   }
+  },
+  "Hillingdon": {
+   "nimi": "London Borough of Hillingdon",
+   "wikidata": "Q205690",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Hillingdon",
+   "tiivistelma": "London Borough of Hillingdon är en London borough (kommun) i västra London med cirka 310 000 invånare (2022). Londons största flygplats Heathrow och Brunel University ligger i kommunen.",
+   "vakiluku": 304824,
+   "pinta_ala_km2": 116,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Michael Tippett",
+     "kuvaus": "engelsk tonsättare"
+    },
+    {
+     "nimi": "Lynne Frederick",
+     "kuvaus": "brittisk skådespelare (1954-1994)"
+    },
+    {
+     "nimi": "Simon Monjack",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000017.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20London%20Borough%20of%20Hillingdon.svg"
+   }
+  },
+  "Hinckley and Bosworth": {
+   "nimi": "Hinckley and Bosworth District",
+   "wikidata": "Q946825",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Hinckley_and_Bosworth",
+   "tiivistelma": "Hinckley and Bosworth är ett distrikt i grevskapet Leicestershire i England, Storbritannien. Distriktet har 116 682 invånare (2024).",
+   "vakiluku": 112423,
+   "pinta_ala_km2": 297,
+   "perustettu": 1974
+  },
+  "Horsham": {
+   "nimi": "Horsham District",
+   "wikidata": "Q1629013",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Horsham_District",
+   "tiivistelma": "Horsham District är ett distrikt i grevskapet West Sussex i England, Storbritannien. Distriktet har 151 521 invånare (2024).",
+   "vakiluku": 142217,
+   "pinta_ala_km2": 530
+  },
+  "Hounslow": {
+   "nimi": "London Borough of Hounslow",
+   "wikidata": "Q214162",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Hounslow",
+   "tiivistelma": "London Borough of Hounslow är en London borough (kommun) i västra London.",
+   "vakiluku": 270782,
+   "pinta_ala_km2": 56,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Jay Sean",
+     "kuvaus": "brittisk sångare av indiskt ursprung"
+    },
+    {
+     "nimi": "Tim Don",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Andy Myers",
+     "kuvaus": "brittisk fotbollsspelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000018.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Hounslow.svg"
+   }
+  },
+  "Huntingdonshire": {
+   "nimi": "Huntingdonshire",
+   "wikidata": "Q23330",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Huntingdonshire",
+   "tiivistelma": "Huntingdonshire är ett distrikt i grevskapet Cambridgeshire i England, Storbritannien. Distriktet har 190 619 invånare (2024).",
+   "vakiluku": 177352,
+   "pinta_ala_km2": 906,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Sybil Marshall",
+     "kuvaus": "brittisk författare"
+    }
+   ]
+  },
+  "Hyndburn": {
+   "nimi": "Hyndburn District",
+   "wikidata": "Q1640713",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Hyndburn",
+   "tiivistelma": "Hyndburn är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 86 058 invånare (2024).",
+   "vakiluku": 80815,
+   "pinta_ala_km2": 73,
+   "perustettu": 1974
+  },
+  "Inverclyde": {
+   "nimi": "Inverclyde",
+   "wikidata": "Q208271",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Inverclyde",
+   "tiivistelma": "Inverclyde är en av Skottlands kommuner. Inverclyde gränsar mot Renfrewshire och North Ayrshire.",
+   "vakiluku": 77800,
+   "pinta_ala_km2": 160,
+   "henkilot": [
+    {
+     "nimi": "Ronnie Cowan",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Frederick Alexander Macquisten",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alan Burns, 4th Baron Inverclyde",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Ipswich": {
+   "nimi": "Ipswich",
+   "wikidata": "Q3801785",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Ipswich",
+   "tiivistelma": "Borough of Ipswich är ett distrikt i grevskapet Suffolk i England, Storbritannien. Distriktet har 140 274 invånare (2024).",
+   "vakiluku": 137532,
+   "pinta_ala_km2": 40,
+   "perustettu": 1835
+  },
+  "Isle of Anglesey": {
+   "nimi": "Anglesey",
+   "wikidata": "Q168159",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Anglesey",
+   "tiivistelma": "Anglesey är en ö i Irländska sjön, i grevskapet och kommunen Anglesey i nordvästra Wales. Med en yta på 673 km² är Anglesey Wales största och Storbritanniens sjätte största ö.",
+   "vakiluku": 70043,
+   "pinta_ala_km2": 749,
+   "henkilot": [
+    {
+     "nimi": "Grace Coddington",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Stuart Andrew",
+     "kuvaus": "politiker, Storbritannien"
+    },
+    {
+     "nimi": "William Owen Stanley",
+     "kuvaus": "brittisk politiker"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000001.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Isle%20of%20Anglesey%20County%20Council.svg"
+   }
+  },
+  "Isle of Wight": {
+   "nimi": "Isle of Wight",
+   "wikidata": "Q9679",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Isle_of_Wight",
+   "tiivistelma": "Isle of Wight är en brittisk ö i Engelska kanalen, strax utanför Southampton på Englands sydkust. Den är med sina 380 km² riksdelen Englands största ö.",
+   "vakiluku": 140459,
+   "pinta_ala_km2": 380,
+   "henkilot": [
+    {
+     "nimi": "Thomas J. Clarke",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Vivian Fuchs",
+     "kuvaus": "brittisk geolog och upptäcktsresande"
+    },
+    {
+     "nimi": "Dudley Pound",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000046.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Isle%20of%20Wight%20Council.svg"
+   }
+  },
+  "Isles of Scilly": {
+   "nimi": "Scillyöarna",
+   "wikidata": "Q180209",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Scilly%C3%B6arna",
+   "tiivistelma": "Scillyöarna är en brittisk ögrupp och en enhetskommun. Ögruppen ligger sydväst om Storbritannien och är Englands västligaste och sydligaste del.",
+   "vakiluku": 2281,
+   "pinta_ala_km2": 16,
+   "henkilot": [
+    {
+     "nimi": "Stella Turk",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Islington": {
+   "nimi": "London Borough of Islington",
+   "wikidata": "Q205817",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Islington",
+   "tiivistelma": "London Borough of Islington är en kommun (borough) i Storlondon. Den räknas till Inre London.",
+   "vakiluku": 239142,
+   "pinta_ala_km2": 15,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "John Stuart Mill",
+     "kuvaus": "brittisk filosof och ekonom"
+    },
+    {
+     "nimi": "Joe Cole",
+     "kuvaus": "engelsk fotbollsspelare"
+    },
+    {
+     "nimi": "Alexandra Burke",
+     "kuvaus": "brittisk sångare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20London%20Borough%20of%20Islington.svg"
+   }
+  },
+  "Kensington and Chelsea": {
+   "nimi": "Royal Borough of Kensington and Chelsea",
+   "wikidata": "Q188801",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Royal_Borough_of_Kensington_and_Chelsea",
+   "tiivistelma": "Royal Borough of Kensington and Chelsea är en kommun i London.",
+   "vakiluku": 156197,
+   "pinta_ala_km2": 12,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Isabella Sermon",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Cyril Gill",
+     "kuvaus": "brittisk friidrottare"
+    },
+    {
+     "nimi": "Maddison Jaizani",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000020.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Royal%20Borough%20of%20Kensington%20and%20Chelsea.svg"
+   }
+  },
+  "King's Lynn and West Norfolk": {
+   "nimi": "King's Lynn and West Norfolk District",
+   "wikidata": "Q1742192",
+   "wikipedia": "https://sv.wikipedia.org/wiki/King%27s_Lynn_and_West_Norfolk",
+   "tiivistelma": "King's Lynn and West Norfolk är ett distrikt i grevskapet Norfolk i England, Storbritannien. Distriktet har 156 206 invånare (2024).",
+   "vakiluku": 151811,
+   "pinta_ala_km2": 1439,
+   "perustettu": 1974
+  },
+  "Kingston upon Hull, City of": {
+   "nimi": "City of Kingston upon Hull",
+   "wikidata": "Q21885987",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Kingston_upon_Hull",
+   "tiivistelma": "City of Kingston upon Hull är en enhetskommun i East Riding of Yorkshire i England, Storbritannien. Kommunen har 275 401 invånare (2024).",
+   "vakiluku": 260645,
+   "pinta_ala_km2": 71,
+   "perustettu": 1835
+  },
+  "Kingston upon Thames": {
+   "nimi": "Royal Borough of Kingston upon Thames",
+   "wikidata": "Q32508",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Royal_Borough_of_Kingston_upon_Thames",
+   "tiivistelma": "Royal Borough of Kingston upon Thames är en kommun (borough) i sydvästra Storlondon. Den har cirka 168 000 invånare (2022).",
+   "vakiluku": 175470,
+   "pinta_ala_km2": 37,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Archie Renaux",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Muriel Box",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tim Palmer",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000021.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Royal%20Borough%20of%20Kingston%20upon%20Thames.svg"
+   }
+  },
+  "Kirklees": {
+   "nimi": "Kirklees",
+   "wikidata": "Q918975",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Kirklees",
+   "tiivistelma": "Kirklees är ett storstadsdistrikt (kommun) i grevskapet West Yorkshire i England, Storbritannien. Distriktet har 447 847 invånare (2024).",
+   "vakiluku": 438727,
+   "pinta_ala_km2": 409,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000034.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Escudo_de_Calvia.svg: Miguillen (Taller de Heráldica y Vexilología in the Spanish Wikipedia )\nBlason_Saint-Blin-Sémilly.",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Kirklees%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Knowsley": {
+   "nimi": "Knowsley",
+   "wikidata": "Q1228523",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Knowsley",
+   "tiivistelma": "Metropolitan Borough of Knowsley är ett storstadsdistrikt (kommun) i Merseyside i England, Storbritannien. Distriktet har 162 565 invånare (2024).",
+   "vakiluku": 149571,
+   "pinta_ala_km2": 87,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000011.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "John Gerrard Keulemans",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Knowsley%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Lambeth": {
+   "nimi": "London Borough of Lambeth",
+   "wikidata": "Q202059",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Lambeth",
+   "tiivistelma": "London Borough of Lambeth är den största av de 13 boroughs som utgör Inre London. Befolkningen uppgår till cirka 315 000 invånare (2022) och 54 % av dem är etniskt brittiska.[källa behövs] Uppskattningsvis talas 132 olika språk, störst efter engelska är yoruba och portugisiska.",
+   "vakiluku": 325917,
+   "pinta_ala_km2": 27,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Camilla av Storbritannien",
+     "kuvaus": "drottning av Storbritannien 2022–"
+    },
+    {
+     "nimi": "Lawrie Sanchez",
+     "kuvaus": "nordirländsk fotbollsspelare och tränare"
+    },
+    {
+     "nimi": "Cecil Hepworth",
+     "kuvaus": "brittisk filmproducent och filmregissör (1874-1953)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000022.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20London%20Borough%20of%20Lambeth.svg"
+   }
+  },
+  "Lancaster": {
+   "nimi": "Lancaster",
+   "wikidata": "Q168052",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Lancaster",
+   "tiivistelma": "City of Lancaster är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 145 006 invånare (2024).",
+   "vakiluku": 144246,
+   "pinta_ala_km2": 576,
+   "perustettu": 1937,
+   "henkilot": [
+    {
+     "nimi": "Sarah Illingworth",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "John Alexander",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000121.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Lancaster%20City%20Council.svg"
+   }
+  },
+  "Leeds": {
+   "nimi": "Leeds",
+   "wikidata": "Q774015",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Leeds",
+   "tiivistelma": "City of Leeds är ett storstadsdistrikt (kommun) i grevskapet West Yorkshire i England, Storbritannien. Distriktet har 845 189 invånare (2024).",
+   "vakiluku": 789194,
+   "pinta_ala_km2": 552,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "James Daniel Wilson",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Leicester": {
+   "nimi": "City of Leicester",
+   "wikidata": "Q21683242",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Leicester",
+   "tiivistelma": "City of Leicester är en enhetskommun i grevskapet Leicestershire i England, Storbritannien. Kommunen har 388 348 invånare (2024).",
+   "vakiluku": 368572,
+   "pinta_ala_km2": 73,
+   "perustettu": 1835
+  },
+  "Lewes": {
+   "nimi": "Lewes District",
+   "wikidata": "Q1254688",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Lewes_District",
+   "tiivistelma": "Lewes District  är ett distrikt i grevskapet East Sussex i England, Storbritannien. Distriktet har 102 363 invånare (2024).",
+   "vakiluku": 100677,
+   "pinta_ala_km2": 292
+  },
+  "Lewisham": {
+   "nimi": "London Borough of Lewisham",
+   "wikidata": "Q215030",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Lewisham",
+   "tiivistelma": "London Borough of Lewisham är en borough i sydöstra London med cirka 300 000 invånare (2022). Den bildades 1965 när Borough of Lewisham och Borough of Deptford slogs ihop.",
+   "vakiluku": 303536,
+   "pinta_ala_km2": 35,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Clemence Dane",
+     "kuvaus": "brittisk manusförfattare"
+    },
+    {
+     "nimi": "Henry Williamson",
+     "kuvaus": "brittisk författare"
+    },
+    {
+     "nimi": "Tom Mann",
+     "kuvaus": "brittisk politiker"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000023.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Lewisham.svg"
+   }
+  },
+  "Lichfield": {
+   "nimi": "Lichfield District",
+   "wikidata": "Q1823259",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Lichfield_District",
+   "tiivistelma": "Lichfield District är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 111 932 invånare (2024).",
+   "vakiluku": 108352,
+   "pinta_ala_km2": 331,
+   "perustettu": 1974
+  },
+  "Lincoln": {
+   "nimi": "Lincoln District",
+   "wikidata": "Q20989075",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Lincoln",
+   "tiivistelma": "City of Lincoln är ett distrikt i grevskapet Lincolnshire i England, Storbritannien. Distriktet har 105 114 invånare (2024).",
+   "vakiluku": 99039,
+   "pinta_ala_km2": 36,
+   "perustettu": 1835
+  },
+  "Lisburn and Castlereagh": {
+   "nimi": "Lisburn and Castlereagh",
+   "wikidata": "Q6558667",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Lisburn_and_Castlereagh",
+   "tiivistelma": "Lisburn and Castlereagh är ett distrikt i Nordirland i Storbritannien. Huvudort är Lisburn.",
+   "vakiluku": 151669,
+   "pinta_ala_km2": 505
+  },
+  "Liverpool": {
+   "nimi": "City of Liverpool",
+   "wikidata": "Q21665571",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Liverpool_(storstadsdistrikt)",
+   "tiivistelma": "Liverpool, officellt namn City of Liverpool, är ett storstadsdistrikt (kommun) i Merseyside i England, Storbritannien. Distriktet har 508 961 invånare (2024).",
+   "vakiluku": 496770,
+   "pinta_ala_km2": 112,
+   "perustettu": 1835,
+   "henkilot": [
+    {
+     "nimi": "William Daniels",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Hannah Jones",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Jean Smellie",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Luton": {
+   "nimi": "Luton",
+   "wikidata": "Q21683239",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Luton",
+   "tiivistelma": "Luton är en enhetskommun i Bedfordshire i England, Storbritannien. Kommunen har 239 090 invånare (2024).",
+   "vakiluku": 214109,
+   "pinta_ala_km2": 43,
+   "perustettu": 1876
+  },
+  "Maidstone": {
+   "nimi": "Borough of Maidstone",
+   "wikidata": "Q737114",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Maidstone",
+   "tiivistelma": "Borough of Maidstone är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 187 767 invånare (2024).",
+   "vakiluku": 169955,
+   "pinta_ala_km2": 393
+  },
+  "Maldon": {
+   "nimi": "Maldon",
+   "wikidata": "Q613878",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Maldon_District",
+   "tiivistelma": "Maldon är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 69 131 invånare (2024).",
+   "vakiluku": 66208,
+   "pinta_ala_km2": 359,
+   "perustettu": 1974
+  },
+  "Malvern Hills": {
+   "nimi": "Malvern Hills District",
+   "wikidata": "Q1427973",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Malvern_Hills_District",
+   "tiivistelma": "Malvern Hills District är ett distrikt i grevskapet Worcestershire i England, Storbritannien. Distriktet har 83 227 invånare (2024).",
+   "vakiluku": 81024,
+   "pinta_ala_km2": 577,
+   "perustettu": 1998
+  },
+  "Manchester": {
+   "nimi": "City of Manchester",
+   "wikidata": "Q21525592",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Manchester",
+   "tiivistelma": "City of Manchester är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 589 670 invånare (2024).",
+   "vakiluku": 568996,
+   "pinta_ala_km2": 116,
+   "perustettu": 1974
+  },
+  "Mansfield": {
+   "nimi": "Mansfield District",
+   "wikidata": "Q1891143",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Mansfield_District",
+   "tiivistelma": "Mansfield District är ett distrikt i grevskapet Nottinghamshire i England, Storbritannien. Distriktet har 113 138 invånare (2024).",
+   "vakiluku": 111117,
+   "pinta_ala_km2": 77,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000174.png",
+    "lisenssi": "CC0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Mansfield%20District%20Council.svg"
+   }
+  },
+  "Medway": {
+   "nimi": "Medway",
+   "wikidata": "Q797782",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Medway_(enhetskommun)",
+   "tiivistelma": "Medway är en enhetskommun i Kent i England, Storbritannien. Kommunen har 292 655 invånare (2024).",
+   "vakiluku": 277855,
+   "pinta_ala_km2": 194,
+   "perustettu": 1998,
+   "henkilot": [
+    {
+     "nimi": "Jack Newman",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alan Carter",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Sue Scullard",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000035.png",
+    "lisenssi": "CC BY-SA 2.0",
+    "tekija": "David Anstiss",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Medway%20Council%20Crest%20-%20geograph.org.uk%20-%201033321.jpg"
+   }
+  },
+  "Melton": {
+   "nimi": "Melton",
+   "wikidata": "Q1853349",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Melton",
+   "tiivistelma": "Borough of Melton är ett distrikt i grevskapet Leicestershire i England, Storbritannien. Distriktet har 54 052 invånare (2024).",
+   "vakiluku": 52433,
+   "pinta_ala_km2": 481,
+   "perustettu": 1974
+  },
+  "Merthyr Tydfil": {
+   "nimi": "Merthyr Tydfil County Borough",
+   "wikidata": "Q3306663",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Merthyr_Tydfil_(kommun)",
+   "tiivistelma": "Merthyr Tydfil är en kommun i Storbritannien. Den ligger i riksdelen Wales, i den södra delen av landet, 220 km väster om huvudstaden London.",
+   "vakiluku": 60183,
+   "pinta_ala_km2": 111,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000024.png",
+    "lisenssi": "Public domain",
+    "tekija": "A.C. Fox-Davies",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Merthyr%20Tydfil%20arms.png"
+   }
+  },
+  "Merton": {
+   "nimi": "London Borough of Merton",
+   "wikidata": "Q32504",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Merton",
+   "tiivistelma": "London Borough of Merton är en kommun (borough) i sydvästra London med cirka 215 000 invånare (2022). Den bildades 1965 när Municipal Borough of Mitcham, Municipal Borough of Wimbledon och Merton and Morden Urban District slogs samman.",
+   "vakiluku": 214709,
+   "pinta_ala_km2": 38,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Ford Madox Ford",
+     "kuvaus": "brittisk poet och författare"
+    },
+    {
+     "nimi": "George Monck, 1:e hertig av Albemarle",
+     "kuvaus": "engelsk general och statsman"
+    },
+    {
+     "nimi": "Jack Davenport",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000024.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Merton.svg"
+   }
+  },
+  "Mid Devon": {
+   "nimi": "Mid Devon District",
+   "wikidata": "Q662238",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Mid_Devon",
+   "tiivistelma": "Mid Devon är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 84 993 invånare (2024).",
+   "vakiluku": 83786,
+   "pinta_ala_km2": 913,
+   "perustettu": 1974
+  },
+  "Mid Suffolk": {
+   "nimi": "Mid Suffolk",
+   "wikidata": "Q1931811",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Mid_Suffolk",
+   "tiivistelma": "Mid Suffolk är ett distrikt i grevskapet Suffolk i England, Storbritannien. Distriktet har 110 775 invånare (2024).",
+   "vakiluku": 102493,
+   "pinta_ala_km2": 871,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "John Chapman",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Mid Sussex": {
+   "nimi": "Mid Sussex District",
+   "wikidata": "Q1344342",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Mid_Sussex",
+   "tiivistelma": "Mid Sussex är ett distrikt i grevskapet West Sussex i England, Storbritannien. Distriktet har 161 755 invånare (2024).",
+   "vakiluku": 149716,
+   "pinta_ala_km2": 334,
+   "henkilot": [
+    {
+     "nimi": "Brett Anderson",
+     "kuvaus": "brittisk sångare och musiker"
+    }
+   ]
+  },
+  "Mid Ulster": {
+   "nimi": "Mid Ulster",
+   "wikidata": "Q6840825",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Mid_Ulster",
+   "tiivistelma": "Mid Ulster är ett distrikt i Nordirland i Storbritannien. Distriktet bildades 2015 i samband med en distriktsreform genom en sammanslagning av distrikten Cookstown, Dungannon and South Tyrone och Magherafelt.",
+   "vakiluku": 152718,
+   "pinta_ala_km2": 1827,
+   "perustettu": 2015
+  },
+  "Mid and East Antrim": {
+   "nimi": "Mid and East Antrim",
+   "wikidata": "Q6841059",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Mid_and_East_Antrim",
+   "tiivistelma": "Mid and East Antrim är ett distrikt i Nordirland i Storbritannien. Huvudort är Ballymena.",
+   "vakiluku": 139913,
+   "pinta_ala_km2": 1046
+  },
+  "Middlesbrough": {
+   "nimi": "Middlesbrough",
+   "wikidata": "Q2673020",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Middlesbrough",
+   "tiivistelma": "Borough of Middlesbrough är en enhetskommun i North Yorkshire i England i Storbritannien.",
+   "vakiluku": 148285,
+   "pinta_ala_km2": 54,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000002.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20District%20Council%20of%20Middlesbrough.svg"
+   }
+  },
+  "Midlothian": {
+   "nimi": "Midlothian",
+   "wikidata": "Q206934",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Midlothian",
+   "tiivistelma": "Midlothian är en av Skottlands kommuner och ståthållarskap. Kommunen gränsar till South Lanarkshire, Scottish Borders, East Lothian, Edinburgh och West Lothian.",
+   "vakiluku": 92460,
+   "pinta_ala_km2": 354,
+   "henkilot": [
+    {
+     "nimi": "Thomas Mackenzie",
+     "kuvaus": "upptäcktsresande, Nya Zeeland"
+    },
+    {
+     "nimi": "Owen Thompson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jock Young",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Midlothian%20District%20Council%201975-1996.svg"
+   }
+  },
+  "Milton Keynes": {
+   "nimi": "Milton Keynes",
+   "wikidata": "Q894090",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Milton_Keynes",
+   "tiivistelma": " City of Milton Keynes är en enhetskommun i Buckinghamshire i England, Storbritannien. Kommunen har 305 884 invånare (2024).",
+   "vakiluku": 268607,
+   "pinta_ala_km2": 309,
+   "perustettu": 1974
+  },
+  "Mole Valley": {
+   "nimi": "Mole Valley",
+   "wikidata": "Q961824",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Mole_Valley",
+   "tiivistelma": "Mole Valley är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 88 709 invånare (2024).",
+   "vakiluku": 87253,
+   "pinta_ala_km2": 258
+  },
+  "Monmouthshire": {
+   "nimi": "Monmouthshire",
+   "wikidata": "Q207176",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Monmouthshire",
+   "tiivistelma": "Monmouthshire är ett grevskap och en kommun i sydöstra Wales. Huvudort är Usk.",
+   "vakiluku": 94142,
+   "pinta_ala_km2": 849,
+   "henkilot": [
+    {
+     "nimi": "Grace McCleen",
+     "kuvaus": "brittisk författare"
+    },
+    {
+     "nimi": "Leslie Alfred Charles Fry",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "William Henry Davies",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000021.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "AlexD",
+    "lahde": "https://commons.wikimedia.org/wiki/File:MONMOUTHSHIRE%20Shield.svg"
+   }
+  },
+  "Moray": {
+   "nimi": "Moray",
+   "wikidata": "Q211106",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Moray",
+   "tiivistelma": "Moray är en av Skottlands kommuner. Kommunen gränsar mot Aberdeenshire och Highland.",
+   "vakiluku": 95820,
+   "pinta_ala_km2": 2238,
+   "henkilot": [
+    {
+     "nimi": "Lulach av Skottland",
+     "kuvaus": "skotsk kung, 1057–1058"
+    },
+    {
+     "nimi": "Dunc Munro",
+     "kuvaus": "kanadensisk ishockeyspelare och tränare"
+    },
+    {
+     "nimi": "Douglas Ross",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000020.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Moray%20Area%20Council.svg"
+   }
+  },
+  "Na h-Eileanan Siar": {
+   "nimi": "Yttre Hebriderna",
+   "wikidata": "Q80967",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Yttre_Hebriderna",
+   "tiivistelma": "Yttre Hebriderna är en ögrupp och en av Skottlands kommuner. Centralort är Stornoway.",
+   "vakiluku": 26720,
+   "pinta_ala_km2": 3059,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000013.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Na%20h-Eileanan%20Siar%20%28Outer%20Hebrides%29.svg"
+   }
+  },
+  "Neath Port Talbot": {
+   "nimi": "Neath Port Talbot",
+   "wikidata": "Q748078",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Neath_Port_Talbot",
+   "tiivistelma": "Neath Port Talbot är en kommun med county borough-status i Glamorgan i södra Wales. Den gränsar mot Bridgend, Rhondda Cynon Taff, Powys, Carmarthenshire och Swansea.",
+   "vakiluku": 142906,
+   "pinta_ala_km2": 441,
+   "perustettu": 1996
+  },
+  "New Forest": {
+   "nimi": "New Forest",
+   "wikidata": "Q1972541",
+   "wikipedia": "https://sv.wikipedia.org/wiki/New_Forest_District",
+   "tiivistelma": "New Forest är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 176 116 invånare (2024).",
+   "vakiluku": 179753,
+   "pinta_ala_km2": 753,
+   "henkilot": [
+    {
+     "nimi": "John Bright",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Richard Joyce",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Newark and Sherwood": {
+   "nimi": "Newark and Sherwood District",
+   "wikidata": "Q637772",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Newark_and_Sherwood",
+   "tiivistelma": "Newark and Sherwood är ett distrikt i grevskapet Nottinghamshire i England, Storbritannien. Distriktet har 127 886 invånare (2024).",
+   "vakiluku": 125089,
+   "pinta_ala_km2": 651,
+   "perustettu": 1974
+  },
+  "Newcastle upon Tyne": {
+   "nimi": "Newcastle upon Tyne",
+   "wikidata": "Q21012735",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Newcastle_upon_Tyne",
+   "tiivistelma": "City of Newcastle upon Tyne är ett storstadsdistrikt (kommun) i Tyne and Wear i England, Storbritannien. Distriktet har 320 605 invånare (2024).",
+   "vakiluku": 300196,
+   "pinta_ala_km2": 11512,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Rowan Atkinson",
+     "kuvaus": "brittisk komiker och skådespelare"
+    }
+   ]
+  },
+  "Newcastle-under-Lyme": {
+   "nimi": "Newcastle-under-Lyme District",
+   "wikidata": "Q894089",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Newcastle-under-Lyme",
+   "tiivistelma": "Borough of Newcastle-under-Lyme är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 127 727 invånare (2024).",
+   "vakiluku": 127000,
+   "pinta_ala_km2": 211,
+   "perustettu": 1974
+  },
+  "Newham": {
+   "nimi": "London Borough of Newham",
+   "wikidata": "Q208139",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Newham",
+   "tiivistelma": "London Borough of Newham är en kommun (borough) i Storlondon, 10 km öster om centrala London. I området ingår West Ham, East Ham och North Woolwich.",
+   "vakiluku": 352005,
+   "pinta_ala_km2": 36,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Ezri Konsa",
+     "kuvaus": "engelsk fotbollsspelare"
+    },
+    {
+     "nimi": "Chuba Akpom",
+     "kuvaus": "engelsk fotbollsspelare"
+    },
+    {
+     "nimi": "Rio Ngumoha",
+     "kuvaus": "engelsk fotbollsspelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000025.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Newham.svg"
+   }
+  },
+  "Newport": {
+   "nimi": "Newport",
+   "wikidata": "Q5283458",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Newport_(kommun)",
+   "tiivistelma": "Newport är en kommun i Storbritannien. Den ligger i riksdelen Wales, i den södra delen av landet, 200 km väster om huvudstaden London.",
+   "vakiluku": 167899,
+   "pinta_ala_km2": 191,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000022.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croaker",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Newport%20COA%20shield.svg"
+   }
+  },
+  "Newry, Mourne and Down": {
+   "nimi": "Newry, Mourne and Down",
+   "wikidata": "Q15262186",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Newry,_Mourne_and_Down",
+   "tiivistelma": "Newry, Mourne and Down är ett distrikt i Nordirland i Storbritannien. Huvudorter är Newry och Downpatrick.",
+   "vakiluku": 183115,
+   "pinta_ala_km2": 1633
+  },
+  "North Ayrshire": {
+   "nimi": "North Ayrshire",
+   "wikidata": "Q206926",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Ayrshire",
+   "tiivistelma": "North Ayrshire är en av Skottlands kommuner. Kommunen gränsar till Renfrewshire, East Ayrshire och South Ayrshire.",
+   "vakiluku": 134740,
+   "pinta_ala_km2": 885,
+   "henkilot": [
+    {
+     "nimi": "Ron Geesin",
+     "kuvaus": "brittisk kompositör och musiker"
+    },
+    {
+     "nimi": "Edward Boyd",
+     "kuvaus": "brittisk manusförfattare och författare"
+    },
+    {
+     "nimi": "Robert L. Alexander",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000021.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "BopperDopp",
+    "lahde": "https://commons.wikimedia.org/wiki/File:North%20Ayrshire%20coat%20of%20arms.svg"
+   }
+  },
+  "North Devon": {
+   "nimi": "North Devon District",
+   "wikidata": "Q674940",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Devon",
+   "tiivistelma": "North Devon är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 101 222 invånare (2024).",
+   "vakiluku": 96110,
+   "pinta_ala_km2": 1086,
+   "henkilot": [
+    {
+     "nimi": "Cuthbert Mayne",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Comins Mansfield",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Thomas Fowler",
+     "kuvaus": "brittisk ingenjör och matematiker"
+    }
+   ]
+  },
+  "North East Derbyshire": {
+   "nimi": "North East Derbyshire",
+   "wikidata": "Q1384012",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_East_Derbyshire",
+   "tiivistelma": "North East Derbyshire är ett distrikt i grevskapet Derbyshire i England, Storbritannien. Distriktet har 106 646 invånare (2024).",
+   "vakiluku": 103783,
+   "pinta_ala_km2": 276,
+   "perustettu": 1974
+  },
+  "North East Lincolnshire": {
+   "nimi": "North East Lincolnshire",
+   "wikidata": "Q1342914",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_East_Lincolnshire",
+   "tiivistelma": "North East Lincolnshire är en enhetskommun i grevskapet Lincolnshire i England, Storbritannien. Kommunen har 159 911 invånare (2024).",
+   "vakiluku": 159821,
+   "pinta_ala_km2": 192,
+   "perustettu": 1996
+  },
+  "North Hertfordshire": {
+   "nimi": "North Hertfordshire District",
+   "wikidata": "Q1685976",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Hertfordshire",
+   "tiivistelma": "North Hertfordshire är ett distrikt i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 137 201 invånare (2024).",
+   "vakiluku": 131700,
+   "pinta_ala_km2": 375,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000099.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:North%20Hertfordshire%20District%20Council%20shield.svg"
+   }
+  },
+  "North Kesteven": {
+   "nimi": "North Kesteven",
+   "wikidata": "Q607082",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Kesteven",
+   "tiivistelma": "North Kesteven är ett distrikt i grevskapet Lincolnshire i England, Storbritannien. Distriktet har 122 468 invånare (2024).",
+   "vakiluku": 119709,
+   "pinta_ala_km2": 922,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000139.png",
+    "lisenssi": "Public domain",
+    "tekija": "Syryatsu",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Blason%20district%20uk%20North%20Kesteven%20%28Lincolnshire%29.svg"
+   }
+  },
+  "North Lanarkshire": {
+   "nimi": "North Lanarkshire",
+   "wikidata": "Q207111",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Lanarkshire",
+   "tiivistelma": "North Lanarkshire är en av Skottlands kommuner. North Lanarkshire gränsar mot Glasgow, Falkirk, East Dunbartonshire och South Lanarkshire.",
+   "vakiluku": 340180,
+   "pinta_ala_km2": 470,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "David Cromwell",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "John Timmons",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Margaret Menzies Campbell",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000050.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20North%20Lanarkshire%20Council.svg"
+   }
+  },
+  "North Lincolnshire": {
+   "nimi": "North Lincolnshire",
+   "wikidata": "Q175945",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Lincolnshire",
+   "tiivistelma": "North Lincolnshire är en enhetskommun i grevskapet Lincolnshire i England, Storbritannien. Kommunen har 171 336 invånare (2024).",
+   "vakiluku": 172005,
+   "pinta_ala_km2": 846,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Joseph Taylor",
+     "kuvaus": "engelsk folkmusiksångare"
+    }
+   ]
+  },
+  "North Norfolk": {
+   "nimi": "North Norfolk District",
+   "wikidata": "Q1545713",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Norfolk",
+   "tiivistelma": "North Norfolk är ett distrikt i grevskapet Norfolk i England, Storbritannien. Distriktet har 103 217 invånare (2024).",
+   "vakiluku": 104552,
+   "pinta_ala_km2": 962,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mal Peet",
+     "kuvaus": "brittisk författare"
+    },
+    {
+     "nimi": "Nick Youngs",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "North Northamptonshire": {
+   "nimi": "North Northamptonshire",
+   "wikidata": "Q60790121",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Northamptonshire",
+   "tiivistelma": "North Northamptonshire är en enhetskommun i det ceremoniella grevskapet Northamptonshire i England, Storbritannien. Kommunen har 373 871 invånare (2024).",
+   "vakiluku": 363408,
+   "perustettu": 2021
+  },
+  "North Somerset": {
+   "nimi": "North Somerset",
+   "wikidata": "Q178196",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Somerset",
+   "tiivistelma": "North Somerset är en enhetskommun i det ceremoniella grevskapet Somerset i sydvästra England i Storbritannien. Kommunen har 224 578 invånare (2024).",
+   "vakiluku": 213919,
+   "pinta_ala_km2": 374,
+   "perustettu": 1974
+  },
+  "North Tyneside": {
+   "nimi": "Borough of North Tyneside",
+   "wikidata": "Q1120443",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Tyneside",
+   "tiivistelma": "North Tyneside är ett storstadsdistrikt (kommun) i Tyne and Wear i England, Storbritannien. Distriktet har 215 025 invånare (2024).",
+   "vakiluku": 205985,
+   "pinta_ala_km2": 82,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Frank Hudspeth",
+     "kuvaus": "brittisk fotbollsspelare"
+    },
+    {
+     "nimi": "Steph McGovern",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Amara Okereke",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000022.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Coat_of_arms_of_Merseyside_County_Council.png: *Royal_Coat_of_Arms_of_the_United_Kingdom_(Government_in_Scotland).svg: S",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20North%20Tyneside%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "North Warwickshire": {
+   "nimi": "North Warwickshire District",
+   "wikidata": "Q2000897",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Warwickshire",
+   "tiivistelma": "North Warwickshire är ett distrikt i grevskapet Warwickshire i England, Storbritannien. Distriktet har 67 117 invånare (2024).",
+   "vakiluku": 64850,
+   "pinta_ala_km2": 284,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "John Graham",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "North West Leicestershire": {
+   "nimi": "North West Leicestershire",
+   "wikidata": "Q1853930",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_West_Leicestershire",
+   "tiivistelma": "North West Leicestershire är ett distrikt i grevskapet Leicestershire i England, Storbritannien. Distriktet har 111 881 invånare (2024).",
+   "vakiluku": 102126,
+   "pinta_ala_km2": 279,
+   "perustettu": 1974
+  },
+  "North Yorkshire": {
+   "nimi": "North Yorkshire",
+   "wikidata": "Q21241814",
+   "wikipedia": "https://sv.wikipedia.org/wiki/North_Yorkshire_(enhetskommun)",
+   "tiivistelma": "North Yorkshire är en enhetskommun i det ceremoniella grevskapet North Yorkshire i England, Storbritannien. Kommunen har 635 270 invånare (2024).",
+   "vakiluku": 623501,
+   "pinta_ala_km2": 8038,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000065.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20North%20Yorkshire%20County%20Council.svg"
+   }
+  },
+  "Northumberland": {
+   "nimi": "Northumberland",
+   "wikidata": "Q23079",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Northumberland",
+   "tiivistelma": "Northumberland är ett ceremoniellt grevskap och en enhetskommun i nordöstra England vid gränsen mot Skottland. Efter att området runt Newcastle upon Tyne överförts till Tyne and Wear 1974 är dess administrativa centrum Morpeth.",
+   "vakiluku": 323820,
+   "pinta_ala_km2": 5014,
+   "henkilot": [
+    {
+     "nimi": "William Thomas Stead",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Steven Runciman",
+     "kuvaus": "brittisk historiker"
+    },
+    {
+     "nimi": "Matthew Festing",
+     "kuvaus": "brittiskfödd romersk-katolsk ämbetsman"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000057.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Northumberland%20County%20Council.svg"
+   }
+  },
+  "Norwich": {
+   "nimi": "Norwich District",
+   "wikidata": "Q21886147",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Norwich",
+   "tiivistelma": "City of Norwich är ett distrikt i grevskapet Norfolk i England, Storbritannien. Distriktet har 147 182 invånare (2024).",
+   "vakiluku": 141137,
+   "pinta_ala_km2": 39
+  },
+  "Nottingham": {
+   "nimi": "City of Nottingham",
+   "wikidata": "Q21885994",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Nottingham",
+   "tiivistelma": "City of Nottingham är en enhetskommun i grevskapet Nottinghamshire i England, Storbritannien. Kommunen har 331 077 invånare (2024).",
+   "vakiluku": 331069,
+   "pinta_ala_km2": 75
+  },
+  "Nuneaton and Bedworth": {
+   "nimi": "Nuneaton and Bedworth District",
+   "wikidata": "Q920466",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Nuneaton_and_Bedworth",
+   "tiivistelma": "Nuneaton and Bedworth är ett distrikt i grevskapet Warwickshire i England, Storbritannien. Distriktet har 141 565 invånare (2024).",
+   "vakiluku": 128902,
+   "pinta_ala_km2": 79,
+   "perustettu": 1974
+  },
+  "Oadby and Wigston": {
+   "nimi": "Oadby and Wigston",
+   "wikidata": "Q764425",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Oadby_and_Wigston",
+   "tiivistelma": "Oadby and Wigston är ett distrikt i grevskapet Leicestershire i England, Storbritannien. Distriktet har 61 695 invånare (2024).",
+   "vakiluku": 58341,
+   "pinta_ala_km2": 24,
+   "perustettu": 1974
+  },
+  "Oldham": {
+   "nimi": "Metropolitan Borough of Oldham",
+   "wikidata": "Q1278608",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Oldham",
+   "tiivistelma": "Metropolitan Borough of Oldham är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 251 560 invånare (2024).",
+   "vakiluku": 237628,
+   "pinta_ala_km2": 142,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000004.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Sedloňov_CoA_CZ.svg: Tomáš Urban\nBlason_Cieutat.svg: Kilom691\nCoat_of_Arms_of_England_(-1340).svg: Sodacan This  PNG gra",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Oldham%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Orkney Islands": {
+   "nimi": "Orkneyöarna",
+   "wikidata": "Q100166",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Orkney%C3%B6arna",
+   "tiivistelma": "Orkneyöarna eller Orknöarna är en ögrupp belägen norr om det skotska fastlandet. Orkneyöarna är en kommun och ett ståthållarskap.",
+   "vakiluku": 22270,
+   "pinta_ala_km2": 990,
+   "henkilot": [
+    {
+     "nimi": "Torfinn Sigurdsson Rike",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Sigurd Lodvesson",
+     "kuvaus": "jarl av Orkney"
+    },
+    {
+     "nimi": "Amy Liptrot",
+     "kuvaus": "skotsk journalist och författare"
+    }
+   ]
+  },
+  "Oxford": {
+   "nimi": "City of Oxford",
+   "wikidata": "Q20986484",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Oxford",
+   "tiivistelma": "City of Oxford är ett distrikt i grevskapet Oxfordshire i England, Storbritannien. Distriktet har 166 034 invånare (2024).",
+   "vakiluku": 154327,
+   "pinta_ala_km2": 46,
+   "perustettu": 1835
+  },
+  "Pembrokeshire": {
+   "nimi": "Pembrokeshire",
+   "wikidata": "Q213361",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Pembrokeshire",
+   "tiivistelma": "Pembrokeshire är ett grevskap och en kommun i sydvästra Wales. Det gränsar till Carmarthenshire och Ceredigion.",
+   "vakiluku": 125818,
+   "pinta_ala_km2": 1619,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "David av Menevia",
+     "kuvaus": "walesisk kyrkoman"
+    },
+    {
+     "nimi": "Dick Francis",
+     "kuvaus": "brittisk författare"
+    },
+    {
+     "nimi": "Saint Non",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000009.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Pembrokeshire%20County%20Council.svg"
+   }
+  },
+  "Pendle": {
+   "nimi": "Pendle District",
+   "wikidata": "Q1693090",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Pendle",
+   "tiivistelma": "Borough of Pendle är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 99 777 invånare (2024).",
+   "vakiluku": 91405,
+   "pinta_ala_km2": 169,
+   "perustettu": 1974
+  },
+  "Perth and Kinross": {
+   "nimi": "Perth and Kinross",
+   "wikidata": "Q207679",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Perth_and_Kinross",
+   "tiivistelma": "Perth and Kinross är en av Skottlands kommuner, vars gränser även är identiska med det ceremoniella ståthållarskapet med samma namn. Centralort är staden Perth.",
+   "vakiluku": 151950,
+   "pinta_ala_km2": 5286,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "James Forbes",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Francis Grant",
+     "kuvaus": "skotsk målare"
+    },
+    {
+     "nimi": "James Lorimer",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000048.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Area%20Council%20of%20Perth%20and%20Kinross.svg"
+   }
+  },
+  "Peterborough": {
+   "nimi": "City of Peterborough",
+   "wikidata": "Q12956645",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Peterborough",
+   "tiivistelma": "City of Peterborough är en enhetskommun i Cambridgeshire i England i Storbritannien. Kommunen har 223 655 invånare (2024).",
+   "vakiluku": 201041,
+   "pinta_ala_km2": 343,
+   "perustettu": 1974
+  },
+  "Plymouth": {
+   "nimi": "City of Plymouth",
+   "wikidata": "Q21674890",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Plymouth",
+   "tiivistelma": "City of Plymouth är en enhetskommun i grevskapet Devon i England, Storbritannien. Kommunen har 272 067 invånare (2024).",
+   "vakiluku": 263100,
+   "pinta_ala_km2": 80
+  },
+  "Portsmouth": {
+   "nimi": "City of Portsmouth",
+   "wikidata": "Q21683233",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Portsmouth",
+   "tiivistelma": "City of Portsmouth är en enhetskommun i Hampshire i England, Storbritannien. Kommunen har 214 321 invånare (2024).",
+   "vakiluku": 208420,
+   "pinta_ala_km2": 40,
+   "perustettu": 1835
+  },
+  "Powys": {
+   "nimi": "Powys",
+   "wikidata": "Q156150",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Powys",
+   "tiivistelma": "Powys är ett grevskap och en kommun i östra Wales och det största till ytan. Det täcker de traditionella grevskapen Montgomeryshire, Radnorshire och Brecknockshire.",
+   "vakiluku": 132447,
+   "pinta_ala_km2": 5181,
+   "henkilot": [
+    {
+     "nimi": "Taliesin",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Thomas Jones",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Venetia Dearden",
+     "kuvaus": "brittisk fotograf"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000023.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Powys%20County%20Council.svg"
+   }
+  },
+  "Preston": {
+   "nimi": "Preston District",
+   "wikidata": "Q385669",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Preston",
+   "tiivistelma": "City of Preston är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 162 864 invånare (2024).",
+   "vakiluku": 141818,
+   "pinta_ala_km2": 142,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "David Cook",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Reading": {
+   "nimi": "Reading",
+   "wikidata": "Q21496716",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Reading",
+   "tiivistelma": "Borough of Reading är en enhetskommun i Berkshire i England, Storbritannien. Kommunen har 182 907 invånare (2024).",
+   "vakiluku": 163203,
+   "pinta_ala_km2": 40,
+   "perustettu": 1835,
+   "henkilot": [
+    {
+     "nimi": "Nick Bicât",
+     "kuvaus": "brittisk kompositör"
+    }
+   ]
+  },
+  "Redbridge": {
+   "nimi": "London Borough of Redbridge",
+   "wikidata": "Q208955",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Redbridge",
+   "tiivistelma": "London Borough of Redbridge är en kommun (borough) i nordöstra London.",
+   "vakiluku": 303858,
+   "pinta_ala_km2": 56,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Mimi Keene",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Coventry Patmore",
+     "kuvaus": "brittisk poet"
+    },
+    {
+     "nimi": "John Boardman",
+     "kuvaus": "brittisk konsthistoriker (klassisk) och arkeolog"
+    }
+   ]
+  },
+  "Redcar and Cleveland": {
+   "nimi": "Redcar and Cleveland",
+   "wikidata": "Q1434448",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Redcar_and_Cleveland",
+   "tiivistelma": "Redcar and Cleveland är en enhetskommun i grevskapet North Yorkshire i England i Storbritannien. Det ingår i Teesside.",
+   "vakiluku": 136531,
+   "pinta_ala_km2": 245,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000003.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Redcar%20and%20Cleveland.svg"
+   }
+  },
+  "Redditch": {
+   "nimi": "Redditch District",
+   "wikidata": "Q21496675",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Redditch",
+   "tiivistelma": "Borough of Redditch är ett distrikt i grevskapet Worcestershire i England, Storbritannien. Distriktet har 87 847 invånare (2024).",
+   "vakiluku": 84989,
+   "pinta_ala_km2": 54,
+   "perustettu": 1894
+  },
+  "Reigate and Banstead": {
+   "nimi": "Reigate and Banstead District",
+   "wikidata": "Q2066396",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Reigate_and_Banstead",
+   "tiivistelma": "Reigate and Banstead är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 159 134 invånare (2024).",
+   "vakiluku": 147757,
+   "pinta_ala_km2": 129
+  },
+  "Renfrewshire": {
+   "nimi": "Renfrewshire",
+   "wikidata": "Q211091",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Renfrewshire",
+   "tiivistelma": "Renfrewshire är en av Skottlands kommuner. Kommunen gränsar till North Ayrshire, East Renfrewshire, Glasgow, Inverclyde och West Dunbartonshire.",
+   "vakiluku": 179100,
+   "pinta_ala_km2": 261,
+   "henkilot": [
+    {
+     "nimi": "William Wallace",
+     "kuvaus": "skotsk nationalhjälte"
+    },
+    {
+     "nimi": "George Cathcart",
+     "kuvaus": "brittisk general och diplomat"
+    },
+    {
+     "nimi": "William Arrol",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Rhondda Cynon Taf": {
+   "nimi": "Rhondda Cynon Taf",
+   "wikidata": "Q817960",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Rhondda_Cynon_Taf",
+   "tiivistelma": "Rhondda Cynon Taf är en kommun med county borough-status i södra Wales, i området South Wales Valleys. Kommunen gränsar till Merthyr Tydfil, Caerphilly, Vale of Glamorgan, Bridgend och Powys.",
+   "vakiluku": 240131,
+   "pinta_ala_km2": 424,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Neil Jenkins",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jamie Oliver",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Thighpaulsandra",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Ribble Valley": {
+   "nimi": "Ribble Valley District",
+   "wikidata": "Q2116317",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Ribble_Valley",
+   "tiivistelma": "Ribble Valley är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 65 794 invånare (2024).",
+   "vakiluku": 63107,
+   "pinta_ala_km2": 583,
+   "perustettu": 1974
+  },
+  "Richmond upon Thames": {
+   "nimi": "London Borough of Richmond upon Thames",
+   "wikidata": "Q32515",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Richmond_upon_Thames",
+   "tiivistelma": "London Borough of Richmond-upon-Thames är en kommun som ligger i sydvästra London. Inom denna borough ligger stadsdelarna Sheen, Barnes, Mortlake, Kew, Whitton, Saint Margarets, Ham, Petersham, Teddington, Hampton, Richmond och Twickenham.",
+   "vakiluku": 196904,
+   "pinta_ala_km2": 57,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Louis Harold Gray",
+     "kuvaus": "brittisk fysiker"
+    },
+    {
+     "nimi": "Marie av Orléans",
+     "kuvaus": "fransk konstnär, genom gifte dansk prinsessa"
+    },
+    {
+     "nimi": "Prinsessan Maud, grevinna av Southesk",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000027.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Richmond%20upon%20Thames.svg"
+   }
+  },
+  "Rochdale": {
+   "nimi": "Metropolitan Borough of Rochdale",
+   "wikidata": "Q1892596",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Rochdale",
+   "tiivistelma": "Metropolitan Borough of Rochdale är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 235 561 invånare (2024).",
+   "vakiluku": 223659,
+   "pinta_ala_km2": 158,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000005.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Escudo_del_Vichada.svg: Shadowxfox\nRutilus_rutilus5.jpg: Krüger\nImperial_Eagle_Supporter_(Heraldry).svg: Sodacan\nBlason_",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Rochdale%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Rochford": {
+   "nimi": "Rochford",
+   "wikidata": "Q2160315",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Rochford_District",
+   "tiivistelma": "Rochford är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 89 815 invånare (2024).",
+   "vakiluku": 86981,
+   "pinta_ala_km2": 169,
+   "perustettu": 1974
+  },
+  "Rossendale": {
+   "nimi": "Rossendale",
+   "wikidata": "Q527423",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Rossendale",
+   "tiivistelma": "Borough of Rossendale är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 73 045 invånare (2024).",
+   "vakiluku": 70895,
+   "pinta_ala_km2": 138,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Phil Lester",
+     "kuvaus": "brittisk youtuber och radiopersonlighet"
+    },
+    {
+     "nimi": "Emily Aston",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ]
+  },
+  "Rother": {
+   "nimi": "Rother District",
+   "wikidata": "Q1811605",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Rother_District",
+   "tiivistelma": "Rother är ett distrikt i grevskapet East Sussex i England, Storbritannien. Distriktet har 96 133 invånare (2024).",
+   "vakiluku": 95656,
+   "pinta_ala_km2": 509,
+   "perustettu": 1974
+  },
+  "Rotherham": {
+   "nimi": "Metropolitan Borough of Rotherham",
+   "wikidata": "Q1878732",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Rotherham",
+   "tiivistelma": "Metropolitan Borough of Rotherham är ett storstadsdistrikt (kommun) i South Yorkshire i England, Storbritannien. Distriktet har 276 595 invånare (2024).",
+   "vakiluku": 260800,
+   "pinta_ala_km2": 287,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000018.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Coat_of_Arms_of_Richard_II_of_England_(1377-1399).svg: Sodacan This  PNG graphic was created with Inkscape .\nMitre_(plai",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Rotherham%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Rugby": {
+   "nimi": "Rugby District",
+   "wikidata": "Q894091",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Rugby",
+   "tiivistelma": " Borough of Rugby är ett distrikt i grevskapet Warwickshire i England, Storbritannien. Distriktet har 122 378 invånare (2024).",
+   "vakiluku": 114363,
+   "pinta_ala_km2": 351,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Paul Scully",
+     "kuvaus": "politiker, Storbritannien"
+    }
+   ]
+  },
+  "Runnymede": {
+   "nimi": "Runnymede District",
+   "wikidata": "Q9324032",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Runnymede",
+   "tiivistelma": "Borough of Runnymede är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 92 118 invånare (2024).",
+   "vakiluku": 88000,
+   "pinta_ala_km2": 78
+  },
+  "Rushcliffe": {
+   "nimi": "Rushcliffe District",
+   "wikidata": "Q1854225",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Rushcliffe_District",
+   "tiivistelma": "Rushcliffe District är ett distrikt i grevskapet Nottinghamshire i England, Storbritannien. Distriktet har 126 736 invånare (2024).",
+   "vakiluku": 121582,
+   "pinta_ala_km2": 409,
+   "perustettu": 1974
+  },
+  "Rushmoor": {
+   "nimi": "Rushmoor District",
+   "wikidata": "Q635274",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Rushmoor_District",
+   "tiivistelma": "Rushmoor är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 105 751 invånare (2024).",
+   "vakiluku": 99754,
+   "pinta_ala_km2": 39
+  },
+  "Rutland": {
+   "nimi": "Rutland",
+   "wikidata": "Q23107",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Rutland",
+   "tiivistelma": "Rutland är Englands minsta grevskap och gränsar i väst och norr till Leicestershire, i nordöst till Lincolnshire, och i sydöst till Northamptonshire. Rutland utgör en enhetskommun med både primär- och sekundärkommunala funktioner.",
+   "vakiluku": 41151,
+   "pinta_ala_km2": 382,
+   "henkilot": [
+    {
+     "nimi": "Peter F. Hamilton",
+     "kuvaus": "Brittisk romanförfattare"
+    },
+    {
+     "nimi": "Elizabeth Berridge, Baroness Berridge",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Moira Quirk",
+     "kuvaus": "brittisk komiker och skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000017.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Rutland%20County%20Council.svg"
+   }
+  },
+  "Salford": {
+   "nimi": "City and Borough of Salford",
+   "wikidata": "Q1142118",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Salford",
+   "tiivistelma": "City of Salford är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 294 348 invånare (2024).",
+   "vakiluku": 262697,
+   "pinta_ala_km2": 97,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Sara Ahmed",
+     "kuvaus": "brittisk kultur- och samhällsteoretiker"
+    },
+    {
+     "nimi": "Jason Manford",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Jon Ashworth",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000006.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Salford%20City%20Council.svg"
+   }
+  },
+  "Sandwell": {
+   "nimi": "Sandwell",
+   "wikidata": "Q285964",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Sandwell",
+   "tiivistelma": "Sandwell är ett storstadsdistrikt (kommun) i grevskapet West Midlands i England, Storbritannien. Distriktet har 353 860 invånare (2024)",
+   "vakiluku": 327378,
+   "pinta_ala_km2": 86,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "James Chambers",
+     "kuvaus": "brittisk fotbollsspelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000028.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Arms_of_the_Greater_London_Council.svg: Greentubing\nCoat_of_Arms_of_Richard_II_of_England_(1377-1399).svg: Sodacan This ",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Sandwell%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Scottish Borders": {
+   "nimi": "Scottish Borders",
+   "wikidata": "Q211113",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Scottish_Borders",
+   "tiivistelma": "Scottish Borders är en av Skottlands kommuner. Kommunen gränsar till Dumfries and Galloway, South Lanarkshire, East Lothian och Midlothian i Skottland samt till Northumberland i England.",
+   "vakiluku": 115510,
+   "pinta_ala_km2": 4732,
+   "perustettu": 1975,
+   "henkilot": [
+    {
+     "nimi": "Sir Bindon Blood",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Phamie Gow",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Janet Bathgate",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Sefton": {
+   "nimi": "Metropolitan Borough of Sefton",
+   "wikidata": "Q1546645",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Sefton",
+   "tiivistelma": "Metropolitan Borough of Sefton är ett storstadsdistrikt (kommun) i Merseyside i England i Storbritannien. Distriktet har 286 281 invånare (2024).",
+   "vakiluku": 275396,
+   "pinta_ala_km2": 155,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Anthony Quayle",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ]
+  },
+  "Sevenoaks": {
+   "nimi": "Sevenoaks District",
+   "wikidata": "Q1499339",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Sevenoaks_District",
+   "tiivistelma": "Sevenoaks District är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 122 748 invånare (2024).",
+   "vakiluku": 121106,
+   "pinta_ala_km2": 369,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Nevill Forbes",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Sheffield": {
+   "nimi": "Sheffield",
+   "wikidata": "Q12956644",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Sheffield",
+   "tiivistelma": "City of Sheffield är ett storstadsdistrikt (kommun) i South Yorkshire i England, Storbritannien. Distriktet har 582 493 invånare (2024).",
+   "vakiluku": 569700,
+   "pinta_ala_km2": 368,
+   "perustettu": 1974
+  },
+  "Shetland Islands": {
+   "nimi": "Shetlandsöarna",
+   "wikidata": "Q47134",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Shetlands%C3%B6arna",
+   "tiivistelma": "Shetlandsöarna är en skotsk ögrupp och kommun belägen på gränsen mellan Nordsjön och Atlanten, nordöst om Storbritannien; mellan Orkneyöarna, Färöarna och Norge. Ytan är 1 467 km².",
+   "vakiluku": 23210,
+   "pinta_ala_km2": 1468,
+   "henkilot": [
+    {
+     "nimi": "Jenna Reid",
+     "kuvaus": "shetländsk fiolspelman"
+    },
+    {
+     "nimi": "Douglas Black",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Sandra Voe",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ]
+  },
+  "Shropshire": {
+   "nimi": "Shropshire",
+   "wikidata": "Q21694759",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Shropshire_(enhetskommun)",
+   "tiivistelma": "Shropshire är en enhetskommun i det ceremoniella grevskapet Shropshire i England, Storbritannien. Kommunen har 332 455 invånare (2024).",
+   "vakiluku": 320274,
+   "pinta_ala_km2": 3197
+  },
+  "Slough": {
+   "nimi": "Slough",
+   "wikidata": "Q21163036",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Slough",
+   "tiivistelma": "Borough of Slough är en enhetskommun i Berkshire i England, Storbritannien. Kommunen har 167 359 invånare (2024).",
+   "vakiluku": 149112,
+   "pinta_ala_km2": 33,
+   "perustettu": 1974
+  },
+  "Solihull": {
+   "nimi": "Metropolitan Borough of Solihull",
+   "wikidata": "Q1925858",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Solihull",
+   "tiivistelma": "Metropolitan Borough of Solihull är ett storstadsdistrikt (kommun) i grevskapet West Midlands i England, Storbritannien. Distriktet har 221 242 invånare (2024)",
+   "vakiluku": 214909,
+   "pinta_ala_km2": 178,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000029.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Lévrier_courant.svg: Peter17\nRostocker_Greif.svg: N3MO\nBruetten-blazon.svg: -\nBlason_damblain.svg: Manassas\nMeuble_héral",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Solihull%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Somerset": {
+   "nimi": "Somerset",
+   "wikidata": "Q21694741",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Somerset_(enhetskommun)",
+   "tiivistelma": "Somerset är en enhetskommun i det ceremoniella grevskapet Somerset i England, Storbritannien. Kommunen har 588 328 invånare (2024).",
+   "vakiluku": 576852,
+   "pinta_ala_km2": 3451
+  },
+  "South Ayrshire": {
+   "nimi": "South Ayrshire",
+   "wikidata": "Q209131",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Ayrshire",
+   "tiivistelma": "South Ayrshire är en av Skottlands kommuner. Kommunen gränsar mot East Ayrshire och Dumfries and Galloway.",
+   "vakiluku": 112610,
+   "pinta_ala_km2": 1222,
+   "perustettu": 1975,
+   "henkilot": [
+    {
+     "nimi": "Alice Boyd",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000028.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20South%20Ayrshire.svg"
+   }
+  },
+  "South Cambridgeshire": {
+   "nimi": "South Cambridgeshire District",
+   "wikidata": "Q969203",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Cambridgeshire",
+   "tiivistelma": "South Cambridgeshire är ett distrikt i grevskapet Cambridgeshire i England, Storbritannien. Distriktet har 172 544 invånare (2024).",
+   "vakiluku": 157519,
+   "pinta_ala_km2": 902,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "John Flanagan",
+     "kuvaus": "Brittisk fotbollsspelare"
+    }
+   ]
+  },
+  "South Derbyshire": {
+   "nimi": "South Derbyshire District",
+   "wikidata": "Q745385",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Derbyshire",
+   "tiivistelma": "South Derbyshire är ett administrativt distrikt i grevskapet Derbyshire i England, Storbritannien och har Swadlincote som administrativt centrum. Distriktet har 117 493 invånare (2024).",
+   "vakiluku": 111133,
+   "pinta_ala_km2": 338,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mark Chadbourn",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "South Gloucestershire": {
+   "nimi": "South Gloucestershire",
+   "wikidata": "Q1369280",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Gloucestershire",
+   "tiivistelma": "South Gloucestershire är en enhetskommun i det ceremoniella grevskapet Gloucestershire i sydvästra England i Storbritannien. Kommunen har 306 332 invånare (2024).",
+   "vakiluku": 282644,
+   "pinta_ala_km2": 497,
+   "henkilot": [
+    {
+     "nimi": "Philippa Swinnerton Hughes",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "South Hams": {
+   "nimi": "South Hams District",
+   "wikidata": "Q649699",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Hams",
+   "tiivistelma": "South Hams är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 92 148 invånare (2024).",
+   "vakiluku": 86221,
+   "pinta_ala_km2": 886,
+   "perustettu": 1972
+  },
+  "South Holland": {
+   "nimi": "South Holland District",
+   "wikidata": "Q303269",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Holland,_England",
+   "tiivistelma": "South Holland är ett distrikt i grevskapet Lincolnshire i England, Storbritannien. Distriktet har 99 298 invånare (2024).",
+   "vakiluku": 96983,
+   "pinta_ala_km2": 751,
+   "perustettu": 1974
+  },
+  "South Kesteven": {
+   "nimi": "South Kesteven District",
+   "wikidata": "Q1942426",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Kesteven",
+   "tiivistelma": "South Kesteven är ett distrikt i grevskapet Lincolnshire i England, Storbritannien. Distriktet har 147 151 invånare (2024).",
+   "vakiluku": 141853,
+   "pinta_ala_km2": 943,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000141.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20South%20Kesteven%20District%20Council.svg"
+   }
+  },
+  "South Lanarkshire": {
+   "nimi": "South Lanarkshire",
+   "wikidata": "Q209142",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Lanarkshire",
+   "tiivistelma": "South Lanarkshire är en av Skottlands kommuner. South Lanarkshire gränsar till Scottish Borders, East Renfrewshire, Dumfries and Galloway, East Ayrshire, North Ayrshire, Glasgow och North Lanarkshire.",
+   "vakiluku": 319020,
+   "pinta_ala_km2": 1772,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "William K. Jackson",
+     "kuvaus": "brittisk curlingspelare"
+    },
+    {
+     "nimi": "Thomas Murray",
+     "kuvaus": "brittisk curlingspelare"
+    },
+    {
+     "nimi": "James Douglas-Hamilton, Baron Selkirk of Douglas",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000029.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20South%20Lanarkshire.svg"
+   }
+  },
+  "South Norfolk": {
+   "nimi": "South Norfolk District",
+   "wikidata": "Q1854245",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Norfolk",
+   "tiivistelma": "South Norfolk är ett distrikt i grevskapet Norfolk i England, Storbritannien. Distriktet har 148 448 invånare (2024).",
+   "vakiluku": 138017,
+   "pinta_ala_km2": 908,
+   "perustettu": 1974
+  },
+  "South Oxfordshire": {
+   "nimi": "South Oxfordshire District",
+   "wikidata": "Q1776967",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Oxfordshire",
+   "tiivistelma": "South Oxfordshire är ett distrikt i grevskapet Oxfordshire i England, Storbritannien. Distriktet har 156 470 invånare (2024).",
+   "vakiluku": 140504,
+   "pinta_ala_km2": 679,
+   "perustettu": 1974
+  },
+  "South Ribble": {
+   "nimi": "South Ribble",
+   "wikidata": "Q290838",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Ribble",
+   "tiivistelma": "South Ribble är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 116 113 invånare (2024).",
+   "vakiluku": 110527,
+   "pinta_ala_km2": 113,
+   "perustettu": 1974
+  },
+  "South Staffordshire": {
+   "nimi": "South Staffordshire District",
+   "wikidata": "Q2116379",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Staffordshire",
+   "tiivistelma": "South Staffordshire är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 114 423 invånare (2024).",
+   "vakiluku": 111527,
+   "pinta_ala_km2": 407,
+   "perustettu": 1974
+  },
+  "South Tyneside": {
+   "nimi": "South Tyneside",
+   "wikidata": "Q1541228",
+   "wikipedia": "https://sv.wikipedia.org/wiki/South_Tyneside",
+   "tiivistelma": "South Tyneside är ett storstadsdistrikt (kommun) i Tyne and Wear i England, Storbritannien. Distriktet har 151 393 invånare (2024).",
+   "vakiluku": 150265,
+   "pinta_ala_km2": 64,
+   "perustettu": 1974
+  },
+  "Southampton": {
+   "nimi": "City of Southampton",
+   "wikidata": "Q21683230",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Southampton",
+   "tiivistelma": "City of Southampton är en enhetskommun i Hampshire i England, Storbritannien. Kommunen har 259 424 invånare (2024).",
+   "vakiluku": 252796,
+   "pinta_ala_km2": 50,
+   "perustettu": 1835
+  },
+  "Southend-on-Sea": {
+   "nimi": "Southend-on-Sea",
+   "wikidata": "Q21487155",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Southend-on-Sea",
+   "tiivistelma": "Southend-on-Sea är en enhetskommun i Essex i England, Storbritannien. Kommunen har 185 256 invånare (2024).",
+   "vakiluku": 180915,
+   "pinta_ala_km2": 42,
+   "perustettu": 1892,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000033.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms-southend.jpg"
+   }
+  },
+  "Southwark": {
+   "nimi": "London Borough of Southwark",
+   "wikidata": "Q730706",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Southwark",
+   "tiivistelma": "London Borough of Southwark är en kommun (borough) i centrala London. Southwark har cirka 312 000 invånare (2022) och bildades 1965 när Borough of Southwark, Borough of Camberwell och Borough of Bermondsey slogs ihop.",
+   "vakiluku": 317256,
+   "pinta_ala_km2": 29,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Ola Aina",
+     "kuvaus": "engelsk-nigeriansk fotbollsspelare"
+    },
+    {
+     "nimi": "Thomas Brodie-Sangster",
+     "kuvaus": "brittisk skådespelare och musiker"
+    },
+    {
+     "nimi": "Charles Vere Ferrers Townshend",
+     "kuvaus": "brittisk politiker"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000028.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Southwark.svg"
+   }
+  },
+  "Spelthorne": {
+   "nimi": "Spelthorne District",
+   "wikidata": "Q1234166",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Spelthorne",
+   "tiivistelma": "Spelthorne är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 107 074 invånare (2024).",
+   "vakiluku": 103551,
+   "pinta_ala_km2": 45
+  },
+  "St Albans": {
+   "nimi": "City and District of St Albans",
+   "wikidata": "Q1094060",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_and_District_of_St_Albans",
+   "tiivistelma": "City and District of St Albans är ett distrikt i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 151 012 invånare (2024).",
+   "vakiluku": 147373,
+   "pinta_ala_km2": 161,
+   "henkilot": [
+    {
+     "nimi": "Matthew Goodwin",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000240.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Blason%20d%27azur%20au%20sautoir%20d%27or.svg"
+   }
+  },
+  "St. Helens": {
+   "nimi": "Metropolitan Borough of St. Helens",
+   "wikidata": "Q179206",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_St._Helens",
+   "tiivistelma": "St. Helens är ett storstadsdistrikt (kommun) i Merseyside i England, Storbritannien.",
+   "vakiluku": 180049,
+   "pinta_ala_km2": 136,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Eunice Macaulay",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Denys Wainwright",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Stafford": {
+   "nimi": "Stafford District",
+   "wikidata": "Q678347",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Stafford",
+   "tiivistelma": "Stafford är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 141 556 invånare (2024).",
+   "vakiluku": 138670,
+   "pinta_ala_km2": 598,
+   "perustettu": 1974
+  },
+  "Staffordshire Moorlands": {
+   "nimi": "Staffordshire Moorlands",
+   "wikidata": "Q2116362",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Staffordshire_Moorlands",
+   "tiivistelma": "Staffordshire Moorlands är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 96 651 invånare (2024).",
+   "vakiluku": 95899,
+   "pinta_ala_km2": 576,
+   "perustettu": 1974
+  },
+  "Stevenage": {
+   "nimi": "Borough of Stevenage",
+   "wikidata": "Q21886152",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Stevenage_District",
+   "tiivistelma": " Stevenage District är ett distrikt i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 91 774 invånare (2024).",
+   "vakiluku": 87754,
+   "pinta_ala_km2": 26,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000243.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Stevenage%20Borough%20Council%20shield.svg"
+   }
+  },
+  "Stirling": {
+   "nimi": "Stirling",
+   "wikidata": "Q217838",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Stirling_(kommun)",
+   "tiivistelma": "Stirling är en av Skottlands kommuner. Kommunen gränsar till Clackmannanshire, Falkirk, Perth and Kinross, Argyll and Bute, East Dunbartonshire och West Dunbartonshire.",
+   "vakiluku": 94210,
+   "pinta_ala_km2": 2187,
+   "henkilot": [
+    {
+     "nimi": "James Bruce",
+     "kuvaus": "brittisk upptäcktsresande"
+    },
+    {
+     "nimi": "Craig Turpie",
+     "kuvaus": "Scoutledare"
+    },
+    {
+     "nimi": "Archibald Stirling",
+     "kuvaus": "brittisk militär"
+    }
+   ]
+  },
+  "Stockport": {
+   "nimi": "Metropolitan Borough of Stockport",
+   "wikidata": "Q1752424",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Stockport",
+   "tiivistelma": "Metropolitan Borough of Stockport är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 303 929 invånare (2024).",
+   "vakiluku": 294197,
+   "pinta_ala_km2": 126,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Will Mellor",
+     "kuvaus": "engelsk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000007.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Georgian_heraldry_motto.svg: Gaeser\nCoat_of_Arms_of_Philip,_Duke_of_Edinburgh.svg: Sodacan\nCoat_of_Arms_of_England_(-134",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Stockport%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Stockton-on-Tees": {
+   "nimi": "Stockton-on-Tees",
+   "wikidata": "Q894094",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Stockton-on-Tees",
+   "tiivistelma": "Borough of Stockton-on-Tees är en enhetskommun i de ceremoniella grevskapen Durham och North Yorkshire i England i Storbritannien.",
+   "vakiluku": 199966,
+   "pinta_ala_km2": 205,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000004.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Borough%20of%20Stockton-on-Tees.svg"
+   }
+  },
+  "Stoke-on-Trent": {
+   "nimi": "City of Stoke-on-Trent",
+   "wikidata": "Q21891722",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Stoke-on-Trent",
+   "tiivistelma": "City of Stoke-on-Trent är en enhetskommun i grevskapet Staffordshire i England, Storbritannien. Kommunen har 274 149 invånare (2024).",
+   "vakiluku": 255833,
+   "pinta_ala_km2": 93,
+   "perustettu": 1910,
+   "henkilot": [
+    {
+     "nimi": "Benjamin R. Mullock",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Stratford-on-Avon": {
+   "nimi": "Stratford-on-Avon District",
+   "wikidata": "Q1693076",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Stratford-on-Avon_District",
+   "tiivistelma": "Stratford-on-Avon District är ett distrikt i grevskapet Warwickshire i England, Storbritannien. Distriktet har 146 258 invånare (2024).",
+   "vakiluku": 127580,
+   "pinta_ala_km2": 978,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Edward Willes",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Stroud": {
+   "nimi": "Stroud (distrikt)",
+   "wikidata": "Q966144",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Stroud_District",
+   "tiivistelma": " Stroud District är ett distrikt i grevskapet Gloucestershire i England, Storbritannien. Distriktet har 125 680 invånare (2024).",
+   "vakiluku": 119019,
+   "pinta_ala_km2": 461
+  },
+  "Sunderland": {
+   "nimi": "Sunderland",
+   "wikidata": "Q1280897",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Sunderland",
+   "tiivistelma": "City of Sunderland är ett storstadsdistrikt (kommun) i Tyne and Wear i England, Storbritannien. Distriktet har 288 606 invånare (2024).",
+   "vakiluku": 277417,
+   "pinta_ala_km2": 137,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Julie Elliott",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Michael Young",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Berwick Kaler",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000024.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Lymphad3.svg: *derivative work: MaEr (talk)\nLymphad3.jpg: Tomasz Steifer\nDouglas_hamiltonCoA.png: Tomasz Steifer\nAnchor_",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Sunderland%20City%20Council.png"
+   }
+  },
+  "Surrey Heath": {
+   "nimi": "Surrey Heath",
+   "wikidata": "Q2116333",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Surrey_Heath",
+   "tiivistelma": "Surrey Heath är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 94 492 invånare (2024).",
+   "vakiluku": 91237,
+   "pinta_ala_km2": 95
+  },
+  "Sutton": {
+   "nimi": "London Borough of Sutton",
+   "wikidata": "Q320378",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Sutton",
+   "tiivistelma": "London Borough of Sutton är en borough (kommun) i södra London med cirka 210 000 invånare (2022). Den bildades 1965 när Municipal Borough of Sutton and Cheam, Municipal Borough of Beddington and Wallington och Carshalton Urban District slogs samman.",
+   "vakiluku": 204525,
+   "pinta_ala_km2": 44,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Brett Goldstein",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Guy Nickalls",
+     "kuvaus": "brittisk roddare"
+    },
+    {
+     "nimi": "Peter Ladefoged",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000029.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Sutton.svg"
+   }
+  },
+  "Swale": {
+   "nimi": "Swale District",
+   "wikidata": "Q652559",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Swale",
+   "tiivistelma": "Borough of Swale är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 158 379 invånare (2024).",
+   "vakiluku": 148519,
+   "pinta_ala_km2": 374
+  },
+  "Swansea": {
+   "nimi": "Swansea",
+   "wikidata": "Q10996863",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Swansea_(kommun)",
+   "tiivistelma": "Swansea, officiellt namn City and County of Swansea, är en kommun i Storbritannien. Den ligger i riksdelen Wales, i den södra delen av landet, 270 km väster om huvudstaden London.",
+   "vakiluku": 246466,
+   "pinta_ala_km2": 380
+  },
+  "Swindon": {
+   "nimi": "Borough of Swindon",
+   "wikidata": "Q894093",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Swindon",
+   "tiivistelma": "Swindon är en enhetskommun i Lancashire i England, Storbritannien. Kommunen har 243 875 invånare (2024).",
+   "vakiluku": 235657,
+   "pinta_ala_km2": 230,
+   "henkilot": [
+    {
+     "nimi": "Keith Michael Baker",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Tameside": {
+   "nimi": "Borough of Tameside",
+   "wikidata": "Q1423078",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Tameside",
+   "tiivistelma": "Tameside, officiellt Metropolitan Borough of Tameside, är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 239 643 invånare (2024).",
+   "vakiluku": 232753,
+   "pinta_ala_km2": 103,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Millie Gibson",
+     "kuvaus": "engelsk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Tameside%20Metropolitan%20Borough%20Council.svg"
+   }
+  },
+  "Tamworth": {
+   "nimi": "Tamworth District",
+   "wikidata": "Q7170938",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Tamworth",
+   "tiivistelma": "Borough of Tamworth är ett distrikt i grevskapet Staffordshire i England, Storbritannien. Distriktet har 81 117 invånare (2024).",
+   "vakiluku": 76678,
+   "pinta_ala_km2": 31,
+   "perustettu": 1835
+  },
+  "Tandridge": {
+   "nimi": "Tandridge District",
+   "wikidata": "Q2301760",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Tandridge_District",
+   "tiivistelma": "Tandridge District är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 90 586 invånare (2024).",
+   "vakiluku": 87496,
+   "pinta_ala_km2": 248
+  },
+  "Teignbridge": {
+   "nimi": "Teignbridge District",
+   "wikidata": "Q739432",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Teignbridge",
+   "tiivistelma": "Teignbridge är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 138 548 invånare (2024).",
+   "vakiluku": 135952,
+   "pinta_ala_km2": 674
+  },
+  "Telford and Wrekin": {
+   "nimi": "Telford and Wrekin",
+   "wikidata": "Q1425298",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Telford_and_Wrekin",
+   "tiivistelma": "Telford and Wrekin är en enhetskommun i grevskapet Shropshire i Storbritannien. Kommunen har 195 952 invånare (2024).",
+   "vakiluku": 188871,
+   "pinta_ala_km2": 290,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Arthur Clark",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Tendring": {
+   "nimi": "Tendring",
+   "wikidata": "Q1752638",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Tendring_District",
+   "tiivistelma": "Tendring är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 156 759 invånare (2024).",
+   "vakiluku": 145803,
+   "pinta_ala_km2": 338,
+   "perustettu": 1974
+  },
+  "Test Valley": {
+   "nimi": "Test Valley District",
+   "wikidata": "Q2116338",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Test_Valley",
+   "tiivistelma": "Test Valley är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 135 201 invånare (2024).",
+   "vakiluku": 125169,
+   "pinta_ala_km2": 628
+  },
+  "Tewkesbury": {
+   "nimi": "Tewkesbury District",
+   "wikidata": "Q894096",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Tewkesbury_District",
+   "tiivistelma": "Tewkesbury är ett distrikt i grevskapet Gloucestershire i England, Storbritannien. Distriktet har 101 949 invånare (2024).",
+   "vakiluku": 97000,
+   "pinta_ala_km2": 414
+  },
+  "Thanet": {
+   "nimi": "Thanet District",
+   "wikidata": "Q1752642",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Thanet_District",
+   "tiivistelma": "Thanet District är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 142 691 invånare (2024).",
+   "vakiluku": 140689,
+   "pinta_ala_km2": 103,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Terence O'Brien",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Christopher Ewart-Biggs",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Three Rivers": {
+   "nimi": "Three Rivers",
+   "wikidata": "Q1386468",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Three_Rivers_District",
+   "tiivistelma": "Three Rivers District är ett distrikt strax norr om London i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 95 807 invånare (2024).",
+   "vakiluku": 93045,
+   "pinta_ala_km2": 89
+  },
+  "Thurrock": {
+   "nimi": "Thurrock",
+   "wikidata": "Q1549155",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Thurrock",
+   "tiivistelma": "Thurrock är en enhetskommun i Essex i England, Storbritannien. Kommunen har 180 989 invånare (2024).",
+   "vakiluku": 172525,
+   "pinta_ala_km2": 163,
+   "henkilot": [
+    {
+     "nimi": "Samuel Byram",
+     "kuvaus": "engelsk fotbollsspelare"
+    },
+    {
+     "nimi": "David Ottley",
+     "kuvaus": "brittisk spjutkastare"
+    },
+    {
+     "nimi": "Andy Hunt",
+     "kuvaus": "brittisk fotbollsspelare"
+    }
+   ]
+  },
+  "Tonbridge and Malling": {
+   "nimi": "Tonbridge and Malling District",
+   "wikidata": "Q596743",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Tonbridge_and_Malling",
+   "tiivistelma": "Tonbridge and Malling är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 136 853 invånare (2024).",
+   "vakiluku": 130508,
+   "pinta_ala_km2": 240,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Charles Morris, Baron Morris of Grasmere",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Torbay": {
+   "nimi": "Torbay",
+   "wikidata": "Q1136118",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Torbay",
+   "tiivistelma": "Torbay är en enhetskommun i grevskapet Devon i England, Storbritannien. Kommunen har 140 126 invånare (2024).",
+   "vakiluku": 139479,
+   "pinta_ala_km2": 63,
+   "perustettu": 1968,
+   "henkilot": [
+    {
+     "nimi": "Chris Lintott",
+     "kuvaus": "astronom"
+    },
+    {
+     "nimi": "E. H. H. Green",
+     "kuvaus": "brittisk historiker"
+    }
+   ]
+  },
+  "Torfaen": {
+   "nimi": "Torfaen",
+   "wikidata": "Q643919",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Torfaen",
+   "tiivistelma": "Torfaen är en kommun med county borough-status i Wales. Den ligger inom det traditionella grevskapet Monmouthshire.",
+   "vakiluku": 91075,
+   "pinta_ala_km2": 126,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Rachel Rice",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000020.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Torfaen%20County%20Borough%20Council.svg"
+   }
+  },
+  "Torridge": {
+   "nimi": "Torridge District",
+   "wikidata": "Q1752488",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Torridge_District",
+   "tiivistelma": "Torridge är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 69 841 invånare (2024).",
+   "vakiluku": 68143,
+   "pinta_ala_km2": 984
+  },
+  "Tower Hamlets": {
+   "nimi": "London Borough of Tower Hamlets",
+   "wikidata": "Q208152",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Tower_Hamlets",
+   "tiivistelma": "London Borough of Tower Hamlets är en kommun i centrala London, strax öster om City of London. I kommunen finns bland annat Tower of London och Tower Bridge.",
+   "vakiluku": 317705,
+   "pinta_ala_km2": 20,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Wes Streeting",
+     "kuvaus": "brittisk politiker"
+    },
+    {
+     "nimi": "Dionne Bromfield",
+     "kuvaus": "brittisk sångare"
+    },
+    {
+     "nimi": "Kia Abdullah",
+     "kuvaus": "brittisk författare och skribent"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000030.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Tower%20Hamlets.svg"
+   }
+  },
+  "Trafford": {
+   "nimi": "Trafford",
+   "wikidata": "Q915954",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Trafford",
+   "tiivistelma": "Trafford, officiellt Metropolitan Borough of Trafford, är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 241 025 invånare (2024).",
+   "vakiluku": 237579,
+   "pinta_ala_km2": 106,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Christabel Pankhurst",
+     "kuvaus": "brittisk suffragett"
+    },
+    {
+     "nimi": "Sylvia Pankhurst",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Phoebe Dynevor",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ]
+  },
+  "Tunbridge Wells": {
+   "nimi": "Tunbridge Wells District",
+   "wikidata": "Q894097",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Tunbridge_Wells",
+   "tiivistelma": "Borough of Tunbridge Wells är ett distrikt i grevskapet Kent i England, Storbritannien. Distriktet har 119 694 invånare (2024).",
+   "vakiluku": 118054,
+   "pinta_ala_km2": 331,
+   "henkilot": [
+    {
+     "nimi": "Theodore Hamilton Beit",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Uttlesford": {
+   "nimi": "Uttlesford",
+   "wikidata": "Q1496198",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Uttlesford",
+   "tiivistelma": "Uttlesford District är ett distrikt i grevskapet Essex i England, Storbritannien. Distriktet har 95 106 invånare (2024).",
+   "vakiluku": 89179,
+   "pinta_ala_km2": 641,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Juliette Norton",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Vale of Glamorgan": {
+   "nimi": "Vale of Glamorgan",
+   "wikidata": "Q844784",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Vale_of_Glamorgan",
+   "tiivistelma": "Vale of Glamorgan är en kommun med county borough-status i Wales. Den täcker den södra delen av det traditionella grevskapet Glamorgan.",
+   "vakiluku": 132165,
+   "pinta_ala_km2": 331,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Andrew R. T. Davies",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Rebecca John",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Vale of White Horse": {
+   "nimi": "Vale of White Horse",
+   "wikidata": "Q1540110",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Vale_of_White_Horse_District",
+   "tiivistelma": "Vale of White Horse är ett distrikt i grevskapet Oxfordshire i England, Storbritannien. Distriktet har 149 347 invånare (2024).",
+   "vakiluku": 133732,
+   "pinta_ala_km2": 578
+  },
+  "Wakefield": {
+   "nimi": "Wakefield",
+   "wikidata": "Q763171",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Wakefield",
+   "tiivistelma": "City of Wakefield är ett storstadsdistrikt (kommun) i grevskapet West Yorkshire i England, Storbritannien. Distriktet har 367 666 invånare (2024).",
+   "vakiluku": 345038,
+   "pinta_ala_km2": 339,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000036.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Felipe Fidelis Tobias",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Wakefield.svg"
+   }
+  },
+  "Walsall": {
+   "nimi": "Metropolitan Borough of Walsall",
+   "wikidata": "Q178356",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Walsall",
+   "tiivistelma": "Metropolitan Borough of Walsall är ett storstadsdistrikt (kommun) i grevskapet West Midlands i England, Storbritannien. Distriktet har 295 678 invånare (2024)",
+   "vakiluku": 283378,
+   "pinta_ala_km2": 104,
+   "perustettu": 1974
+  },
+  "Waltham Forest": {
+   "nimi": "London Borough of Waltham Forest",
+   "wikidata": "Q40608",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Waltham_Forest",
+   "tiivistelma": "London Borough of Waltham Forest är en London borough (kommun) i nordöstra London med cirka 275 000 invånare (2022). Kommunen har haft problem med hög kriminalitet, fattigdom och hög arbetslöshet.",
+   "vakiluku": 276700,
+   "pinta_ala_km2": 39,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Kwasi Kwarteng",
+     "kuvaus": "brittisk historiker"
+    },
+    {
+     "nimi": "Joe Willock",
+     "kuvaus": "engelsk fotbollsspelare"
+    },
+    {
+     "nimi": "Chook Sibtain",
+     "kuvaus": "brittisk skådespelare"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000031.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Waltham%20Forest.svg"
+   }
+  },
+  "Wandsworth": {
+   "nimi": "London Borough of Wandsworth",
+   "wikidata": "Q210563",
+   "wikipedia": "https://sv.wikipedia.org/wiki/London_Borough_of_Wandsworth",
+   "tiivistelma": "London Borough of Wandsworth är en kommun i sydvästra London med cirka 330 000 invånare (2022). Den utgör en del av Inner London och har uppkallats efter stadsdelen Wandsworth.",
+   "vakiluku": 326474,
+   "pinta_ala_km2": 34,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Louis Partridge",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Chris Irwin",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Robert Lindsay",
+     "kuvaus": "brittisk friidrottare (1890–1958)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000032.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Wandsworth.svg"
+   }
+  },
+  "Warrington": {
+   "nimi": "Warrington",
+   "wikidata": "Q894095",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Warrington",
+   "tiivistelma": "Borough of Warrington är en enhetskommun i Cheshire i England, Storbritannien. Kommunen har 215 391 invånare (2024).",
+   "vakiluku": 209547,
+   "pinta_ala_km2": 181,
+   "perustettu": 1974
+  },
+  "Warwick": {
+   "nimi": "Warwick District",
+   "wikidata": "Q611294",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Warwick_District",
+   "tiivistelma": "Warwick District är ett distrikt i grevskapet Warwickshire i England, Storbritannien. Distriktet har 154 889 invånare (2024).",
+   "vakiluku": 151158,
+   "pinta_ala_km2": 283,
+   "perustettu": 1974
+  },
+  "Watford": {
+   "nimi": "Borough of Watford",
+   "wikidata": "Q21886164",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Watford",
+   "tiivistelma": "Borough of Watford är ett distrikt strax norr om London i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 107 171 invånare (2024).",
+   "vakiluku": 96767,
+   "pinta_ala_km2": 21,
+   "perustettu": 1894
+  },
+  "Waverley": {
+   "nimi": "Waverley District",
+   "wikidata": "Q2116521",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Waverley",
+   "tiivistelma": "Borough of Waverley är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 134 284 invånare (2024).",
+   "vakiluku": 130063,
+   "pinta_ala_km2": 345,
+   "perustettu": 1974
+  },
+  "Wealden": {
+   "nimi": "Wealden District",
+   "wikidata": "Q1575946",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Wealden",
+   "tiivistelma": "Wealden är ett distrikt i grevskapet East Sussex i England, Storbritannien. Distriktet har 166 908 invånare (2024).",
+   "vakiluku": 160175,
+   "pinta_ala_km2": 833
+  },
+  "Welwyn Hatfield": {
+   "nimi": "Welwyn Hatfield",
+   "wikidata": "Q2166127",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Welwyn_Hatfield",
+   "tiivistelma": "Welwyn Hatfield är ett distrikt i grevskapet Hertfordshire i England, Storbritannien. Distriktet har 122 819 invånare (2024).",
+   "vakiluku": 122746,
+   "pinta_ala_km2": 130,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000241.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Welwyn%20Hatfield%20District%20Council%20shield.svg"
+   }
+  },
+  "West Berkshire": {
+   "nimi": "West Berkshire",
+   "wikidata": "Q1473780",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Berkshire",
+   "tiivistelma": "West Berkshire är en enhetskommun i Berkshire i England, Storbritannien. Kommunen har 165 112 invånare (2024).",
+   "vakiluku": 158527,
+   "pinta_ala_km2": 704,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Edward Bridges, 1st Baron Bridges",
+     "kuvaus": "brittisk politiker"
+    }
+   ]
+  },
+  "West Devon": {
+   "nimi": "West Devon District",
+   "wikidata": "Q370814",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Devon",
+   "tiivistelma": "West Devon är ett distrikt i grevskapet Devon i England, Storbritannien. Distriktet har 58 923 invånare (2024).",
+   "vakiluku": 58190,
+   "pinta_ala_km2": 1160
+  },
+  "West Dunbartonshire": {
+   "nimi": "West Dunbartonshire",
+   "wikidata": "Q208121",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Dunbartonshire",
+   "tiivistelma": "West Dunbartonshire är en av Skottlands kommuner. West Dunbartonshire gränsar till Argyll and Bute, Stirling, East Dunbartonshire, Glasgow och Renfrewshire.",
+   "vakiluku": 88930,
+   "pinta_ala_km2": 159,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000039.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20West%20Dunbartonshire.svg"
+   }
+  },
+  "West Lancashire": {
+   "nimi": "West Lancashire",
+   "wikidata": "Q1290796",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Lancashire",
+   "tiivistelma": "West Lancashire är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 121 995 invånare (2024).",
+   "vakiluku": 113949,
+   "pinta_ala_km2": 347,
+   "perustettu": 1974
+  },
+  "West Lindsey": {
+   "nimi": "West Lindsey",
+   "wikidata": "Q253501",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Lindsey",
+   "tiivistelma": "West Lindsey är ett distrikt i grevskapet Lincolnshire i England, Storbritannien. Distriktet har 99 208 invånare (2024).",
+   "vakiluku": 94869,
+   "pinta_ala_km2": 1156,
+   "perustettu": 1974
+  },
+  "West Lothian": {
+   "nimi": "West Lothian",
+   "wikidata": "Q204940",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Lothian",
+   "tiivistelma": "West Lothian är en av Skottlands kommuner och ståthållarskap. Kommunen gränsar till Edinburgh, Falkirk samt Midlothian.",
+   "vakiluku": 182140,
+   "pinta_ala_km2": 428,
+   "henkilot": [
+    {
+     "nimi": "John Spottiswoode",
+     "kuvaus": "skotsk prelat; ärkebiskop från 1615"
+    },
+    {
+     "nimi": "Jean Urquhart",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Aidan Denholm",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000040.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20West%20Lothian%20Council.svg"
+   }
+  },
+  "West Northamptonshire": {
+   "nimi": "West Northamptonshire",
+   "wikidata": "Q60790129",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Northamptonshire",
+   "tiivistelma": "West Northamptonshire är en enhetskommun i det ceremoniella grevskapet Northamptonshire i England, Storbritannien. Kommunen har 439 811 invånare (2024).",
+   "vakiluku": 429013
+  },
+  "West Oxfordshire": {
+   "nimi": "West Oxfordshire District",
+   "wikidata": "Q1776955",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Oxfordshire",
+   "tiivistelma": "West Oxfordshire är ett distrikt i grevskapet Oxfordshire i England, Storbritannien. Distriktet har 120 941 invånare (2024).",
+   "vakiluku": 109800,
+   "pinta_ala_km2": 714,
+   "perustettu": 1974
+  },
+  "West Suffolk": {
+   "nimi": "West Suffolk",
+   "wikidata": "Q54554272",
+   "wikipedia": "https://sv.wikipedia.org/wiki/West_Suffolk_District",
+   "tiivistelma": "West Suffolk District är ett distrikt i grevskapet Suffolk i England, Storbritannien. Distriktet har 188 485 invånare (2024).",
+   "vakiluku": 182228,
+   "pinta_ala_km2": 1035,
+   "perustettu": 2019
+  },
+  "Westminster": {
+   "nimi": "City of Westminster",
+   "wikidata": "Q179351",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Westminster",
+   "tiivistelma": "City of Westminster är en kommun, belägen väster om City of London. Området används ofta synonymt med West End.",
+   "vakiluku": 211365,
+   "pinta_ala_km2": 21,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "George Gordon Byron",
+     "kuvaus": "brittisk författare och poet"
+    },
+    {
+     "nimi": "Carey Mulligan",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Martin Farquhar Tupper",
+     "kuvaus": "brittisk poet"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000033.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Felipe Fidelis Tobias",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20City%20of%20Westminster.svg"
+   }
+  },
+  "Westmorland and Furness": {
+   "nimi": "Westmorland and Furness",
+   "wikidata": "Q110536353",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Westmorland_and_Furness",
+   "tiivistelma": "Westmorland and Furness är en enhetskommun i det ceremoniella grevskapet Cumbria i England, Storbritannien. Kommunen har 230 185 invånare (2024).",
+   "vakiluku": 227643,
+   "perustettu": 2023
+  },
+  "Wigan": {
+   "nimi": "Metropolitan Borough of Wigan",
+   "wikidata": "Q684307",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Wigan",
+   "tiivistelma": "Wigan är ett storstadsdistrikt (kommun) i Greater Manchester i England, Storbritannien. Distriktet har 344 922 invånare (2024).",
+   "vakiluku": 330712,
+   "pinta_ala_km2": 188,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000010.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Oeschenbach-coat_of_arms.svg: Aliman5040",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Wigan%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Wiltshire": {
+   "nimi": "Wiltshire",
+   "wikidata": "Q21694746",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Wiltshire_(enhetskommun)",
+   "tiivistelma": "Wiltshire är en enhetskommun i det ceremoniella grevskapet Wiltshire i England, Storbritannien. Kommunen har 523 700 invånare (2024).",
+   "vakiluku": 498064,
+   "pinta_ala_km2": 3255,
+   "henkilot": [
+    {
+     "nimi": "Bernard Taylor",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Millie Mackintosh",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Winchester": {
+   "nimi": "Winchester District",
+   "wikidata": "Q1094226",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Winchester",
+   "tiivistelma": "City of Winchester är ett distrikt i grevskapet Hampshire i England, Storbritannien. Distriktet har 135 632 invånare (2024).",
+   "vakiluku": 124295,
+   "pinta_ala_km2": 661,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mary Russell Mitford",
+     "kuvaus": "brittisk poet och författare"
+    },
+    {
+     "nimi": "C. Lee Williams",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000094.png",
+    "lisenssi": "CC BY-SA 2.0",
+    "tekija": "David Pearson",
+    "lahde": "https://commons.wikimedia.org/wiki/File:180509-0953%2023C3441%20%2842076195902%29.jpg"
+   }
+  },
+  "Windsor and Maidenhead": {
+   "nimi": "Windsor and Maidenhead",
+   "wikidata": "Q1368496",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Royal_Borough_of_Windsor_and_Maidenhead",
+   "tiivistelma": "Royal Borough of Windsor and Maidenhead är en enhetskommun i Berkshire i England, Storbritannien. Kommunen har 158 943 invånare (2024).",
+   "vakiluku": 150906,
+   "pinta_ala_km2": 197,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Artemas",
+     "kuvaus": "engelsk sångare, låtskrivare och musikproducent"
+    },
+    {
+     "nimi": "Richard Reid",
+     "kuvaus": "brittisk skådespelare"
+    },
+    {
+     "nimi": "Viveik Kalra",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Wirral": {
+   "nimi": "Metropolitan Borough of Wirral",
+   "wikidata": "Q11365639",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Metropolitan_Borough_of_Wirral",
+   "tiivistelma": "Wirral är ett storstadsdistrikt (kommun) i Merseyside i England, Storbritannien. Distriktet har 286 281 invånare (2024).",
+   "vakiluku": 323235,
+   "pinta_ala_km2": 157,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mike Dean",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tim Firth",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Gale Tattersall",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Woking": {
+   "nimi": "Woking District",
+   "wikidata": "Q2277849",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Woking",
+   "tiivistelma": "Borough of Woking är ett distrikt i grevskapet Surrey i England, Storbritannien. Distriktet har 105 679 invånare (2024).",
+   "vakiluku": 101167,
+   "pinta_ala_km2": 64,
+   "perustettu": 1894,
+   "henkilot": [
+    {
+     "nimi": "James Boulton Whitburn",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Wokingham": {
+   "nimi": "Wokingham",
+   "wikidata": "Q1758432",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Wokingham",
+   "tiivistelma": "Borough of Wokingham är en enhetskommun i Berkshire i England, Storbritannien. Kommunen har 187 200 invånare (2024).",
+   "vakiluku": 167979,
+   "pinta_ala_km2": 179,
+   "henkilot": [
+    {
+     "nimi": "William Darell",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Wolverhampton": {
+   "nimi": "City of Wolverhampton",
+   "wikidata": "Q21885975",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Wolverhampton",
+   "tiivistelma": "City of Wolverhampton är ett storstadsdistrikt (kommun) i grevskapet West Midlands i England, Storbritannien. Distriktet har 281 251 invånare (2024).",
+   "vakiluku": 262008,
+   "pinta_ala_km2": 69,
+   "perustettu": 1849
+  },
+  "Worcester": {
+   "nimi": "Worcester District",
+   "wikidata": "Q20986481",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_Worcester",
+   "tiivistelma": "City of Worcester är ett distrikt i grevskapet Worcestershire i England, Storbritannien. Distriktet har 106 671 invånare (2024).",
+   "vakiluku": 101891,
+   "pinta_ala_km2": 33,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000237.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Worcester%20City%20Council.svg"
+   }
+  },
+  "Worthing": {
+   "nimi": "Worthing District",
+   "wikidata": "Q21886170",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Worthing",
+   "tiivistelma": "Borough of Worthing är ett distrikt i grevskapet West Sussex i England, Storbritannien. Distriktet har 113 866 invånare (2024) Det omfattar staden Worthing.",
+   "vakiluku": 110025,
+   "pinta_ala_km2": 33,
+   "perustettu": 1890
+  },
+  "Wrexham": {
+   "nimi": "Wrexham",
+   "wikidata": "Q843868",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Wrexham_(kommun)",
+   "tiivistelma": "Wrexham är en kommun med county borough-status i norra Wales. Den täcker delar av de traditionella grevskapen Denbighshire och Flintshire.",
+   "vakiluku": 136126,
+   "pinta_ala_km2": 504,
+   "perustettu": 1996,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000006.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "AlexD",
+    "lahde": "https://commons.wikimedia.org/wiki/File:WREXHAM%20Shield.svg"
+   }
+  },
+  "Wychavon": {
+   "nimi": "Wychavon District",
+   "wikidata": "Q2116344",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Wychavon",
+   "tiivistelma": "Wychavon är ett distrikt i grevskapet Worcestershire i England, Storbritannien. Distriktet har 138 017 invånare (2024).",
+   "vakiluku": 121500,
+   "pinta_ala_km2": 664
+  },
+  "Wyre": {
+   "nimi": "Wyre District",
+   "wikidata": "Q894100",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Borough_of_Wyre",
+   "tiivistelma": "Brough of Wyre är ett distrikt i grevskapet Lancashire i England, Storbritannien. Distriktet har 118 743 invånare (2024).",
+   "vakiluku": 111223,
+   "pinta_ala_km2": 282,
+   "perustettu": 1974
+  },
+  "Wyre Forest": {
+   "nimi": "Wyre Forest District",
+   "wikidata": "Q548224",
+   "wikipedia": "https://sv.wikipedia.org/wiki/Wyre_Forest_District",
+   "tiivistelma": "Wyre Forest District är ett distrikt i grevskapet Worcestershire i England, Storbritannien. Distriktet har 103 913 invånare (2024).",
+   "vakiluku": 101062,
+   "pinta_ala_km2": 195,
+   "perustettu": 1974
+  },
+  "York": {
+   "nimi": "York",
+   "wikidata": "Q20986421",
+   "wikipedia": "https://sv.wikipedia.org/wiki/City_of_York",
+   "tiivistelma": "City of York är en enhetskommun i grevskapet Lincolnshire i England, Storbritannien. Kommunen har 209 301 invånare (2024).",
+   "vakiluku": 209893,
+   "pinta_ala_km2": 272,
+   "perustettu": 1996
+  }
+ }
+}
