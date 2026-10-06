@@ -1,0 +1,5249 @@
+{
+ "maa": "GB",
+ "kieli": "nb",
+ "lahde": "Wikipedia (no, CC BY-SA 4.0), Wikidata (CC0), vaakunat Wikimedia Commons",
+ "kunnat": {
+  "Aberdeen City": {
+   "nimi": "City of Aberdeen",
+   "wikidata": "Q62274582",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Aberdeen",
+   "tiivistelma": "City of Aberdeen er en av Skottlands regioner. Med unntak av kystlinjen er den omgitt på alle kanter av Aberdeenshire.",
+   "vakiluku": 227560,
+   "pinta_ala_km2": 186,
+   "perustettu": 1975,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000033.png",
+    "lisenssi": "Public domain",
+    "tekija": "Fox-Davies, Arthur Charles, 1871-1928",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Aberdeen-arms.png"
+   }
+  },
+  "Aberdeenshire": {
+   "nimi": "Aberdeenshire",
+   "wikidata": "Q189912",
+   "wikipedia": "https://no.wikipedia.org/wiki/Aberdeenshire",
+   "tiivistelma": "Aberdeenshire er en av Skottlands regioner. Administrasjonsbyen er Aberdeen, som tilhører en annen region, nemlig City of Aberdeen.",
+   "vakiluku": 261210,
+   "pinta_ala_km2": 6313,
+   "henkilot": [
+    {
+     "nimi": "Amy Manson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alice Comyn",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Flora Garry",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000034.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Aberdeenshire%20County%20Council%201890-1975.svg"
+   }
+  },
+  "Adur": {
+   "nimi": "Adur",
+   "wikidata": "Q379103",
+   "wikipedia": "https://no.wikipedia.org/wiki/Adur",
+   "tiivistelma": "Adur er et distrikt i West Sussex, England. Det har sitt navn etter elven Adur.",
+   "vakiluku": 63869,
+   "pinta_ala_km2": 42
+  },
+  "Amber Valley": {
+   "nimi": "Amber Valley",
+   "wikidata": "Q457014",
+   "wikipedia": "https://no.wikipedia.org/wiki/Amber_Valley",
+   "tiivistelma": "Amber Valley er et administrativt distrikt i Derbyshire, England. Det har navn etter elven Amber, og består for det meste av landsbygd med noen små byer og noen kullgruver.",
+   "vakiluku": 126678,
+   "pinta_ala_km2": 265,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000032.png",
+    "lisenssi": "CC0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Amber%20Valley.svg"
+   }
+  },
+  "Angus": {
+   "nimi": "Angus",
+   "wikidata": "Q202177",
+   "wikipedia": "https://no.wikipedia.org/wiki/Angus",
+   "tiivistelma": "Angus er en av Skottlands regioner, og et stattholderskap. Regionen grenser mot Aberdeenshire, Perth and Kinross, og City of Dundee.",
+   "vakiluku": 115820,
+   "pinta_ala_km2": 2182,
+   "henkilot": [
+    {
+     "nimi": "Charles Lyell",
+     "kuvaus": "britisk geolog"
+    },
+    {
+     "nimi": "James Mill",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Don",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000041.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Angus%20Area%20Council.svg"
+   }
+  },
+  "Antrim and Newtownabbey": {
+   "nimi": "Antrim and Newtownabbey",
+   "wikidata": "Q4777347",
+   "wikipedia": "https://no.wikipedia.org/wiki/Antrim_and_Newtownabbey",
+   "tiivistelma": "Antrim and Newtownabbey er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Antrim og Newtownabbey.",
+   "vakiluku": 148100,
+   "pinta_ala_km2": 572
+  },
+  "Ards and North Down": {
+   "nimi": "Ards and North Down",
+   "wikidata": "Q7055155",
+   "wikipedia": "https://no.wikipedia.org/wiki/Ards_and_North_Down",
+   "tiivistelma": "Ards and North Down er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Ards og North Down.",
+   "vakiluku": 165415,
+   "pinta_ala_km2": 461
+  },
+  "Argyll and Bute": {
+   "nimi": "Argyll and Bute",
+   "wikidata": "Q202174",
+   "wikipedia": "https://no.wikipedia.org/wiki/Argyll_and_Bute",
+   "tiivistelma": "Argyll and Bute er en av 32 og den nest største av Skottlands regioner, og et stattholderskap. Den nåværende stattholderen (Lord-Lieutenant) er Jane Margaret MacLeod.",
+   "vakiluku": 85870,
+   "pinta_ala_km2": 6909,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "George Campbell, 8. hertug av Argyll",
+     "kuvaus": "britisk økonom"
+    },
+    {
+     "nimi": "Tom Nicolson",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Armagh City, Banbridge and Craigavon": {
+   "nimi": "Armagh City, Banbridge and Craigavon",
+   "wikidata": "Q4792580",
+   "wikipedia": "https://no.wikipedia.org/wiki/Armagh_City,_Banbridge_and_Craigavon",
+   "tiivistelma": "Antrim and Newtownabbey er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Armagh, Banbridge og Craigavon.",
+   "vakiluku": 222511,
+   "pinta_ala_km2": 1337
+  },
+  "Arun": {
+   "nimi": "Arun",
+   "wikidata": "Q1725997",
+   "wikipedia": "https://no.wikipedia.org/wiki/Arun",
+   "tiivistelma": "Arun er et distrikt i West Sussex, England. Det har navn etter elven Arun.",
+   "vakiluku": 159827,
+   "pinta_ala_km2": 221
+  },
+  "Ashfield": {
+   "nimi": "Ashfield",
+   "wikidata": "Q600996",
+   "wikipedia": "https://no.wikipedia.org/wiki/Ashfield",
+   "tiivistelma": "Ashfield er et administrativt distrikt i Nottinghamshire i England. Administrasjonssenteret er Kirkby-in-Ashfield mens den største byen er Sutton-in-Ashfield.",
+   "vakiluku": 127151,
+   "pinta_ala_km2": 110,
+   "perustettu": 1974
+  },
+  "Ashford": {
+   "nimi": "Ashford (distrikt)",
+   "wikidata": "Q894074",
+   "wikipedia": "https://no.wikipedia.org/wiki/Ashford_(Kent)",
+   "tiivistelma": "Ashford er et distrikt i Kent, England. Administrasjonssenteret er byen Ashford.",
+   "vakiluku": 129281,
+   "pinta_ala_km2": 581,
+   "henkilot": [
+    {
+     "nimi": "David L. Lambert",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000105.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Borough%20of%20Ashford.svg"
+   }
+  },
+  "Babergh": {
+   "nimi": "Babergh",
+   "wikidata": "Q797643",
+   "wikipedia": "https://no.wikipedia.org/wiki/Babergh",
+   "tiivistelma": "Babergh er et administrativt distrikt i Suffolk, England. Administrasjonssenteret er Hadleigh, men den største byen er Sudbury.",
+   "vakiluku": 91401,
+   "pinta_ala_km2": 594,
+   "perustettu": 1974
+  },
+  "Barking and Dagenham": {
+   "nimi": "Barking and Dagenham",
+   "wikidata": "Q205358",
+   "wikipedia": "https://no.wikipedia.org/wiki/Barking_and_Dagenham",
+   "tiivistelma": "Barking and Dagenham er en bydel i Stor-London. Den ligger i ytre London, i regionens nordøstlige del.",
+   "vakiluku": 211998,
+   "pinta_ala_km2": 36,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Tim Stevens",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000002.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Barking%20and%20Dagenham.svg"
+   }
+  },
+  "Barnet": {
+   "nimi": "Barnet",
+   "wikidata": "Q151048",
+   "wikipedia": "https://no.wikipedia.org/wiki/Barnet_(distrikt)",
+   "tiivistelma": "Barnet er en bydel og forstad i den nordlige delen av det ytre London. Den ble opprettet i 1965 da kretsene Finchley, Hendon og Friern Barnet i Middlesex samt East Barnet og Barnet i Hertfordshire ble slått sammen og lagt under Stor-London.",
+   "vakiluku": 392140,
+   "pinta_ala_km2": 87,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Emily Carey",
+     "kuvaus": "britisk skuespiller"
+    },
+    {
+     "nimi": "Peter Banks",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Nigel Marven",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000003.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Barnet.svg"
+   }
+  },
+  "Barnsley": {
+   "nimi": "Barnsley",
+   "wikidata": "Q1857382",
+   "wikipedia": "https://no.wikipedia.org/wiki/Barnsley_(distrikt)",
+   "tiivistelma": "Barnsley er et administrativt distrikt i South Yorkshire i England. Administrasjonssenteret er byen Barnsley.",
+   "vakiluku": 245199,
+   "pinta_ala_km2": 329,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Joseph Bramah",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Basildon": {
+   "nimi": "Basildon (distrikt)",
+   "wikidata": "Q810056",
+   "wikipedia": "https://no.wikipedia.org/wiki/Basildon_(distrikt)",
+   "tiivistelma": "Basildon er et administrativt distrikt i Essex, England. Det har navn etter administrasjonssenteret Basildon.",
+   "vakiluku": 185862,
+   "pinta_ala_km2": 110,
+   "perustettu": 1974
+  },
+  "Basingstoke and Deane": {
+   "nimi": "Basingstoke and Deane",
+   "wikidata": "Q810185",
+   "wikipedia": "https://no.wikipedia.org/wiki/Basingstoke_and_Deane",
+   "tiivistelma": "Basingstoke and Deane er et distrikt i grevskapet Hampshire i England. Administrasjonsbyen er Basingstoke.",
+   "vakiluku": 175729,
+   "pinta_ala_km2": 634
+  },
+  "Bassetlaw": {
+   "nimi": "Bassetlaw",
+   "wikidata": "Q810508",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bassetlaw",
+   "tiivistelma": "Bassetlaw er et administrativt distrikt i England. Administrasjonssenteret er Worksop, mens den eneste andre byen er Retford.",
+   "vakiluku": 116839,
+   "pinta_ala_km2": 638,
+   "perustettu": 1974
+  },
+  "Bath and North East Somerset": {
+   "nimi": "Bath and North East Somerset",
+   "wikidata": "Q810793",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bath_and_North_East_Somerset",
+   "tiivistelma": "Bath and North East Somerset er en enhetlig myndighet i det seremonielle grevskapet Somerset i England. Administrasjonssenteret er Bath.",
+   "vakiluku": 193409,
+   "pinta_ala_km2": 346,
+   "perustettu": 1996
+  },
+  "Bedford": {
+   "nimi": "Bedford (distrikt)",
+   "wikidata": "Q894077",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bedford_(distrikt)",
+   "tiivistelma": "Bedford er et distrikt i Bedfordshire i Øst-England. Administrasjonssenteret er Bedford.",
+   "vakiluku": 185225,
+   "pinta_ala_km2": 476,
+   "perustettu": 2009
+  },
+  "Belfast": {
+   "nimi": "Belfast",
+   "wikidata": "Q1140130",
+   "vakiluku": 341877,
+   "pinta_ala_km2": 132
+  },
+  "Bexley": {
+   "nimi": "Bexley",
+   "wikidata": "Q207208",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bexley_(distrikt)",
+   "tiivistelma": "Bexley er en bydel i den østlige delen av det ytre London. Den grenser mot Bromley i sør, Greenwich i vest og Dartford i Kent i øst.",
+   "vakiluku": 247258,
+   "pinta_ala_km2": 61,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Godfrey Huggins",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Thom Puckey",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jacqueline Jossa",
+     "kuvaus": "britisk skuespiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000004.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Ldn%20Borough%20of%20Bexley.svg"
+   }
+  },
+  "Birmingham": {
+   "nimi": "Birmingham",
+   "wikidata": "Q20986424",
+   "vakiluku": 1141374,
+   "pinta_ala_km2": 268,
+   "perustettu": 1974
+  },
+  "Blaby": {
+   "nimi": "Blaby",
+   "wikidata": "Q596076",
+   "wikipedia": "https://no.wikipedia.org/wiki/Blaby_(distrikt)",
+   "tiivistelma": "Blaby er et administrativt distrikt i Leicestershire, England. Det har navn etter administrasjonssenteret Blaby, og inkluderer grevskapets administrasjonsby, Glenfield.",
+   "vakiluku": 104182,
+   "pinta_ala_km2": 130,
+   "perustettu": 1894,
+   "henkilot": [
+    {
+     "nimi": "Greg Knight",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Blackburn with Darwen": {
+   "nimi": "Blackburn with Darwen",
+   "wikidata": "Q880782",
+   "wikipedia": "https://no.wikipedia.org/wiki/Blackburn_with_Darwen",
+   "tiivistelma": "Blackburn with Darwen er en enhetlig myndighet i Lancashire, England. Den består av administrasjonsbyen Blackburn, den mindre byen Darwen og den omkringliggende landsbygden.",
+   "vakiluku": 154739,
+   "pinta_ala_km2": 137,
+   "perustettu": 1974
+  },
+  "Blackpool": {
+   "nimi": "Blackpool",
+   "wikidata": "Q20989106",
+   "vakiluku": 141036,
+   "pinta_ala_km2": 35,
+   "perustettu": 1851
+  },
+  "Blaenau Gwent": {
+   "nimi": "Blaenau Gwent",
+   "wikidata": "Q596885",
+   "wikipedia": "https://no.wikipedia.org/wiki/Blaenau_Gwent",
+   "tiivistelma": "Blaenau Gwent er et grevskapsdistrikt i det sørlige Wales. Det grenser mot Monmouthshire, Torfaen, Caerphilly og Powys.",
+   "vakiluku": 69713,
+   "pinta_ala_km2": 109,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Blaenau%20Gwent%20County%20Borough%20Council.svg"
+   }
+  },
+  "Bolsover": {
+   "nimi": "Bolsover (distrikt)",
+   "wikidata": "Q891608",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bolsover_(distrikt)",
+   "tiivistelma": "Bolsover er et administrativt distrikt i Derbyshire, England. Det har navn etter administrasjonssenteret, byen Bolsover.",
+   "vakiluku": 79530,
+   "pinta_ala_km2": 160,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Tom Williams",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Bolton": {
+   "nimi": "Bolton",
+   "wikidata": "Q1364541",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bolton_(distrikt)",
+   "tiivistelma": "Metropolitan borough of Bolton er et administrativt distrikt i Stor-Manchester i England. Det har navn etter administrasjonsbyen Bolton, og er et metropolitan borough, hvilket vil si at det er selvstyrt og i praksis fungerer som en enhetlig myndighet.",
+   "vakiluku": 298903,
+   "pinta_ala_km2": 140,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000001.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Blason_Le_Brusquet.svg: Aups\nTorse_of_a_British_Gentleman.svg: Sodacan This  PNG graphic was created with Inkscape .\nCoa",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Bolton%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Boston": {
+   "nimi": "Boston (distrikt)",
+   "wikidata": "Q894076",
+   "wikipedia": "https://no.wikipedia.org/wiki/Boston_(distrikt)",
+   "tiivistelma": "Boston er et distrikt i grevskapet Lincolnshire, England. Det ble opprettet i 1974, da administrasjonsbyen Boston ble slått sammen med landkommunen rundt.",
+   "vakiluku": 70806,
+   "pinta_ala_km2": 365,
+   "perustettu": 1974
+  },
+  "Bournemouth, Christchurch and Poole": {
+   "nimi": "Bournemouth, Christchurch and Poole",
+   "wikidata": "Q54366459",
+   "vakiluku": 400196,
+   "pinta_ala_km2": 161,
+   "perustettu": 2019
+  },
+  "Bracknell Forest": {
+   "nimi": "Bracknell Forest",
+   "wikidata": "Q896725",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bracknell_Forest",
+   "tiivistelma": "Bracknell Forest er en enhetlig myndighet i England. Administrasjonssenteret er Bracknell.",
+   "vakiluku": 124607,
+   "pinta_ala_km2": 109,
+   "perustettu": 1894
+  },
+  "Bradford": {
+   "nimi": "City of Bradford",
+   "wikidata": "Q2834810",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Bradford",
+   "tiivistelma": "City of Bradford er et administrativt distrikt med status som city i West Yorkshire i England. Det har navn etter den største byen i distriktet, Bradford, som også er administrasjonssenter.",
+   "vakiluku": 537173,
+   "pinta_ala_km2": 366,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Aqib Khan",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Amy Walsh",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000032.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Bradford%20City%20Council.svg"
+   }
+  },
+  "Braintree": {
+   "nimi": "Braintree (distrikt)",
+   "wikidata": "Q897454",
+   "wikipedia": "https://no.wikipedia.org/wiki/Braintree_(distrikt)",
+   "tiivistelma": "Braintree er et administrativt distrikt i Essex, England. Det har navn etter administrasjonssenteret Braintree.",
+   "vakiluku": 151561,
+   "pinta_ala_km2": 612,
+   "perustettu": 1974
+  },
+  "Breckland": {
+   "nimi": "Breckland",
+   "wikidata": "Q488142",
+   "wikipedia": "https://no.wikipedia.org/wiki/Breckland",
+   "tiivistelma": "Breckland er et administrativt distrikt i Norfolk, England. Det har navn etter området Breckland, et sandete heiområde som er kjent for variert flora og fauna.",
+   "vakiluku": 139329,
+   "pinta_ala_km2": 1305,
+   "perustettu": 1974
+  },
+  "Brent": {
+   "nimi": "Brent",
+   "wikidata": "Q207201",
+   "wikipedia": "https://no.wikipedia.org/wiki/Brent_(distrikt)",
+   "tiivistelma": "Brent er en bydel i London. Den ligger i nordvestlig del av ytre London, og grenser til Harrow i nordvest, Barnet i nordøst, Camden i øst og Ealing, Hammersmith and Fulham, Kensington and Chelsea og City of Westminster i sør.",
+   "vakiluku": 330795,
+   "pinta_ala_km2": 43,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Taio Cruz",
+     "kuvaus": "britisk sanger"
+    },
+    {
+     "nimi": "Rahul Kohli",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Dimitri Leonidas",
+     "kuvaus": "britisk skuespiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Brent.svg"
+   }
+  },
+  "Brentwood": {
+   "nimi": "Brentwood",
+   "wikidata": "Q427849",
+   "wikipedia": "https://no.wikipedia.org/wiki/Brentwood_(distrikt)",
+   "tiivistelma": "Brentwood er et administrativt distrikt i Essex, England. Det har navn etter administrasjonssenteret Brentwood.",
+   "vakiluku": 76550,
+   "pinta_ala_km2": 153,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Reginald Tower",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "James Hunt",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Bridgend": {
+   "nimi": "Bridgend",
+   "wikidata": "Q697126",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bridgend_(grevskapsdistrikt)",
+   "tiivistelma": "Bridgend er et grevskapsdistrikt i det sørlige Wales. Det har navn etter administrasjonsbyen Bridgend.",
+   "vakiluku": 144876,
+   "pinta_ala_km2": 251,
+   "henkilot": [
+    {
+     "nimi": "Non Stanford",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Bowen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000013.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croaker",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bridgend%20COA%20shield.svg"
+   }
+  },
+  "Brighton and Hove": {
+   "nimi": "Brighton and Hove",
+   "wikidata": "Q1022488",
+   "wikipedia": "https://no.wikipedia.org/wiki/Brighton_and_Hove",
+   "tiivistelma": "Brighton and Hove er en enhetlig myndighet i England. Den ble opprettet 1. april 1997, da byene Brighton og Hove ble slått sammen.",
+   "vakiluku": 277103,
+   "pinta_ala_km2": 83,
+   "perustettu": 1997,
+   "henkilot": [
+    {
+     "nimi": "David Pearce",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Feldman",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000043.png",
+    "lisenssi": "CC0",
+    "tekija": "Jonas Magnus Lystad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Brighton%20and%20Hove.svg"
+   }
+  },
+  "Bristol, City of": {
+   "nimi": "City of Bristol",
+   "wikidata": "Q21693433",
+   "vakiluku": 463405,
+   "pinta_ala_km2": 110,
+   "perustettu": 1835
+  },
+  "Broadland": {
+   "nimi": "Broadland",
+   "wikidata": "Q2116353",
+   "wikipedia": "https://no.wikipedia.org/wiki/Broadland",
+   "tiivistelma": "Broadland er et administrativt distrikt i Norfolk, England. Det har navn etter området Norfolk Broads.",
+   "vakiluku": 129464,
+   "pinta_ala_km2": 552,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Sally Oliver",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Bromley": {
+   "nimi": "Bromley",
+   "wikidata": "Q208201",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bromley_(distrikt)",
+   "tiivistelma": "Bromley er en bydel i den sørøstlige delen av det ytre London. Den er det største distriktet i London etter areal.",
+   "vakiluku": 331096,
+   "pinta_ala_km2": 150,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Fatboy Slim",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Poly Styrene",
+     "kuvaus": "britisk musiker og sanger"
+    },
+    {
+     "nimi": "Wilfred Baddeley",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000006.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Bromley.svg"
+   }
+  },
+  "Bromsgrove": {
+   "nimi": "Bromsgrove",
+   "wikidata": "Q1744694",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bromsgrove_(distrikt)",
+   "tiivistelma": "Bromsgrove er et administrativt distrikt i Worcestershire, England. Det har navn etter administrasjonssenteret Bromsgrove.",
+   "vakiluku": 100076,
+   "pinta_ala_km2": 217,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Alfred Edward Housman",
+     "kuvaus": "britisk poet"
+    },
+    {
+     "nimi": "Rachel Emily Bragg",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Broxbourne": {
+   "nimi": "Broxbourne",
+   "wikidata": "Q894078",
+   "vakiluku": 96876,
+   "pinta_ala_km2": 51,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000095.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Broxbourne%20Borough%20Council%20shield.svg"
+   }
+  },
+  "Broxtowe": {
+   "nimi": "Broxtowe",
+   "wikidata": "Q605605",
+   "wikipedia": "https://no.wikipedia.org/wiki/Broxtowe",
+   "tiivistelma": "Broxtowe er et administrativt distrikt i Nottinghamshire i England. Det ligger vest for Nottingham, og inngår i Stor-Nottingham.",
+   "vakiluku": 112113,
+   "pinta_ala_km2": 80,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Shaun Barker",
+     "kuvaus": "britisk fotballspiller"
+    }
+   ]
+  },
+  "Buckinghamshire": {
+   "nimi": "Buckinghamshire",
+   "wikidata": "Q21694636",
+   "vakiluku": 560409,
+   "pinta_ala_km2": 1565,
+   "henkilot": [
+    {
+     "nimi": "Giles Milton",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Burnley": {
+   "nimi": "Burnley (distrikt)",
+   "wikidata": "Q894079",
+   "wikipedia": "https://no.wikipedia.org/wiki/Burnley_(distrikt)",
+   "tiivistelma": "Burnley er et administrativt distrikt i Lancashire, England. Det har navn etter administrasjonssenteret, byen Burnley.",
+   "vakiluku": 88527,
+   "pinta_ala_km2": 111,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000117.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Mark_vapen.svg: Lokal_Profil\nCoat_of_Arms_of_Henry_IV_of_England_(1399-1413).svg: Sodacan This  PNG graphic was created ",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Burnley%20Borough%20Council.png"
+   }
+  },
+  "Bury": {
+   "nimi": "Bury",
+   "wikidata": "Q512036",
+   "wikipedia": "https://no.wikipedia.org/wiki/Bury_(distrikt)",
+   "tiivistelma": "Bury er et administrativt distrikt i Stor-Manchester, England. Det har status som metropolitan borough, og er dermed de facto en enhetlig myndighet.",
+   "vakiluku": 190708,
+   "pinta_ala_km2": 99,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000002.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Bull_supporter.svg: Ssolbergj\nCoat_of_Arms_of_The_City_of_London.svg: Sodacan This  PNG graphic was created with Inkscap",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Bury%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Caerphilly": {
+   "nimi": "Caerphilly",
+   "wikidata": "Q748065",
+   "wikipedia": "https://no.wikipedia.org/wiki/Caerphilly_(grevskapsdistrikt)",
+   "tiivistelma": "Caerphilly er et grevskapsdistrikt i det sørlige Wales. Administrasjonssenteret er Hengoed, men den største og viktigste byen er Caerphilly.",
+   "vakiluku": 181019,
+   "pinta_ala_km2": 277,
+   "henkilot": [
+    {
+     "nimi": "Leona Vaughan",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Brian Price",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Williams",
+     "kuvaus": "walisisk filosof"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000018.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croaker",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Caerphilly%20COA%20shield.svg"
+   }
+  },
+  "Calderdale": {
+   "nimi": "Calderdale",
+   "wikidata": "Q1026448",
+   "wikipedia": "https://no.wikipedia.org/wiki/Calderdale",
+   "tiivistelma": "Calderdale er et administrativt distrikt i West Yorkshire i England. Det har status som metropolitan borough, og er således selvstyrt.",
+   "vakiluku": 210082,
+   "pinta_ala_km2": 364,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000033.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croissant_d_or.svg: D2paysac\nTrnova_PZ_CZ_CoA.svg: *Trnova_PZ_CZ_CoA.gif: ?\nderivative work: Martin Kozák (talk)\nBlason_",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Calderdale%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Cambridge": {
+   "nimi": "Cambridge",
+   "wikidata": "Q21713103",
+   "vakiluku": 125758,
+   "pinta_ala_km2": 41,
+   "perustettu": 1835,
+   "henkilot": [
+    {
+     "nimi": "Monty Oxy Moron",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Camden": {
+   "nimi": "Camden",
+   "wikidata": "Q202088",
+   "wikipedia": "https://no.wikipedia.org/wiki/Camden_(distrikt)",
+   "tiivistelma": "Camden er en bydel i det indre London. Den ble opprettet i 1965 ved at kretsene Hampstead, Holborn og St.",
+   "vakiluku": 262226,
+   "pinta_ala_km2": 22,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Peter Ustinov",
+     "kuvaus": "britisk skuespiller og filmregissør (1921-2004)"
+    },
+    {
+     "nimi": "Henry Addington",
+     "kuvaus": "britisk politiker, 1. viscount Sidmouth"
+    },
+    {
+     "nimi": "Skandar Keynes",
+     "kuvaus": "britisk skuespiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000007.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Camden.svg"
+   }
+  },
+  "Cannock Chase": {
+   "nimi": "Cannock Chase",
+   "wikidata": "Q1033439",
+   "wikipedia": "https://no.wikipedia.org/wiki/Cannock_Chase",
+   "tiivistelma": "Cannock Chase er et administrativt distrikt i Staffordshire i England. Det dekker deler av skogen Cannock Chase.",
+   "vakiluku": 100109,
+   "pinta_ala_km2": 79,
+   "perustettu": 1974
+  },
+  "Canterbury": {
+   "nimi": "City of Canterbury",
+   "wikidata": "Q1094104",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Canterbury",
+   "tiivistelma": "City of Canterbury er et administrativt distrikt i Kent, England. Administrasjonssenter og viktigste by er Canterbury.",
+   "vakiluku": 164553,
+   "pinta_ala_km2": 309,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000106.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "ModWilson",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Canterbury%20Arms.svg"
+   }
+  },
+  "Cardiff": {
+   "nimi": "Cardiff",
+   "wikidata": "Q24342199",
+   "vakiluku": 364248,
+   "pinta_ala_km2": 141,
+   "perustettu": 1996,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000015.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Felipe Fidelis Tobias",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Cardiff.svg"
+   }
+  },
+  "Carmarthenshire": {
+   "nimi": "Carmarthenshire",
+   "wikidata": "Q217840",
+   "wikipedia": "https://no.wikipedia.org/wiki/Carmarthenshire",
+   "tiivistelma": "Carmarthenshire er et grevskap i Wales. Administrasjonsbyen er Carmarthen.",
+   "vakiluku": 187568,
+   "pinta_ala_km2": 2370,
+   "henkilot": [
+    {
+     "nimi": "Rhys ap Tewdwr",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Lindy Hemming",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Timothy Richard",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000010.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Carmarthenshire%20County%20Council.svg"
+   }
+  },
+  "Castle Point": {
+   "nimi": "Castle Point",
+   "wikidata": "Q1049506",
+   "wikipedia": "https://no.wikipedia.org/wiki/Castle_Point",
+   "tiivistelma": "Castle Point er et administrativt distrikt i Essex, England.",
+   "vakiluku": 90070,
+   "pinta_ala_km2": 45,
+   "perustettu": 1974
+  },
+  "Causeway Coast and Glens": {
+   "nimi": "Causeway Coast and Glens",
+   "wikidata": "Q5054638",
+   "wikipedia": "https://no.wikipedia.org/wiki/Causeway_Coast_and_Glens",
+   "tiivistelma": "Causeway Coast and Glens er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Ballymoney, Coleraine, Limavady og Moyle.",
+   "vakiluku": 141954,
+   "pinta_ala_km2": 1980
+  },
+  "Central Bedfordshire": {
+   "nimi": "Central Bedfordshire",
+   "wikidata": "Q1053723",
+   "vakiluku": 274000,
+   "pinta_ala_km2": 716,
+   "perustettu": 2009,
+   "henkilot": [
+    {
+     "nimi": "Cyril Seedhouse",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Ceredigion": {
+   "nimi": "Ceredigion",
+   "wikidata": "Q217829",
+   "wikipedia": "https://no.wikipedia.org/wiki/Ceredigion",
+   "tiivistelma": "Ceredigion er et grevskap i Wales. Det var tidligere en del av Dyfed, og var før det kjent som Cardiganshire.",
+   "vakiluku": 72992,
+   "pinta_ala_km2": 1786,
+   "henkilot": [
+    {
+     "nimi": "Dafydd ap Gwilym",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Ben Lake",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Elystan Morgan",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Ceredigion%20County%20Council.svg"
+   }
+  },
+  "Charnwood": {
+   "nimi": "Charnwood",
+   "wikidata": "Q1067639",
+   "wikipedia": "https://no.wikipedia.org/wiki/Charnwood",
+   "tiivistelma": "Charnwood er et administrativt distrikt i Leicestershire i England. Det har navn etter skogen Charnwood Forest, som ligger i distriktet.",
+   "vakiluku": 184748,
+   "pinta_ala_km2": 279,
+   "perustettu": 1974
+  },
+  "Chelmsford": {
+   "nimi": "Chelmsford (distrikt)",
+   "wikidata": "Q894080",
+   "wikipedia": "https://no.wikipedia.org/wiki/Chelmsford_(distrikt)",
+   "tiivistelma": "Chelmsford er et distrikt i grevskapet Essex i England. Det har navn etter administrasjonsbyen Chelmsford, som også er administrasjonsby for grevskapet.",
+   "vakiluku": 177079,
+   "pinta_ala_km2": 339,
+   "perustettu": 1974
+  },
+  "Cheltenham": {
+   "nimi": "Cheltenham",
+   "wikidata": "Q20989092",
+   "vakiluku": 117090,
+   "pinta_ala_km2": 47,
+   "perustettu": 1974
+  },
+  "Cherwell": {
+   "nimi": "Cherwell",
+   "wikidata": "Q1070481",
+   "wikipedia": "https://no.wikipedia.org/wiki/Cherwell",
+   "tiivistelma": "Cherwell er et distrikt i det nordlige Oxfordshire, England. Det har navn etter elven Cherwell, som renner gjennom regionen.",
+   "vakiluku": 149161,
+   "pinta_ala_km2": 589
+  },
+  "Cheshire East": {
+   "nimi": "Cheshire East",
+   "wikidata": "Q1070590",
+   "vakiluku": 380790,
+   "pinta_ala_km2": 1166,
+   "perustettu": 2009,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000049.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Eastern_Crown.svg: Jpb1301\nGold_Griffin_Supporter_(Heraldry).svg: Adelbrecht (talk)\nGeorgian_heraldry_motto.svg: Gaeser\n",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Cheshire%20East%20Borough%20Council.png"
+   }
+  },
+  "Cheshire West and Chester": {
+   "nimi": "Cheshire West and Chester",
+   "wikidata": "Q1070591",
+   "vakiluku": 340502,
+   "pinta_ala_km2": 917,
+   "perustettu": 2009,
+   "henkilot": [
+    {
+     "nimi": "John Wright Oakes",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Chesterfield": {
+   "nimi": "Chesterfield",
+   "wikidata": "Q20989091",
+   "vakiluku": 104110,
+   "pinta_ala_km2": 66,
+   "perustettu": 1974
+  },
+  "Chichester": {
+   "nimi": "Chichester (distrikt)",
+   "wikidata": "Q1072104",
+   "wikipedia": "https://no.wikipedia.org/wiki/Chichester_(distrikt)",
+   "tiivistelma": "Chichester er et stort administrasjonsdistrikt i grevskapet West Sussex i England. Administrasjonssenteret er byen Chichester.",
+   "vakiluku": 120750,
+   "pinta_ala_km2": 786
+  },
+  "Chorley": {
+   "nimi": "Chorley (distrikt)",
+   "wikidata": "Q894081",
+   "wikipedia": "https://no.wikipedia.org/wiki/Chorley_(distrikt)",
+   "tiivistelma": "Chorley er et administrativt distrikt i Lancashire i England. Det har navn etter administrasjonssenteret Chorley.",
+   "vakiluku": 116821,
+   "pinta_ala_km2": 203,
+   "perustettu": 1974
+  },
+  "City of Edinburgh": {
+   "nimi": "city of Edinburgh",
+   "wikidata": "Q2379199",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Edinburgh",
+   "tiivistelma": "City of Edinburgh er en av Skottlands regioner. Den grenser mot West Lothian, Midlothian og East Lothian.",
+   "vakiluku": 524930,
+   "pinta_ala_km2": 263
+  },
+  "City of London": {
+   "nimi": "City of London",
+   "wikidata": "Q23311",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_London",
+   "tiivistelma": "City of London er en selvstendig by, distrikt og seremonielt grevskap i England. City utgjør det meste av London fra den opprinnelige romerske bosetningen Londinium på 100-tallet e.Kr. og fram til middelalderen, men har siden vokst seg langt utover byens grenser.",
+   "vakiluku": 8583,
+   "pinta_ala_km2": 3,
+   "henkilot": [
+    {
+     "nimi": "John Vanbrugh",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Abraham Cowley",
+     "kuvaus": "britisk poet"
+    },
+    {
+     "nimi": "Edward Alleyn",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000001.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Sodacan",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20The%20City%20of%20London.svg"
+   }
+  },
+  "Clackmannanshire": {
+   "nimi": "Clackmannanshire",
+   "wikidata": "Q207268",
+   "wikipedia": "https://no.wikipedia.org/wiki/Clackmannanshire",
+   "tiivistelma": "Clackmannanshire er en av Skottlands regioner, og et stattholderskap. Regionen grenser mot Perth and Kinross, Stirling og Fife.",
+   "vakiluku": 51540,
+   "pinta_ala_km2": 159,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Clackmannanshire.svg"
+   }
+  },
+  "Colchester": {
+   "nimi": "Colchester",
+   "wikidata": "Q589620",
+   "wikipedia": "https://no.wikipedia.org/wiki/Colchester_(distrikt)",
+   "tiivistelma": "Colchester er et distrikt i grevskapet Essex, England. Det har navn etter administrasjonsbyen Colchester, og utgjøres av denne byen samt West Mersea, Wivenhoe og noen mindre landsbyer.",
+   "vakiluku": 192523,
+   "pinta_ala_km2": 329,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Helen Boaden",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000071.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Colchester.svg"
+   }
+  },
+  "Conwy": {
+   "nimi": "Conwy",
+   "wikidata": "Q817971",
+   "wikipedia": "https://no.wikipedia.org/wiki/Conwy_(grevskapsdistrikt)",
+   "tiivistelma": "Conwy er et grevskapsdistrikt i det nordlige Wales. Den grenser til Gwynedd i vest og sør og Denbighshire i øst.",
+   "vakiluku": 117181,
+   "pinta_ala_km2": 1126,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Margaret Lacey",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Cornwall": {
+   "nimi": "Cornwall",
+   "wikidata": "Q22338583",
+   "vakiluku": 565968,
+   "pinta_ala_km2": 3546,
+   "henkilot": [
+    {
+     "nimi": "Endellion",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Paul Carr",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Cotswold": {
+   "nimi": "Cotswold",
+   "wikidata": "Q581022",
+   "wikipedia": "https://no.wikipedia.org/wiki/Cotswold_(distrikt)",
+   "tiivistelma": "Cotswold er et administrativt distrikt i Gloucestershire, England. Det har navn etter området Cotswolds, og administreres fra Cirencester.",
+   "vakiluku": 91563,
+   "pinta_ala_km2": 1165,
+   "perustettu": 1974
+  },
+  "County Durham": {
+   "nimi": "County Durham",
+   "wikidata": "Q1137286",
+   "vakiluku": 526980,
+   "pinta_ala_km2": 2226
+  },
+  "Coventry": {
+   "nimi": "Coventry",
+   "wikidata": "Q20986417",
+   "vakiluku": 366785,
+   "pinta_ala_km2": 99,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000026.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Coventry%20City%20Council.svg"
+   }
+  },
+  "Crawley": {
+   "nimi": "Crawley",
+   "wikidata": "Q21886073",
+   "vakiluku": 112448,
+   "pinta_ala_km2": 45
+  },
+  "Croydon": {
+   "nimi": "Croydon",
+   "wikidata": "Q26888",
+   "wikipedia": "https://no.wikipedia.org/wiki/Croydon",
+   "tiivistelma": "Croydon er en bydel og by i Stor-London. Den administreres som en av Londons bydeler, og er den største av disse etter folketall.",
+   "vakiluku": 385346,
+   "pinta_ala_km2": 86,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Barbara Burke",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Cicely Mary Barker",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Fergus Anderson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Croydon.svg"
+   }
+  },
+  "Cumberland": {
+   "nimi": "Cumberland",
+   "wikidata": "Q110536343",
+   "vakiluku": 275390,
+   "perustettu": 2023
+  },
+  "Dacorum": {
+   "nimi": "Dacorum",
+   "wikidata": "Q931180",
+   "wikipedia": "https://no.wikipedia.org/wiki/Dacorum",
+   "tiivistelma": "Dacorum er et administrativt distrikt i Hertfordshire, England. Navnet kommer fra et hundred som dekket omtrent det samme området.",
+   "vakiluku": 154280,
+   "pinta_ala_km2": 212,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Hayley Ladd",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Amelia Brightman",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000096.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Ben1we",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Dacorum%20Coat%20of%20Arms.svg"
+   }
+  },
+  "Darlington": {
+   "nimi": "Darlington",
+   "wikidata": "Q1171024",
+   "wikipedia": "https://no.wikipedia.org/wiki/Darlington_(distrikt)",
+   "tiivistelma": "Darlington er et administrativt distrikt med status som enhetlig myndighet i Durham i England.",
+   "vakiluku": 109469,
+   "pinta_ala_km2": 197,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Frank Hall Standish",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Darlington%20Borough%20Council.svg"
+   }
+  },
+  "Dartford": {
+   "nimi": "Dartford (distrikt)",
+   "wikidata": "Q894082",
+   "wikipedia": "https://no.wikipedia.org/wiki/Dartford_(distrikt)",
+   "tiivistelma": "Dartford er et administrativt distrikt i Kent, England. Det er en del av Londons pendlerbelte.",
+   "vakiluku": 109709,
+   "pinta_ala_km2": 73
+  },
+  "Denbighshire": {
+   "nimi": "Denbighshire",
+   "wikidata": "Q650682",
+   "wikipedia": "https://no.wikipedia.org/wiki/Denbighshire",
+   "tiivistelma": "Denbighshire er et grevskap i det nordlige Wales. Administrasjonsbyen er Ruthin.",
+   "vakiluku": 95330,
+   "pinta_ala_km2": 837,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Isaac Roberts",
+     "kuvaus": "britisk astronom"
+    },
+    {
+     "nimi": "Ann Clwyd",
+     "kuvaus": "britisk politiker"
+    },
+    {
+     "nimi": "Sara Sugarman",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000004.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Denbighshire%20County%20Council.svg"
+   }
+  },
+  "Derby": {
+   "nimi": "Derby",
+   "wikidata": "Q21885980",
+   "vakiluku": 257174,
+   "pinta_ala_km2": 78,
+   "perustettu": 1835
+  },
+  "Derbyshire Dales": {
+   "nimi": "Derbyshire Dales",
+   "wikidata": "Q1199980",
+   "wikipedia": "https://no.wikipedia.org/wiki/Derbyshire_Dales",
+   "tiivistelma": "Derbyshire Dales er et administrativt distrikt i Derbyshire i England. Store deler av det ligger i Peak District, mens befolkningen stort sett er konsentrert langs elven Derwent.",
+   "vakiluku": 71977,
+   "pinta_ala_km2": 792,
+   "perustettu": 1974
+  },
+  "Derry City and Strabane": {
+   "nimi": "Derry City and Strabane",
+   "wikidata": "Q15213714",
+   "wikipedia": "https://no.wikipedia.org/wiki/Derry_City_and_Strabane",
+   "tiivistelma": "Derry City and Strabane er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Derry og Strabane.",
+   "vakiluku": 152383,
+   "pinta_ala_km2": 1238
+  },
+  "Doncaster": {
+   "nimi": "Doncaster",
+   "wikidata": "Q1925846",
+   "wikipedia": "https://no.wikipedia.org/wiki/Doncaster_(distrikt)",
+   "tiivistelma": "Doncaster er et administrativt distrikt med status som metropolitan borough i South Yorkshire i England. Det har navn etter administrasjonssenteret Doncaster.",
+   "vakiluku": 310542,
+   "pinta_ala_km2": 568,
+   "perustettu": 1974
+  },
+  "Dorset": {
+   "nimi": "Dorset",
+   "wikidata": "Q55231693",
+   "vakiluku": 376484,
+   "pinta_ala_km2": 2491,
+   "henkilot": [
+    {
+     "nimi": "Stephen Buckland",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Dover": {
+   "nimi": "Dover",
+   "wikidata": "Q1971967",
+   "wikipedia": "https://no.wikipedia.org/wiki/Dover_(distrikt)",
+   "tiivistelma": "Dover er et administrativt distrikt i Kent, England. Administrasjonsbyen er Dover.",
+   "vakiluku": 116969,
+   "pinta_ala_km2": 315,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000108.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Dover%20District%20Council.svg"
+   }
+  },
+  "Dudley": {
+   "nimi": "Dudley",
+   "wikidata": "Q1617704",
+   "wikipedia": "https://no.wikipedia.org/wiki/Dudley_(distrikt)",
+   "tiivistelma": "Dudley er et administrativt distrikt med status som metropolitan borough i West Midlands i England. Det har navn etter administrasjonssenteret Dudley.",
+   "vakiluku": 320626,
+   "pinta_ala_km2": 98,
+   "perustettu": 1974
+  },
+  "Dumfries and Galloway": {
+   "nimi": "Dumfries and Galloway",
+   "wikidata": "Q126514",
+   "wikipedia": "https://no.wikipedia.org/wiki/Dumfries_and_Galloway",
+   "tiivistelma": "Dumfries and Galloway er en region i Skottland. Den grenser mot South Ayrshire, East Ayrshire, South Lanarkshire og Scottish Borders, samt mot Cumbria i England.",
+   "vakiluku": 148860,
+   "pinta_ala_km2": 6427,
+   "perustettu": 1975,
+   "henkilot": [
+    {
+     "nimi": "William Paterson",
+     "kuvaus": "britisk økonom"
+    },
+    {
+     "nimi": "Dervorguilla av Galloway",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Marjorie av Carrick, 3. grevinne av Carrick",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000006.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "IndysNotHere",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20the%20Dumfries%20and%20Galloway%20Regional%20Council.svg"
+   }
+  },
+  "Dundee City": {
+   "nimi": "City of Dundee",
+   "wikidata": "Q2357511",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Dundee",
+   "tiivistelma": "City of Dundee er en av Skottlands regioner. Den har status som by (city), men omfatter også andre bosetninger enn selve Dundee.",
+   "vakiluku": 149320,
+   "pinta_ala_km2": 60,
+   "perustettu": 1996
+  },
+  "Ealing": {
+   "nimi": "Ealing",
+   "wikidata": "Q207218",
+   "wikipedia": "https://no.wikipedia.org/wiki/Ealing_(distrikt)",
+   "tiivistelma": "Ealing er en bydel i London, vest for sentrum. Den ble opprettet i 1965 ved at Ealing, Southall og Acton, som da lå i Middlesex, ble slått sammen.",
+   "vakiluku": 341982,
+   "pinta_ala_km2": 56,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Mike Coughlan",
+     "kuvaus": "britisk ingeniør"
+    },
+    {
+     "nimi": "Neal Foulds",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Richard Fortey",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000009.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Di (they-them) and Berrely, based on source",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ealing%20coat%20of%20arms.svg"
+   }
+  },
+  "East Ayrshire": {
+   "nimi": "East Ayrshire",
+   "wikidata": "Q209135",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Ayrshire",
+   "tiivistelma": "East Ayrshire er en av Skottlands regioner. Den grenser mot North Ayrshire, Renfrewshire, South Lanarkshire, South Ayrshire og Dumfries and Galloway.",
+   "vakiluku": 122010,
+   "pinta_ala_km2": 1262,
+   "henkilot": [
+    {
+     "nimi": "John McCartney",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20East%20Ayrshire.svg"
+   }
+  },
+  "East Cambridgeshire": {
+   "nimi": "East Cambridgeshire",
+   "wikidata": "Q1277768",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Cambridgeshire",
+   "tiivistelma": "East Cambridgeshire er et administrativt distrikt i Cambridgeshire, England.",
+   "vakiluku": 89394,
+   "pinta_ala_km2": 651,
+   "perustettu": 1974
+  },
+  "East Devon": {
+   "nimi": "East Devon",
+   "wikidata": "Q1277825",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Devon",
+   "tiivistelma": "East Devon er et administrativt distrikt i Devon, England. Administrasjonssenteret er Sidmouth.",
+   "vakiluku": 154500,
+   "pinta_ala_km2": 814
+  },
+  "East Dunbartonshire": {
+   "nimi": "East Dunbartonshire",
+   "wikidata": "Q211889",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Dunbartonshire",
+   "tiivistelma": "East Dunbartonshire er en av 32 av Skottlands regioner. Den grenser mot West Dunbartonshire, City of Glasgow, Stirling og North Lanarkshire.",
+   "vakiluku": 108640,
+   "pinta_ala_km2": 174,
+   "henkilot": [
+    {
+     "nimi": "Lesley Fitz-Simons",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000045.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20East%20Dunbartonshire.svg"
+   }
+  },
+  "East Hampshire": {
+   "nimi": "East Hampshire",
+   "wikidata": "Q1277894",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Hampshire",
+   "tiivistelma": "East Hampshire er et administrativt distrikt i Hampshire, England. Administrasjonssenteret er Petersfield.",
+   "vakiluku": 120681,
+   "pinta_ala_km2": 514
+  },
+  "East Hertfordshire": {
+   "nimi": "East Hertfordshire",
+   "wikidata": "Q582288",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Hertfordshire",
+   "tiivistelma": "East Hertforshire er et administrativt distrikt i Hertfordshire, England.",
+   "vakiluku": 151635,
+   "pinta_ala_km2": 476
+  },
+  "East Lindsey": {
+   "nimi": "East Lindsey",
+   "wikidata": "Q82181",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Lindsey",
+   "tiivistelma": "East Lindsey er et administrativt distrikt i Lincolnshire i England. Administrasjonssenteret er Manby.",
+   "vakiluku": 144415,
+   "pinta_ala_km2": 1765,
+   "perustettu": 1974
+  },
+  "East Lothian": {
+   "nimi": "East Lothian",
+   "wikidata": "Q207257",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Lothian",
+   "tiivistelma": "East Lothian, også kalt Haddingtonshire er en region i Skottland, og et stattholderskap. Det grenser mot City of Edinburgh, Scottish Borders og Midlothian.",
+   "vakiluku": 107090,
+   "pinta_ala_km2": 679,
+   "henkilot": [
+    {
+     "nimi": "William Dunbar",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Robert Wight",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Lyndsay",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000010.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20East%20Lothian.svg"
+   }
+  },
+  "East Renfrewshire": {
+   "nimi": "East Renfrewshire",
+   "wikidata": "Q211925",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Renfrewshire",
+   "tiivistelma": "East Renfrewshire er en av Skottlands regioner. Den grenser mot North Ayrshire, East Ayrshire, Renfrewshire, South Lanarkshire og City of Glasgow.",
+   "vakiluku": 95530,
+   "pinta_ala_km2": 174,
+   "henkilot": [
+    {
+     "nimi": "Arthur Lochhead",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "East Riding of Yorkshire": {
+   "nimi": "East Riding of Yorkshire",
+   "wikidata": "Q21695028",
+   "vakiluku": 339614,
+   "pinta_ala_km2": 2405
+  },
+  "East Staffordshire": {
+   "nimi": "East Staffordshire",
+   "wikidata": "Q1278032",
+   "wikipedia": "https://no.wikipedia.org/wiki/East_Staffordshire",
+   "tiivistelma": "East Staffordshire er et administrativt distrikt i Staffordshire i England. Administrasjonssenteret er Burton upon Trent.",
+   "vakiluku": 125760,
+   "pinta_ala_km2": 387,
+   "perustettu": 1974
+  },
+  "East Suffolk": {
+   "nimi": "East Suffolk",
+   "wikidata": "Q54554266",
+   "vakiluku": 248249,
+   "pinta_ala_km2": 1262,
+   "perustettu": 2019
+  },
+  "Eastbourne": {
+   "nimi": "Eastbourne",
+   "wikidata": "Q21886079",
+   "vakiluku": 103160,
+   "pinta_ala_km2": 44,
+   "perustettu": 1883
+  },
+  "Eastleigh": {
+   "nimi": "Eastleigh (distrikt)",
+   "wikidata": "Q894083",
+   "wikipedia": "https://no.wikipedia.org/wiki/Eastleigh_(distrikt)",
+   "tiivistelma": "Eastleigh er et administrativt distrikt i Hampshire, England. Det har navn etter administrasjonssenteret Eastleigh.",
+   "vakiluku": 129000,
+   "pinta_ala_km2": 80
+  },
+  "Elmbridge": {
+   "nimi": "Elmbridge",
+   "wikidata": "Q1292592",
+   "wikipedia": "https://no.wikipedia.org/wiki/Elmbridge",
+   "tiivistelma": "Elmbridge er et administrativt distrikt i grevskapet Surrey, England. Administrasjonssenteret er Esher.",
+   "vakiluku": 136626,
+   "pinta_ala_km2": 95,
+   "henkilot": [
+    {
+     "nimi": "Andrew Donald Booth",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000207.png",
+    "lisenssi": "Attribution",
+    "tekija": "Elmbridge B.C.",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Elmbridge%20BC%20Crest%20of%20Arms.png"
+   }
+  },
+  "Enfield": {
+   "nimi": "Enfield",
+   "wikidata": "Q210531",
+   "wikipedia": "https://no.wikipedia.org/wiki/Enfield_(distrikt)",
+   "tiivistelma": "Enfield er den nordligste av Londons bydeler. Den ble opprettet ved at den gamle kretsen Enfield ble slått sammen med Southgate og Edmonton.",
+   "vakiluku": 333869,
+   "pinta_ala_km2": 81,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Laura Haddock",
+     "kuvaus": "britisk skuespiller"
+    },
+    {
+     "nimi": "Dexter Fletcher",
+     "kuvaus": "britisk skuespiller"
+    },
+    {
+     "nimi": "Charlotte Dujardin",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000010.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Enfield.svg"
+   }
+  },
+  "Epping Forest": {
+   "nimi": "Epping Forest (distrikt)",
+   "wikidata": "Q1347659",
+   "wikipedia": "https://no.wikipedia.org/wiki/Epping_Forest_(distrikt)",
+   "tiivistelma": "Epping Forest er et administrativt distrikt i Essex, England. Det har navn etter Eppingskogen, som for en stor del ligger i dette distriktet.",
+   "vakiluku": 131137,
+   "pinta_ala_km2": 339,
+   "perustettu": 1974
+  },
+  "Epsom and Ewell": {
+   "nimi": "Epsom and Ewell",
+   "wikidata": "Q257577",
+   "wikipedia": "https://no.wikipedia.org/wiki/Epsom_and_Ewell",
+   "tiivistelma": "Epsom and Ewell er et administrativt distrikt i Surrey, England. Det dekker byene Epsom og Ewell, med førstnevnte som administrasjonssenter.",
+   "vakiluku": 81184,
+   "pinta_ala_km2": 34
+  },
+  "Erewash": {
+   "nimi": "Erewash",
+   "wikidata": "Q1350065",
+   "wikipedia": "https://no.wikipedia.org/wiki/Erewash",
+   "tiivistelma": "Eerewash er et administrativt distrikt i Derbyshire i England. Administrasjonssenteret er Ilkeston.",
+   "vakiluku": 115490,
+   "pinta_ala_km2": 110,
+   "perustettu": 1974
+  },
+  "Exeter": {
+   "nimi": "Exeter",
+   "wikidata": "Q21886091",
+   "vakiluku": 130428,
+   "pinta_ala_km2": 47
+  },
+  "Falkirk": {
+   "nimi": "Falkirk",
+   "wikidata": "Q216802",
+   "wikipedia": "https://no.wikipedia.org/wiki/Falkirk_(region)",
+   "tiivistelma": "Falkirk er en av Skottlands regioner. Regionen ble opprettet den 1. april 1996 ved Loven aav lokalt selvstyre av 1994 fra de samme grensene til distriktet Falkirk, en av tre deler av den sentrale regionen som ble opprettet i 1975 og nedlagt da i 1996.",
+   "vakiluku": 160340,
+   "pinta_ala_km2": 297,
+   "henkilot": [
+    {
+     "nimi": "Alan Bissett",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Stuart McManus",
+     "kuvaus": "skotsk fotballspiller"
+    }
+   ]
+  },
+  "Fareham": {
+   "nimi": "Fareham (distrikt)",
+   "wikidata": "Q894084",
+   "wikipedia": "https://no.wikipedia.org/wiki/Fareham_(distrikt)",
+   "tiivistelma": "Fareham er et distrikt i Hampshire, England. Administrasjonssenteret ligger i byen Fareham.",
+   "vakiluku": 116339,
+   "pinta_ala_km2": 74,
+   "perustettu": 1894
+  },
+  "Fenland": {
+   "nimi": "Fenland",
+   "wikidata": "Q176029",
+   "wikipedia": "https://no.wikipedia.org/wiki/Fenland",
+   "tiivistelma": "Fenland er et administrativt distrikt i Cambridgeshire, England. Administrasjonssenteret er March.",
+   "vakiluku": 101491,
+   "pinta_ala_km2": 546,
+   "perustettu": 1974
+  },
+  "Fermanagh and Omagh": {
+   "nimi": "Fermanagh and Omagh",
+   "wikidata": "Q5444365",
+   "wikipedia": "https://no.wikipedia.org/wiki/Fermanagh_and_Omagh",
+   "tiivistelma": "Fermanagh and Omagh er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Fermanagh og Omagh.",
+   "vakiluku": 117687,
+   "pinta_ala_km2": 2857,
+   "perustettu": 2015
+  },
+  "Fife": {
+   "nimi": "Fife",
+   "wikidata": "Q201149",
+   "wikipedia": "https://no.wikipedia.org/wiki/Fife",
+   "tiivistelma": "Fife er en av Skottlands regioner, et tradisjonelt grevskap og et stattholderskap. Den ligger mellom buktene Firth of Tay og Firth of Forth.",
+   "vakiluku": 373550,
+   "pinta_ala_km2": 1325,
+   "henkilot": [
+    {
+     "nimi": "Elisabeth av Bøhmen",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Thomas Bruce, 7. jarl av Elgin",
+     "kuvaus": "britisk diplomat"
+    },
+    {
+     "nimi": "James Braid",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000047.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Fife%20Area%20Council.svg"
+   }
+  },
+  "Flintshire": {
+   "nimi": "Flintshire",
+   "wikidata": "Q505610",
+   "wikipedia": "https://no.wikipedia.org/wiki/Flintshire",
+   "tiivistelma": "Flintshire er et grevskap i det nordlige Wales. Det grenser mot Wrexham og Denbighshire i Wales, og Merseyside og Cheshire i England.",
+   "vakiluku": 155593,
+   "pinta_ala_km2": 437,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Sam Livesey",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Nicolas Lloyd",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Fanny Mary Katherine Bulkeley-Owen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000005.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Flintshire%20County%20Council.svg"
+   }
+  },
+  "Folkestone and Hythe": {
+   "nimi": "Folkestone and Hythe",
+   "wikidata": "Q635416",
+   "wikipedia": "https://no.wikipedia.org/wiki/Shepway",
+   "tiivistelma": "Shepway er et administrativt distrikt i Kent i det sørøstlige England. Administrasjonsbyen er Folkestone.",
+   "vakiluku": 110237,
+   "pinta_ala_km2": 357
+  },
+  "Forest of Dean": {
+   "nimi": "Forest of Dean (distrikt)",
+   "wikidata": "Q902998",
+   "wikipedia": "https://no.wikipedia.org/wiki/Forest_of_Dean_(distrikt)",
+   "tiivistelma": "Forest of Dean er et administrativt distrikt i Gloucestershire, England. Det har navn etter skogen Forest of Dean, og administreres fra Coleford.",
+   "vakiluku": 87937,
+   "pinta_ala_km2": 526
+  },
+  "Fylde": {
+   "nimi": "Fylde",
+   "wikidata": "Q1478592",
+   "wikipedia": "https://no.wikipedia.org/wiki/Fylde",
+   "tiivistelma": "Fylde er et administrativt distrikt i Lancashire, England. Administrasjonssenteret er i Lytham St.",
+   "vakiluku": 79770,
+   "pinta_ala_km2": 166,
+   "perustettu": 1974
+  },
+  "Gateshead": {
+   "nimi": "Gateshead",
+   "wikidata": "Q929034",
+   "wikipedia": "https://no.wikipedia.org/wiki/Gateshead_(distrikt)",
+   "tiivistelma": "Gateshead er et administrativt distrikt med status som metropolitan borough i Tyne and Wear i England. Det har navn etter administrasjonssenteret Gateshead.",
+   "vakiluku": 202508,
+   "pinta_ala_km2": 142,
+   "perustettu": 1974
+  },
+  "Gedling": {
+   "nimi": "Gedling",
+   "wikidata": "Q1497633",
+   "wikipedia": "https://no.wikipedia.org/wiki/Gedling",
+   "tiivistelma": "Gedling er et administrativt distrikt i Nottinghamshire i England. Administrasjonssenteret er Arnold.",
+   "vakiluku": 117786,
+   "pinta_ala_km2": 120,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000173.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Gedling.svg"
+   }
+  },
+  "Glasgow City": {
+   "nimi": "City of Glasgow",
+   "wikidata": "Q55934339",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Glasgow",
+   "tiivistelma": "City of Glasgow, egentlig Glasgow City, er en av Skottlands regioner, som også har status som by (city) og stattholderskap. Regionen ble opprettet i 1996, og grenser mot Renfrewshire, West Dunbartonshire, East Dunbartonshire, North Lanarkshire, South Lanarkshire og East Renfrewshire.",
+   "vakiluku": 633120,
+   "pinta_ala_km2": 175,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000049.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "TilmannR",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Glasgow%20Coat%20of%20Arms%201996.svg"
+   }
+  },
+  "Gloucester": {
+   "nimi": "Gloucester",
+   "wikidata": "Q20986485",
+   "vakiluku": 129285,
+   "pinta_ala_km2": 41,
+   "perustettu": 1888
+  },
+  "Gosport": {
+   "nimi": "Gosport",
+   "wikidata": "Q21886128",
+   "vakiluku": 85283,
+   "pinta_ala_km2": 25,
+   "perustettu": 1894
+  },
+  "Gravesham": {
+   "nimi": "Gravesham",
+   "wikidata": "Q1459781",
+   "wikipedia": "https://no.wikipedia.org/wiki/Gravesham",
+   "tiivistelma": "Gravesham er et administrativt distrikt i Kent, England. Administrasjonssenteret er Gravesend.",
+   "vakiluku": 106385,
+   "pinta_ala_km2": 99
+  },
+  "Great Yarmouth": {
+   "nimi": "Great Yarmouth (distrikt)",
+   "wikidata": "Q894085",
+   "wikipedia": "https://no.wikipedia.org/wiki/Great_Yarmouth_(distrikt)",
+   "tiivistelma": "Great Yarmouth er et administrativt distrikt i Norfolk, England. Det har navn etter administrasjonssenteret Great Yarmouth.",
+   "vakiluku": 99370,
+   "pinta_ala_km2": 174,
+   "perustettu": 1974
+  },
+  "Greenwich": {
+   "nimi": "Greenwich",
+   "wikidata": "Q693450",
+   "wikipedia": "https://no.wikipedia.org/wiki/Greenwich_(distrikt)",
+   "tiivistelma": "Royal Greenwich er en bydel i det sørøstlige London i England. Den ble opprettet i 1965 ved at de tidligere valgkretsene Greenwich og Woolwich ble slått sammen.",
+   "vakiluku": 291080,
+   "pinta_ala_km2": 47,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "John Lilburne",
+     "kuvaus": "britisk politiker"
+    },
+    {
+     "nimi": "Jill Posener",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Frederick William Lambert Sladen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000011.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Royal%20Borough%20of%20Greenwich.svg"
+   }
+  },
+  "Guildford": {
+   "nimi": "Guildford (distrikt)",
+   "wikidata": "Q894086",
+   "wikipedia": "https://no.wikipedia.org/wiki/Guildford_(distrikt)",
+   "tiivistelma": "Guildford er et administrativt distrikt i Surrey, England. Administrasjonssenteret er byen Guildford.",
+   "vakiluku": 147889,
+   "pinta_ala_km2": 271,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "David Mallet",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Gwynedd": {
+   "nimi": "Gwynedd",
+   "wikidata": "Q109128",
+   "wikipedia": "https://no.wikipedia.org/wiki/Gwynedd",
+   "tiivistelma": "Gwynedd er et administrativt og bevart grevskap i det nordlige Wales. Det har sitt navn etter middelalderkongedømmet Gwynedd, og ble grunnlagt i 1974 som et av åtte administrative grevskaper i Wales.",
+   "vakiluku": 124560,
+   "pinta_ala_km2": 2535,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Bryn Terfel",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Gruffydd ap Llywelyn Fawr",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Robin Llywelyn",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000002.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "AlexD",
+    "lahde": "https://commons.wikimedia.org/wiki/File:GWYNEDD%20Shield.svg"
+   }
+  },
+  "Hackney": {
+   "nimi": "Hackney",
+   "wikidata": "Q205679",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hackney_(distrikt)",
+   "tiivistelma": "Hackney er en bydel i den nordøstlige delen av det indre London. Den ble opprettet i 1965, da distriktene Hackney, Shoreditch og Stoke Newington ble slått sammen.",
+   "vakiluku": 279665,
+   "pinta_ala_km2": 19,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Idris Elba",
+     "kuvaus": "britisk skuespiller og musiker"
+    },
+    {
+     "nimi": "John Berger",
+     "kuvaus": "engelsk maler, forfatter og kunstkritiker"
+    },
+    {
+     "nimi": "Adrian Smith",
+     "kuvaus": "britisk gitarist"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000012.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Nick.perry.uk",
+    "lahde": "https://commons.wikimedia.org/wiki/File:LB%20Hackney%20Coat%20of%20Arms.svg"
+   }
+  },
+  "Halton": {
+   "nimi": "Halton",
+   "wikidata": "Q376141",
+   "wikipedia": "https://no.wikipedia.org/wiki/Halton_(distrikt)",
+   "tiivistelma": "Halton er et administrativt distrikt med status som enhetlig myndighet i Cheshire i England. Administrasjonssenteret er Widnes.",
+   "vakiluku": 128432,
+   "pinta_ala_km2": 79,
+   "perustettu": 1974
+  },
+  "Hammersmith and Fulham": {
+   "nimi": "Hammersmith and Fulham",
+   "wikidata": "Q40478",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hammersmith_and_Fulham",
+   "tiivistelma": "Hammersmith and Fulham er en bydel i London. Den ble opprettet i 1965 ved at Hammersmith og Fulham ble slått sammen.",
+   "vakiluku": 185426,
+   "pinta_ala_km2": 16,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "John Fenning",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Digga D",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Claude Friese-Greene",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000013.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Hammersmith%20and%20Fulham.svg"
+   }
+  },
+  "Harborough": {
+   "nimi": "Harborough",
+   "wikidata": "Q1556307",
+   "wikipedia": "https://no.wikipedia.org/wiki/Harborough",
+   "tiivistelma": "Harborough er et administrativt distrikt i Leicestershire i England. Det har navn etter administrasjonssenteret Market Harborough.",
+   "vakiluku": 100481,
+   "pinta_ala_km2": 592,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Dave Alex Riddett",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Haringey": {
+   "nimi": "Haringey",
+   "wikidata": "Q213560",
+   "wikipedia": "https://no.wikipedia.org/wiki/Haringey",
+   "tiivistelma": "Haringey er en bydel i den nordlige delen av det ytre London. Den ble opprettet i 1965 ved at kretsene Horney, Wood Green og Tottenham i Middlesex ble slått sammen.",
+   "vakiluku": 270624,
+   "pinta_ala_km2": 30,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Emer Kenny",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Louis Ashbourne Serkis",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Kate Osamor",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000014.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Jack Ryan Morris",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Haringey.svg"
+   }
+  },
+  "Harlow": {
+   "nimi": "Harlow",
+   "wikidata": "Q21713095",
+   "vakiluku": 86594,
+   "pinta_ala_km2": 31,
+   "perustettu": 1955
+  },
+  "Harrow": {
+   "nimi": "Harrow",
+   "wikidata": "Q210476",
+   "wikipedia": "https://no.wikipedia.org/wiki/Harrow_(distrikt)",
+   "tiivistelma": "Harrow er en bydel i den nordvestlige delen av det ytre London. Den grenser mot Hertfordshire i nord og mot Londondistriktene Hillingdon i vest, Ealing i sør, Brent i sørøst og Barnet i øst.",
+   "vakiluku": 250149,
+   "pinta_ala_km2": 50,
+   "perustettu": 1934,
+   "henkilot": [
+    {
+     "nimi": "Roger Bannister",
+     "kuvaus": "britisk friidrettsutøver"
+    },
+    {
+     "nimi": "Ian Dury",
+     "kuvaus": "engelsk musiker"
+    },
+    {
+     "nimi": "Guy Butler",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000015.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Harrow.svg"
+   }
+  },
+  "Hart": {
+   "nimi": "Hart",
+   "wikidata": "Q1587050",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hart",
+   "tiivistelma": "Hart er et administrativt distrikt i Hampshire i England. Det har navn etter elven Hart, og administrasjonssenteret er Fleet.",
+   "vakiluku": 96293,
+   "pinta_ala_km2": 215,
+   "perustettu": 1974
+  },
+  "Hartlepool": {
+   "nimi": "Hartlepool",
+   "wikidata": "Q2594690",
+   "vakiluku": 93242,
+   "pinta_ala_km2": 94,
+   "perustettu": 1974
+  },
+  "Hastings": {
+   "nimi": "Hastings",
+   "wikidata": "Q21886138",
+   "vakiluku": 92855,
+   "pinta_ala_km2": 30,
+   "perustettu": 1835
+  },
+  "Havant": {
+   "nimi": "Havant",
+   "wikidata": "Q4946344",
+   "vakiluku": 125813,
+   "pinta_ala_km2": 55
+  },
+  "Havering": {
+   "nimi": "Havering",
+   "wikidata": "Q215038",
+   "wikipedia": "https://no.wikipedia.org/wiki/Havering_(distrikt)",
+   "tiivistelma": "Havering er en bydel i det østlige London. Den grenser mot Themsen og bydelen Bexley i sør, Redbridge og Barking and Dagenham i vest, Essex i nord og Thurrock i øst.",
+   "vakiluku": 257810,
+   "pinta_ala_km2": 112,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Tony Adams",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Francis Quarles",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Daniel Huttlestone",
+     "kuvaus": "britisk skuespiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000016.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Havering.svg"
+   }
+  },
+  "Herefordshire, County of": {
+   "nimi": "Herefordshire, County of",
+   "wikidata": "Q23129",
+   "wikipedia": "https://no.wikipedia.org/wiki/Herefordshire",
+   "tiivistelma": "Herefordshire er et grevskap i England. Det ligger i regionen Vest-Midlands, og grenser mot Shropshire, Worcestershire og Gloucestershire, samt de walisiske grevskapene Gwent og Powys.",
+   "vakiluku": 193615,
+   "pinta_ala_km2": 2180,
+   "henkilot": [
+    {
+     "nimi": "Rosamund Clifford",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "John Oldcastle",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Cyril Porter",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Herefordshire%20County%20Council.svg"
+   }
+  },
+  "Hertsmere": {
+   "nimi": "Hertsmere",
+   "wikidata": "Q1614775",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hertsmere",
+   "tiivistelma": "Hertsmere er et administrativt distrikt i Hertfordshire, England. Administrasjonssenteret er Borehamwood.",
+   "vakiluku": 104205,
+   "pinta_ala_km2": 101,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000098.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hertsmere%20Borough%20Council%20shield.svg"
+   }
+  },
+  "High Peak": {
+   "nimi": "High Peak",
+   "wikidata": "Q1458060",
+   "wikipedia": "https://no.wikipedia.org/wiki/High_Peak",
+   "tiivistelma": "High Peak er et administrativt distrikt i Derbyshire i England. Administrasjonssenteret er Chapel-en-le-Frith.",
+   "vakiluku": 92221,
+   "pinta_ala_km2": 539,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000037.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20High%20Peak.svg"
+   }
+  },
+  "Highland": {
+   "nimi": "Highland",
+   "wikidata": "Q208279",
+   "wikipedia": "https://no.wikipedia.org/wiki/Highland",
+   "tiivistelma": "Highland er den største av Skottlands regioner, og er det største lokale myndighetsområdet i Storbritannia. Den deler grenser med rådsområdene Aberdeenshire, Argyll and Bute, Moray og Perth and Kinross.",
+   "vakiluku": 235540,
+   "pinta_ala_km2": 25657,
+   "perustettu": 1975,
+   "henkilot": [
+    {
+     "nimi": "David Urquhart",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Richard Martinez",
+     "kuvaus": "amerikansk fotballspiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000017.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Highland%20Area%20Council.svg"
+   }
+  },
+  "Hillingdon": {
+   "nimi": "Hillingdon",
+   "wikidata": "Q205690",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hillingdon_(distrikt)",
+   "tiivistelma": "Hillingdon er Londons vestligste bydel. Den ble opprettet i 1965 ved at kretsene Uxbridge, Hayes and Harlington, Ruislip-Northwood og Yiewsley and West Drayton i Middlesex ble slått sammen.",
+   "vakiluku": 304824,
+   "pinta_ala_km2": 116,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Michael Tippett",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Lynne Frederick",
+     "kuvaus": "britisk skuespiller"
+    },
+    {
+     "nimi": "Simon Monjack",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000017.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20London%20Borough%20of%20Hillingdon.svg"
+   }
+  },
+  "Hinckley and Bosworth": {
+   "nimi": "Hinckley and Bosworth",
+   "wikidata": "Q946825",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hinckley_and_Bosworth",
+   "tiivistelma": "Hinckley and Bosworth er et distrikt i det sørvestlige Leicestershire i England. Den eneste byen, som er administrasjonssenter, er Hinckley.",
+   "vakiluku": 112423,
+   "pinta_ala_km2": 297,
+   "perustettu": 1974
+  },
+  "Horsham": {
+   "nimi": "Horsham (distrikt)",
+   "wikidata": "Q1629013",
+   "wikipedia": "https://no.wikipedia.org/wiki/Horsham_(distrikt)",
+   "tiivistelma": "Horsham er et administrativt distrikt i West Sussex, England. Administrasjonssenteret er byen Horsham.",
+   "vakiluku": 142217,
+   "pinta_ala_km2": 530
+  },
+  "Hounslow": {
+   "nimi": "Hounslow",
+   "wikidata": "Q214162",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hounslow_(distrikt)",
+   "tiivistelma": "Hounslow er en bydel i den vestlige delen av det ytre London. Den ble opprettet i 1965 ved at distriktene Brentford and Chiswick, Feltham og Heston and Isleworth i Middlesex ble slått sammen.",
+   "vakiluku": 270782,
+   "pinta_ala_km2": 56,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Jay Sean",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Matt O’Riley",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tim Don",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000018.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Hounslow.svg"
+   }
+  },
+  "Huntingdonshire": {
+   "nimi": "Huntingdonshire",
+   "wikidata": "Q23330",
+   "wikipedia": "https://no.wikipedia.org/wiki/Huntingdonshire",
+   "tiivistelma": "Huntingdonshire er et administrativt distrikt og tradisjonelt grevskap i Cambridgeshire i England. Administrasjonssenteret er Huntingdon.",
+   "vakiluku": 177352,
+   "pinta_ala_km2": 906,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Sybil Marshall",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Hyndburn": {
+   "nimi": "Hyndburn",
+   "wikidata": "Q1640713",
+   "wikipedia": "https://no.wikipedia.org/wiki/Hyndburn",
+   "tiivistelma": "Hyndburn er et administrativt distrikt i Lancashire i England. Administrasjonssenteret er Accrington, og distriktet har sitt navn etter elven Hyndburn.",
+   "vakiluku": 80815,
+   "pinta_ala_km2": 73,
+   "perustettu": 1974
+  },
+  "Inverclyde": {
+   "nimi": "Inverclyde",
+   "wikidata": "Q208271",
+   "wikipedia": "https://no.wikipedia.org/wiki/Inverclyde",
+   "tiivistelma": "Inverclyde er en av Skottlands regioner. Den grenser mot Renfrewshire og North Ayrshire.",
+   "vakiluku": 77800,
+   "pinta_ala_km2": 160,
+   "henkilot": [
+    {
+     "nimi": "Ronnie Cowan",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "F. A. Macquisten",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alan Burns, 4th Baron Inverclyde",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Ipswich": {
+   "nimi": "Ipswich",
+   "wikidata": "Q3801785",
+   "vakiluku": 137532,
+   "pinta_ala_km2": 40,
+   "perustettu": 1835
+  },
+  "Isle of Anglesey": {
+   "nimi": "Anglesey",
+   "wikidata": "Q168159",
+   "wikipedia": "https://no.wikipedia.org/wiki/Anglesey",
+   "tiivistelma": "Anglesey er en øy og et grevskap utenfor nordvestkysten av Wales. Den utgjør hoveddelen av hovedområdet kjent som Isle of Anglesey, som også omfatter Holy Island og noen holmer og skjær.",
+   "vakiluku": 70043,
+   "pinta_ala_km2": 749,
+   "henkilot": [
+    {
+     "nimi": "Grace Coddington",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Stuart Andrew",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Elin Fflur",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000001.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Isle%20of%20Anglesey%20County%20Council.svg"
+   }
+  },
+  "Isle of Wight": {
+   "nimi": "Wight",
+   "wikidata": "Q9679",
+   "wikipedia": "https://no.wikipedia.org/wiki/Isle_of_Wight",
+   "tiivistelma": "Isle of Wight er en øy ved sørkysten av England. Den er lokalisert rundt 6 km utenfor kysten av Hampshire, rett utenfor Southampton, og er adskilt fra det britiske fastlandet ved sundet Solent.",
+   "vakiluku": 140459,
+   "pinta_ala_km2": 380,
+   "henkilot": [
+    {
+     "nimi": "Thomas J. Clarke",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Vivian Fuchs",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Dudley Pound",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000046.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Isle%20of%20Wight%20Council.svg"
+   }
+  },
+  "Isles of Scilly": {
+   "nimi": "Scillyøyene",
+   "wikidata": "Q180209",
+   "wikipedia": "https://no.wikipedia.org/wiki/Scilly%C3%B8yene",
+   "tiivistelma": "Scillyøyene, eller på norsk Syllingene, er en øygruppe beliggende 45 km fra den sørvestlige spissen av Cornwall i England. En av øyene, St.",
+   "vakiluku": 2281,
+   "pinta_ala_km2": 16,
+   "henkilot": [
+    {
+     "nimi": "Stella Turk",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Islington": {
+   "nimi": "Islington",
+   "wikidata": "Q205817",
+   "wikipedia": "https://no.wikipedia.org/wiki/Islington_(distrikt)",
+   "tiivistelma": "Islington er en bydel i London. Den grenser mot City of London i sør, Hackney i øst, Camden i vest og Haringey i nord.",
+   "vakiluku": 239142,
+   "pinta_ala_km2": 15,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "John Stuart Mill",
+     "kuvaus": "engelsk filosof og økonom"
+    },
+    {
+     "nimi": "Joe Cole",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alexandra Burke",
+     "kuvaus": "britisk sanger"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20London%20Borough%20of%20Islington.svg"
+   }
+  },
+  "Kensington and Chelsea": {
+   "nimi": "Kensington and Chelsea",
+   "wikidata": "Q188801",
+   "wikipedia": "https://no.wikipedia.org/wiki/Kensington_and_Chelsea",
+   "tiivistelma": "Kensington and Chelsea er en bydel i vestre del av det indre London. Den ble opprettet i 1965 ved at bydelene Kensington og Chelsea ble slått sammen.",
+   "vakiluku": 156197,
+   "pinta_ala_km2": 12,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Isabella Sermon",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Cyril Gill",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Maddison Jaizani",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000020.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20Royal%20Borough%20of%20Kensington%20and%20Chelsea.svg"
+   }
+  },
+  "King's Lynn and West Norfolk": {
+   "nimi": "King's Lynn and West Norfolk",
+   "wikidata": "Q1742192",
+   "wikipedia": "https://no.wikipedia.org/wiki/King%E2%80%99s_Lynn_and_West_Norfolk",
+   "tiivistelma": "King's Lynn and West Norfolk er et administrativt distrikt i Norfolk i England. Administrasjonssenteret er byen King's Lynn.",
+   "vakiluku": 151811,
+   "pinta_ala_km2": 1439,
+   "perustettu": 1974
+  },
+  "Kingston upon Hull, City of": {
+   "nimi": "Kingston upon Hull, City of",
+   "wikidata": "Q21885987",
+   "vakiluku": 260645,
+   "pinta_ala_km2": 71,
+   "perustettu": 1835
+  },
+  "Kingston upon Thames": {
+   "nimi": "Kingston upon Thames",
+   "wikidata": "Q32508",
+   "wikipedia": "https://no.wikipedia.org/wiki/Kingston_upon_Thames_(distrikt)",
+   "tiivistelma": "Kingston upon Thames er det eldste av de kongelige distrikter i England og Wales. Det ligger i et område som tidligere tilhørte Surrey, men som nå er en del av Stor-London.",
+   "vakiluku": 175470,
+   "pinta_ala_km2": 37,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Archie Renaux",
+     "kuvaus": "britisk skuespiller"
+    },
+    {
+     "nimi": "Muriel Box",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tim Palmer",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000021.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Royal%20Borough%20of%20Kingston%20upon%20Thames.svg"
+   }
+  },
+  "Kirklees": {
+   "nimi": "Kirklees",
+   "wikidata": "Q918975",
+   "wikipedia": "https://no.wikipedia.org/wiki/Kirklees",
+   "tiivistelma": "Kirklees er et urbant distrikt i West Yorkshire, England. Det styres som en enhetlig myndighet, og administrasjonssenteret er Huddersfield.",
+   "vakiluku": 438727,
+   "pinta_ala_km2": 409,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000034.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Escudo_de_Calvia.svg: Miguillen (Taller de Heráldica y Vexilología in the Spanish Wikipedia )\nBlason_Saint-Blin-Sémilly.",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Kirklees%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Knowsley": {
+   "nimi": "Knowsley",
+   "wikidata": "Q1228523",
+   "wikipedia": "https://no.wikipedia.org/wiki/Knowsley",
+   "tiivistelma": "Knowsley er et administrativt distrikt med status som metropolitan borough i Merseyside i England. Administrasjonssenteret er Huyton.",
+   "vakiluku": 149571,
+   "pinta_ala_km2": 87,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000011.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "John Gerrard Keulemans",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Knowsley%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Lambeth": {
+   "nimi": "Lambeth",
+   "wikidata": "Q202059",
+   "wikipedia": "https://no.wikipedia.org/wiki/Lambeth_(distrikt)",
+   "tiivistelma": "Lambeth er en bydel i den sørvestlige delen av det indre London. Den ble opprettet i 1965 da kretsen Lambeth ble slått sammen med Streatham og Clapham i kretsen Wandsworth.",
+   "vakiluku": 325917,
+   "pinta_ala_km2": 27,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Camilla av Storbritannia",
+     "kuvaus": "dronning av Storbritannia (2022–)"
+    },
+    {
+     "nimi": "Lawrie Sanchez",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Cecil Hepworth",
+     "kuvaus": "britisk filmregissør (1874-1953)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000022.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20London%20Borough%20of%20Lambeth.svg"
+   }
+  },
+  "Lancaster": {
+   "nimi": "City of Lancaster",
+   "wikidata": "Q168052",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Lancaster",
+   "tiivistelma": "City of Lancaster er et administrativt distrikt med status som city i Lancashire i England. Det har navn etter administrasjonssenteret Lancaster.",
+   "vakiluku": 144246,
+   "pinta_ala_km2": 576,
+   "perustettu": 1937,
+   "henkilot": [
+    {
+     "nimi": "Sarah Illingworth",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000121.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Lancaster%20City%20Council.svg"
+   }
+  },
+  "Leeds": {
+   "nimi": "City of Leeds",
+   "wikidata": "Q774015",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Leeds",
+   "tiivistelma": "City of Leeds er en enhetlig myndighet og by i West Yorkshire, England. Området strekker seg fra Otley ved grensen til North Yorkshire til distriktet Wakefield i sør, og fra Pudsey i vest til Garforth og Wetherby i øst.",
+   "vakiluku": 789194,
+   "pinta_ala_km2": 552,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "James Daniel Wilson",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Leicester": {
+   "nimi": "Leicester",
+   "wikidata": "Q21683242",
+   "vakiluku": 368572,
+   "pinta_ala_km2": 73,
+   "perustettu": 1835
+  },
+  "Lewes": {
+   "nimi": "Lewes",
+   "wikidata": "Q1254688",
+   "wikipedia": "https://no.wikipedia.org/wiki/Lewes_(distrikt)",
+   "tiivistelma": "Lewes er et administrativt distrikt i East Sussex, England. Det har navnet etter administrasjonssenteret Lewes.",
+   "vakiluku": 100677,
+   "pinta_ala_km2": 292
+  },
+  "Lewisham": {
+   "nimi": "Lewisham",
+   "wikidata": "Q215030",
+   "wikipedia": "https://no.wikipedia.org/wiki/Lewisham_(distrikt)",
+   "tiivistelma": "Lewisham er en bydel i det sørøstlige London. Den ble opprettet i 1965 da de tidligere bydelene Lewisham og Deptford ble slått sammen.",
+   "vakiluku": 303536,
+   "pinta_ala_km2": 35,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Clemence Dane",
+     "kuvaus": "britisk manusforfatter"
+    },
+    {
+     "nimi": "Henry Williamson",
+     "kuvaus": "britisk skribent"
+    },
+    {
+     "nimi": "Kasey Palmer",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000023.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Lewisham.svg"
+   }
+  },
+  "Lichfield": {
+   "nimi": "Lichfield (distrikt)",
+   "wikidata": "Q1823259",
+   "wikipedia": "https://no.wikipedia.org/wiki/Lichfield_(distrikt)",
+   "tiivistelma": "Lichfield er et administrativt distrikt i Staffordshire, England. Distriktet dekker et areal på 331,30 km² og hadde 100 654 innbyggere i 2011.",
+   "vakiluku": 108352,
+   "pinta_ala_km2": 331,
+   "perustettu": 1974
+  },
+  "Lincoln": {
+   "nimi": "Lincoln",
+   "wikidata": "Q20989075",
+   "vakiluku": 99039,
+   "pinta_ala_km2": 36,
+   "perustettu": 1835
+  },
+  "Lisburn and Castlereagh": {
+   "nimi": "Lisburn and Castlereagh",
+   "wikidata": "Q6558667",
+   "wikipedia": "https://no.wikipedia.org/wiki/Lisburn_and_Castlereagh",
+   "tiivistelma": "Lisburn and Castlereagh er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Lisburn og Castlereagh.",
+   "vakiluku": 151669,
+   "pinta_ala_km2": 505
+  },
+  "Liverpool": {
+   "nimi": "Liverpool Metropolitan Borough",
+   "wikidata": "Q21665571",
+   "vakiluku": 496770,
+   "pinta_ala_km2": 112,
+   "perustettu": 1835,
+   "henkilot": [
+    {
+     "nimi": "Jean Smellie",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Luton": {
+   "nimi": "Luton",
+   "wikidata": "Q21683239",
+   "vakiluku": 214109,
+   "pinta_ala_km2": 43,
+   "perustettu": 1876
+  },
+  "Maidstone": {
+   "nimi": "Maidstone",
+   "wikidata": "Q737114",
+   "wikipedia": "https://no.wikipedia.org/wiki/Maidstone_(distrikt)",
+   "tiivistelma": "Maidstone er et distrikt i Kent, England. Administrasjonssenter og viktigste by er Maidstone, som også er administrasjonsby for grevskapet.",
+   "vakiluku": 169955,
+   "pinta_ala_km2": 393
+  },
+  "Maldon": {
+   "nimi": "Maldon",
+   "wikidata": "Q613878",
+   "wikipedia": "https://no.wikipedia.org/wiki/Maldon_(distrikt)",
+   "tiivistelma": "Maldon er et administrativt distrikt i Essex, England. Det har navn etter administrasjonssenteret Maldon.",
+   "vakiluku": 66208,
+   "pinta_ala_km2": 359,
+   "perustettu": 1974
+  },
+  "Malvern Hills": {
+   "nimi": "Malvern Hills",
+   "wikidata": "Q1427973",
+   "wikipedia": "https://no.wikipedia.org/wiki/Malvern_Hills_(distrikt)",
+   "tiivistelma": "Malvern Hills er et administrativt distrikt i Worcestershire i England. Administrasjonssenteret er Malvern.",
+   "vakiluku": 81024,
+   "pinta_ala_km2": 577,
+   "perustettu": 1998
+  },
+  "Manchester": {
+   "nimi": "Manchester",
+   "wikidata": "Q21525592",
+   "vakiluku": 568996,
+   "pinta_ala_km2": 116,
+   "perustettu": 1974
+  },
+  "Mansfield": {
+   "nimi": "Mansfield (distrikt)",
+   "wikidata": "Q1891143",
+   "wikipedia": "https://no.wikipedia.org/wiki/Mansfield_(distrikt)",
+   "tiivistelma": "Mansfield er et administrativt distrikt i Nottinghamshire i England. Det har navn etter administrasjonssenteret Mansfield.",
+   "vakiluku": 111117,
+   "pinta_ala_km2": 77,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000174.png",
+    "lisenssi": "CC0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Mansfield%20District%20Council.svg"
+   }
+  },
+  "Medway": {
+   "nimi": "Medway",
+   "wikidata": "Q797782",
+   "wikipedia": "https://no.wikipedia.org/wiki/Medway_(Kent)",
+   "tiivistelma": "Medway er en enhetlig myndighet i Kent i England. Distriktet er dannet gjennom en union av byene Chatham, Gillingham og Rochester.",
+   "vakiluku": 277855,
+   "pinta_ala_km2": 194,
+   "perustettu": 1998,
+   "henkilot": [
+    {
+     "nimi": "Jack Newman",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alan Carter",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Cyril Bristow",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000035.png",
+    "lisenssi": "CC BY-SA 2.0",
+    "tekija": "David Anstiss",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Medway%20Council%20Crest%20-%20geograph.org.uk%20-%201033321.jpg"
+   }
+  },
+  "Melton": {
+   "nimi": "Melton",
+   "wikidata": "Q1853349",
+   "wikipedia": "https://no.wikipedia.org/wiki/Melton",
+   "tiivistelma": "Melton er et distrikt i det nordøstlige Leicestershire, England. Det har navn etter administrasjonsbyen, Melton Mowbray.",
+   "vakiluku": 52433,
+   "pinta_ala_km2": 481,
+   "perustettu": 1974
+  },
+  "Merthyr Tydfil": {
+   "nimi": "Merthyr Tydfil",
+   "wikidata": "Q3306663",
+   "vakiluku": 60183,
+   "pinta_ala_km2": 111,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000024.png",
+    "lisenssi": "Public domain",
+    "tekija": "A.C. Fox-Davies",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Merthyr%20Tydfil%20arms.png"
+   }
+  },
+  "Merton": {
+   "nimi": "Merton",
+   "wikidata": "Q32504",
+   "wikipedia": "https://no.wikipedia.org/wiki/Merton_(distrikt)",
+   "tiivistelma": "Merton er en bydel i det sørvestlige Stor-London.",
+   "vakiluku": 214709,
+   "pinta_ala_km2": 38,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Ford Madox Ford",
+     "kuvaus": "britisk poet og skribent"
+    },
+    {
+     "nimi": "George Monck",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jack Davenport",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000024.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Merton.svg"
+   }
+  },
+  "Mid Devon": {
+   "nimi": "Mid Devon",
+   "wikidata": "Q662238",
+   "wikipedia": "https://no.wikipedia.org/wiki/Mid_Devon",
+   "tiivistelma": "Mid Devon er et administrativt distrikt i Devon, England. Administrasjonsbyen er Tiverton.",
+   "vakiluku": 83786,
+   "pinta_ala_km2": 913,
+   "perustettu": 1974
+  },
+  "Mid Suffolk": {
+   "nimi": "Mid Suffolk",
+   "wikidata": "Q1931811",
+   "wikipedia": "https://no.wikipedia.org/wiki/Mid_Suffolk",
+   "tiivistelma": "Mid Suffolk er et administrativt distrikt i Suffolk, England. Administrasjonssenteret er Needham Market.",
+   "vakiluku": 102493,
+   "pinta_ala_km2": 871,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "John Chapman",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Mid Sussex": {
+   "nimi": "Mid Sussex",
+   "wikidata": "Q1344342",
+   "wikipedia": "https://no.wikipedia.org/wiki/Mid_Sussex",
+   "tiivistelma": "Mid Sussex er et administrativt distrikt i West Sussex, England.",
+   "vakiluku": 149716,
+   "pinta_ala_km2": 334,
+   "henkilot": [
+    {
+     "nimi": "Brett Anderson",
+     "kuvaus": "engelsk musiker og sanger"
+    }
+   ]
+  },
+  "Mid Ulster": {
+   "nimi": "Mid Ulster",
+   "wikidata": "Q6840825",
+   "wikipedia": "https://no.wikipedia.org/wiki/Mid_Ulster",
+   "tiivistelma": "Mid Ulster er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Magherafelt, Cookstown og Dungannon and South Tyrone.",
+   "vakiluku": 152718,
+   "pinta_ala_km2": 1827,
+   "perustettu": 2015
+  },
+  "Mid and East Antrim": {
+   "nimi": "Mid and East Antrim",
+   "wikidata": "Q6841059",
+   "wikipedia": "https://no.wikipedia.org/wiki/Mid_and_East_Antrim",
+   "tiivistelma": "Mid and East Antrim er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Ballymena, Larne og Carrickfergus.",
+   "vakiluku": 139913,
+   "pinta_ala_km2": 1046
+  },
+  "Middlesbrough": {
+   "nimi": "Middlesbrough",
+   "wikidata": "Q2673020",
+   "vakiluku": 148285,
+   "pinta_ala_km2": 54,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000002.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20District%20Council%20of%20Middlesbrough.svg"
+   }
+  },
+  "Midlothian": {
+   "nimi": "Midlothian",
+   "wikidata": "Q206934",
+   "wikipedia": "https://no.wikipedia.org/wiki/Midlothian",
+   "tiivistelma": "Midlothian er en av Skottlands regioner, og et stattholderskap. Det grenser mot South Lanarkshire, Scottish Borders, East Lothian, City of Edinburgh og West Lothian.",
+   "vakiluku": 92460,
+   "pinta_ala_km2": 354,
+   "henkilot": [
+    {
+     "nimi": "Thomas Mackenzie",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Owen Thompson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jock Young",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000019.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Midlothian%20District%20Council%201975-1996.svg"
+   }
+  },
+  "Milton Keynes": {
+   "nimi": "Milton Keynes",
+   "wikidata": "Q894090",
+   "wikipedia": "https://no.wikipedia.org/wiki/Milton_Keynes_(distrikt)",
+   "tiivistelma": "Milton Keynes er et distrikt i England. Det er siden 1. april 1997 en enhetlig myndighet, og tilhører det seremonielle grevskapet Buckinghamshire.",
+   "vakiluku": 268607,
+   "pinta_ala_km2": 309,
+   "perustettu": 1974
+  },
+  "Mole Valley": {
+   "nimi": "Mole Valley",
+   "wikidata": "Q961824",
+   "wikipedia": "https://no.wikipedia.org/wiki/Mole_Valley",
+   "tiivistelma": "Mole Valley er et administrativt distrikt i Surrey, England. Administrasjonssenteret er Dorking.",
+   "vakiluku": 87253,
+   "pinta_ala_km2": 258
+  },
+  "Monmouthshire": {
+   "nimi": "Monmouthshire",
+   "wikidata": "Q207176",
+   "wikipedia": "https://no.wikipedia.org/wiki/Monmouthshire",
+   "tiivistelma": "Monmouthshire er et grevskap i det sørøstlige Wales. Det nåværende grevskapet ble opprettet 1. april 1996, og dekker den østlige halvdelen av det tradisjonelle grevskapet.",
+   "vakiluku": 94142,
+   "pinta_ala_km2": 849,
+   "henkilot": [
+    {
+     "nimi": "Grace McCleen",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Leslie Alfred Charles Fry",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000021.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "AlexD",
+    "lahde": "https://commons.wikimedia.org/wiki/File:MONMOUTHSHIRE%20Shield.svg"
+   }
+  },
+  "Moray": {
+   "nimi": "Moray",
+   "wikidata": "Q211106",
+   "wikipedia": "https://no.wikipedia.org/wiki/Moray",
+   "tiivistelma": "Moray er en av Skottlands regioner og er en av 32 områder med lokalstyre i Skottland. Det ligger i nordøst, med kystlinje mot Moray Firth og grenser mot Aberdeenshire og Highland.",
+   "vakiluku": 95820,
+   "pinta_ala_km2": 2238,
+   "henkilot": [
+    {
+     "nimi": "Lulach av Skottland",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Dunc Munro",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Douglas Ross",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000020.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Moray%20Area%20Council.svg"
+   }
+  },
+  "Na h-Eileanan Siar": {
+   "nimi": "Ytre Hebridene",
+   "wikidata": "Q80967",
+   "wikipedia": "https://no.wikipedia.org/wiki/Ytre_Hebridene",
+   "tiivistelma": "Ytre Hebridene, skotsk: Waster Isles) er en øygruppe utenfor Skottlands vestkyst, og en av Skottlands regioner og et stattholderskap. De er del av øygruppen Hebridene, som også består av Indre Hebridene.",
+   "vakiluku": 26720,
+   "pinta_ala_km2": 3059,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000013.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Na%20h-Eileanan%20Siar%20%28Outer%20Hebrides%29.svg"
+   }
+  },
+  "Neath Port Talbot": {
+   "nimi": "Neath Port Talbot",
+   "wikidata": "Q748078",
+   "wikipedia": "https://no.wikipedia.org/wiki/Neath_Port_Talbot",
+   "tiivistelma": "Neath Port Talbot er et hovedområde i det sørlige Wales. Det grenser mot Carmarthenshire, Powys, Rhondda Cynon Taf, Bridgend og Swansea.",
+   "vakiluku": 142906,
+   "pinta_ala_km2": 441,
+   "perustettu": 1996
+  },
+  "New Forest": {
+   "nimi": "New Forest",
+   "wikidata": "Q1972541",
+   "wikipedia": "https://no.wikipedia.org/wiki/New_Forest_(distrikt)",
+   "tiivistelma": "New Forest er et distrikt i grevskapet Hampshire i England. Det har navn etter skogområdet New Forest, som dekker en stor del av distriktet.",
+   "vakiluku": 179753,
+   "pinta_ala_km2": 753,
+   "henkilot": [
+    {
+     "nimi": "John Bright",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Newark and Sherwood": {
+   "nimi": "Newark and Sherwood",
+   "wikidata": "Q637772",
+   "wikipedia": "https://no.wikipedia.org/wiki/Newark_and_Sherwood",
+   "tiivistelma": "Newark and Sherwood er et administrativt distrikt i Nottinghamshire i England. Det består for det meste av landsbygd, med flere større skogplantasjer, samt de tre små byene Newark-on-Trent, Southwell, Ollerton.",
+   "vakiluku": 125089,
+   "pinta_ala_km2": 651,
+   "perustettu": 1974
+  },
+  "Newcastle upon Tyne": {
+   "nimi": "Newcastle upon Tyne",
+   "wikidata": "Q21012735",
+   "vakiluku": 300196,
+   "pinta_ala_km2": 11512,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Rowan Atkinson",
+     "kuvaus": "britisk skuespiller, komiker og manusforfatter"
+    }
+   ]
+  },
+  "Newcastle-under-Lyme": {
+   "nimi": "Newcastle-under-Lyme (distrikt)",
+   "wikidata": "Q894089",
+   "wikipedia": "https://no.wikipedia.org/wiki/Newcastle-under-Lyme_(distrikt)",
+   "tiivistelma": "Newcastle-under-Lyme er et administrativt distrikt i Staffordshire i England. Det har navn etter administrasjonssenteret Newcastle-under-Lyme.",
+   "vakiluku": 127000,
+   "pinta_ala_km2": 211,
+   "perustettu": 1974
+  },
+  "Newham": {
+   "nimi": "Newham",
+   "wikidata": "Q208139",
+   "wikipedia": "https://no.wikipedia.org/wiki/Newham",
+   "tiivistelma": "Newham er en bydel i det østlige London. Det ble opprettet i 1965 ved at kretsene East Ham og West ble slått sammen.",
+   "vakiluku": 352005,
+   "pinta_ala_km2": 36,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Ezri Konsa",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Chuba Akpom",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Sorba Thomas",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000025.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Newham.svg"
+   }
+  },
+  "Newport": {
+   "nimi": "Newport",
+   "wikidata": "Q5283458",
+   "vakiluku": 167899,
+   "pinta_ala_km2": 191,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000022.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Croaker",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Newport%20COA%20shield.svg"
+   }
+  },
+  "Newry, Mourne and Down": {
+   "nimi": "Newry, Mourne and Down",
+   "wikidata": "Q15262186",
+   "wikipedia": "https://no.wikipedia.org/wiki/Newry,_Mourne_and_Down",
+   "tiivistelma": "Newry, Mourne and Down er et administrativt distrikt i Nord-Irland. Det ble dannet 1. april 2015 ved sammenslåing av distriktene Newry and Mourne og Down.",
+   "vakiluku": 183115,
+   "pinta_ala_km2": 1633
+  },
+  "North Ayrshire": {
+   "nimi": "North Ayrshire",
+   "wikidata": "Q206926",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Ayrshire",
+   "tiivistelma": "North Ayrshire er en av 32 regioner i Skottland. Det grenser mot Inverclyde i nord, Renfrewshire og East Renfrewshire i nordøst, og East Ayrshire og South Ayrshire i henholdsvis øst og sør.",
+   "vakiluku": 134740,
+   "pinta_ala_km2": 885,
+   "henkilot": [
+    {
+     "nimi": "Ron Geesin",
+     "kuvaus": "britisk komponist og musiker"
+    },
+    {
+     "nimi": "Edward Boyd",
+     "kuvaus": "britisk manusforfatter og skribent"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000021.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "BopperDopp",
+    "lahde": "https://commons.wikimedia.org/wiki/File:North%20Ayrshire%20coat%20of%20arms.svg"
+   }
+  },
+  "North Devon": {
+   "nimi": "North Devon",
+   "wikidata": "Q674940",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Devon",
+   "tiivistelma": "North Devon er et administrativt distrikt i Devon, England. Administrasjonssenteret er Barnstaple.",
+   "vakiluku": 96110,
+   "pinta_ala_km2": 1086,
+   "henkilot": [
+    {
+     "nimi": "Cuthbert Mayne",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Comins Mansfield",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Thomas Fowler",
+     "kuvaus": "britisk ingeniør og matematiker"
+    }
+   ]
+  },
+  "North East Derbyshire": {
+   "nimi": "North East Derbyshire",
+   "wikidata": "Q1384012",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_East_Derbyshire",
+   "tiivistelma": "North East Derbyshire er et administrativt distrikt i Derbyshire i England. Administrasjonssenteret er Chesterfield, som er et eget distrikt, men som grenser mot North East Derbyshire på tre sider og derfor er et naturlig sentrum i området.",
+   "vakiluku": 103783,
+   "pinta_ala_km2": 276,
+   "perustettu": 1974
+  },
+  "North East Lincolnshire": {
+   "nimi": "North East Lincolnshire",
+   "wikidata": "Q1342914",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_East_Lincolnshire",
+   "tiivistelma": "North East Lincolnshire er et administrativt distrikt med status som enhetlig myndighet i Lincolnshire i England. Administrasjonssenteret er Grimsby.",
+   "vakiluku": 159821,
+   "pinta_ala_km2": 192,
+   "perustettu": 1996
+  },
+  "North Hertfordshire": {
+   "nimi": "North Hertfordshire",
+   "wikidata": "Q1685976",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Hertfordshire",
+   "tiivistelma": "North Hertfordshire er et administrativt distrikt i Hertfordshire i England. Administrasjonssenteret er Letchworth.",
+   "vakiluku": 131700,
+   "pinta_ala_km2": 375,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000099.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:North%20Hertfordshire%20District%20Council%20shield.svg"
+   }
+  },
+  "North Kesteven": {
+   "nimi": "North Kesteven",
+   "wikidata": "Q607082",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Kesteven",
+   "tiivistelma": "North Kesteven er et administrativt distrikt i Lincolnshire, England. Administrasjonssenteret er Sleaford.",
+   "vakiluku": 119709,
+   "pinta_ala_km2": 922,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000139.png",
+    "lisenssi": "Public domain",
+    "tekija": "Syryatsu",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Blason%20district%20uk%20North%20Kesteven%20%28Lincolnshire%29.svg"
+   }
+  },
+  "North Lanarkshire": {
+   "nimi": "North Lanarkshire",
+   "wikidata": "Q207111",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Lanarkshire",
+   "tiivistelma": "North Lanarkshire er en av Skottlands 32 regioner. Den grenser i nordøst mot City of Glasgow, har deler av Glasgows forsteder, landsbyer og pendlerbyer.",
+   "vakiluku": 340180,
+   "pinta_ala_km2": 470,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Bill McKay",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Cromwell",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "John Timmons",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000050.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20North%20Lanarkshire%20Council.svg"
+   }
+  },
+  "North Lincolnshire": {
+   "nimi": "North Lincolnshire",
+   "wikidata": "Q175945",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Lincolnshire",
+   "tiivistelma": "North Lincolnshire er et administrativt distrikt med status som enhetlig myndighet i Lincolnshire i England. Det ligger på sørsiden av Humber, og består for det meste av jordbruksområder på begge sider av elven Trent.",
+   "vakiluku": 172005,
+   "pinta_ala_km2": 846,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Joseph Taylor",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "North Norfolk": {
+   "nimi": "North Norfolk",
+   "wikidata": "Q1545713",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Norfolk",
+   "tiivistelma": "North Norfolk er et administrativt distrikt i Norfolk i England. Administrasjonssenteret er Cromer.",
+   "vakiluku": 104552,
+   "pinta_ala_km2": 962,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mal Peet",
+     "kuvaus": "britisk skribent"
+    },
+    {
+     "nimi": "Nick Youngs",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Kimberley Morrison",
+     "kuvaus": "britisk (engelsk) triatlet"
+    }
+   ]
+  },
+  "North Northamptonshire": {
+   "nimi": "North Northamptonshire",
+   "wikidata": "Q60790121",
+   "vakiluku": 363408,
+   "perustettu": 2021
+  },
+  "North Somerset": {
+   "nimi": "North Somerset",
+   "wikidata": "Q178196",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Somerset",
+   "tiivistelma": "North Somerset er en enhetlig myndighet i England. Den ligger i det seremonielle grevskapet Somerset, og aministreres fra Weston-super-Mare.",
+   "vakiluku": 213919,
+   "pinta_ala_km2": 374,
+   "perustettu": 1974
+  },
+  "North Tyneside": {
+   "nimi": "North Tyneside",
+   "wikidata": "Q1120443",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Tyneside",
+   "tiivistelma": "North Tyneside er et administrativt distrikt med status som metropolitan borough i Tyne and Wear i England. Administrasjonssenteret er Wallsend.",
+   "vakiluku": 205985,
+   "pinta_ala_km2": 82,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Frank Hudspeth",
+     "kuvaus": "britisk fotballspiller"
+    },
+    {
+     "nimi": "Steph McGovern",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000022.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Coat_of_arms_of_Merseyside_County_Council.png: *Royal_Coat_of_Arms_of_the_United_Kingdom_(Government_in_Scotland).svg: S",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20North%20Tyneside%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "North Warwickshire": {
+   "nimi": "North Warwickshire",
+   "wikidata": "Q2000897",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_Warwickshire",
+   "tiivistelma": "North Warwickshire er et administrativt distrikt i Warwickshire i England. Administrasjonssenteret er Atherstone, som også er den største byen.",
+   "vakiluku": 64850,
+   "pinta_ala_km2": 284,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "John Graham",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "North West Leicestershire": {
+   "nimi": "North West Leicestershire",
+   "wikidata": "Q1853930",
+   "wikipedia": "https://no.wikipedia.org/wiki/North_West_Leicestershire",
+   "tiivistelma": "North West Leicestershire er et administrativt distrikt i Leicestershire i England. Administrasjonssenteret er Coalville.",
+   "vakiluku": 102126,
+   "pinta_ala_km2": 279,
+   "perustettu": 1974
+  },
+  "North Yorkshire": {
+   "nimi": "North Yorkshire",
+   "wikidata": "Q21241814",
+   "vakiluku": 623501,
+   "pinta_ala_km2": 8038,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000065.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20North%20Yorkshire%20County%20Council.svg"
+   }
+  },
+  "Northumberland": {
+   "nimi": "Northumberland",
+   "wikidata": "Q23079",
+   "wikipedia": "https://no.wikipedia.org/wiki/Northumberland",
+   "tiivistelma": "Northumberland er et grevskap i England, i regionen Nordøst-England. Det har sin opprinnelse i kongedømmet Northumbria, men dagens grevskap dekker et betrakelig mindre område.",
+   "vakiluku": 323820,
+   "pinta_ala_km2": 5014,
+   "henkilot": [
+    {
+     "nimi": "William Stead",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Steven Runciman",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Matthew Festing",
+     "kuvaus": "militært personell, Storbritannia"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000057.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Northumberland%20County%20Council.svg"
+   }
+  },
+  "Norwich": {
+   "nimi": "Norwich",
+   "wikidata": "Q21886147",
+   "vakiluku": 141137,
+   "pinta_ala_km2": 39
+  },
+  "Nottingham": {
+   "nimi": "City of Nottingham",
+   "wikidata": "Q21885994",
+   "vakiluku": 331069,
+   "pinta_ala_km2": 75
+  },
+  "Nuneaton and Bedworth": {
+   "nimi": "Nuneaton and Bedworth",
+   "wikidata": "Q920466",
+   "wikipedia": "https://no.wikipedia.org/wiki/Nuneaton_and_Bedworth",
+   "tiivistelma": "Nuneaton and Bedworth er et administrativt distrikt i Warwickshire i England. Det består av de to byene Nuneaton og Bedworth, landsbyen Bulkington og området mellom disse.",
+   "vakiluku": 128902,
+   "pinta_ala_km2": 79,
+   "perustettu": 1974
+  },
+  "Oadby and Wigston": {
+   "nimi": "Oadby and Wigston",
+   "wikidata": "Q764425",
+   "wikipedia": "https://no.wikipedia.org/wiki/Oadby_and_Wigston",
+   "tiivistelma": "Oadby and Wigston er et administrativt distrikt i Leicestershire i England. Det består av administrasjonsbyen Wigston Magna, byen Oadby og noe landsbygd, og er et av de minste distriktene i England utenom noen av Londons bydeler og Scilly-øyene.",
+   "vakiluku": 58341,
+   "pinta_ala_km2": 24,
+   "perustettu": 1974
+  },
+  "Oldham": {
+   "nimi": "Oldham",
+   "wikidata": "Q1278608",
+   "wikipedia": "https://no.wikipedia.org/wiki/Oldham_(distrikt)",
+   "tiivistelma": "Oldham er et administrativt distrikt med status som storbykommune i Stor-Manchester i England. Det har navn etter den største byen, Oldham, som er administrasjonssenter, men omfatter også andre byer og landsbyer.",
+   "vakiluku": 237628,
+   "pinta_ala_km2": 142,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000004.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Sedloňov_CoA_CZ.svg: Tomáš Urban\nBlason_Cieutat.svg: Kilom691\nCoat_of_Arms_of_England_(-1340).svg: Sodacan This  PNG gra",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Oldham%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Orkney Islands": {
+   "nimi": "Orknøyene",
+   "wikidata": "Q100166",
+   "wikipedia": "https://no.wikipedia.org/wiki/Orkn%C3%B8yene",
+   "tiivistelma": "Orknøyene er en øygruppe nord for Skottland. Den er en av Skottlands regioner, et stattholderskap og styres av det lokale regionsrådet Orkney Islands Council.",
+   "vakiluku": 22270,
+   "pinta_ala_km2": 990,
+   "henkilot": [
+    {
+     "nimi": "Torfinn Sigurdsson Rike",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Sigurd Lodvesson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Torfinn Einarsson",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Oxford": {
+   "nimi": "Oxford",
+   "wikidata": "Q20986484",
+   "vakiluku": 154327,
+   "pinta_ala_km2": 46,
+   "perustettu": 1835
+  },
+  "Pembrokeshire": {
+   "nimi": "Pembrokeshire",
+   "wikidata": "Q213361",
+   "wikipedia": "https://no.wikipedia.org/wiki/Pembrokeshire",
+   "tiivistelma": "Pembrokeshire er et grevskap i det sørvestlige Wales. Det grenser mot Carmarthenshire og Ceredigion.",
+   "vakiluku": 125818,
+   "pinta_ala_km2": 1619,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "David av Wales",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Dick Francis",
+     "kuvaus": "britisk skribent"
+    },
+    {
+     "nimi": "Saint Non",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000009.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Pembrokeshire%20County%20Council.svg"
+   }
+  },
+  "Pendle": {
+   "nimi": "Pendle",
+   "wikidata": "Q1693090",
+   "wikipedia": "https://no.wikipedia.org/wiki/Pendle",
+   "tiivistelma": "Pendle er et lokalt selvstyre og administrativt distrikt i Lancashire i England. Det grenser mot distriktene Burnley, Ribble Valley, North Yorkshire og West Yorkshire.",
+   "vakiluku": 91405,
+   "pinta_ala_km2": 169,
+   "perustettu": 1974
+  },
+  "Perth and Kinross": {
+   "nimi": "Perth and Kinross",
+   "wikidata": "Q207679",
+   "wikipedia": "https://no.wikipedia.org/wiki/Perth_and_Kinross",
+   "tiivistelma": "Perth and Kinross er en av Skottlands regioner, og et stattholderskap. Den grenser mot Clackmannanshire, Stirling, Fife, City of Dundee, Highland og Angus.",
+   "vakiluku": 151950,
+   "pinta_ala_km2": 5286,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "James Forbes",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "James Lorimer",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000048.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Area%20Council%20of%20Perth%20and%20Kinross.svg"
+   }
+  },
+  "Peterborough": {
+   "nimi": "Peterborough",
+   "wikidata": "Q12956645",
+   "vakiluku": 201041,
+   "pinta_ala_km2": 343,
+   "perustettu": 1974
+  },
+  "Plymouth": {
+   "nimi": "Plymouth",
+   "wikidata": "Q21674890",
+   "vakiluku": 263100,
+   "pinta_ala_km2": 80
+  },
+  "Portsmouth": {
+   "nimi": "Portsmouth",
+   "wikidata": "Q21683233",
+   "vakiluku": 208420,
+   "pinta_ala_km2": 40,
+   "perustettu": 1835
+  },
+  "Powys": {
+   "nimi": "Powys",
+   "wikidata": "Q156150",
+   "wikipedia": "https://no.wikipedia.org/wiki/Powys",
+   "tiivistelma": "Powys er det største grevskapet i Wales. Det dekker de tradisjonelle grevskapene Montgomeryshire, Radnorshire og Brecknockshire.",
+   "vakiluku": 132447,
+   "pinta_ala_km2": 5181,
+   "henkilot": [
+    {
+     "nimi": "Venetia Dearden",
+     "kuvaus": "britisk fotograf"
+    },
+    {
+     "nimi": "James Davies Lewin",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Samuel Roberts",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000023.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Powys%20County%20Council.svg"
+   }
+  },
+  "Preston": {
+   "nimi": "Preston",
+   "wikidata": "Q385669",
+   "vakiluku": 141818,
+   "pinta_ala_km2": 142,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "David Cook",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Reading": {
+   "nimi": "Reading",
+   "wikidata": "Q21496716",
+   "vakiluku": 163203,
+   "pinta_ala_km2": 40,
+   "perustettu": 1835,
+   "henkilot": [
+    {
+     "nimi": "Jessica Lee Morgan",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Nick Bicât",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Redbridge": {
+   "nimi": "Redbridge",
+   "wikidata": "Q208955",
+   "wikipedia": "https://no.wikipedia.org/wiki/Redbridge_(distrikt)",
+   "tiivistelma": "Redbridge er en bydel i det østlige London. Den ble opprettet i 1965 ved at kretsene Ilford og Wanstead and Woodford i Essex, samt deler av andre kretser, ble slått sammen.",
+   "vakiluku": 303858,
+   "pinta_ala_km2": 56,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Mimi Keene",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Coventry Patmore",
+     "kuvaus": "britisk poet"
+    },
+    {
+     "nimi": "Stanley Morison",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Redcar and Cleveland": {
+   "nimi": "Redcar and Cleveland",
+   "wikidata": "Q1434448",
+   "wikipedia": "https://no.wikipedia.org/wiki/Redcar_and_Cleveland",
+   "tiivistelma": "Redcar and Cleveland er en enhetlig myndighet i North Yorkshire i England. Administrasjonssenteret er South Bank, som er en forstad til Middlesbrough.",
+   "vakiluku": 136531,
+   "pinta_ala_km2": 245,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000003.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Redcar%20and%20Cleveland.svg"
+   }
+  },
+  "Redditch": {
+   "nimi": "Redditch",
+   "wikidata": "Q21496675",
+   "vakiluku": 84989,
+   "pinta_ala_km2": 54,
+   "perustettu": 1894
+  },
+  "Reigate and Banstead": {
+   "nimi": "Reigate and Banstead",
+   "wikidata": "Q2066396",
+   "wikipedia": "https://no.wikipedia.org/wiki/Reigate_and_Banstead",
+   "tiivistelma": "Reigate and Banstead er et administrativt distrikt i den østlige delen av Surrey, England. Administrasjonssenteret er Reigate.",
+   "vakiluku": 147757,
+   "pinta_ala_km2": 129
+  },
+  "Renfrewshire": {
+   "nimi": "Renfrewshire",
+   "wikidata": "Q211091",
+   "wikipedia": "https://no.wikipedia.org/wiki/Renfrewshire",
+   "tiivistelma": "Renfrewshire er en av Skottlands 32 regioner og ligger på den sørlige bredden av elven Clyde. Området grenser mot North Ayrshire, East Renfrewshire, City of Glasgow, Inverclyde og West Dunbartonshire.",
+   "vakiluku": 179100,
+   "pinta_ala_km2": 261,
+   "henkilot": [
+    {
+     "nimi": "William Wallace",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "George Cathcart",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "William Arrol",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Rhondda Cynon Taf": {
+   "nimi": "Rhondda Cynon Taf",
+   "wikidata": "Q817960",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rhondda_Cynon_Taf",
+   "tiivistelma": "Rhondda Cynon Taf er et grevskapsdistrikt i Glamorgan i det sørlige Wales. Det grenser mot Merthyr Tydfil, Caerphilly, Cardiff, Vale of Glamorgan, Bridgend, Neath Port Talbot og Powys.",
+   "vakiluku": 240131,
+   "pinta_ala_km2": 424,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Neil Jenkins",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jamie Oliver",
+     "kuvaus": "britisk musiker"
+    },
+    {
+     "nimi": "Thighpaulsandra",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Ribble Valley": {
+   "nimi": "Ribble Valley",
+   "wikidata": "Q2116317",
+   "wikipedia": "https://no.wikipedia.org/wiki/Ribble_Valley",
+   "tiivistelma": "Ribble Valley er et administrativt distrikt i Lancashire i England. Administrasjonssenteret er Clitheroe.",
+   "vakiluku": 63107,
+   "pinta_ala_km2": 583,
+   "perustettu": 1974
+  },
+  "Richmond upon Thames": {
+   "nimi": "Richmond upon Thames",
+   "wikidata": "Q32515",
+   "wikipedia": "https://no.wikipedia.org/wiki/Richmond_upon_Thames_(distrikt)",
+   "tiivistelma": "Richmond upon Thames er en bydel i den sørvestlige delen av Stor-London. Den er en av de få bydelene som dekker områder på begge sider av Themsen.",
+   "vakiluku": 196904,
+   "pinta_ala_km2": 57,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Louis Harold Gray",
+     "kuvaus": "britisk fysiker"
+    },
+    {
+     "nimi": "Marie av Orleans",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "R. C. Sherriff",
+     "kuvaus": "britisk manusforfatter"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000027.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Richmond%20upon%20Thames.svg"
+   }
+  },
+  "Rochdale": {
+   "nimi": "Rochdale",
+   "wikidata": "Q1892596",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rochdale_(distrikt)",
+   "tiivistelma": "Rochdale er et administrativt distrikt med status som metropolitan borough i Stor-Manchester i England. Det har navn etter administrasjonssenteret Rochdale, som også er største by.",
+   "vakiluku": 223659,
+   "pinta_ala_km2": 158,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000005.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Escudo_del_Vichada.svg: Shadowxfox\nRutilus_rutilus5.jpg: Krüger\nImperial_Eagle_Supporter_(Heraldry).svg: Sodacan\nBlason_",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Rochdale%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Rochford": {
+   "nimi": "Rochford (distrikt)",
+   "wikidata": "Q2160315",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rochford_(distrikt)",
+   "tiivistelma": "Rochford er et administrativt distrikt i Essex, England. Det har navn etter administrasjonssenteret Rochford.",
+   "vakiluku": 86981,
+   "pinta_ala_km2": 169,
+   "perustettu": 1974
+  },
+  "Rossendale": {
+   "nimi": "Rossendale",
+   "wikidata": "Q527423",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rossendale",
+   "tiivistelma": "Rossendale er et administrativt distrikt i Lancashire i England. Det består av flere små, tidligere industribyer i dalen elven Irwell renner gjennom.",
+   "vakiluku": 70895,
+   "pinta_ala_km2": 138,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Phil Lester",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Kristan Bromley",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Emily Aston",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Rother": {
+   "nimi": "Rother",
+   "wikidata": "Q1811605",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rother_(distrikt)",
+   "tiivistelma": "Rother er et administrativt distrikt i East Sussex, England. Administrasjonssenteret er Bexhill-on-Sea.",
+   "vakiluku": 95656,
+   "pinta_ala_km2": 509,
+   "perustettu": 1974
+  },
+  "Rotherham": {
+   "nimi": "Rotherham",
+   "wikidata": "Q1878732",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rotherham_(distrikt)",
+   "tiivistelma": "Rotherham er et administrativt distrikt med status som metropolitan borough i South Yorkshire i England. Det har navn etter administrasjonssenteret Rotherham.",
+   "vakiluku": 260800,
+   "pinta_ala_km2": 287,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000018.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Coat_of_Arms_of_Richard_II_of_England_(1377-1399).svg: Sodacan This  PNG graphic was created with Inkscape .\nMitre_(plai",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Rotherham%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Rugby": {
+   "nimi": "Rugby (distrikt)",
+   "wikidata": "Q894091",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rugby_(distrikt)",
+   "tiivistelma": "Rugby er et administrativt distrikt i Warwickshire, England. Det har navn etter og administreres fra byen Rugby.",
+   "vakiluku": 114363,
+   "pinta_ala_km2": 351,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Paul Scully",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Runnymede": {
+   "nimi": "Runnymede (distrikt)",
+   "wikidata": "Q9324032",
+   "wikipedia": "https://no.wikipedia.org/wiki/Runnymede_(distrikt)",
+   "tiivistelma": "Runnymede er et administrativt distrikt i Surrey, England.",
+   "vakiluku": 88000,
+   "pinta_ala_km2": 78
+  },
+  "Rushcliffe": {
+   "nimi": "Rushcliffe",
+   "wikidata": "Q1854225",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rushcliffe",
+   "tiivistelma": "Rushcliffe er et administrativt distrikt i Nottinghamshire i England. Administrasjonssenteret er West Bridgford.",
+   "vakiluku": 121582,
+   "pinta_ala_km2": 409,
+   "perustettu": 1974
+  },
+  "Rushmoor": {
+   "nimi": "Rushmoor",
+   "wikidata": "Q635274",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rushmoor",
+   "tiivistelma": "Rushmoor er et administrativt distrikt i Hampshire, England.",
+   "vakiluku": 99754,
+   "pinta_ala_km2": 39
+  },
+  "Rutland": {
+   "nimi": "Rutland",
+   "wikidata": "Q23107",
+   "wikipedia": "https://no.wikipedia.org/wiki/Rutland",
+   "tiivistelma": "Rutland er et grevskap i England. Det tilhører regionen Øst-England, og grenser mot Leicestershire, Lincolnshire og Northamptonshire.",
+   "vakiluku": 41151,
+   "pinta_ala_km2": 382,
+   "henkilot": [
+    {
+     "nimi": "Peter F. Hamilton",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Simon Langham",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Elizabeth Berridge",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000017.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Rutland%20County%20Council.svg"
+   }
+  },
+  "Salford": {
+   "nimi": "City of Salford",
+   "wikidata": "Q1142118",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Salford",
+   "tiivistelma": "Salford er et administrativt distrikt i Stor-Manchester i England. Det har navn etter byen Salford, som er den største bosetningen i distriktet.",
+   "vakiluku": 262697,
+   "pinta_ala_km2": 97,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Sara Ahmed",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jason Manford",
+     "kuvaus": "britisk skuespiller"
+    },
+    {
+     "nimi": "Jonathan Ashworth",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000006.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Salford%20City%20Council.svg"
+   }
+  },
+  "Sandwell": {
+   "nimi": "Sandwell",
+   "wikidata": "Q285964",
+   "wikipedia": "https://no.wikipedia.org/wiki/Sandwell",
+   "tiivistelma": "Sandwell er et administrativt distrikt med status som metropolitan borough i West Midlands i England. Administrasjonssenteret er Oldbury, mens den største byen er West Bromwich.",
+   "vakiluku": 327378,
+   "pinta_ala_km2": 86,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "James Chambers",
+     "kuvaus": "britisk fotballspiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000028.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Arms_of_the_Greater_London_Council.svg: Greentubing\nCoat_of_Arms_of_Richard_II_of_England_(1377-1399).svg: Sodacan This ",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Sandwell%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Scottish Borders": {
+   "nimi": "Scottish Borders",
+   "wikidata": "Q211113",
+   "wikipedia": "https://no.wikipedia.org/wiki/Scottish_Borders",
+   "tiivistelma": "Scottish Borders er en av Skottlands regioner, og et stattholderskap. Det grenser mot Dumfries and Galloway, South Lanarkshire, West Lothian og Midlothian i Skottland, samt til sørvest de engelske områdene Northumberland og Cumbria.",
+   "vakiluku": 115510,
+   "pinta_ala_km2": 4732,
+   "perustettu": 1975,
+   "henkilot": [
+    {
+     "nimi": "Bindon Blood",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Phamie Gow",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Janet Bathgate",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Sefton": {
+   "nimi": "Sefton",
+   "wikidata": "Q1546645",
+   "wikipedia": "https://no.wikipedia.org/wiki/Sefton",
+   "tiivistelma": "Sefton er et administrativt distrikt i Merseyside i England. Ettersom Merseyside i 1986 avskaffet grevskapsrådet er distriktet et selvstyrt metropolitan borough, som i praksis fungerer som en enhetlig myndighet.",
+   "vakiluku": 275396,
+   "pinta_ala_km2": 155,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Anthony Quayle",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Sevenoaks": {
+   "nimi": "Sevenoaks",
+   "wikidata": "Q1499339",
+   "wikipedia": "https://no.wikipedia.org/wiki/Sevenoaks_(distrikt)",
+   "tiivistelma": "Sevenoaks er et distrikt i grevskapet Kent i England. Aministrasjonssenteret er byen Sevenoaks.",
+   "vakiluku": 121106,
+   "pinta_ala_km2": 369,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Nevill Forbes",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Sheffield": {
+   "nimi": "Sheffield",
+   "wikidata": "Q12956644",
+   "vakiluku": 569700,
+   "pinta_ala_km2": 368,
+   "perustettu": 1974
+  },
+  "Shetland Islands": {
+   "nimi": "Shetland",
+   "wikidata": "Q47134",
+   "wikipedia": "https://no.wikipedia.org/wiki/Shetland",
+   "tiivistelma": "Shetland, eller Shetlandsøyene, er en øygruppe, en region og et stattholderskap i Skottland. Øygruppen består av 15 bebodde og 85 ubebodde øyer som strekker seg 150 km fra nord til sør og 75 km fra øst til vest.",
+   "vakiluku": 23210,
+   "pinta_ala_km2": 1468,
+   "henkilot": [
+    {
+     "nimi": "Douglas Black",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Herdis Torvaldsdatter",
+     "kuvaus": "norsk adelsdame og godseier"
+    },
+    {
+     "nimi": "Anna King",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Shropshire": {
+   "nimi": "Shropshire",
+   "wikidata": "Q21694759",
+   "vakiluku": 320274,
+   "pinta_ala_km2": 3197
+  },
+  "Slough": {
+   "nimi": "Slough",
+   "wikidata": "Q21163036",
+   "vakiluku": 149112,
+   "pinta_ala_km2": 33,
+   "perustettu": 1974
+  },
+  "Solihull": {
+   "nimi": "Solihull (distrikt)",
+   "wikidata": "Q1925858",
+   "wikipedia": "https://no.wikipedia.org/wiki/Solihull_(distrikt)",
+   "tiivistelma": "Solihull er et administrativt distrikt med status som metropolitan borough i West Midlands i England. Det har navn etter administrasjonssenteret, byen Solihull.",
+   "vakiluku": 214909,
+   "pinta_ala_km2": 178,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000029.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Lévrier_courant.svg: Peter17\nRostocker_Greif.svg: N3MO\nBruetten-blazon.svg: -\nBlason_damblain.svg: Manassas\nMeuble_héral",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Solihull%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Somerset": {
+   "nimi": "Somerset",
+   "wikidata": "Q21694741",
+   "vakiluku": 576852,
+   "pinta_ala_km2": 3451
+  },
+  "South Ayrshire": {
+   "nimi": "South Ayrshire",
+   "wikidata": "Q209131",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Ayrshire",
+   "tiivistelma": "South Ayrshire er en av Skottlands 32 regioner som dekker den sørlige delen av Ayrshire. Den grenser mot East Ayrshire, North Ayrshire og Dumfries and Galloway.",
+   "vakiluku": 112610,
+   "pinta_ala_km2": 1222,
+   "perustettu": 1975,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000028.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20South%20Ayrshire.svg"
+   }
+  },
+  "South Cambridgeshire": {
+   "nimi": "South Cambridgeshire",
+   "wikidata": "Q969203",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Cambridgeshire",
+   "tiivistelma": "South Cambridgeshire er et administrativt distrikt i Cambridgeshire i England. Administrasjonssenteret er siden 2004 Cambourne; tidligere ble distriktet administrert fra Cambridge.",
+   "vakiluku": 157519,
+   "pinta_ala_km2": 902,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "John Flanagan",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "South Derbyshire": {
+   "nimi": "South Derbyshire",
+   "wikidata": "Q745385",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Derbyshire",
+   "tiivistelma": "South Derbyshire er et administrativt distrikt i Derbyshire i England. Det dekker en tredjedel av National Forest, og har Swadlincote som administrasjonssenter.",
+   "vakiluku": 111133,
+   "pinta_ala_km2": 338,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mark Chadbourn",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "South Gloucestershire": {
+   "nimi": "South Gloucestershire",
+   "wikidata": "Q1369280",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Gloucestershire",
+   "tiivistelma": "South Gloucestershire er et administrativt distrikt i Gloucestershire i England. Det ble opprettet i 1996 da grevskapet Avon ble oppløst, ved at distriktene Kingswood og Northavon ble slått sammen.",
+   "vakiluku": 282644,
+   "pinta_ala_km2": 497
+  },
+  "South Hams": {
+   "nimi": "South Hams",
+   "wikidata": "Q649699",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Hams",
+   "tiivistelma": "South Hams er et administrativt distrikt i Devon, England. Administrasjonssenteret er Totnes.",
+   "vakiluku": 86221,
+   "pinta_ala_km2": 886,
+   "perustettu": 1972
+  },
+  "South Holland": {
+   "nimi": "South Holland",
+   "wikidata": "Q303269",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Holland",
+   "tiivistelma": "South Holland er et administrativt distrikt i Lincolnshire i England. Administrasjonssenteret er Spalding.",
+   "vakiluku": 96983,
+   "pinta_ala_km2": 751,
+   "perustettu": 1974
+  },
+  "South Kesteven": {
+   "nimi": "South Kesteven",
+   "wikidata": "Q1942426",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Kesteven",
+   "tiivistelma": "South Kesteven er et administrativt distrikt i Lincolnshire i England. Administrasjonssenteret er Grantham.",
+   "vakiluku": 141853,
+   "pinta_ala_km2": 943,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000141.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20South%20Kesteven%20District%20Council.svg"
+   }
+  },
+  "South Lanarkshire": {
+   "nimi": "South Lanarkshire",
+   "wikidata": "Q209142",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Lanarkshire",
+   "tiivistelma": "South Lanarkshire er en av Skottlands regioner. Den grenser sørøst for byen Glasgow og inneholder noen av Stor-Glasgows forstadsbyer, og som også består av en rekke rurale byer og landsbyer.",
+   "vakiluku": 319020,
+   "pinta_ala_km2": 1772,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "William Jackson",
+     "kuvaus": "skotsk curlingspiller"
+    },
+    {
+     "nimi": "Thomas Murray",
+     "kuvaus": "skotsk curlingspiller"
+    },
+    {
+     "nimi": "James Douglas-Hamilton, Baron Selkirk of Douglas",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000029.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20South%20Lanarkshire.svg"
+   }
+  },
+  "South Norfolk": {
+   "nimi": "South Norfolk",
+   "wikidata": "Q1854245",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Norfolk",
+   "tiivistelma": "South Norfolk er et administrativt distrikt i Norfolk, England. Administrasjonssenteret er Long Stratton.",
+   "vakiluku": 138017,
+   "pinta_ala_km2": 908,
+   "perustettu": 1974
+  },
+  "South Oxfordshire": {
+   "nimi": "South Oxfordshire",
+   "wikidata": "Q1776967",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Oxfordshire",
+   "tiivistelma": "South Oxfordshire er et administrativt distrikt i Oxfordshire i England.",
+   "vakiluku": 140504,
+   "pinta_ala_km2": 679,
+   "perustettu": 1974
+  },
+  "South Ribble": {
+   "nimi": "South Ribble",
+   "wikidata": "Q290838",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Ribble",
+   "tiivistelma": "South Ribble er et administrativt distrikt i Lancashire i England. Administrasjonssenteret er Leyland.",
+   "vakiluku": 110527,
+   "pinta_ala_km2": 113,
+   "perustettu": 1974
+  },
+  "South Staffordshire": {
+   "nimi": "South Staffordshire",
+   "wikidata": "Q2116379",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Staffordshire",
+   "tiivistelma": "South Staffordshire er et administrativt distrikt i Staffordshire i England. Det ligger nordvest for Wolverhampton, og grenser mot Shropshire i vest og Worcestershire i sør.",
+   "vakiluku": 111527,
+   "pinta_ala_km2": 407,
+   "perustettu": 1974
+  },
+  "South Tyneside": {
+   "nimi": "South Tyneside",
+   "wikidata": "Q1541228",
+   "wikipedia": "https://no.wikipedia.org/wiki/South_Tyneside",
+   "tiivistelma": "South Tyneside er et administrativt distrikt med status som metropolitan borough i Tyne and Wear i England. Administrasjonssenteret er South Shields.",
+   "vakiluku": 150265,
+   "pinta_ala_km2": 64,
+   "perustettu": 1974
+  },
+  "Southampton": {
+   "nimi": "City of Southampton",
+   "wikidata": "Q21683230",
+   "vakiluku": 252796,
+   "pinta_ala_km2": 50,
+   "perustettu": 1835
+  },
+  "Southend-on-Sea": {
+   "nimi": "Southend-on-Sea",
+   "wikidata": "Q21487155",
+   "vakiluku": 180915,
+   "pinta_ala_km2": 42,
+   "perustettu": 1892,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000033.png",
+    "lisenssi": "Public domain",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms-southend.jpg"
+   }
+  },
+  "Southwark": {
+   "nimi": "Southwark",
+   "wikidata": "Q730706",
+   "wikipedia": "https://no.wikipedia.org/wiki/Southwark_(distrikt)",
+   "tiivistelma": "Southwark er en bydel i London. Den ligger på sørsiden av Themsen, og grenser mot City of London og Tower Hamlets mot nord, og Lambeth og Lewisham i sør.",
+   "vakiluku": 317256,
+   "pinta_ala_km2": 29,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Thomas Brodie-Sangster",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Ola Aina",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Charles Vere Ferrers Townshend",
+     "kuvaus": "britisk politiker"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000028.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Southwark.svg"
+   }
+  },
+  "Spelthorne": {
+   "nimi": "Spelthorne",
+   "wikidata": "Q1234166",
+   "wikipedia": "https://no.wikipedia.org/wiki/Spelthorne",
+   "tiivistelma": "Spelthorne er et distrikt i Surrey, England. Det omfatter byene Ashford, Charlton, Laleham, Littleton, Lower Halliford, Shepperton, Staines, Stanwell, Sunbury og Upper Halliford.",
+   "vakiluku": 103551,
+   "pinta_ala_km2": 45
+  },
+  "St Albans": {
+   "nimi": "St. Albans",
+   "wikidata": "Q1094060",
+   "wikipedia": "https://no.wikipedia.org/wiki/St._Albans_(distrikt)",
+   "tiivistelma": "St. Albans er et administrativt distrikt med status som city i Hertfordshire i England.",
+   "vakiluku": 147373,
+   "pinta_ala_km2": 161,
+   "henkilot": [
+    {
+     "nimi": "Matthew Goodwin",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000240.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Blason%20d%27azur%20au%20sautoir%20d%27or.svg"
+   }
+  },
+  "St. Helens": {
+   "nimi": "St. Helens",
+   "wikidata": "Q179206",
+   "wikipedia": "https://no.wikipedia.org/wiki/St._Helens_(distrikt)",
+   "tiivistelma": "St. Helens er et administrativt distrikt i Merseyside i England.",
+   "vakiluku": 180049,
+   "pinta_ala_km2": 136,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Eunice Macaulay",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Stafford": {
+   "nimi": "Stafford",
+   "wikidata": "Q678347",
+   "wikipedia": "https://no.wikipedia.org/wiki/Stafford_(distrikt)",
+   "tiivistelma": "Stafford er et administrativt distrikt i Staffordshire i England. Det har navn etter administrasjonssenteret Stafford, og inkluderer også flere andre byer og landsbyer.",
+   "vakiluku": 138670,
+   "pinta_ala_km2": 598,
+   "perustettu": 1974
+  },
+  "Staffordshire Moorlands": {
+   "nimi": "Staffordshire Moorlands",
+   "wikidata": "Q2116362",
+   "wikipedia": "https://no.wikipedia.org/wiki/Staffordshire_Moorlands",
+   "tiivistelma": "Staffordshire Moorlands er et administrativt distrikt i Staffordshire i England. Det ligger mellom Stoke-on-Trent og nasjonalparken Peak District.",
+   "vakiluku": 95899,
+   "pinta_ala_km2": 576,
+   "perustettu": 1974
+  },
+  "Stevenage": {
+   "nimi": "Stevenage",
+   "wikidata": "Q21886152",
+   "vakiluku": 87754,
+   "pinta_ala_km2": 26,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000243.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Stevenage%20Borough%20Council%20shield.svg"
+   }
+  },
+  "Stirling": {
+   "nimi": "Stirling",
+   "wikidata": "Q217838",
+   "wikipedia": "https://no.wikipedia.org/wiki/Stirling_(region)",
+   "tiivistelma": "Stirling er en av Skottlands regioner og har en befolkning på rundt 94 330 innbyggere. Den dekker det meste av Stirlingshire og grenser mot Clackmannanshire, Falkirk, Perth and Kinross, Argyll and Bute, East Dunbartonshire og West Dunbartonshire.",
+   "vakiluku": 94210,
+   "pinta_ala_km2": 2187,
+   "henkilot": [
+    {
+     "nimi": "James Bruce",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jimmy Turnbull",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Archibald Stirling",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Stockport": {
+   "nimi": "Stockport",
+   "wikidata": "Q1752424",
+   "wikipedia": "https://no.wikipedia.org/wiki/Stockport_(distrikt)",
+   "tiivistelma": "Stockport er et administrativt distrikt med status som metropolitan borough (storbykommune) i Stor-Manchester i England. Det har navn etter administrasjonssenteret Stockport, som også er den største byen i distriktet.",
+   "vakiluku": 294197,
+   "pinta_ala_km2": 126,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Will Mellor",
+     "kuvaus": "engelsk skuespiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000007.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Georgian_heraldry_motto.svg: Gaeser\nCoat_of_Arms_of_Philip,_Duke_of_Edinburgh.svg: Sodacan\nCoat_of_Arms_of_England_(-134",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Stockport%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Stockton-on-Tees": {
+   "nimi": "Stockton-on-Tees (distrikt)",
+   "wikidata": "Q894094",
+   "wikipedia": "https://no.wikipedia.org/wiki/Stockton-on-Tees_(distrikt)",
+   "tiivistelma": "Stockton-on-Tees er et administrativt distrikt med status som enhetlig myndighet i det nordøstlige England. Den sørlige delen av distriktet ligger i North Yorkshire, mens den nordlige er i Durham; distriktet er det eneste i England som er delt mellom to seremonielle grevskap.",
+   "vakiluku": 199966,
+   "pinta_ala_km2": 205,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E06000004.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20Borough%20of%20Stockton-on-Tees.svg"
+   }
+  },
+  "Stoke-on-Trent": {
+   "nimi": "Stoke-on-Trent",
+   "wikidata": "Q21891722",
+   "vakiluku": 255833,
+   "pinta_ala_km2": 93,
+   "perustettu": 1910,
+   "henkilot": [
+    {
+     "nimi": "Benjamin R. Mullock",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Stratford-on-Avon": {
+   "nimi": "Stratford-on-Avon",
+   "wikidata": "Q1693076",
+   "wikipedia": "https://no.wikipedia.org/wiki/Stratford-on-Avon_(distrikt)",
+   "tiivistelma": "Stratford-on-Avon er et administrativt distrikt i Warwickshire, England. Administrasjonsstedet er byen Stratford-upon-Avon.",
+   "vakiluku": 127580,
+   "pinta_ala_km2": 978,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Edward Willes",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Stroud": {
+   "nimi": "Stroud",
+   "wikidata": "Q966144",
+   "wikipedia": "https://no.wikipedia.org/wiki/Stroud_(distrikt)",
+   "tiivistelma": "Stroud er et administrativt distrikt i Gloucestershire, England. Det har navn etter den største byen, Stroud.",
+   "vakiluku": 119019,
+   "pinta_ala_km2": 461
+  },
+  "Sunderland": {
+   "nimi": "City of Sunderland",
+   "wikidata": "Q1280897",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Sunderland",
+   "tiivistelma": "City of Sunderland er en enhetlig myndighet og by (city) i Tyne and Wear i Nordøst-England. Distriktet omfatter Sunderland, Washington, Houton-le-Spring og Hetton-le-Hole.",
+   "vakiluku": 277417,
+   "pinta_ala_km2": 137,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Julie Elliott",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Michael Young",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Berwick Kaler",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000024.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Lymphad3.svg: *derivative work: MaEr (talk)\nLymphad3.jpg: Tomasz Steifer\nDouglas_hamiltonCoA.png: Tomasz Steifer\nAnchor_",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Sunderland%20City%20Council.png"
+   }
+  },
+  "Surrey Heath": {
+   "nimi": "Surrey Heath",
+   "wikidata": "Q2116333",
+   "wikipedia": "https://no.wikipedia.org/wiki/Surrey_Heath",
+   "tiivistelma": "Surrey Heath er et administrativt distrikt i Surrey, England. Administrasjonssenteret er Camberley.",
+   "vakiluku": 91237,
+   "pinta_ala_km2": 95
+  },
+  "Sutton": {
+   "nimi": "Sutton",
+   "wikidata": "Q320378",
+   "wikipedia": "https://no.wikipedia.org/wiki/Sutton_(distrikt)",
+   "tiivistelma": "Sutton er en bydel i det sørvestlige ytre London. Den ble opprettet i 1965 ved at distriktene Beddington, Sutton and Cheam og Carshalton i Surrey ble slått sammen.",
+   "vakiluku": 204525,
+   "pinta_ala_km2": 44,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Brett Goldstein",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Guy Nickalls",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Peter Ladefoged",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000029.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Sutton.svg"
+   }
+  },
+  "Swale": {
+   "nimi": "Swale",
+   "wikidata": "Q652559",
+   "wikipedia": "https://no.wikipedia.org/wiki/Swale",
+   "tiivistelma": "Swale er et distrikt i Kent, England. Det har sitt navn fra Swalekanalen, en smal naturlig kanal som skiller fastlandet fra øya Sheppey.",
+   "vakiluku": 148519,
+   "pinta_ala_km2": 374
+  },
+  "Swansea": {
+   "nimi": "Swansea",
+   "wikidata": "Q10996863",
+   "vakiluku": 246466,
+   "pinta_ala_km2": 380
+  },
+  "Swindon": {
+   "nimi": "Swindon",
+   "wikidata": "Q894093",
+   "wikipedia": "https://no.wikipedia.org/wiki/Swindon_(distrikt)",
+   "tiivistelma": "Swindon er et administrativt distrikt med status som enhetlig myndighet i området Thamesdown i Wiltshire, England. Det består av byen Swindon og det tidligere landdistriktet Highworth.",
+   "vakiluku": 235657,
+   "pinta_ala_km2": 230,
+   "henkilot": [
+    {
+     "nimi": "Keith Michael Baker",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Tameside": {
+   "nimi": "Tameside",
+   "wikidata": "Q1423078",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tameside",
+   "tiivistelma": "Tameside er et administrativt distrikt med status som metropolitan borough i Stor-Manchester i England. Administrasjonssenteret er Ashton-under-Lyne.",
+   "vakiluku": 232753,
+   "pinta_ala_km2": 103,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Millie Gibson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Kieran Lee",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000008.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Tameside%20Metropolitan%20Borough%20Council.svg"
+   }
+  },
+  "Tamworth": {
+   "nimi": "Tamworth",
+   "wikidata": "Q7170938",
+   "vakiluku": 76678,
+   "pinta_ala_km2": 31,
+   "perustettu": 1835
+  },
+  "Tandridge": {
+   "nimi": "Tandridge",
+   "wikidata": "Q2301760",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tandridge",
+   "tiivistelma": "Tandridge er et lokalt administrativt distrikt i Surrey, England. Administrasjonssenteret er byen Oxted, den nest største bosetningen i distriktet.",
+   "vakiluku": 87496,
+   "pinta_ala_km2": 248
+  },
+  "Teignbridge": {
+   "nimi": "Teignbridge",
+   "wikidata": "Q739432",
+   "wikipedia": "https://no.wikipedia.org/wiki/Teignbridge",
+   "tiivistelma": "Teignbridge er et administrativt distrikt i Devon, England. Administrasjonssenteret er Newton Abbot.",
+   "vakiluku": 135952,
+   "pinta_ala_km2": 674
+  },
+  "Telford and Wrekin": {
+   "nimi": "Telford and Wrekin",
+   "wikidata": "Q1425298",
+   "wikipedia": "https://no.wikipedia.org/wiki/Telford_and_Wrekin",
+   "tiivistelma": "Telford and Wrekin er en enhetlig myndighet i Shropshire i England. Administrasjonssenter og største by er Telford, som ble grunnlagt som en new town i 1960-årene.",
+   "vakiluku": 188871,
+   "pinta_ala_km2": 290,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Arthur Clark",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Tendring": {
+   "nimi": "Tendring",
+   "wikidata": "Q1752638",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tendring",
+   "tiivistelma": "Tendring er et administrativt distrikt i Essex i England. Administrasjonssenteret er Clacton-on-Sea.",
+   "vakiluku": 145803,
+   "pinta_ala_km2": 338,
+   "perustettu": 1974
+  },
+  "Test Valley": {
+   "nimi": "Test Valley",
+   "wikidata": "Q2116338",
+   "wikipedia": "https://no.wikipedia.org/wiki/Test_Valley",
+   "tiivistelma": "Test Valley er et administrativt distrikt i Hampshire, England. Administrasjonssenteret er Andover.",
+   "vakiluku": 125169,
+   "pinta_ala_km2": 628
+  },
+  "Tewkesbury": {
+   "nimi": "Tewkesbury (distrikt)",
+   "wikidata": "Q894096",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tewkesbury_(distrikt)",
+   "tiivistelma": "Tewkesbury er et administrativt distrikt i Gloucestershire, England. Det har navn etter administrasjonbyen Tewkesbury.",
+   "vakiluku": 97000,
+   "pinta_ala_km2": 414
+  },
+  "Thanet": {
+   "nimi": "Thanet",
+   "wikidata": "Q1752642",
+   "wikipedia": "https://no.wikipedia.org/wiki/Thanet_(distrikt)",
+   "tiivistelma": "Thanet er et distrikt i Kent, England. Det var opprinnelig en øy, atskilt fra fastlandet av Wantsumkanalen.",
+   "vakiluku": 140689,
+   "pinta_ala_km2": 103,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Terence O'Brien",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Christopher Ewart-Biggs",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Three Rivers": {
+   "nimi": "Three Rivers",
+   "wikidata": "Q1386468",
+   "wikipedia": "https://no.wikipedia.org/wiki/Three_Rivers_(distrikt)",
+   "tiivistelma": "Three Rivers er et administrativt distrikt i Hertfordshire i England. Administrasjonssenteret er Rickmansworth.",
+   "vakiluku": 93045,
+   "pinta_ala_km2": 89
+  },
+  "Thurrock": {
+   "nimi": "Thurrock",
+   "wikidata": "Q1549155",
+   "wikipedia": "https://no.wikipedia.org/wiki/Thurrock",
+   "tiivistelma": "Thurrock er en enhetlig myndighet i England. Den ligger ved Themsen, øst for London.",
+   "vakiluku": 172525,
+   "pinta_ala_km2": 163,
+   "henkilot": [
+    {
+     "nimi": "Sam Byram",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "David Ottley",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Andy Hunt",
+     "kuvaus": "britisk fotballspiller"
+    }
+   ]
+  },
+  "Tonbridge and Malling": {
+   "nimi": "Tonbridge and Malling",
+   "wikidata": "Q596743",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tonbridge_and_Malling",
+   "tiivistelma": "Tonbridge and Malling er et distrikt i Kent, England. Det dekker et område fra North Downs ved Burham og Snodland i nord til Tonbridge i sør.",
+   "vakiluku": 130508,
+   "pinta_ala_km2": 240,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Charles Morris, Baron Morris of Grasmere",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Torbay": {
+   "nimi": "Torbay",
+   "wikidata": "Q1136118",
+   "wikipedia": "https://no.wikipedia.org/wiki/Torbay",
+   "tiivistelma": "Torbay er en bydel og en enhetlig myndighet i Devon, sørvest i England. Området har navn etter en østvendt bukt i den vestlige enden av Lyme Bay, og ble en enhetlig myndighet 1. april 1998.",
+   "vakiluku": 139479,
+   "pinta_ala_km2": 63,
+   "perustettu": 1968,
+   "henkilot": [
+    {
+     "nimi": "Chris Lintott",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "E. H. H. Green",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Amanda Lawrence",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Torfaen": {
+   "nimi": "Torfaen",
+   "wikidata": "Q643919",
+   "wikipedia": "https://no.wikipedia.org/wiki/Torfaen",
+   "tiivistelma": "Torfaen er et grevskapsdistrikt i Wales. Det ligger innenfor det tradisjonelle grevskapet Monmouthshire.",
+   "vakiluku": 91075,
+   "pinta_ala_km2": 126,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Rachel Rice",
+     "kuvaus": "britisk skuespiller"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000020.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arms%20of%20Torfaen%20County%20Borough%20Council.svg"
+   }
+  },
+  "Torridge": {
+   "nimi": "Torridge",
+   "wikidata": "Q1752488",
+   "wikipedia": "https://no.wikipedia.org/wiki/Torridge",
+   "tiivistelma": "Torridge er et administrativt distrikt i Devon, England, med administrasjonssenter i Bideford. Det har navnet etter elven Torridge.",
+   "vakiluku": 68143,
+   "pinta_ala_km2": 984
+  },
+  "Tower Hamlets": {
+   "nimi": "Tower Hamlets",
+   "wikidata": "Q208152",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tower_Hamlets",
+   "tiivistelma": "Tower Hamlets er en bydel i London, øst for City of London og nord for Themsen. Den inkluderer området kjent som East End.",
+   "vakiluku": 317705,
+   "pinta_ala_km2": 20,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Wes Streeting",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Dionne Bromfield",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Andy Lee",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000030.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Tower%20Hamlets.svg"
+   }
+  },
+  "Trafford": {
+   "nimi": "Trafford",
+   "wikidata": "Q915954",
+   "wikipedia": "https://no.wikipedia.org/wiki/Trafford",
+   "tiivistelma": "Trafford er et administrativt distrikt med status som metropolitan borough i Stor-Manchester i England. Administrasjonssenteret er Stretford.",
+   "vakiluku": 237579,
+   "pinta_ala_km2": 106,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Christabel Pankhurst",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Sylvia Pankhurst",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Phoebe Dynevor",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Tunbridge Wells": {
+   "nimi": "Tunbridge Wells (distrikt)",
+   "wikidata": "Q894097",
+   "wikipedia": "https://no.wikipedia.org/wiki/Tunbridge_Wells_(distrikt)",
+   "tiivistelma": "Tunbridge Wells er et distrikt i Kent, England. Det har navn etter den viktigste byen, Tunbridge Wells.",
+   "vakiluku": 118054,
+   "pinta_ala_km2": 331
+  },
+  "Uttlesford": {
+   "nimi": "Uttlesford",
+   "wikidata": "Q1496198",
+   "wikipedia": "https://no.wikipedia.org/wiki/Uttlesford",
+   "tiivistelma": "Uttlesford er et administrativt distrikt i Essex, England. Administrasjonsbyen er Saffron Walden.",
+   "vakiluku": 89179,
+   "pinta_ala_km2": 641,
+   "perustettu": 1974
+  },
+  "Vale of Glamorgan": {
+   "nimi": "Vale of Glamorgan",
+   "wikidata": "Q844784",
+   "wikipedia": "https://no.wikipedia.org/wiki/Vale_of_Glamorgan",
+   "tiivistelma": "Vale of Glamorgan er et grevskapsdistrikt i Wales. Det dekker den sørlige delen av det tradisjonelle grevskapet Glamorgan.",
+   "vakiluku": 132165,
+   "pinta_ala_km2": 331,
+   "perustettu": 1996,
+   "henkilot": [
+    {
+     "nimi": "Nina Davies",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Andrew R. T. Davies",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Rebecca John",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Vale of White Horse": {
+   "nimi": "Vale of White Horse",
+   "wikidata": "Q1540110",
+   "wikipedia": "https://no.wikipedia.org/wiki/Vale_of_White_Horse",
+   "tiivistelma": "Vale of White Horse er et administrativt distrikt i Oxfordshire, England. Det meste av området lå tidligere i Berkshire.",
+   "vakiluku": 133732,
+   "pinta_ala_km2": 578
+  },
+  "Wakefield": {
+   "nimi": "City of Wakefield",
+   "wikidata": "Q763171",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Wakefield",
+   "tiivistelma": "City of Wakefield er et administrativt distrikt med status som metropolitan borough og city i West Yorkshire i England. Det har navn etter administrasjonssenteret Wakefield, men dekker også andre byer.",
+   "vakiluku": 345038,
+   "pinta_ala_km2": 339,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000036.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Felipe Fidelis Tobias",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Wakefield.svg"
+   }
+  },
+  "Walsall": {
+   "nimi": "Walsall",
+   "wikidata": "Q178356",
+   "wikipedia": "https://no.wikipedia.org/wiki/Walsall_(distrikt)",
+   "tiivistelma": "Walsall er et administrativt distrikt i West Midlands i England. Det har navn etter administrasjonssenteret Walsall, og er et metropolitan borough.",
+   "vakiluku": 283378,
+   "pinta_ala_km2": 104,
+   "perustettu": 1974
+  },
+  "Waltham Forest": {
+   "nimi": "Waltham Forest",
+   "wikidata": "Q40608",
+   "wikipedia": "https://no.wikipedia.org/wiki/Waltham_Forest",
+   "tiivistelma": "Waltham Forest er en bydel i den nordlige delen av det ytre London. Den ble opprettet i 1965 ved at kretsene Chingford, Leyton og Walthamstow i Essex ble slått sammen og overført til Stor-London.",
+   "vakiluku": 276700,
+   "pinta_ala_km2": 39,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Kwasi Kwarteng",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Joe Willock",
+     "kuvaus": "engelsk fotballspiller"
+    },
+    {
+     "nimi": "Chris Willock",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000031.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Waltham%20Forest.svg"
+   }
+  },
+  "Wandsworth": {
+   "nimi": "Wandsworth",
+   "wikidata": "Q210563",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wandsworth_(distrikt)",
+   "tiivistelma": "Wandsworth er en bydel i det sørvestlige London. Den ble opprettet i 1965 ved at kretsene Battersea og deler av Wandsworth ble slått sammen.",
+   "vakiluku": 326474,
+   "pinta_ala_km2": 34,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Louis Partridge",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Chris Irwin",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Robert Lindsay",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000032.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Cakelot1",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20the%20London%20Borough%20of%20Wandsworth.svg"
+   }
+  },
+  "Warrington": {
+   "nimi": "Warrington",
+   "wikidata": "Q894095",
+   "vakiluku": 209547,
+   "pinta_ala_km2": 181,
+   "perustettu": 1974
+  },
+  "Warwick": {
+   "nimi": "Warwick",
+   "wikidata": "Q611294",
+   "wikipedia": "https://no.wikipedia.org/wiki/Warwick_(distrikt)",
+   "tiivistelma": "Warwick er et administrativt distrikt i Warwickshire i England. Det har navn etter byen Warwick, men administrasjonssenteret er Leamington Spa, mens Warwick er administrasjonssenter for grevskapet.",
+   "vakiluku": 151158,
+   "pinta_ala_km2": 283,
+   "perustettu": 1974
+  },
+  "Watford": {
+   "nimi": "Watford",
+   "wikidata": "Q21886164",
+   "vakiluku": 96767,
+   "pinta_ala_km2": 21,
+   "perustettu": 1894
+  },
+  "Waverley": {
+   "nimi": "Waverley",
+   "wikidata": "Q2116521",
+   "wikipedia": "https://no.wikipedia.org/wiki/Waverley_(Surrey)",
+   "tiivistelma": "Waverley er et administrativt distrikt i Surrey, England. Administrasjonssenteret er Godalming, mens største by er Farnham.",
+   "vakiluku": 130063,
+   "pinta_ala_km2": 345,
+   "perustettu": 1974
+  },
+  "Wealden": {
+   "nimi": "Wealden",
+   "wikidata": "Q1575946",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wealden",
+   "tiivistelma": "Wealden er et administrativt distrikt i East Sussex, England. Det har navn etter skogområdet Weald.",
+   "vakiluku": 160175,
+   "pinta_ala_km2": 833
+  },
+  "Welwyn Hatfield": {
+   "nimi": "Welwyn Hatfield",
+   "wikidata": "Q2166127",
+   "wikipedia": "https://no.wikipedia.org/wiki/Welwyn_Hatfield",
+   "tiivistelma": "Welvyn Hatfield er et administrativt distrikt i Hertfordshire i England. Det har navn etter de to byene som ligger i distriktet, administrasjonssenteret Welvyn Garden City og Hatfield.",
+   "vakiluku": 122746,
+   "pinta_ala_km2": 130,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000241.png",
+    "lisenssi": "Public domain",
+    "tekija": "Hogweard",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Welwyn%20Hatfield%20District%20Council%20shield.svg"
+   }
+  },
+  "West Berkshire": {
+   "nimi": "West Berkshire",
+   "wikidata": "Q1473780",
+   "wikipedia": "https://no.wikipedia.org/wiki/West_Berkshire",
+   "tiivistelma": "West Berkhire er et administrativt distrikt med status som enhetlig myndighet i Berkshire, England. Administrasjonssenteret er Newbury.",
+   "vakiluku": 158527,
+   "pinta_ala_km2": 704,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Edward Bridges, 1st Baron Bridges",
+     "kuvaus": "britisk politiker"
+    }
+   ]
+  },
+  "West Devon": {
+   "nimi": "West Devon",
+   "wikidata": "Q370814",
+   "wikipedia": "https://no.wikipedia.org/wiki/West_Devon",
+   "tiivistelma": "West Devon er et administrativt distrikt i Devon, England. Administrasjonssenteret er Tavistock.",
+   "vakiluku": 58190,
+   "pinta_ala_km2": 1160
+  },
+  "West Dunbartonshire": {
+   "nimi": "West Dunbartonshire",
+   "wikidata": "Q208121",
+   "wikipedia": "https://no.wikipedia.org/wiki/West_Dunbartonshire",
+   "tiivistelma": "West Dunbartonshire er en av Skottlands regioner. Området ligger vest for byen Glasgow og inneholder mange av Glasgows pendlerbyer og landsbyer.",
+   "vakiluku": 88930,
+   "pinta_ala_km2": 159,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000039.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20West%20Dunbartonshire.svg"
+   }
+  },
+  "West Lancashire": {
+   "nimi": "West Lancashire",
+   "wikidata": "Q1290796",
+   "wikipedia": "https://no.wikipedia.org/wiki/West_Lancashire",
+   "tiivistelma": "West Lancashire er et administrativt distrikt i Lancashire, England. Administrasjonssenteret er Ormskirk.",
+   "vakiluku": 113949,
+   "pinta_ala_km2": 347,
+   "perustettu": 1974
+  },
+  "West Lindsey": {
+   "nimi": "West Lindsey",
+   "wikidata": "Q253501",
+   "wikipedia": "https://no.wikipedia.org/wiki/West_Lindsey",
+   "tiivistelma": "West Lindsey er et administrativt distrikt i Lincolnshire i England. Administrasjonssenteret er Gainsborough.",
+   "vakiluku": 94869,
+   "pinta_ala_km2": 1156,
+   "perustettu": 1974
+  },
+  "West Lothian": {
+   "nimi": "West Lothian",
+   "wikidata": "Q204940",
+   "wikipedia": "https://no.wikipedia.org/wiki/West_Lothian",
+   "tiivistelma": "West Lothian, også kjent som Linlithgowshire er en av Skottlands regioner, og et stattholderskap. Det grenser mot City of Edinburgh, Falkirk og Midlothian.",
+   "vakiluku": 182140,
+   "pinta_ala_km2": 428,
+   "henkilot": [
+    {
+     "nimi": "John Spottiswood",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jean Urquhart",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Aidan Denholm",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/S12000040.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20West%20Lothian%20Council.svg"
+   }
+  },
+  "West Northamptonshire": {
+   "nimi": "West Northamptonshire",
+   "wikidata": "Q60790129",
+   "vakiluku": 429013
+  },
+  "West Oxfordshire": {
+   "nimi": "West Oxfordshire",
+   "wikidata": "Q1776955",
+   "wikipedia": "https://no.wikipedia.org/wiki/West_Oxfordshire",
+   "tiivistelma": "West Oxfordshire er et administrativt distrikt i Oxfordshire, England. Administrasjonsbyen er Witney.",
+   "vakiluku": 109800,
+   "pinta_ala_km2": 714,
+   "perustettu": 1974
+  },
+  "West Suffolk": {
+   "nimi": "West Suffolk",
+   "wikidata": "Q54554272",
+   "vakiluku": 182228,
+   "pinta_ala_km2": 1035,
+   "perustettu": 2019
+  },
+  "Westminster": {
+   "nimi": "City of Westminster",
+   "wikidata": "Q179351",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Westminster",
+   "tiivistelma": "Westminster er en bydel og by i det sentrale London. Den omfatter mesteparten av West End, Londons teaterdistrikt.",
+   "vakiluku": 211365,
+   "pinta_ala_km2": 21,
+   "perustettu": 1965,
+   "henkilot": [
+    {
+     "nimi": "Lord Byron",
+     "kuvaus": "britisk skribent og poet"
+    },
+    {
+     "nimi": "Carey Mulligan",
+     "kuvaus": "britisk skuespiller"
+    },
+    {
+     "nimi": "Martin Farquhar Tupper",
+     "kuvaus": "britisk poet"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E09000033.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Felipe Fidelis Tobias",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20the%20City%20of%20Westminster.svg"
+   }
+  },
+  "Westmorland and Furness": {
+   "nimi": "Westmorland and Furness",
+   "wikidata": "Q110536353",
+   "vakiluku": 227643,
+   "perustettu": 2023
+  },
+  "Wigan": {
+   "nimi": "Wigan",
+   "wikidata": "Q684307",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wigan_(distrikt)",
+   "tiivistelma": "Wigan er et distrikt i grevskapet Stor-Manchester i England.",
+   "vakiluku": 330712,
+   "pinta_ala_km2": 188,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E08000010.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Oeschenbach-coat_of_arms.svg: Aliman5040",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Wigan%20Metropolitan%20Borough%20Council.png"
+   }
+  },
+  "Wiltshire": {
+   "nimi": "Wiltshire",
+   "wikidata": "Q21694746",
+   "vakiluku": 498064,
+   "pinta_ala_km2": 3255,
+   "henkilot": [
+    {
+     "nimi": "Bernard Taylor",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Winchester": {
+   "nimi": "City of Winchester",
+   "wikidata": "Q1094226",
+   "wikipedia": "https://no.wikipedia.org/wiki/City_of_Winchester",
+   "tiivistelma": "City of Winchester er et administrativt distrikt i grevskapet Hampshire i England. Det har sitt navn etter administrasjonssenteret, byen Winchester.",
+   "vakiluku": 124295,
+   "pinta_ala_km2": 661,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mary Russell Mitford",
+     "kuvaus": "britisk poet og skribent"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000094.png",
+    "lisenssi": "CC BY-SA 2.0",
+    "tekija": "David Pearson",
+    "lahde": "https://commons.wikimedia.org/wiki/File:180509-0953%2023C3441%20%2842076195902%29.jpg"
+   }
+  },
+  "Windsor and Maidenhead": {
+   "nimi": "Windsor and Maidenhead",
+   "wikidata": "Q1368496",
+   "wikipedia": "https://no.wikipedia.org/wiki/Windsor_and_Maidenhead",
+   "tiivistelma": "Windsor and Maidenhead er en enhetlig myndighet i det seremonielle grevskapet Berkshire. Det fikk denne statusen 1. april 1998.",
+   "vakiluku": 150906,
+   "pinta_ala_km2": 197,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Artemas",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Richard Reid",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Wirral": {
+   "nimi": "Wirral",
+   "wikidata": "Q11365639",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wirral_(distrikt)",
+   "tiivistelma": "Wirral er et administrativt distrikt i Merseyside i England. Det omfatter den nordlige delen av halvøya Wirral-halvøya.",
+   "vakiluku": 323235,
+   "pinta_ala_km2": 157,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Mike Dean",
+     "kuvaus": "engelsk fotballdommer"
+    },
+    {
+     "nimi": "Sam Quek",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tim Firth",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Woking": {
+   "nimi": "Woking",
+   "wikidata": "Q2277849",
+   "vakiluku": 101167,
+   "pinta_ala_km2": 64,
+   "perustettu": 1894
+  },
+  "Wokingham": {
+   "nimi": "Wokingham",
+   "wikidata": "Q1758432",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wokingham_(distrikt)",
+   "tiivistelma": "Wokingham er en enhetlig myndighet i Berkshire, England. Den har navn etter administrasjonsbyen Wokingham.",
+   "vakiluku": 167979,
+   "pinta_ala_km2": 179,
+   "henkilot": [
+    {
+     "nimi": "William Darell",
+     "kuvaus": ""
+    }
+   ]
+  },
+  "Wolverhampton": {
+   "nimi": "Wolverhampton",
+   "wikidata": "Q21885975",
+   "vakiluku": 262008,
+   "pinta_ala_km2": 69,
+   "perustettu": 1849
+  },
+  "Worcester": {
+   "nimi": "Worcester",
+   "wikidata": "Q20986481",
+   "vakiluku": 101891,
+   "pinta_ala_km2": 33,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/E07000237.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20Arms%20of%20Worcester%20City%20Council.svg"
+   }
+  },
+  "Worthing": {
+   "nimi": "Worthing",
+   "wikidata": "Q21886170",
+   "vakiluku": 110025,
+   "pinta_ala_km2": 33,
+   "perustettu": 1890
+  },
+  "Wrexham": {
+   "nimi": "Wrexham",
+   "wikidata": "Q843868",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wrexham_(grevskapsdistrikt)",
+   "tiivistelma": "Wrexham er et grevskapsdistrikt i det nordlige Wales. Det dekker deler av det tradisjonelle grevskapet Denbighshire, og noen deler som er overført fra Flintshire: Maelor Saesneg og Marford.",
+   "vakiluku": 136126,
+   "pinta_ala_km2": 504,
+   "perustettu": 1996,
+   "vaakuna": {
+    "tiedosto": "vaakunat/GB/W06000006.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "AlexD",
+    "lahde": "https://commons.wikimedia.org/wiki/File:WREXHAM%20Shield.svg"
+   }
+  },
+  "Wychavon": {
+   "nimi": "Wychavon",
+   "wikidata": "Q2116344",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wychavon",
+   "tiivistelma": "Wychavon er et administrativt distrikt i Worcestershire i England. Administrasjonssenteret er Pershore.",
+   "vakiluku": 121500,
+   "pinta_ala_km2": 664
+  },
+  "Wyre": {
+   "nimi": "Wyre (distrikt)",
+   "wikidata": "Q894100",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wyre_(distrikt)",
+   "tiivistelma": "Wyre er et administrativt distrikt i Lancashire i England. Administrasjonssenteret er Poulton-le-Fylde.",
+   "vakiluku": 111223,
+   "pinta_ala_km2": 282,
+   "perustettu": 1974
+  },
+  "Wyre Forest": {
+   "nimi": "Wyre Forest",
+   "wikidata": "Q548224",
+   "wikipedia": "https://no.wikipedia.org/wiki/Wyre_Forest_(distrikt)",
+   "tiivistelma": "Wyre Forest er et administrativt distrikt i Worcestershire i England. Administrasjonssenteret er Stourport-on-Severn.",
+   "vakiluku": 101062,
+   "pinta_ala_km2": 195,
+   "perustettu": 1974
+  },
+  "York": {
+   "nimi": "York",
+   "wikidata": "Q20986421",
+   "vakiluku": 209893,
+   "pinta_ala_km2": 272,
+   "perustettu": 1996
+  }
+ }
+}

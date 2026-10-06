@@ -1,0 +1,5999 @@
+{
+ "maa": "SE",
+ "kieli": "fi",
+ "lahde": "Wikipedia (fi, CC BY-SA 4.0), Wikidata (CC0), vaakunat Wikimedia Commons",
+ "kunnat": {
+  "Ale": {
+   "nimi": "Alen kunta",
+   "wikidata": "Q498470",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Alen_kunta",
+   "tiivistelma": "Alen kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 32641,
+   "pinta_ala_km2": 332,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1440.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ale%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Alingsås": {
+   "nimi": "Alingsåsin kunta",
+   "wikidata": "Q503162",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Alings%C3%A5sin_kunta",
+   "tiivistelma": "Alingsåsin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 42986,
+   "pinta_ala_km2": 551,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Stefan Lindberg",
+     "kuvaus": "ruotsalainen kirjailija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1489.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Alings%C3%A5s%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Alvesta": {
+   "nimi": "Alvestan kunta",
+   "wikidata": "Q182007",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Alvestan_kunta",
+   "tiivistelma": "Alvestan kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 19722,
+   "pinta_ala_km2": 1074,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Torsten Hägerstrand",
+     "kuvaus": "ruotsalainen maantieteilijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0764.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Alvesta%20vapen.svg"
+   }
+  },
+  "Aneby": {
+   "nimi": "Anebyn kunta",
+   "wikidata": "Q503167",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Anebyn_kunta",
+   "tiivistelma": "Anebyn kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 6854,
+   "pinta_ala_km2": 554,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0604.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Aneby%20vapen.svg"
+   }
+  },
+  "Arboga": {
+   "nimi": "Arbogan kunta",
+   "wikidata": "Q431271",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Arbogan_kunta",
+   "tiivistelma": "Arbogan kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin ja Närkeen.",
+   "vakiluku": 13873,
+   "pinta_ala_km2": 419,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Melker Schörling",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Larz-Thure Ljungdahl",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1984.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arboga%20vapen.svg"
+   }
+  },
+  "Arjeplog": {
+   "nimi": "Arjeplogin kunta",
+   "wikidata": "Q493855",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Arjeplogin_kunta",
+   "tiivistelma": "Arjeplogin kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 2550,
+   "pinta_ala_km2": 14494,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2506.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arjeplog%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Arvidsjaur": {
+   "nimi": "Arvidsjaurin kunta",
+   "wikidata": "Q499404",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Arvidsjaurin_kunta",
+   "tiivistelma": "Arvidsjaurin kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 6046,
+   "pinta_ala_km2": 6126,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2505.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arvidsjaur%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Arvika": {
+   "nimi": "Arvikan kunta",
+   "wikidata": "Q511365",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Arvikan_kunta",
+   "tiivistelma": "Arvikan kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 25377,
+   "pinta_ala_km2": 1956,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1784.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Arvika%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Askersund": {
+   "nimi": "Askersundin kunta",
+   "wikidata": "Q509501",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Askersundin_kunta",
+   "tiivistelma": "Askersundin kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Närkeen ja Itä-Götanmaahan.",
+   "vakiluku": 11394,
+   "pinta_ala_km2": 1020,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Axel Johannes Malmquist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1882.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Askersund%20vapen.svg"
+   }
+  },
+  "Avesta": {
+   "nimi": "Avestan kunta",
+   "wikidata": "Q500071",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Avestan_kunta",
+   "tiivistelma": "Avestan kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 22317,
+   "pinta_ala_km2": 669,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2084.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Avesta%20vapen.svg"
+   }
+  },
+  "Bengtsfors": {
+   "nimi": "Bengtsforsin kunta",
+   "wikidata": "Q267462",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bengtsforsin_kunta",
+   "tiivistelma": "Bengtsforsin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Dalslandiin.",
+   "vakiluku": 8905,
+   "pinta_ala_km2": 1059,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sandra Hansson",
+     "kuvaus": "ruotsalainen maastohiihtäjä"
+    },
+    {
+     "nimi": "Uno Fransson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "John Brynteson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1460.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bengtsfors%20vapen.svg"
+   }
+  },
+  "Berg": {
+   "nimi": "Bergin kunta",
+   "wikidata": "Q845930",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bergin_kunta",
+   "tiivistelma": "Bergin kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Jämtlandiin ja Härjedaleniin.",
+   "vakiluku": 7073,
+   "pinta_ala_km2": 6145,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Bengt Lindström",
+     "kuvaus": "ruotsalainen taiteilija"
+    },
+    {
+     "nimi": "Jonas Stadling",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Liselotte Johansson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2326.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Berg%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Bjurholm": {
+   "nimi": "Bjurholmin kunta",
+   "wikidata": "Q376003",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bjurholmin_kunta",
+   "tiivistelma": "Bjurholmin kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Ångermanlandiin ja Västerbotteniin.",
+   "vakiluku": 2322,
+   "pinta_ala_km2": 1364,
+   "perustettu": 1983,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2403.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bjurholm%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Bjuv": {
+   "nimi": "Bjuvin kunta",
+   "wikidata": "Q511310",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bjuvin_kunta",
+   "tiivistelma": "Bjuvin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 16077,
+   "pinta_ala_km2": 116,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1260.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bjuv%20vapen.svg"
+   }
+  },
+  "Boden": {
+   "nimi": "Bodenin kunta",
+   "wikidata": "Q509476",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bodenin_kunta",
+   "tiivistelma": "Bodenin kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 28927,
+   "pinta_ala_km2": 4291,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Ida-Theres Nerell",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Kjell Sundvall",
+     "kuvaus": "ruotsalainen elokuvaohjaaja"
+    },
+    {
+     "nimi": "Simon Åkerström",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2582.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Boden%20vapen.svg"
+   }
+  },
+  "Bollebygd": {
+   "nimi": "Bollebygdin kunta",
+   "wikidata": "Q503102",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bollebygdin_kunta",
+   "tiivistelma": "Bollebygdin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 9804,
+   "pinta_ala_km2": 282,
+   "perustettu": 1995,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1443.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bollebygd%20vapen.svg"
+   }
+  },
+  "Bollnäs": {
+   "nimi": "Bollnäsin kunta",
+   "wikidata": "Q62469",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bolln%C3%A4sin_kunta",
+   "tiivistelma": "Bollnäsin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hälsinglandiin.",
+   "vakiluku": 25999,
+   "pinta_ala_km2": 1977,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Bengt Åberg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Marie Centerwall",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tobias Björklund",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2183.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bolln%C3%A4s%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Borgholm": {
+   "nimi": "Borgholmin kunta",
+   "wikidata": "Q509546",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Borgholmin_kunta",
+   "tiivistelma": "Borgholmin kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Öölantiin.",
+   "vakiluku": 10677,
+   "pinta_ala_km2": 3659,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johan Persson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0885.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Borgholm%20vapen.svg"
+   }
+  },
+  "Borlänge": {
+   "nimi": "Borlängen kunta",
+   "wikidata": "Q503209",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Borl%C3%A4ngen_kunta",
+   "tiivistelma": "Borlängen kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 51419,
+   "pinta_ala_km2": 636,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Jens Bergenström",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Thomas Nilsson",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2081.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Borl%C3%A4nge%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Borås": {
+   "nimi": "Boråsin kunta",
+   "wikidata": "Q894327",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Bor%C3%A5sin_kunta",
+   "tiivistelma": "Boråsin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 115165,
+   "pinta_ala_km2": 968,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Ulf Melin",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Marcus Översjö",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1490.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Original by: Vladimir Sagerlund / Riksarkivet Sverige\nVectorization:  Xauxa",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Bor%C3%A5s%20kommunvapen%20-%20Riksarkivet%20Sverige-vector.svg"
+   }
+  },
+  "Botkyrka": {
+   "nimi": "Botkyrkan kunta",
+   "wikidata": "Q113718",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Botkyrkan_kunta",
+   "tiivistelma": "Botkyrkan kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 97507,
+   "pinta_ala_km2": 222,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Tommy Karevik",
+     "kuvaus": "ruotsalainen laulaja"
+    },
+    {
+     "nimi": "Michel Tornéus",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jonas Rouhi",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0127.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Botkyrka%20vapen.svg"
+   }
+  },
+  "Boxholm": {
+   "nimi": "Boxholmin kunta",
+   "wikidata": "Q509514",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Boxholmin_kunta",
+   "tiivistelma": "Boxholmin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 5462,
+   "pinta_ala_km2": 604,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0560.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Boxholm%20vapen.svg"
+   }
+  },
+  "Bromölla": {
+   "nimi": "Bromöllan kunta",
+   "wikidata": "Q514830",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Brom%C3%B6llan_kunta",
+   "tiivistelma": "Bromöllan kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 12515,
+   "pinta_ala_km2": 197,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Marcus Lantz",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1272.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Brom%C3%B6lla%20vapen.svg"
+   }
+  },
+  "Bräcke": {
+   "nimi": "Bräcken kunta",
+   "wikidata": "Q504261",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Br%C3%A4cken_kunta",
+   "tiivistelma": "Bräcken kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Jämtlandiin.",
+   "vakiluku": 5978,
+   "pinta_ala_km2": 3784,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Alfred Dahlqvist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2305.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Br%C3%A4cke%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Burlöv": {
+   "nimi": "Burlövin kunta",
+   "wikidata": "Q186662",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Burl%C3%B6vin_kunta",
+   "tiivistelma": "Burlövin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 20473,
+   "pinta_ala_km2": 19,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Inge Edler",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1231.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Burl%C3%B6v%20vapen.svg"
+   }
+  },
+  "Båstad": {
+   "nimi": "Båstadin kunta",
+   "wikidata": "Q499464",
+   "wikipedia": "https://fi.wikipedia.org/wiki/B%C3%A5stadin_kunta",
+   "tiivistelma": "Båstadin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen ja Hallandiin.",
+   "vakiluku": 16058,
+   "pinta_ala_km2": 882,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1278.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "EnDumEn, minor edits by Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:B%C3%A5stad%20vapen.svg"
+   }
+  },
+  "Dals-Ed": {
+   "nimi": "Dals-Edin kunta",
+   "wikidata": "Q503132",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Dals-Edin_kunta",
+   "tiivistelma": "Dals-Edin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Dalslandiin.",
+   "vakiluku": 4593,
+   "pinta_ala_km2": 825,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Anders Edestam",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Lena B. Nilsson",
+     "kuvaus": "ruotsalainen näyttelijä (s. 1957)"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1438.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Dals-Ed%20vapen.svg"
+   }
+  },
+  "Danderyd": {
+   "nimi": "Danderydin kunta",
+   "wikidata": "Q113679",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Danderydin_kunta",
+   "tiivistelma": "Danderydin kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 32694,
+   "pinta_ala_km2": 33,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Alexander",
+     "kuvaus": "Ruotsin prinssi, Södermanlandin herttua"
+    },
+    {
+     "nimi": "Claes-Göran Hederström",
+     "kuvaus": "ruotsalainen laulaja"
+    },
+    {
+     "nimi": "Irina Björklund",
+     "kuvaus": "suomalainen näyttelijä ja laulaja"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0162.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Danderyd%20vapen.svg"
+   }
+  },
+  "Degerfors": {
+   "nimi": "Degerforsin kunta",
+   "wikidata": "Q509469",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Degerforsin_kunta",
+   "tiivistelma": "Degerforsin kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin ja Närkeen.",
+   "vakiluku": 9213,
+   "pinta_ala_km2": 434,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johan Sandström",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jimmy Andersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1862.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Degerfors%20vapen.svg"
+   }
+  },
+  "Dorotea": {
+   "nimi": "Dorotean kunta",
+   "wikidata": "Q132334",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Dorotean_kunta",
+   "tiivistelma": "Dorotean kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin, Ångermanlandiin ja Jämtlandiin.",
+   "vakiluku": 2221,
+   "pinta_ala_km2": 2940,
+   "perustettu": 1980,
+   "henkilot": [
+    {
+     "nimi": "Sven Lindman",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2425.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Original by: Vladimir A. Sagerlund / Riksarkivet Sverige\nVectorized by Xauxa",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Dorotea%20kommunvapen%20-%20Riksarkivet%20Sverige-vector.svg"
+   }
+  },
+  "Eda": {
+   "nimi": "Edan kunta",
+   "wikidata": "Q498447",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Edan_kunta",
+   "tiivistelma": "Edan kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 8249,
+   "pinta_ala_km2": 895,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Kristofer Schipper",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Lars-Olof Mattsson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Inge Lindqvist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1730.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Eda%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Ekerö": {
+   "nimi": "Ekerön kunta",
+   "wikidata": "Q492614",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Eker%C3%B6n_kunta",
+   "tiivistelma": "Ekerön kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 29169,
+   "pinta_ala_km2": 384,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Ewa Björling",
+     "kuvaus": "virologi, Ruotsi"
+    },
+    {
+     "nimi": "Isidor Eriksson",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0125.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Eker%C3%B6%20vapen.svg"
+   }
+  },
+  "Eksjö": {
+   "nimi": "Eksjön kunta",
+   "wikidata": "Q512035",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Eksj%C3%B6n_kunta",
+   "tiivistelma": "Eksjön kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 17627,
+   "pinta_ala_km2": 873,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lars Nordh",
+     "kuvaus": "ruotsalainen näyttelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0686.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Eksj%C3%B6%20vapen.svg"
+   }
+  },
+  "Emmaboda": {
+   "nimi": "Emmabodan kunta",
+   "wikidata": "Q509452",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Emmabodan_kunta",
+   "tiivistelma": "Emmabodan kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 8717,
+   "pinta_ala_km2": 718,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0862.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Emmaboda%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Enköping": {
+   "nimi": "Enköpingin kunta",
+   "wikidata": "Q509568",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Enk%C3%B6pingin_kunta",
+   "tiivistelma": "Enköpingin kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 48866,
+   "pinta_ala_km2": 1324,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0381.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Enk%C3%B6ping%20vapen.svg"
+   }
+  },
+  "Eskilstuna": {
+   "nimi": "Eskilstunan kunta",
+   "wikidata": "Q503144",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Eskilstunan_kunta",
+   "tiivistelma": "Eskilstunan kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 106627,
+   "pinta_ala_km2": 1250,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Perseus Karlström",
+     "kuvaus": "ruotsalainen kilpakävelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0484.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Eskilstuna%20vapen.svg"
+   }
+  },
+  "Eslöv": {
+   "nimi": "Eslövin kunta",
+   "wikidata": "Q1130264",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Esl%C3%B6vin_kunta",
+   "tiivistelma": "Eslövin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 35108,
+   "pinta_ala_km2": 425,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Karl-Erik Nilsson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Dion Krasniqi",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1285.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Esl%C3%B6v%20vapen.svg"
+   }
+  },
+  "Essunga": {
+   "nimi": "Essungan kunta",
+   "wikidata": "Q503127",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Essungan_kunta",
+   "tiivistelma": "Essungan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 5533,
+   "pinta_ala_km2": 236,
+   "perustettu": 1983,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1445.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Essunga%20vapen.svg"
+   }
+  },
+  "Fagersta": {
+   "nimi": "Fagerstan kunta",
+   "wikidata": "Q47018",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Fagerstan_kunta",
+   "tiivistelma": "Fagerstan kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 12868,
+   "pinta_ala_km2": 310,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Harri Rovanperä",
+     "kuvaus": "suomalainen ralliautoilija"
+    },
+    {
+     "nimi": "Jonas Nygren",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tomas Björk",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1982.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Fagersta%20vapen.svg"
+   }
+  },
+  "Falkenberg": {
+   "nimi": "Falkenbergin kunta",
+   "wikidata": "Q508168",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Falkenbergin_kunta",
+   "tiivistelma": "Falkenbergin kunta on Hallandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hallandiin ja Länsi-Götanmaahan.",
+   "vakiluku": 47471,
+   "pinta_ala_km2": 1826,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Hjalmar Mellander",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Ernst A. Hedén",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1382.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Original by: Vladimir A. Sagerlund / Riksarkivet Sverige\nVectorized by Xauxa)",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Falkenberg%20kommunvapen%20-%20Riksarkivet%20Sverige-vector.svg"
+   }
+  },
+  "Falköping": {
+   "nimi": "Falköpingin kunta",
+   "wikidata": "Q503214",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Falk%C3%B6pingin_kunta",
+   "tiivistelma": "Falköpingin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 32844,
+   "pinta_ala_km2": 1066,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1499.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Falk%C3%B6ping%20vapen.svg"
+   }
+  },
+  "Falun": {
+   "nimi": "Falunin kunta",
+   "wikidata": "Q501545",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Falunin_kunta",
+   "tiivistelma": "Falunin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 59961,
+   "pinta_ala_km2": 2275,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Olof Fridsberg",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2080.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Falun%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Filipstad": {
+   "nimi": "Filipstadin kunta",
+   "wikidata": "Q503204",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Filipstadin_kunta",
+   "tiivistelma": "Filipstadin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin ja Taalainmaahan.",
+   "vakiluku": 9578,
+   "pinta_ala_km2": 1712,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Jonny Nilsson",
+     "kuvaus": "ruotsalainen pikaluistelija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1782.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Filipstad%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Finspång": {
+   "nimi": "Finspångin kunta",
+   "wikidata": "Q503180",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Finsp%C3%A5ngin_kunta",
+   "tiivistelma": "Finspångin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan ja Närkeen.",
+   "vakiluku": 21528,
+   "pinta_ala_km2": 1215,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Kerstin Ekman",
+     "kuvaus": "ruotsalainen kirjailija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0562.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Finsp%C3%A5ng%20vapen.svg"
+   }
+  },
+  "Flen": {
+   "nimi": "Flenin kunta",
+   "wikidata": "Q27982",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Flenin_kunta",
+   "tiivistelma": "Flenin kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 15002,
+   "pinta_ala_km2": 826,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0482.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Flen%20vapen.svg"
+   }
+  },
+  "Forshaga": {
+   "nimi": "Forshagan kunta",
+   "wikidata": "Q499385",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Forshagan_kunta",
+   "tiivistelma": "Forshagan kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 11394,
+   "pinta_ala_km2": 397,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Pehr G. Holmes",
+     "kuvaus": "yhdysvaltalainen poliitikko"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1763.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Forshaga%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Färgelanda": {
+   "nimi": "Färgelandan kunta",
+   "wikidata": "Q499441",
+   "wikipedia": "https://fi.wikipedia.org/wiki/F%C3%A4rgelandan_kunta",
+   "tiivistelma": "Färgelandan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Dalslandiin.",
+   "vakiluku": 6266,
+   "pinta_ala_km2": 618,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lennart Back",
+     "kuvaus": "ruotsalainen kilpakävelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1439.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:F%C3%A4rgelanda%20vapen.svg"
+   }
+  },
+  "Gagnef": {
+   "nimi": "Gagnefin kunta",
+   "wikidata": "Q2642771",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Gagnefin_kunta",
+   "tiivistelma": "Gagnefin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 10333,
+   "pinta_ala_km2": 812,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lotta Lotass",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2026.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Gagnef%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Gislaved": {
+   "nimi": "Gislavedin kunta",
+   "wikidata": "Q505259",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Gislavedin_kunta",
+   "tiivistelma": "Gislavedin kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 28566,
+   "pinta_ala_km2": 1221,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sten-Åke Cederhök",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Edvard Wibeck",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Arne Andersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0662.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Gislaved%20vapen.svg"
+   }
+  },
+  "Gnesta": {
+   "nimi": "Gnestan kunta",
+   "wikidata": "Q239332",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Gnestan_kunta",
+   "tiivistelma": "Gnestan kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 11311,
+   "pinta_ala_km2": 538,
+   "perustettu": 1992,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0461.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Gnesta%20vapen.svg"
+   }
+  },
+  "Gnosjö": {
+   "nimi": "Gnosjön kunta",
+   "wikidata": "Q509609",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Gnosj%C3%B6n_kunta",
+   "tiivistelma": "Gnosjön kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 9029,
+   "pinta_ala_km2": 450,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0617.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Gnosj%C3%B6%20vapen.svg"
+   }
+  },
+  "Gotland": {
+   "nimi": "Gotlannin kunta",
+   "wikidata": "Q374794",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Gotlannin_kunta",
+   "tiivistelma": "Gotlannin kunta on Ruotsin kunta, joka käsittää Gotlannin saaren Itämeressä ja läheisiä pienempiä saaria. Pienemmistä saarista tärkeimmät ovat Fårö, Stora Karlsö, Lilla Karlsö ja Gotska Sandön.",
+   "vakiluku": 60724,
+   "pinta_ala_km2": 15196,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0980.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Gotland%20kommunvapen.svg"
+   }
+  },
+  "Grums": {
+   "nimi": "Grumsin kunta",
+   "wikidata": "Q503122",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Grumsin_kunta",
+   "tiivistelma": "Grumsin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 8879,
+   "pinta_ala_km2": 479,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1764.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Grums%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Grästorp": {
+   "nimi": "Grästorpin kunta",
+   "wikidata": "Q503148",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Gr%C3%A4storpin_kunta",
+   "tiivistelma": "Grästorpin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 5600,
+   "pinta_ala_km2": 281,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1444.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Gr%C3%A4storp%20vapen.svg"
+   }
+  },
+  "Gullspång": {
+   "nimi": "Gullspångin kunta",
+   "wikidata": "Q503193",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Gullsp%C3%A5ngin_kunta",
+   "tiivistelma": "Gullspångin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan ja Värmlantiin.",
+   "vakiluku": 4931,
+   "pinta_ala_km2": 555,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "David Jette",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1447.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Gullsp%C3%A5ng%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Gällivare": {
+   "nimi": "Jällivaaran kunta",
+   "wikidata": "Q493815",
+   "wikipedia": "https://fi.wikipedia.org/wiki/J%C3%A4llivaaran_kunta",
+   "tiivistelma": "Jällivaaran kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 17120,
+   "pinta_ala_km2": 16819,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Thomas Östros",
+     "kuvaus": "ekonomisti, Ruotsi"
+    },
+    {
+     "nimi": "Mikael Martinsson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Stefan Bengtson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2523.png",
+    "lisenssi": "CC BY-SA 4.0",
+    "tekija": "Försjän",
+    "lahde": "https://commons.wikimedia.org/wiki/File:G%C3%A4llivare%20kommunvapen.svg"
+   }
+  },
+  "Gävle": {
+   "nimi": "Gävlen kunta",
+   "wikidata": "Q510010",
+   "wikipedia": "https://fi.wikipedia.org/wiki/G%C3%A4vlen_kunta",
+   "tiivistelma": "Gävlen kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Gästriklandiin.",
+   "vakiluku": 104160,
+   "pinta_ala_km2": 3198,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mathias Månsson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Lisa Andersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2180.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:G%C3%A4vle%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Göteborg": {
+   "nimi": "Göteborgin kunta",
+   "wikidata": "Q52502",
+   "wikipedia": "https://fi.wikipedia.org/wiki/G%C3%B6teborgin_kunta",
+   "tiivistelma": "Göteborgin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan ja Bohusläniin.",
+   "vakiluku": 614165,
+   "pinta_ala_km2": 1025,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Gabriella Ahlström",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Anders Drake",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1480.png",
+    "lisenssi": "CC0",
+    "tekija": "Erik G",
+    "lahde": "https://commons.wikimedia.org/wiki/File:G%C3%B6teborg%20kommunvapen%20-%20Riksarkivet%20Sverige.svg"
+   }
+  },
+  "Götene": {
+   "nimi": "Götenen kunta",
+   "wikidata": "Q511281",
+   "wikipedia": "https://fi.wikipedia.org/wiki/G%C3%B6tenen_kunta",
+   "tiivistelma": "Götenen kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 13220,
+   "pinta_ala_km2": 621,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1471.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:G%C3%B6tene%20vapen.svg"
+   }
+  },
+  "Habo": {
+   "nimi": "Habon kunta",
+   "wikidata": "Q503198",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Habon_kunta",
+   "tiivistelma": "Habon kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 13515,
+   "pinta_ala_km2": 462,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0643.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Habo%20vapen.svg"
+   }
+  },
+  "Hagfors": {
+   "nimi": "Hagforsin kunta",
+   "wikidata": "Q511407",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hagforsin_kunta",
+   "tiivistelma": "Hagforsin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 11357,
+   "pinta_ala_km2": 2000,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1783.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hagfors%20vapen.svg"
+   }
+  },
+  "Hallsberg": {
+   "nimi": "Hallsbergin kunta",
+   "wikidata": "Q508180",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hallsbergin_kunta",
+   "tiivistelma": "Hallsbergin kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Närkeen.",
+   "vakiluku": 16050,
+   "pinta_ala_km2": 670,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1861.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hallsberg%20vapen.svg"
+   }
+  },
+  "Hallstahammar": {
+   "nimi": "Hallstahammarin kunta",
+   "wikidata": "Q47019",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hallstahammarin_kunta",
+   "tiivistelma": "Hallstahammarin kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 16599,
+   "pinta_ala_km2": 180,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1961.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hallstahammar%20vapen.svg"
+   }
+  },
+  "Halmstad": {
+   "nimi": "Halmstadin kunta",
+   "wikidata": "Q504692",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Halmstadin_kunta",
+   "tiivistelma": "Halmstadin kunta on Hallandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hallandiin.",
+   "vakiluku": 106246,
+   "pinta_ala_km2": 1700,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lennart Köhler",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1380.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Halmstad%20stora%20vapen.svg"
+   }
+  },
+  "Hammarö": {
+   "nimi": "Hammarön kunta",
+   "wikidata": "Q499359",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hammar%C3%B6n_kunta",
+   "tiivistelma": "Hammarön kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 16922,
+   "pinta_ala_km2": 464,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Henric Höglund",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Per Dahlberg",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1761.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hammar%C3%B6%20vapen.svg"
+   }
+  },
+  "Haninge": {
+   "nimi": "Haningen kunta",
+   "wikidata": "Q113692",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Haningen_kunta",
+   "tiivistelma": "Haningen kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 101777,
+   "pinta_ala_km2": 2177,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Stefan Nystrand",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "William Eklund",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Maria Larsson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0136.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Haninge%20vapen.svg"
+   }
+  },
+  "Haparanda": {
+   "nimi": "Haaparannan kunta",
+   "wikidata": "Q510310",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Haaparannan_kunta",
+   "tiivistelma": "Haaparannan kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 8967,
+   "pinta_ala_km2": 1888,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2583.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Haparanda%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Heby": {
+   "nimi": "Hebyn kunta",
+   "wikidata": "Q516308",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hebyn_kunta",
+   "tiivistelma": "Hebyn kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 14300,
+   "pinta_ala_km2": 1226,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Jacob Wallenius",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0331.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Heby%20vapen.svg"
+   }
+  },
+  "Hedemora": {
+   "nimi": "Hedemoran kunta",
+   "wikidata": "Q507684",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hedemoran_kunta",
+   "tiivistelma": "Hedemoran kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 15024,
+   "pinta_ala_km2": 929,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Per-Olof Serenius",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Karl Olandersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2083.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hedemora%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Helsingborg": {
+   "nimi": "Helsingborgin kunta",
+   "wikidata": "Q487648",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Helsingborgin_kunta",
+   "tiivistelma": "Helsingborgin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 152972,
+   "pinta_ala_km2": 423,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Tina Nordström",
+     "kuvaus": "ruotsalainen televisiokokki"
+    },
+    {
+     "nimi": "Johanna Lindborg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Elsa Collin",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1283.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Jsdo1980",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Coat%20of%20arms%20of%20Helsingborg%2C%20Sweden.svg"
+   }
+  },
+  "Herrljunga": {
+   "nimi": "Herrljungan kunta",
+   "wikidata": "Q503111",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Herrljungan_kunta",
+   "tiivistelma": "Herrljungan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 9480,
+   "pinta_ala_km2": 510,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lena Brundin",
+     "kuvaus": "ruotsalainen näyttelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1466.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Herrljunga%20vapen.svg"
+   }
+  },
+  "Hjo": {
+   "nimi": "Hjon kunta",
+   "wikidata": "Q428749",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hjon_kunta",
+   "tiivistelma": "Hjon kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 9287,
+   "pinta_ala_km2": 584,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Ove Grahn",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1497.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hjo%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Hofors": {
+   "nimi": "Hoforsin kunta",
+   "wikidata": "Q62464",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hoforsin_kunta",
+   "tiivistelma": "Hoforsin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Gästriklandiin.",
+   "vakiluku": 9094,
+   "pinta_ala_km2": 446,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Ulf Söderström",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2104.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hofors%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Huddinge": {
+   "nimi": "Huddingen kunta",
+   "wikidata": "Q492575",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Huddingen_kunta",
+   "tiivistelma": "Huddingen kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 115046,
+   "pinta_ala_km2": 140,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lotta Schelin",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    },
+    {
+     "nimi": "Magnus Hedman",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    },
+    {
+     "nimi": "Ylva Johansson",
+     "kuvaus": "ruotsalainen poliitikko"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0126.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Huddinge%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Hudiksvall": {
+   "nimi": "Hudiksvallin kunta",
+   "wikidata": "Q29963",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hudiksvallin_kunta",
+   "tiivistelma": "Hudiksvallin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hälsinglandiin.",
+   "vakiluku": 37333,
+   "pinta_ala_km2": 4524,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sören Nordin",
+     "kuvaus": "ruotsalainen raviohjastaja"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2184.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hudiksvall%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Hultsfred": {
+   "nimi": "Hultsfredin kunta",
+   "wikidata": "Q512002",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hultsfredin_kunta",
+   "tiivistelma": "Hultsfredin kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 13412,
+   "pinta_ala_km2": 1187,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Stefan Landberg",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0860.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hultsfred%20vapen.svg"
+   }
+  },
+  "Hylte": {
+   "nimi": "Hylten kunta",
+   "wikidata": "Q498477",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Hylten_kunta",
+   "tiivistelma": "Hylten kunta on Hallandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hallandiin ja Smålandiin.",
+   "vakiluku": 10019,
+   "pinta_ala_km2": 1047,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Per Daniel Bertilsson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Hans Simonsson",
+     "kuvaus": "ruotsalainen tennispelaaja"
+    },
+    {
+     "nimi": "Stefan Simonsson",
+     "kuvaus": "ruotsalainen tennispelaaja"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1315.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Hylte%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Hällefors": {
+   "nimi": "Hälleforsin kunta",
+   "wikidata": "Q220881",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%A4lleforsin_kunta",
+   "tiivistelma": "Hälleforsin kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 6247,
+   "pinta_ala_km2": 1151,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Elsa Giöbel-Oyler",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1863.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%A4llefors%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Härjedalen": {
+   "nimi": "Härjedalenin kunta",
+   "wikidata": "Q513421",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%A4rjedalenin_kunta",
+   "tiivistelma": "Härjedalenin kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Härjedaleniin, Hälsinglandiin ja Taalainmaahan.",
+   "vakiluku": 10061,
+   "pinta_ala_km2": 11860,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Elsa Fermbäck",
+     "kuvaus": "ruotsalainen alppihiihtäjä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2361.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%A4rjedalen%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Härnösand": {
+   "nimi": "Härnösandin kunta",
+   "wikidata": "Q209634",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%A4rn%C3%B6sandin_kunta",
+   "tiivistelma": "Härnösandin kunta on Västernorrlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Ångermanlandiin.",
+   "vakiluku": 24266,
+   "pinta_ala_km2": 1939,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Isa Edholm",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2280.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%A4rn%C3%B6sand%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Härryda": {
+   "nimi": "Härrydan kunta",
+   "wikidata": "Q500125",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%A4rrydan_kunta",
+   "tiivistelma": "Härrydan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 40004,
+   "pinta_ala_km2": 291,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Elis Elmgren",
+     "kuvaus": "ruotsalainen kirjailija"
+    },
+    {
+     "nimi": "Natasja Remstedt",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1401.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%A4rryda%20vapen.svg"
+   }
+  },
+  "Hässleholm": {
+   "nimi": "Hässleholmin kunta",
+   "wikidata": "Q508125",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%A4ssleholmin_kunta",
+   "tiivistelma": "Hässleholmin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 51960,
+   "pinta_ala_km2": 1307,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Wictor Petersson",
+     "kuvaus": "ruotsalainen kuulantyöntäjä"
+    },
+    {
+     "nimi": "Herman Tuvesson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1293.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%A4ssleholm%20vapen.svg"
+   }
+  },
+  "Håbo": {
+   "nimi": "Håbon kunta",
+   "wikidata": "Q511253",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%A5bon_kunta",
+   "tiivistelma": "Håbon kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 23246,
+   "pinta_ala_km2": 186,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0305.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%A5bo%20vapen.svg"
+   }
+  },
+  "Höganäs": {
+   "nimi": "Höganäsin kunta",
+   "wikidata": "Q505013",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%B6gan%C3%A4sin_kunta",
+   "tiivistelma": "Höganäsin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 28462,
+   "pinta_ala_km2": 676,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1284.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%B6gan%C3%A4s%20vapen.svg"
+   }
+  },
+  "Högsby": {
+   "nimi": "Högsbyn kunta",
+   "wikidata": "Q510233",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%B6gsbyn_kunta",
+   "tiivistelma": "Högsbyn kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 5093,
+   "pinta_ala_km2": 799,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0821.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%B6gsby%20vapen.svg"
+   }
+  },
+  "Hörby": {
+   "nimi": "Hörbyn kunta",
+   "wikidata": "Q504619",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%B6rbyn_kunta",
+   "tiivistelma": "Hörbyn kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 15555,
+   "pinta_ala_km2": 433,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Torsten Andersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1266.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%B6rby%20vapen.svg"
+   }
+  },
+  "Höör": {
+   "nimi": "Höörin kunta",
+   "wikidata": "Q266401",
+   "wikipedia": "https://fi.wikipedia.org/wiki/H%C3%B6%C3%B6rin_kunta",
+   "tiivistelma": "Höörin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 17701,
+   "pinta_ala_km2": 320,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Niels Edward Liljenberg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Hans Appelqvist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1267.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:H%C3%B6%C3%B6r%20vapen.svg"
+   }
+  },
+  "Jokkmokk": {
+   "nimi": "Jokimukan kunta",
+   "wikidata": "Q512048",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Jokimukan_kunta",
+   "tiivistelma": "Jokimukan kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 4680,
+   "pinta_ala_km2": 19334,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Susanna Angéus Kuoljok",
+     "kuvaus": "ruotsinsaamelainen kielentutkija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2510.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Jokkmokk%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Järfälla": {
+   "nimi": "Järfällan kunta",
+   "wikidata": "Q301259",
+   "wikipedia": "https://fi.wikipedia.org/wiki/J%C3%A4rf%C3%A4llan_kunta",
+   "tiivistelma": "Järfällan kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 90681,
+   "pinta_ala_km2": 63,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Niklas Zennström",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tintin Anderzon",
+     "kuvaus": "ruotsalainen näyttelijä"
+    },
+    {
+     "nimi": "Håkan Carlqvist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0123.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:J%C3%A4rf%C3%A4lla%20vapen.svg"
+   }
+  },
+  "Jönköping": {
+   "nimi": "Jönköpingin kunta",
+   "wikidata": "Q504689",
+   "wikipedia": "https://fi.wikipedia.org/wiki/J%C3%B6nk%C3%B6pingin_kunta",
+   "tiivistelma": "Jönköpingin kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 148054,
+   "pinta_ala_km2": 1925,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Salomon Andrée",
+     "kuvaus": "ruotsalainen insinööri ja ilmailija"
+    },
+    {
+     "nimi": "Elina Ryd",
+     "kuvaus": "ruotsalainen laulaja"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0680.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:J%C3%B6nk%C3%B6ping%20vapen.svg"
+   }
+  },
+  "Kalix": {
+   "nimi": "Kalixin kunta",
+   "wikidata": "Q117091",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kalixin_kunta",
+   "tiivistelma": "Kalixin kunta eli on Norrbottenin läänissä sijaitseva Ruotsin kunta. Kunnasta on käytetty myös suomenkielistä nimeä Kainuu, mutta sitä pidetään nykyisin vanhentuneena.",
+   "vakiluku": 15273,
+   "pinta_ala_km2": 3716,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johan Häggström",
+     "kuvaus": "ruotsalainen maastohiihtäjä"
+    },
+    {
+     "nimi": "Johan Svedberg",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "K.-G. Bergström",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2514.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kalix%20vapen.svg"
+   }
+  },
+  "Kalmar": {
+   "nimi": "Kalmarin kunta",
+   "wikidata": "Q508153",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kalmarin_kunta",
+   "tiivistelma": "Kalmarin kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 72923,
+   "pinta_ala_km2": 1251,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johannes Bernardi",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0880.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Emilkarlssson (delegerad av Kalmar kommuns kommunikationschef, Christina Bringfors Dahlgren)",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kalmar%20kommuns%20stadsvapen%20fr%C3%A5n%202018.svg"
+   }
+  },
+  "Karlsborg": {
+   "nimi": "Karlsborgin kunta",
+   "wikidata": "Q499435",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Karlsborgin_kunta",
+   "tiivistelma": "Karlsborgin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 7046,
+   "pinta_ala_km2": 797,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Torsten Johansson",
+     "kuvaus": "ruotsalainen tennispelaaja"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1446.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Karlsborg%20vapen.svg"
+   }
+  },
+  "Karlshamn": {
+   "nimi": "Karlshamn",
+   "wikidata": "Q510223",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Karlshamnin_kunta",
+   "tiivistelma": "Karlshamnin kunta on Blekingen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Blekingeen.",
+   "vakiluku": 31593,
+   "pinta_ala_km2": 833,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Natasha Illum Berg",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1082.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Karlshamn%20vapen.svg"
+   }
+  },
+  "Karlskoga": {
+   "nimi": "Karlskogan kunta",
+   "wikidata": "Q509634",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Karlskogan_kunta",
+   "tiivistelma": "Karlskogan kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin ja Närkeen.",
+   "vakiluku": 30150,
+   "pinta_ala_km2": 510,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Marika Parkkomäki",
+     "kuvaus": "suomalainen näyttelijä"
+    },
+    {
+     "nimi": "Henrik Larsson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1883.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Karlskoga%20vapen.svg"
+   }
+  },
+  "Karlskrona": {
+   "nimi": "Karlskronan kunta",
+   "wikidata": "Q1128384",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Karlskronan_kunta",
+   "tiivistelma": "Karlskronan kunta on Blekingen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Blekingeen.",
+   "vakiluku": 65966,
+   "pinta_ala_km2": 3345,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mats Leijon",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1080.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Karlskrona%20vapen.svg"
+   }
+  },
+  "Karlstad": {
+   "nimi": "Karlstadin kunta",
+   "wikidata": "Q498453",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Karlstadin_kunta",
+   "tiivistelma": "Karlstadin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 98791,
+   "pinta_ala_km2": 1518,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mats Jonsson",
+     "kuvaus": "ruotsalainen ralliautoilija"
+    },
+    {
+     "nimi": "Lena Cronqvist",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Bie Norling",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1780.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Karlstad%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Katrineholm": {
+   "nimi": "Katrineholmin kunta",
+   "wikidata": "Q508140",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Katrineholmin_kunta",
+   "tiivistelma": "Katrineholmin kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 33901,
+   "pinta_ala_km2": 1190,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Gabriel Forss",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Dxxxa D",
+     "kuvaus": "suomalainen rap-artisti"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0483.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Katrineholm%20vapen.svg"
+   }
+  },
+  "Kil": {
+   "nimi": "Kilin kunta",
+   "wikidata": "Q499393",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kilin_kunta",
+   "tiivistelma": "Kilin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 12037,
+   "pinta_ala_km2": 407,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Erika Jonsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1715.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kil%20municipal%20arms.svg"
+   }
+  },
+  "Kinda": {
+   "nimi": "Kindan kunta",
+   "wikidata": "Q515299",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kindan_kunta",
+   "tiivistelma": "Kindan kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 9896,
+   "pinta_ala_km2": 1302,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Torbjörn Nilsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0513.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kinda%20vapen.svg"
+   }
+  },
+  "Kiruna": {
+   "nimi": "Kiirunan kunta",
+   "wikidata": "Q499474",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kiirunan_kunta",
+   "tiivistelma": "Kiirunan kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 22399,
+   "pinta_ala_km2": 20553,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Anders Sunna",
+     "kuvaus": "saamelainen taiteilija"
+    },
+    {
+     "nimi": "Maj-Lis Skaltje",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2584.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kiruna%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Klippan": {
+   "nimi": "Klippanin kunta",
+   "wikidata": "Q504614",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Klippanin_kunta",
+   "tiivistelma": "Klippanin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 17648,
+   "pinta_ala_km2": 379,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Svante Olsson",
+     "kuvaus": "puutarhuri"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1276.png",
+    "lisenssi": "Public domain",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Klippan%20vapen.svg"
+   }
+  },
+  "Knivsta": {
+   "nimi": "Knivstan kunta",
+   "wikidata": "Q504465",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Knivstan_kunta",
+   "tiivistelma": "Knivstan kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 21821,
+   "pinta_ala_km2": 295,
+   "perustettu": 2003,
+   "henkilot": [
+    {
+     "nimi": "Erik Grönwall",
+     "kuvaus": "ruotsalainen laulaja"
+    },
+    {
+     "nimi": "Stefan Hellkvist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0330.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Knivsta%20vapen.svg"
+   }
+  },
+  "Kramfors": {
+   "nimi": "Kramforsin kunta",
+   "wikidata": "Q514815",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kramforsin_kunta",
+   "tiivistelma": "Kramforsin kunta on Västernorrlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Ångermanlandiin.",
+   "vakiluku": 17268,
+   "pinta_ala_km2": 2891,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Wilhelm Peterson-Berger",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2282.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kramfors%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Kristianstad": {
+   "nimi": "Kristianstadin kunta",
+   "wikidata": "Q498857",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kristianstadin_kunta",
+   "tiivistelma": "Kristianstadin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 85954,
+   "pinta_ala_km2": 1821,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lena Lervik",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Fredrik Nilsson",
+     "kuvaus": "ruotsalainen tennispelaaja"
+    },
+    {
+     "nimi": "Georg Unné",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1290.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kristianstad%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Kristinehamn": {
+   "nimi": "Kristinehamnin kunta",
+   "wikidata": "Q510364",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kristinehamnin_kunta",
+   "tiivistelma": "Kristinehamnin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 23531,
+   "pinta_ala_km2": 1384,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1781.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kristinehamn%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Krokom": {
+   "nimi": "Krokomin kunta",
+   "wikidata": "Q514707",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Krokomin_kunta",
+   "tiivistelma": "Krokomin kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Jämtlandiin.",
+   "vakiluku": 15843,
+   "pinta_ala_km2": 6813,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2309.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Krokom%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Kumla": {
+   "nimi": "Kumlan kunta",
+   "wikidata": "Q504988",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kumlan_kunta",
+   "tiivistelma": "Kumlan kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Närkeen.",
+   "vakiluku": 22774,
+   "pinta_ala_km2": 205,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1881.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kumla%20vapen.svg"
+   }
+  },
+  "Kungsbacka": {
+   "nimi": "Kungsbackan kunta",
+   "wikidata": "Q499380",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kungsbackan_kunta",
+   "tiivistelma": "Kungsbackan kunta on Hallandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hallandiin.",
+   "vakiluku": 86542,
+   "pinta_ala_km2": 1473,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Per Wahlöö",
+     "kuvaus": "ruotsalainen kirjailija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1384.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kungsbacka%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Kungsör": {
+   "nimi": "Kungsörin kunta",
+   "wikidata": "Q47169",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kungs%C3%B6rin_kunta",
+   "tiivistelma": "Kungsörin kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin ja Västmanlandiin.",
+   "vakiluku": 8523,
+   "pinta_ala_km2": 227,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Svea Holst",
+     "kuvaus": "ruotsalainen näyttelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1960.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kungs%C3%B6r%20vapen.svg"
+   }
+  },
+  "Kungälv": {
+   "nimi": "Kungälvin kunta",
+   "wikidata": "Q511394",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Kung%C3%A4lvin_kunta",
+   "tiivistelma": "Kungälvin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 50603,
+   "pinta_ala_km2": 682,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Anton Axelsson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1482.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Kung%C3%A4lv%20vapen.svg"
+   }
+  },
+  "Kävlinge": {
+   "nimi": "Kävlingen kunta",
+   "wikidata": "Q513370",
+   "wikipedia": "https://fi.wikipedia.org/wiki/K%C3%A4vlingen_kunta",
+   "tiivistelma": "Kävlingen kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 32709,
+   "pinta_ala_km2": 293,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Jörgen Pettersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1261.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:K%C3%A4vlinge%20vapen.svg"
+   }
+  },
+  "Köping": {
+   "nimi": "Köpingin kunta",
+   "wikidata": "Q42009",
+   "wikipedia": "https://fi.wikipedia.org/wiki/K%C3%B6pingin_kunta",
+   "tiivistelma": "Köpingin kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 25626,
+   "pinta_ala_km2": 645,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Daniel Gunnarsson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1983.png",
+    "lisenssi": "Public domain",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:K%C3%B6pings%20vapen.svg"
+   }
+  },
+  "Laholm": {
+   "nimi": "Laholmin kunta",
+   "wikidata": "Q487502",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Laholmin_kunta",
+   "tiivistelma": "Laholmin kunta on Hallandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hallandiin.",
+   "vakiluku": 26486,
+   "pinta_ala_km2": 963,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1381.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Laholm%20vapen.svg"
+   }
+  },
+  "Landskrona": {
+   "nimi": "Landskronan kunta",
+   "wikidata": "Q502298",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Landskronan_kunta",
+   "tiivistelma": "Landskronan kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 47698,
+   "pinta_ala_km2": 300,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Knut Hansson",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    },
+    {
+     "nimi": "Berta Fick",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Markus Ruuskanen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1282.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Landskrona%20fulla%20vapen.svg"
+   }
+  },
+  "Laxå": {
+   "nimi": "Laxån kunta",
+   "wikidata": "Q515326",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lax%C3%A5n_kunta",
+   "tiivistelma": "Laxån kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Närkeen ja Länsi-Götanmaahan.",
+   "vakiluku": 5381,
+   "pinta_ala_km2": 738,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Karl-Gustaf Vingqvist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1860.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lax%C3%A5%20vapen.svg"
+   }
+  },
+  "Lekeberg": {
+   "nimi": "Lekebergin kunta",
+   "wikidata": "Q515282",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lekebergin_kunta",
+   "tiivistelma": "Lekebergin kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Närkeen.",
+   "vakiluku": 8602,
+   "pinta_ala_km2": 482,
+   "perustettu": 1995,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1814.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "EnDumEn, minor edits by Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lekeberg%20vapen.svg"
+   }
+  },
+  "Leksand": {
+   "nimi": "Leksandin kunta",
+   "wikidata": "Q509651",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Leksandin_kunta",
+   "tiivistelma": "Leksandin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 16204,
+   "pinta_ala_km2": 1410,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Anna Dyvik",
+     "kuvaus": "ruotsalainen maastohiihtäjä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2029.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Leksand%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Lerum": {
+   "nimi": "Lerumin kunta",
+   "wikidata": "Q503188",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lerumin_kunta",
+   "tiivistelma": "Lerumin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 43842,
+   "pinta_ala_km2": 308,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Erik Karlsson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Sebastian Stålberg",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1441.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil, Jsdo1980",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lerum%20vapen.svg"
+   }
+  },
+  "Lessebo": {
+   "nimi": "Lessebon kunta",
+   "wikidata": "Q509488",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lessebon_kunta",
+   "tiivistelma": "Lessebon kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 8061,
+   "pinta_ala_km2": 456,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Hugo Wieslander",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0761.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lessebo%20vapen.svg"
+   }
+  },
+  "Lidingö": {
+   "nimi": "Lidingön",
+   "wikidata": "Q3120654",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Liding%C3%B6n_kunta",
+   "tiivistelma": "Lidingön kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 48359,
+   "pinta_ala_km2": 51,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Amanda Mair",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tore Kullgren",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Christian Wikander",
+     "kuvaus": "ruotsalainen näyttelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0186.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Liding%C3%B6%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Lidköping": {
+   "nimi": "Lidköpingin kunta",
+   "wikidata": "Q515358",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lidk%C3%B6pingin_kunta",
+   "tiivistelma": "Lidköpingin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 40391,
+   "pinta_ala_km2": 1373,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1494.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lidk%C3%B6ping%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Lilla Edet": {
+   "nimi": "Lilla Edetin kunta",
+   "wikidata": "Q511241",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lilla_Edetin_kunta",
+   "tiivistelma": "Lilla Edetin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan ja Bohusläniin.",
+   "vakiluku": 14349,
+   "pinta_ala_km2": 342,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1462.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lilla%20Edet%20vapen.svg"
+   }
+  },
+  "Lindesberg": {
+   "nimi": "Lindesbergin kunta",
+   "wikidata": "Q514858",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lindesbergin_kunta",
+   "tiivistelma": "Lindesbergin kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 23039,
+   "pinta_ala_km2": 1480,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1885.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lindesberg%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Linköping": {
+   "nimi": "Linköpingin kunta",
+   "wikidata": "Q499410",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Link%C3%B6pingin_kunta",
+   "tiivistelma": "Linköpingin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 168218,
+   "pinta_ala_km2": 1569,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Cecilie Östby",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0580.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Link%C3%B6ping%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Ljungby": {
+   "nimi": "Ljungbyn kunta",
+   "wikidata": "Q504235",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ljungbyn_kunta",
+   "tiivistelma": "Ljungbyn kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 28154,
+   "pinta_ala_km2": 1995,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Helge Grans",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0781.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ljungby%20vapen.svg"
+   }
+  },
+  "Ljusdal": {
+   "nimi": "Ljusdalin kunta",
+   "wikidata": "Q515235",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ljusdalin_kunta",
+   "tiivistelma": "Ljusdalin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hälsinglandiin ja Taalainmaahan.",
+   "vakiluku": 18316,
+   "pinta_ala_km2": 5610,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sofia Domeij",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Gölin Carina Gerken Christiansen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2161.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ljusdal%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Ljusnarsberg": {
+   "nimi": "Ljusnarsbergin kunta",
+   "wikidata": "Q514739",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ljusnarsbergin_kunta",
+   "tiivistelma": "Ljusnarsbergin kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 4312,
+   "pinta_ala_km2": 631,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Hjalmar Andersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1864.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ljusnarsberg%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Lomma": {
+   "nimi": "Lomman kunta",
+   "wikidata": "Q427991",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lomman_kunta",
+   "tiivistelma": "Lomman kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 24731,
+   "pinta_ala_km2": 90,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Gustav Höög",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1262.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lomma%20vapen.svg"
+   }
+  },
+  "Ludvika": {
+   "nimi": "Ludvikan kunta",
+   "wikidata": "Q503184",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ludvikan_kunta",
+   "tiivistelma": "Ludvikan kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 26967,
+   "pinta_ala_km2": 1648,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Peter Tägtgren",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2085.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ludvika%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Luleå": {
+   "nimi": "Luulajan kunta",
+   "wikidata": "Q177019",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Luulajan_kunta",
+   "tiivistelma": "Luulajan kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 80454,
+   "pinta_ala_km2": 4912,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Britta Johansson Norgren",
+     "kuvaus": "ruotsalainen maastohiihtäjä"
+    },
+    {
+     "nimi": "Anna Vnuk",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2580.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lule%C3%A5%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Lund": {
+   "nimi": "Lundin kunta",
+   "wikidata": "Q505018",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lundin_kunta",
+   "tiivistelma": "Lundin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 131486,
+   "pinta_ala_km2": 440,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1281.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Jsdo1980",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lund%20vapen.svg"
+   }
+  },
+  "Lycksele": {
+   "nimi": "Lyckselen kunta",
+   "wikidata": "Q948462",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lyckselen_kunta",
+   "tiivistelma": "Lyckselen kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 12136,
+   "pinta_ala_km2": 5889,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Harald Eriksson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Per Hanefjord",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jannike Stenlund",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2481.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lycksele%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Lysekil": {
+   "nimi": "Lysekilin kunta",
+   "wikidata": "Q503173",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Lysekilin_kunta",
+   "tiivistelma": "Lysekilin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 13772,
+   "pinta_ala_km2": 696,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Robin Govik",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Maj-Lis Hörne",
+     "kuvaus": "ruotsalainen näyttelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1484.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Lysekil%20vapen.svg"
+   }
+  },
+  "Malmö": {
+   "nimi": "Malmön kunta",
+   "wikidata": "Q503361",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Malm%C3%B6n_kunta",
+   "tiivistelma": "Malmön kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 368660,
+   "pinta_ala_km2": 334,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Rolf Börjlind",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Hans-Christian Thulin",
+     "kuvaus": "ruotsalainen näyttelijä"
+    },
+    {
+     "nimi": "Åke Cato",
+     "kuvaus": "ruotsalainen kirjailija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1280.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Malm%C3%B6%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Malung-Sälen": {
+   "nimi": "Malung-Sälenin kunta",
+   "wikidata": "Q504266",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Malung-S%C3%A4lenin_kunta",
+   "tiivistelma": "Malung-Sälenin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 10159,
+   "pinta_ala_km2": 4312,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Holmfrid Olsson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Elin Lundberg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tomas Kaiser",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2023.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Malung-S%C3%A4len%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Malå": {
+   "nimi": "Malån kunta",
+   "wikidata": "Q501540",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Mal%C3%A5n_kunta",
+   "tiivistelma": "Malån kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 2885,
+   "pinta_ala_km2": 1727,
+   "perustettu": 1983,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2418.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mal%C3%A5%20vapen.svg"
+   }
+  },
+  "Mariestad": {
+   "nimi": "Mariestadin kunta",
+   "wikidata": "Q427422",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Mariestadin_kunta",
+   "tiivistelma": "Mariestadin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 24372,
+   "pinta_ala_km2": 1503,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Benjamin Larm",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Josef Larm",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1493.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mariestad%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Mark": {
+   "nimi": "Markin kunta",
+   "wikidata": "Q500153",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Markin_kunta",
+   "tiivistelma": "Markin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 35091,
+   "pinta_ala_km2": 1013,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1463.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mark%20vapen.svg"
+   }
+  },
+  "Markaryd": {
+   "nimi": "Markarydin kunta",
+   "wikidata": "Q240574",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Markarydin_kunta",
+   "tiivistelma": "Markarydin kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 9857,
+   "pinta_ala_km2": 533,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0767.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Markaryd%20vapen.svg"
+   }
+  },
+  "Mellerud": {
+   "nimi": "Mellerudin kunta",
+   "wikidata": "Q501438",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Mellerudin_kunta",
+   "tiivistelma": "Mellerudin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Dalslandiin.",
+   "vakiluku": 9059,
+   "pinta_ala_km2": 944,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1461.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mellerud%20vapen.svg"
+   }
+  },
+  "Mjölby": {
+   "nimi": "Mjölbyn kunta",
+   "wikidata": "Q267030",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Mj%C3%B6lbyn_kunta",
+   "tiivistelma": "Mjölbyn kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 28920,
+   "pinta_ala_km2": 557,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0586.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mj%C3%B6lby%20vapen.svg"
+   }
+  },
+  "Mora": {
+   "nimi": "Moran kunta",
+   "wikidata": "Q504239",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Moran_kunta",
+   "tiivistelma": "Moran kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 20436,
+   "pinta_ala_km2": 3111,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Jakob Stenqvist",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Einar Granath",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Anna Lundh",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2062.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mora%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Motala": {
+   "nimi": "Motalan kunta",
+   "wikidata": "Q508108",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Motalan_kunta",
+   "tiivistelma": "Motalan kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 43150,
+   "pinta_ala_km2": 1267,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Matilda Svensson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0583.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Motala%20vapen.svg"
+   }
+  },
+  "Mullsjö": {
+   "nimi": "Mullsjön kunta",
+   "wikidata": "Q505076",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Mullsj%C3%B6n_kunta",
+   "tiivistelma": "Mullsjön kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 7588,
+   "pinta_ala_km2": 211,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0642.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Mullsj%C3%B6%20vapen.svg"
+   }
+  },
+  "Munkedal": {
+   "nimi": "Munkedalin kunta",
+   "wikidata": "Q389040",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Munkedalin_kunta",
+   "tiivistelma": "Munkedalin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin ja Dalslandiin.",
+   "vakiluku": 10245,
+   "pinta_ala_km2": 675,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1430.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Munkedal%20vapen.svg"
+   }
+  },
+  "Munkfors": {
+   "nimi": "Munkforsin kunta",
+   "wikidata": "Q501494",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Munkforsin_kunta",
+   "tiivistelma": "Munkforsin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 3623,
+   "pinta_ala_km2": 148,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1762.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Munkfors%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Mölndal": {
+   "nimi": "Mölndalin kunta",
+   "wikidata": "Q511270",
+   "wikipedia": "https://fi.wikipedia.org/wiki/M%C3%B6lndalin_kunta",
+   "tiivistelma": "Mölndalin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan ja Hallandiin.",
+   "vakiluku": 72495,
+   "pinta_ala_km2": 152,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Claes Hake",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1481.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:M%C3%B6lndal%20vapen%2C%202016.svg"
+   }
+  },
+  "Mönsterås": {
+   "nimi": "Mönsteråsin kunta",
+   "wikidata": "Q515250",
+   "wikipedia": "https://fi.wikipedia.org/wiki/M%C3%B6nster%C3%A5sin_kunta",
+   "tiivistelma": "Mönsteråsin kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 12932,
+   "pinta_ala_km2": 941,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Herbert Petersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0861.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:M%C3%B6nster%C3%A5s%20vapen.svg"
+   }
+  },
+  "Mörbylånga": {
+   "nimi": "Mörbylångan kunta",
+   "wikidata": "Q514756",
+   "wikipedia": "https://fi.wikipedia.org/wiki/M%C3%B6rbyl%C3%A5ngan_kunta",
+   "tiivistelma": "Mörbylångan kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Öölantiin.",
+   "vakiluku": 16348,
+   "pinta_ala_km2": 3038,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0840.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:M%C3%B6rbyl%C3%A5nga%20vapen.svg"
+   }
+  },
+  "Nacka": {
+   "nimi": "Nackan kunta",
+   "wikidata": "Q946647",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Nackan_kunta",
+   "tiivistelma": "Nackan kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin ja Uplantiin.",
+   "vakiluku": 114589,
+   "pinta_ala_km2": 129,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Jörgen Lindström",
+     "kuvaus": "ruotsalainen näyttelijä"
+    },
+    {
+     "nimi": "Anton Holm",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Helena Sutorius",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0182.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nacka%20vapen.svg"
+   }
+  },
+  "Nora": {
+   "nimi": "Noran kunta",
+   "wikidata": "Q285894",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Noran_kunta",
+   "tiivistelma": "Noran kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 10578,
+   "pinta_ala_km2": 691,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lasse Wellander",
+     "kuvaus": "ruotsalainen kitaristi"
+    },
+    {
+     "nimi": "Bengt Oberger",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1884.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nora%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Norberg": {
+   "nimi": "Norbergin kunta",
+   "wikidata": "Q37404",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Norbergin_kunta",
+   "tiivistelma": "Norbergin kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 5309,
+   "pinta_ala_km2": 448,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Axel Grönberg",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1962.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Norberg%20vapen.svg"
+   }
+  },
+  "Nordanstig": {
+   "nimi": "Nordanstigin kunta",
+   "wikidata": "Q514805",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Nordanstigin_kunta",
+   "tiivistelma": "Nordanstigin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hälsinglandiin.",
+   "vakiluku": 9284,
+   "pinta_ala_km2": 2527,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2132.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nordanstig%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Nordmaling": {
+   "nimi": "Nordmalingin kunta",
+   "wikidata": "Q514722",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Nordmalingin_kunta",
+   "tiivistelma": "Nordmalingin kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Ångermanlandiin.",
+   "vakiluku": 6930,
+   "pinta_ala_km2": 2509,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2401.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nordmaling%20vapen.svg"
+   }
+  },
+  "Norrköping": {
+   "nimi": "Norrköpingin kunta",
+   "wikidata": "Q504676",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Norrk%C3%B6pingin_kunta",
+   "tiivistelma": "Norrköpingin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan ja Södermanlandiin.",
+   "vakiluku": 144989,
+   "pinta_ala_km2": 2048,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Pekka Pesonen",
+     "kuvaus": "suomalainen kirjallisuudentutkija"
+    },
+    {
+     "nimi": "Carl Edvard Stjernvall",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0581.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Norrk%C3%B6ping%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Norrtälje": {
+   "nimi": "Norrtäljen kunta",
+   "wikidata": "Q214048",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Norrt%C3%A4ljen_kunta",
+   "tiivistelma": "Norrtäljen kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 67106,
+   "pinta_ala_km2": 6030,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Emil Giljam",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0188.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Norrt%C3%A4lje%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Norsjö": {
+   "nimi": "Norsjön kunta",
+   "wikidata": "Q507644",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Norsj%C3%B6n_kunta",
+   "tiivistelma": "Norsjön kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västerbotteniin.",
+   "vakiluku": 3786,
+   "pinta_ala_km2": 1924,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Martin Lundström",
+     "kuvaus": "ruotsalainen maastohiihtäjä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2417.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Norsj%C3%B6%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Nybro": {
+   "nimi": "Nybron kunta",
+   "wikidata": "Q515318",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Nybron_kunta",
+   "tiivistelma": "Nybron kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 19821,
+   "pinta_ala_km2": 1202,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0881.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nybro%20vapen.svg"
+   }
+  },
+  "Nykvarn": {
+   "nimi": "Nykvarnin kunta",
+   "wikidata": "Q499460",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Nykvarnin_kunta",
+   "tiivistelma": "Nykvarnin kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 12412,
+   "pinta_ala_km2": 177,
+   "perustettu": 1999,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0140.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nykvarn%20vapen.svg"
+   }
+  },
+  "Nyköping": {
+   "nimi": "Nyköpingin kunta",
+   "wikidata": "Q500267",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Nyk%C3%B6pingin_kunta",
+   "tiivistelma": "Nyköpingin kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 58386,
+   "pinta_ala_km2": 2066,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0480.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nyk%C3%B6ping%20vapen.svg"
+   }
+  },
+  "Nynäshamn": {
+   "nimi": "Nynäshamnin kunta",
+   "wikidata": "Q505090",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Nyn%C3%A4shamnin_kunta",
+   "tiivistelma": "Nynäshamnin kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 30429,
+   "pinta_ala_km2": 1301,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0192.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Nyn%C3%A4shamn%20vapen.svg"
+   }
+  },
+  "Nässjö": {
+   "nimi": "Nässjön kunta",
+   "wikidata": "Q505096",
+   "wikipedia": "https://fi.wikipedia.org/wiki/N%C3%A4ssj%C3%B6n_kunta",
+   "tiivistelma": "Nässjön kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 31498,
+   "pinta_ala_km2": 988,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johan Hederstedt",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0682.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:N%C3%A4ssj%C3%B6%20vapen.svg"
+   }
+  },
+  "Ockelbo": {
+   "nimi": "Ockelbon kunta",
+   "wikidata": "Q505109",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ockelbon_kunta",
+   "tiivistelma": "Ockelbon kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Gästriklandiin ja Hälsinglandiin.",
+   "vakiluku": 5711,
+   "pinta_ala_km2": 1129,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2101.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ockelbo%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Olofström": {
+   "nimi": "Olofströmin kunta",
+   "wikidata": "Q504257",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Olofstr%C3%B6min_kunta",
+   "tiivistelma": "Olofströmin kunta on Blekingen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Blekingeen.",
+   "vakiluku": 12742,
+   "pinta_ala_km2": 413,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Katherine Haataja",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1060.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Olofstr%C3%B6m%20vapen.svg"
+   }
+  },
+  "Orsa": {
+   "nimi": "Orsan kunta",
+   "wikidata": "Q504630",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Orsan_kunta",
+   "tiivistelma": "Orsan kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 6892,
+   "pinta_ala_km2": 1797,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2034.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Orsa%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Orust": {
+   "nimi": "Orustin kunta",
+   "wikidata": "Q338752",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Orustin_kunta",
+   "tiivistelma": "Orustin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 15339,
+   "pinta_ala_km2": 883,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sigfrid Edström",
+     "kuvaus": "ruotsalainen tehtailija ja urheiluvaikuttaja"
+    },
+    {
+     "nimi": "Peter Gustafsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1421.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Orust%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Osby": {
+   "nimi": "Osbyn kunta",
+   "wikidata": "Q504594",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Osbyn_kunta",
+   "tiivistelma": "Osbyn kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 12761,
+   "pinta_ala_km2": 599,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sven E. Snogerup",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Magnus Åkerlund",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1273.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Osby%20vapen.svg"
+   }
+  },
+  "Oskarshamn": {
+   "nimi": "Oskarshamnin kunta",
+   "wikidata": "Q505006",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Oskarshamnin_kunta",
+   "tiivistelma": "Oskarshamnin kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 26658,
+   "pinta_ala_km2": 2278,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Hilda Svensson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Johan Bogaeus",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0882.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Oskarshamn%20kommunvapen%20%E2%80%93%20Riksarkivet%20Sverige.svg"
+   }
+  },
+  "Ovanåker": {
+   "nimi": "Ovanåkerin kunta",
+   "wikidata": "Q505085",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ovan%C3%A5kerin_kunta",
+   "tiivistelma": "Ovanåkerin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hälsinglandiin.",
+   "vakiluku": 11234,
+   "pinta_ala_km2": 2017,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2121.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ovan%C3%A5ker%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Oxelösund": {
+   "nimi": "Oxelösundin kunta",
+   "wikidata": "Q505246",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Oxel%C3%B6sundin_kunta",
+   "tiivistelma": "Oxelösundin kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 12003,
+   "pinta_ala_km2": 746,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0481.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Oxel%C3%B6sund%20vapen.svg"
+   }
+  },
+  "Pajala": {
+   "nimi": "Pajalan kunta",
+   "wikidata": "Q186230",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Pajalan_kunta",
+   "tiivistelma": "Pajalan kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 5688,
+   "pinta_ala_km2": 8051,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Arne Isaksson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Erkki Antti Juhonpieti",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2521.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Pajala%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Partille": {
+   "nimi": "Partillen kunta",
+   "wikidata": "Q125222",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Partillen_kunta",
+   "tiivistelma": "Partillen kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 41242,
+   "pinta_ala_km2": 59,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Andreas Kramer",
+     "kuvaus": "ruotsalainen keskimatkojen juoksija"
+    },
+    {
+     "nimi": "Erik Börjesson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Cecilia Grubbström",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1402.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Partille%20vapen.svg"
+   }
+  },
+  "Perstorp": {
+   "nimi": "Perstorpin kunta",
+   "wikidata": "Q504249",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Perstorpin_kunta",
+   "tiivistelma": "Perstorpin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 7105,
+   "pinta_ala_km2": 162,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Krister Granbom",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1275.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Perstorp%20vapen.svg"
+   }
+  },
+  "Piteå": {
+   "nimi": "Piitimen kunta",
+   "wikidata": "Q507656",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Piitimen_kunta",
+   "tiivistelma": "Piitimen kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 42261,
+   "pinta_ala_km2": 4641,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Moki Cherry",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Tomas Eskilsson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Anna Elisabet Bure",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2581.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Pite%C3%A5%20vapen.svg"
+   }
+  },
+  "Ragunda": {
+   "nimi": "Ragundan kunta",
+   "wikidata": "Q515342",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ragundan_kunta",
+   "tiivistelma": "Ragundan kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Jämtlandiin.",
+   "vakiluku": 5131,
+   "pinta_ala_km2": 2633,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Östen Edlund",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Jan Nilsson",
+     "kuvaus": "ruotsalainen ohjaskelkkailija"
+    },
+    {
+     "nimi": "Christoffer Demby",
+     "kuvaus": "ääniteknikko"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2303.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ragunda%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Robertsfors": {
+   "nimi": "Robertsforsin kunta",
+   "wikidata": "Q507670",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Robertsforsin_kunta",
+   "tiivistelma": "Robertsforsin kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västerbotteniin.",
+   "vakiluku": 6624,
+   "pinta_ala_km2": 2371,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2409.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Robertsfors%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Ronneby": {
+   "nimi": "Ronnebyn kunta",
+   "wikidata": "Q515373",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ronnebyn_kunta",
+   "tiivistelma": "Ronnebyn kunta on Blekingen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Blekingeen.",
+   "vakiluku": 28565,
+   "pinta_ala_km2": 1242,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1081.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ronneby%20vapen.svg"
+   }
+  },
+  "Rättvik": {
+   "nimi": "Rättvikin kunta",
+   "wikidata": "Q504244",
+   "wikipedia": "https://fi.wikipedia.org/wiki/R%C3%A4ttvikin_kunta",
+   "tiivistelma": "Rättvikin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 10972,
+   "pinta_ala_km2": 2139,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Hasse Börjes",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2031.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:R%C3%A4ttvik%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Sala": {
+   "nimi": "Salan kunta",
+   "wikidata": "Q37399",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Salan_kunta",
+   "tiivistelma": "Salan kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin ja Uplantiin.",
+   "vakiluku": 22615,
+   "pinta_ala_km2": 1204,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1981.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sala%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Salem": {
+   "nimi": "Salemin kunta",
+   "wikidata": "Q516080",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Salemin_kunta",
+   "tiivistelma": "Salemin kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 17360,
+   "pinta_ala_km2": 71,
+   "perustettu": 1983,
+   "henkilot": [
+    {
+     "nimi": "Sarah Sjöström",
+     "kuvaus": "ruotsalainen uimari"
+    },
+    {
+     "nimi": "Daniel Wretström",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0128.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Salem%20vapen.svg"
+   }
+  },
+  "Sandviken": {
+   "nimi": "Sandvikenin kunta",
+   "wikidata": "Q149539",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sandvikenin_kunta",
+   "tiivistelma": "Sandvikenin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Gästriklandiin.",
+   "vakiluku": 37985,
+   "pinta_ala_km2": 1297,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2181.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sandviken%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Sigtuna": {
+   "nimi": "Sigtunan kunta",
+   "wikidata": "Q216915",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sigtunan_kunta",
+   "tiivistelma": "Sigtunan kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 53520,
+   "pinta_ala_km2": 350,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0191.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sigtuna%20vapen.svg"
+   }
+  },
+  "Simrishamn": {
+   "nimi": "Simrishamnin kunta",
+   "wikidata": "Q504626",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Simrishamnin_kunta",
+   "tiivistelma": "Simrishamnin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 18794,
+   "pinta_ala_km2": 1255,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Kent-Olle Johansson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1291.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Simrishamn%20vapen.svg"
+   }
+  },
+  "Sjöbo": {
+   "nimi": "Sjöbon kunta",
+   "wikidata": "Q504601",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sj%C3%B6bon_kunta",
+   "tiivistelma": "Sjöbon kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 19381,
+   "pinta_ala_km2": 507,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1265.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sj%C3%B6bo%20vapen.svg"
+   }
+  },
+  "Skara": {
+   "nimi": "Skaran kunta",
+   "wikidata": "Q499421",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Skaran_kunta",
+   "tiivistelma": "Skaran kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 18711,
+   "pinta_ala_km2": 449,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Folke Olhagen",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1495.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Skara%20vapen.svg"
+   }
+  },
+  "Skellefteå": {
+   "nimi": "Skellefteån kunta",
+   "wikidata": "Q430780",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Skellefte%C3%A5n_kunta",
+   "tiivistelma": "Skellefteån kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västerbotteniin.",
+   "vakiluku": 74901,
+   "pinta_ala_km2": 9945,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Tord Wiksten",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Fredrik Warg",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Maria Möller",
+     "kuvaus": "ruotsalainen laulaja"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2482.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Skellefte%C3%A5%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Skinnskatteberg": {
+   "nimi": "Skinnskattebergin kunta",
+   "wikidata": "Q37462",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Skinnskattebergin_kunta",
+   "tiivistelma": "Skinnskattebergin kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 4183,
+   "pinta_ala_km2": 718,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1904.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Skinnskatteberg%20vapen.svg"
+   }
+  },
+  "Skurup": {
+   "nimi": "Skurupin kunta",
+   "wikidata": "Q515266",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Skurupin_kunta",
+   "tiivistelma": "Skurupin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 17156,
+   "pinta_ala_km2": 512,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Gösta Werner",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1264.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Skurup%20vapen.svg"
+   }
+  },
+  "Skövde": {
+   "nimi": "Skövden kunta",
+   "wikidata": "Q501452",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sk%C3%B6vden_kunta",
+   "tiivistelma": "Skövden kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 58228,
+   "pinta_ala_km2": 685,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Yvonne Brage",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Casper Johansson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1496.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Haquino",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Skoevde%20vapen.svg"
+   }
+  },
+  "Smedjebacken": {
+   "nimi": "Smedjebackenin kunta",
+   "wikidata": "Q505046",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Smedjebackenin_kunta",
+   "tiivistelma": "Smedjebackenin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 10771,
+   "pinta_ala_km2": 1058,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Werner Aspenström",
+     "kuvaus": "ruotsalainen runoilija ja kirjailija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2061.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Smedjebacken%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Sollefteå": {
+   "nimi": "Sollefteån kunta",
+   "wikidata": "Q221990",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sollefte%C3%A5n_kunta",
+   "tiivistelma": "Sollefteån kunta on Västernorrlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Ångermanlandiin.",
+   "vakiluku": 18033,
+   "pinta_ala_km2": 5761,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2283.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sollefte%C3%A5%20vapen.svg"
+   }
+  },
+  "Sollentuna": {
+   "nimi": "Sollentunan kunta",
+   "wikidata": "Q503746",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sollentunan_kunta",
+   "tiivistelma": "Sollentunan kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 78649,
+   "pinta_ala_km2": 58,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Kajsa Bergqvist",
+     "kuvaus": "ruotsalainen korkeushyppääjä"
+    },
+    {
+     "nimi": "Arne Dahl",
+     "kuvaus": "ruotsalainen kirjailija"
+    },
+    {
+     "nimi": "Martin Österdahl",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0163.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sollentuna%20vapen.svg"
+   }
+  },
+  "Solna": {
+   "nimi": "Solna",
+   "wikidata": "Q109010",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Solna",
+   "tiivistelma": "Solnan kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 86573,
+   "pinta_ala_km2": 20,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Keke Rosberg",
+     "kuvaus": "suomalainen autourheilija"
+    },
+    {
+     "nimi": "Hilma af Klint",
+     "kuvaus": "ruotsalainen taiteilija, antroposofi ja abstraktin taiteen edelläkävijä"
+    },
+    {
+     "nimi": "Daniel Ståhl",
+     "kuvaus": "ruotsalainen kiekonheittäjä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0184.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Solna%20vapen.svg"
+   }
+  },
+  "Sorsele": {
+   "nimi": "Sorselen kunta",
+   "wikidata": "Q501463",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sorselen_kunta",
+   "tiivistelma": "Sorselen kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 2368,
+   "pinta_ala_km2": 7958,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Marie Ahrle",
+     "kuvaus": "ruotsalainen näyttelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2422.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad and Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sorsele%20vapen.svg"
+   }
+  },
+  "Sotenäs": {
+   "nimi": "Sotenäsin kunta",
+   "wikidata": "Q501420",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Soten%C3%A4sin_kunta",
+   "tiivistelma": "Sotenäsin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 8988,
+   "pinta_ala_km2": 685,
+   "perustettu": 1974,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1427.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Soten%C3%A4s%20vapen.svg"
+   }
+  },
+  "Staffanstorp": {
+   "nimi": "Staffanstorpin kunta",
+   "wikidata": "Q504609",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Staffanstorpin_kunta",
+   "tiivistelma": "Staffanstorpin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 27549,
+   "pinta_ala_km2": 107,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Gunnar Nilsson",
+     "kuvaus": "ruotsalainen nyrkkeilijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1230.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Staffanstorp%20vapen.svg"
+   }
+  },
+  "Stenungsund": {
+   "nimi": "Stenungsundin kunta",
+   "wikidata": "Q511438",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Stenungsundin_kunta",
+   "tiivistelma": "Stenungsundin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 27934,
+   "pinta_ala_km2": 301,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Petra Granlund",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Otto Stenberg",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Isabell Sollman",
+     "kuvaus": "ruotsalainen näyttelijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1415.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Stenungsund%20vapen.svg"
+   }
+  },
+  "Stockholm": {
+   "nimi": "Tukholman kunta",
+   "wikidata": "Q506250",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tukholman_kunta",
+   "tiivistelma": "Tukholman kunta on Tukholman läänissä sijaitseva Ruotsin kunta, jonka keskuspaikka on Tukholma. Kunta käyttää itsestään myös epävirallista nimeä Tukholman kaupunki.",
+   "vakiluku": 1000962,
+   "pinta_ala_km2": 207,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Magnus Swederus",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0180.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Koyos",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Stockholm%20vapen%20bra.svg"
+   }
+  },
+  "Storfors": {
+   "nimi": "Storforsin kunta",
+   "wikidata": "Q505936",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Storforsin_kunta",
+   "tiivistelma": "Storforsin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 3775,
+   "pinta_ala_km2": 473,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johnny Höglin",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1760.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Storfors%20vapen.svg"
+   }
+  },
+  "Storuman": {
+   "nimi": "Storumanin kunta",
+   "wikidata": "Q499415",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Storumanin_kunta",
+   "tiivistelma": "Storumanin kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 5556,
+   "pinta_ala_km2": 8234,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2421.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Storuman%20vapen.svg"
+   }
+  },
+  "Strängnäs": {
+   "nimi": "Strängnäsin kunta",
+   "wikidata": "Q501532",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4sin_kunta",
+   "tiivistelma": "Strängnäsin kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin ja Uplantiin.",
+   "vakiluku": 39541,
+   "pinta_ala_km2": 975,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Arvid Andersson",
+     "kuvaus": "ruotsalainen köydenvetäjä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0486.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad and Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Str%C3%A4ngn%C3%A4s%20vapen.svg"
+   }
+  },
+  "Strömstad": {
+   "nimi": "Strömstadin kunta",
+   "wikidata": "Q501424",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Str%C3%B6mstadin_kunta",
+   "tiivistelma": "Strömstadin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 13636,
+   "pinta_ala_km2": 952,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Oscar Russberg",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1486.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "EnDumEn, minor edits by Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Str%C3%B6mstad%20vapen.svg"
+   }
+  },
+  "Strömsund": {
+   "nimi": "Strömsundin kunta",
+   "wikidata": "Q514770",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Str%C3%B6msundin_kunta",
+   "tiivistelma": "Strömsundin kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Jämtlandiin, Ångermanlandiin ja Lappiin.",
+   "vakiluku": 10859,
+   "pinta_ala_km2": 11781,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Lars Theodor Jonsson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "John Nordin (ingenjör)",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2313.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Str%C3%B6msund%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Sundbyberg": {
+   "nimi": "Sundbybergin kunta",
+   "wikidata": "Q972564",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sundbyberg",
+   "tiivistelma": "Sundbybergin kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 57145,
+   "pinta_ala_km2": 9,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Robert Lindstedt",
+     "kuvaus": "ruotsalainen tennispelaaja"
+    },
+    {
+     "nimi": "Erika Linder",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Alina Devecerski",
+     "kuvaus": "ruotsalainen laulaja"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0183.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sundbyberg%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Sundsvall": {
+   "nimi": "Sundsvallin kunta",
+   "wikidata": "Q504994",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sundsvallin_kunta",
+   "tiivistelma": "Sundsvallin kunta on Västernorrlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Medelpadiin ja Hälsinglandiin.",
+   "vakiluku": 99018,
+   "pinta_ala_km2": 4446,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Fredrik Nyberg",
+     "kuvaus": "ruotsalainen alppihiihtäjä"
+    },
+    {
+     "nimi": "Gustaf Lindh",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Ingvar Eriksson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2281.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sundsvall%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Sunne": {
+   "nimi": "Sunnen kunta",
+   "wikidata": "Q501205",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sunnen_kunta",
+   "tiivistelma": "Sunnen kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 13291,
+   "pinta_ala_km2": 1448,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mikael Löfgren",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1766.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sunne%20vapen.svg"
+   }
+  },
+  "Surahammar": {
+   "nimi": "Surahammarin kunta",
+   "wikidata": "Q34078",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Surahammarin_kunta",
+   "tiivistelma": "Surahammarin kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 9748,
+   "pinta_ala_km2": 369,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Satu Uusiautti",
+     "kuvaus": "suomalainen kasvatustieteilijä ja Lapin yliopiston kasvatuspsykologian professori"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1907.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Surahammar%20vapen.svg"
+   }
+  },
+  "Svalöv": {
+   "nimi": "Svalövin kunta",
+   "wikidata": "Q504227",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Sval%C3%B6vin_kunta",
+   "tiivistelma": "Svalövin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 14404,
+   "pinta_ala_km2": 389,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Max Svensson",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1214.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Original by: Vladimir Sagerlund / Riksarkivet Sverige\nVectorized by Xauxa",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Sval%C3%B6v%20kommunvapen%20-%20Riksarkivet%20Sverige-vector.svg"
+   }
+  },
+  "Svedala": {
+   "nimi": "Svedalan kunta",
+   "wikidata": "Q515706",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Svedalan_kunta",
+   "tiivistelma": "Svedalan kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 23722,
+   "pinta_ala_km2": 227,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1263.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Svedala%20vapen.svg"
+   }
+  },
+  "Svenljunga": {
+   "nimi": "Svenljungan kunta",
+   "wikidata": "Q501487",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Svenljungan_kunta",
+   "tiivistelma": "Svenljungan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 10580,
+   "pinta_ala_km2": 987,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1465.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Svenljunga%20vapen.svg"
+   }
+  },
+  "Säffle": {
+   "nimi": "Säfflen kunta",
+   "wikidata": "Q511326",
+   "wikipedia": "https://fi.wikipedia.org/wiki/S%C3%A4fflen_kunta",
+   "tiivistelma": "Säfflen kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin ja Dalslandiin.",
+   "vakiluku": 14659,
+   "pinta_ala_km2": 2498,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1785.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:S%C3%A4ffle%20vapen.svg"
+   }
+  },
+  "Säter": {
+   "nimi": "Säterin kunta",
+   "wikidata": "Q1345439",
+   "wikipedia": "https://fi.wikipedia.org/wiki/S%C3%A4terin_kunta",
+   "tiivistelma": "Säterin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 11263,
+   "pinta_ala_km2": 625,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2082.png",
+    "lisenssi": "Public domain",
+    "tekija": "Jan Ainali",
+    "lahde": "https://commons.wikimedia.org/wiki/File:S%C3%A4ter%20City%20Arms.svg"
+   }
+  },
+  "Sävsjö": {
+   "nimi": "Sävsjön kunta",
+   "wikidata": "Q505239",
+   "wikipedia": "https://fi.wikipedia.org/wiki/S%C3%A4vsj%C3%B6n_kunta",
+   "tiivistelma": "Sävsjön kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 11524,
+   "pinta_ala_km2": 729,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0684.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:S%C3%A4vsj%C3%B6%20vapen.svg"
+   }
+  },
+  "Söderhamn": {
+   "nimi": "Söderhamnin kunta",
+   "wikidata": "Q145835",
+   "wikipedia": "https://fi.wikipedia.org/wiki/S%C3%B6derhamnin_kunta",
+   "tiivistelma": "Söderhamnin kunta on Gävleborgin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hälsinglandiin.",
+   "vakiluku": 23998,
+   "pinta_ala_km2": 2286,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2182.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:S%C3%B6derhamn%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Söderköping": {
+   "nimi": "Söderköpingin kunta",
+   "wikidata": "Q515680",
+   "wikipedia": "https://fi.wikipedia.org/wiki/S%C3%B6derk%C3%B6pingin_kunta",
+   "tiivistelma": "Söderköpingin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 14727,
+   "pinta_ala_km2": 1326,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0582.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:S%C3%B6derk%C3%B6ping%20vapen.svg"
+   }
+  },
+  "Södertälje": {
+   "nimi": "Södertäljen kunta",
+   "wikidata": "Q516336",
+   "wikipedia": "https://fi.wikipedia.org/wiki/S%C3%B6dert%C3%A4ljen_kunta",
+   "tiivistelma": "Södertäljen kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 102841,
+   "pinta_ala_km2": 694,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johan Edlund",
+     "kuvaus": "ruotsalainen laulaja"
+    },
+    {
+     "nimi": "Eddie Moussa",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    },
+    {
+     "nimi": "Per Hallin",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0181.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:S%C3%B6dert%C3%A4lje%20vapen.svg"
+   }
+  },
+  "Sölvesborg": {
+   "nimi": "Sölvesborgin kunta",
+   "wikidata": "Q515409",
+   "wikipedia": "https://fi.wikipedia.org/wiki/S%C3%B6lvesborgin_kunta",
+   "tiivistelma": "Sölvesborgin kunta on Blekingen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Blekingeen.",
+   "vakiluku": 17398,
+   "pinta_ala_km2": 1108,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1083.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:S%C3%B6lvesborg%20vapen2.svg"
+   }
+  },
+  "Tanum": {
+   "nimi": "Tanumin kunta",
+   "wikidata": "Q511228",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tanumin_kunta",
+   "tiivistelma": "Tanumin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 12637,
+   "pinta_ala_km2": 2350,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Oscar Swahn",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1435.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tanum%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Tibro": {
+   "nimi": "Tibron kunta",
+   "wikidata": "Q501432",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tibron_kunta",
+   "tiivistelma": "Tibron kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 11276,
+   "pinta_ala_km2": 235,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1472.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tibro%20vapen.svg"
+   }
+  },
+  "Tidaholm": {
+   "nimi": "Tidaholmin kunta",
+   "wikidata": "Q501459",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tidaholmin_kunta",
+   "tiivistelma": "Tidaholmin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 12701,
+   "pinta_ala_km2": 523,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Emil Forslund",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1498.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tidaholm%20vapen.svg"
+   }
+  },
+  "Tierp": {
+   "nimi": "Tierpin kunta",
+   "wikidata": "Q510198",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tierpin_kunta",
+   "tiivistelma": "Tierpin kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin ja Gästriklandiin.",
+   "vakiluku": 21009,
+   "pinta_ala_km2": 2578,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0360.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tierp%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Timrå": {
+   "nimi": "Timrån kunta",
+   "wikidata": "Q504983",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Timr%C3%A5n_kunta",
+   "tiivistelma": "Timrån kunta on Västernorrlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Medelpadiin ja Ångermanlandiin.",
+   "vakiluku": 17430,
+   "pinta_ala_km2": 1234,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Eric Moe",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2262.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Timr%C3%A5%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Tingsryd": {
+   "nimi": "Tingsrydin kunta",
+   "wikidata": "Q515491",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tingsrydin_kunta",
+   "tiivistelma": "Tingsrydin kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 11862,
+   "pinta_ala_km2": 1207,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0763.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tingsryd%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Tjörn": {
+   "nimi": "Tjörnin kunta",
+   "wikidata": "Q501448",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tj%C3%B6rnin_kunta",
+   "tiivistelma": "Tjörnin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 15951,
+   "pinta_ala_km2": 843,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1419.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tj%C3%B6rn%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Tomelilla": {
+   "nimi": "Tomelillan kunta",
+   "wikidata": "Q515519",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tomelillan_kunta",
+   "tiivistelma": "Tomelillan kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 13676,
+   "pinta_ala_km2": 398,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1270.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tomelilla%20vapen.svg"
+   }
+  },
+  "Torsby": {
+   "nimi": "Torsby",
+   "wikidata": "Q510135",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Torsbyn_kunta",
+   "tiivistelma": "Torsbyn kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin.",
+   "vakiluku": 11280,
+   "pinta_ala_km2": 4357,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Torsten Wadman",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Arthur Olsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1737.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Torsby%20vapen.svg"
+   }
+  },
+  "Torsås": {
+   "nimi": "Torsåsin kunta",
+   "wikidata": "Q515551",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tors%C3%A5sin_kunta",
+   "tiivistelma": "Torsåsin kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 6909,
+   "pinta_ala_km2": 605,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0834.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tors%C3%A5s%20vapen.svg"
+   }
+  },
+  "Tranemo": {
+   "nimi": "Tranemon kunta",
+   "wikidata": "Q501479",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tranemon_kunta",
+   "tiivistelma": "Tranemon kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 11840,
+   "pinta_ala_km2": 778,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Robin Rydqvist",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1452.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tranemo%20vapen.svg"
+   }
+  },
+  "Tranås": {
+   "nimi": "Tranåsin kunta",
+   "wikidata": "Q505071",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tran%C3%A5sin_kunta",
+   "tiivistelma": "Tranåsin kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 18441,
+   "pinta_ala_km2": 438,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Dénis Lindbohm",
+     "kuvaus": "ruotsalainen kirjailija"
+    },
+    {
+     "nimi": "Marcus Thuresson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0687.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad and Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tran%C3%A5s%20vapen.svg"
+   }
+  },
+  "Trelleborg": {
+   "nimi": "Trelleborgin kunta",
+   "wikidata": "Q504219",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Trelleborgin_kunta",
+   "tiivistelma": "Trelleborgin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 47521,
+   "pinta_ala_km2": 1177,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Fredrik Kronkvist",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Carl-Johan Lerby",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1287.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Trelleborg%20vapen.svg"
+   }
+  },
+  "Trollhättan": {
+   "nimi": "Trollhättanin kunta",
+   "wikidata": "Q28532",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Trollh%C3%A4ttanin_kunta",
+   "tiivistelma": "Trollhättanin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 59146,
+   "pinta_ala_km2": 428,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Alexis Ahlgren",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Suonna Kononen",
+     "kuvaus": "suomalainen kulttuuritoimittaja, muusikko ja kirjailia"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1488.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Trollh%C3%A4ttan%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Trosa": {
+   "nimi": "Trosan kunta",
+   "wikidata": "Q505064",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Trosan_kunta",
+   "tiivistelma": "Trosan kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 14890,
+   "pinta_ala_km2": 665,
+   "perustettu": 1992,
+   "henkilot": [
+    {
+     "nimi": "Patrik Karlkvist",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0488.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Trosa%20vapen.svg"
+   }
+  },
+  "Tyresö": {
+   "nimi": "Tyresön kunta",
+   "wikidata": "Q113730",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Tyres%C3%B6n_kunta",
+   "tiivistelma": "Tyresön kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin.",
+   "vakiluku": 49821,
+   "pinta_ala_km2": 101,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Ola Rapace",
+     "kuvaus": "ruotsalainen näyttelijä"
+    },
+    {
+     "nimi": "Joakim Nordström",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Anders Jarl",
+     "kuvaus": "kilpapyöräilijä"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0138.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Tyres%C3%B6%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Täby": {
+   "nimi": "Täbyn kunta",
+   "wikidata": "Q493066",
+   "wikipedia": "https://fi.wikipedia.org/wiki/T%C3%A4byn_kunta",
+   "tiivistelma": "Täbyn kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 78849,
+   "pinta_ala_km2": 71,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "David Isberg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Stephen Simmonds",
+     "kuvaus": "ruotsalainen laulaja"
+    },
+    {
+     "nimi": "Max Lorentz",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0160.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:T%C3%A4by%20municipal%20arms.svg"
+   }
+  },
+  "Töreboda": {
+   "nimi": "Törebodan kunta",
+   "wikidata": "Q501470",
+   "wikipedia": "https://fi.wikipedia.org/wiki/T%C3%B6rebodan_kunta",
+   "tiivistelma": "Törebodan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 9085,
+   "pinta_ala_km2": 591,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Robert Selfelt",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1473.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:T%C3%B6reboda%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Uddevalla": {
+   "nimi": "Uddevallan kunta",
+   "wikidata": "Q501442",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Uddevallan_kunta",
+   "tiivistelma": "Uddevallan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 56827,
+   "pinta_ala_km2": 732,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sidney Stranne",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1485.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Uddevalla%20vapen.svg"
+   }
+  },
+  "Ulricehamn": {
+   "nimi": "Ulricehamnin kunta",
+   "wikidata": "Q382808",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ulricehamnin_kunta",
+   "tiivistelma": "Ulricehamnin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 24936,
+   "pinta_ala_km2": 1117,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1491.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ulricehamn%20vapen.svg"
+   }
+  },
+  "Umeå": {
+   "nimi": "Uumajan kunta",
+   "wikidata": "Q507709",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Uumajan_kunta",
+   "tiivistelma": "Uumajan kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västerbotteniin.",
+   "vakiluku": 134596,
+   "pinta_ala_km2": 5277,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mia Hägg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Joakim Blomqvist",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    },
+    {
+     "nimi": "Frida Kröger-Nygren",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2480.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ume%C3%A5%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Upplands Väsby": {
+   "nimi": "Upplands Väsbyn kunta",
+   "wikidata": "Q499425",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Upplands_V%C3%A4sbyn_kunta",
+   "tiivistelma": "Upplands Väsbyn kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 50784,
+   "pinta_ala_km2": 84,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Robert Topala",
+     "kuvaus": "ruotsalainen pelisuunnittelija"
+    },
+    {
+     "nimi": "Robin Jonsson",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0114.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Upplands%20V%C3%A4sby%20vapen.svg"
+   }
+  },
+  "Upplands-Bro": {
+   "nimi": "Upplands-Bron kunta",
+   "wikidata": "Q113673",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Upplands-Bron_kunta",
+   "tiivistelma": "Upplands-Bron kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 33659,
+   "pinta_ala_km2": 325,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mauricio Albornoz",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    },
+    {
+     "nimi": "Åke Uddén",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Santiago Gil",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0139.png",
+    "lisenssi": "Public domain",
+    "tekija": "Liftarn",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Upplands-Bro%20City%20Arms.svg"
+   }
+  },
+  "Uppsala": {
+   "nimi": "Uppsalan kunta",
+   "wikidata": "Q59091",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Uppsalan_kunta",
+   "tiivistelma": "Uppsalan kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 249078,
+   "pinta_ala_km2": 2234,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Bernhard Nordh",
+     "kuvaus": "ruotsalainen kirjailija (1900–1972)"
+    },
+    {
+     "nimi": "Leif Edvinsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0380.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Uppsala%20vapen.svg"
+   }
+  },
+  "Uppvidinge": {
+   "nimi": "Uppvidingen kunta",
+   "wikidata": "Q515505",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Uppvidingen_kunta",
+   "tiivistelma": "Uppvidingen kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 8848,
+   "pinta_ala_km2": 1227,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Marcus Johansson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0760.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vargklo",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Uppvidinge%20vapen.svg"
+   }
+  },
+  "Vadstena": {
+   "nimi": "Vadstenan kunta",
+   "wikidata": "Q515969",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vadstenan_kunta",
+   "tiivistelma": "Vadstenan kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 7474,
+   "pinta_ala_km2": 413,
+   "perustettu": 1980,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0584.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vadstena%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Vaggeryd": {
+   "nimi": "Vaggerydin kunta",
+   "wikidata": "Q605329",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vaggerydin_kunta",
+   "tiivistelma": "Vaggerydin kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 14959,
+   "pinta_ala_km2": 858,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Bertil Svahnström",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0665.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vaggeryd%20vapen.svg"
+   }
+  },
+  "Valdemarsvik": {
+   "nimi": "Valdemarsvikin kunta",
+   "wikidata": "Q509997",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Valdemarsvikin_kunta",
+   "tiivistelma": "Valdemarsvikin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan ja Smålandiin.",
+   "vakiluku": 7528,
+   "pinta_ala_km2": 2050,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0563.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Valdemarsvik%20vapen.svg"
+   }
+  },
+  "Vallentuna": {
+   "nimi": "Vallentunan kunta",
+   "wikidata": "Q501526",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vallentunan_kunta",
+   "tiivistelma": "Vallentunan kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 35548,
+   "pinta_ala_km2": 368,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Anna Sjödin",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Anneli Furmark",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0115.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vallentuna%20vapen.svg"
+   }
+  },
+  "Vansbro": {
+   "nimi": "Vansbron kunta",
+   "wikidata": "Q501551",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vansbron_kunta",
+   "tiivistelma": "Vansbron kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 6729,
+   "pinta_ala_km2": 1657,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mats Larsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2021.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vansbro%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Vara": {
+   "nimi": "Varan kunta",
+   "wikidata": "Q501428",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Varan_kunta",
+   "tiivistelma": "Varan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 16030,
+   "pinta_ala_km2": 701,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1470.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vara%20vapen.svg"
+   }
+  },
+  "Varberg": {
+   "nimi": "Varbergin kunta",
+   "wikidata": "Q179180",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Varbergin_kunta",
+   "tiivistelma": "Varbergin kunta on Hallandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Hallandiin ja Länsi-Götanmaahan.",
+   "vakiluku": 69741,
+   "pinta_ala_km2": 1703,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mathias Franzén",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1383.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Varberg%20vapen.svg"
+   }
+  },
+  "Vaxholm": {
+   "nimi": "Vaxholmin kunta",
+   "wikidata": "Q500090",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vaxholmin_kunta",
+   "tiivistelma": "Vaxholmin kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 11715,
+   "pinta_ala_km2": 107,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0187.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vaxholm%20vapen.svg"
+   }
+  },
+  "Vellinge": {
+   "nimi": "Vellingen kunta",
+   "wikidata": "Q511338",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vellingen_kunta",
+   "tiivistelma": "Vellingen kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 37927,
+   "pinta_ala_km2": 708,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1233.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vellinge%20vapen.svg"
+   }
+  },
+  "Vetlanda": {
+   "nimi": "Vetlandan kunta",
+   "wikidata": "Q505052",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vetlandan_kunta",
+   "tiivistelma": "Vetlandan kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 27389,
+   "pinta_ala_km2": 1600,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sven Ingemar Ljungh",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0685.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vetlanda%20vapen.svg"
+   }
+  },
+  "Vilhelmina": {
+   "nimi": "Vilhelminan kunta",
+   "wikidata": "Q515861",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vilhelminan_kunta",
+   "tiivistelma": "Vilhelminan kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 6171,
+   "pinta_ala_km2": 8741,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2462.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vilhelmina%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Vimmerby": {
+   "nimi": "Vimmerbyn kunta",
+   "wikidata": "Q505057",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vimmerbyn_kunta",
+   "tiivistelma": "Vimmerbyn kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 15330,
+   "pinta_ala_km2": 1220,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0884.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vimmerby%20vapen.svg"
+   }
+  },
+  "Vindeln": {
+   "nimi": "Vindelnin kunta",
+   "wikidata": "Q504505",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Vindelnin_kunta",
+   "tiivistelma": "Vindelnin kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västerbotteniin.",
+   "vakiluku": 5400,
+   "pinta_ala_km2": 2847,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2404.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Vindeln%20vapen.svg"
+   }
+  },
+  "Vingåker": {
+   "nimi": "Vingåkerin kunta",
+   "wikidata": "Q249378",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ving%C3%A5kerin_kunta",
+   "tiivistelma": "Vingåkerin kunta on Södermanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Södermanlandiin ja Närkeen.",
+   "vakiluku": 8626,
+   "pinta_ala_km2": 439,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0428.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ving%C3%A5ker%20vapen.svg"
+   }
+  },
+  "Vänersborg": {
+   "nimi": "Vänersborgin kunta",
+   "wikidata": "Q511426",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A4nersborgin_kunta",
+   "tiivistelma": "Vänersborgin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan ja Dalslandiin.",
+   "vakiluku": 40125,
+   "pinta_ala_km2": 899,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1487.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "EnDumEn",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4nersborg-vapen.svg"
+   }
+  },
+  "Vännäs": {
+   "nimi": "Vännäsin kunta",
+   "wikidata": "Q500210",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A4nn%C3%A4sin_kunta",
+   "tiivistelma": "Vännäsin kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västerbotteniin ja Ångermanlandiin.",
+   "vakiluku": 9158,
+   "pinta_ala_km2": 554,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2460.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4nn%C3%A4s%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Värmdö": {
+   "nimi": "Värmdön kunta",
+   "wikidata": "Q493841",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A4rmd%C3%B6n_kunta",
+   "tiivistelma": "Värmdön kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin ja Södermanlandiin.",
+   "vakiluku": 46555,
+   "pinta_ala_km2": 2981,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Petra van de Voort",
+     "kuvaus": "ruotsalainen näyttelijä"
+    },
+    {
+     "nimi": "Niklas Lundström",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    },
+    {
+     "nimi": "Josef Ekberg",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0120.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4rmd%C3%B6%20vapen.svg"
+   }
+  },
+  "Värnamo": {
+   "nimi": "Värnamon kunta",
+   "wikidata": "Q280562",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A4rnamon_kunta",
+   "tiivistelma": "Värnamon kunta on Jönköpingin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 34512,
+   "pinta_ala_km2": 1382,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0683.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4rnamo%20vapen.svg"
+   }
+  },
+  "Västervik": {
+   "nimi": "Västervikin kunta",
+   "wikidata": "Q515477",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A4stervikin_kunta",
+   "tiivistelma": "Västervikin kunta on Kalmarin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 36226,
+   "pinta_ala_km2": 3597,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Gunnar Dahlberg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Johan Ögrim",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Adam Åhman",
+     "kuvaus": "ruotsalainen jääkiekkomaalivahti"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0883.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4stervik%20vapen.svg"
+   }
+  },
+  "Västerås": {
+   "nimi": "Västeråsin kunta",
+   "wikidata": "Q34550",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A4ster%C3%A5sin_kunta",
+   "tiivistelma": "Västeråsin kunta on Västmanlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Västmanlandiin.",
+   "vakiluku": 161629,
+   "pinta_ala_km2": 1138,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Walfrid Hellman",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Carl Bonde",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Anders Stålhand",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1980.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4ster%C3%A5s%20vapen.svg"
+   }
+  },
+  "Växjö": {
+   "nimi": "Växjön kunta",
+   "wikidata": "Q500217",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A4xj%C3%B6n_kunta",
+   "tiivistelma": "Växjön kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 98470,
+   "pinta_ala_km2": 1914,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Truls Möregårdh",
+     "kuvaus": "ruotsalainen pöytätennispelaaja"
+    },
+    {
+     "nimi": "Stefan Karlsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0780.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil and Pieter Kuiper",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A4xj%C3%B6%20vapen.svg"
+   }
+  },
+  "Vårgårda": {
+   "nimi": "Vårgårdan kunta",
+   "wikidata": "Q511297",
+   "wikipedia": "https://fi.wikipedia.org/wiki/V%C3%A5rg%C3%A5rdan_kunta",
+   "tiivistelma": "Vårgårdan kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Länsi-Götanmaahan.",
+   "vakiluku": 12458,
+   "pinta_ala_km2": 441,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Eric Erickson",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Carl Larsson Kämpe",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1442.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:V%C3%A5rg%C3%A5rda%20vapen.svg"
+   }
+  },
+  "Ydre": {
+   "nimi": "Ydren kunta",
+   "wikidata": "Q515699",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ydren_kunta",
+   "tiivistelma": "Ydren kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 3612,
+   "pinta_ala_km2": 779,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0512.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ydre%20vapen.svg"
+   }
+  },
+  "Ystad": {
+   "nimi": "Ystadin kunta",
+   "wikidata": "Q505102",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ystadin_kunta",
+   "tiivistelma": "Ystadin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 32252,
+   "pinta_ala_km2": 1184,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Karl Jakob Sundevall",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Henrik Ludvig Sundevall",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Martin Persson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1286.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:Ystad%20vapen.svg"
+   }
+  },
+  "Älmhult": {
+   "nimi": "Älmhultin kunta",
+   "wikidata": "Q254799",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%84lmhultin_kunta",
+   "tiivistelma": "Älmhultin kunta on Kronobergin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Smålandiin.",
+   "vakiluku": 17583,
+   "pinta_ala_km2": 978,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0765.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%84lmhult%20vapen.svg"
+   }
+  },
+  "Älvdalen": {
+   "nimi": "Älvdalenin kunta",
+   "wikidata": "Q123855",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%84lvdalenin_kunta",
+   "tiivistelma": "Älvdalenin kunta on Taalainmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Taalainmaahan.",
+   "vakiluku": 6799,
+   "pinta_ala_km2": 7143,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2039.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%84lvdalen%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Älvkarleby": {
+   "nimi": "Älvkarlebyn kunta",
+   "wikidata": "Q59858",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%84lvkarlebyn_kunta",
+   "tiivistelma": "Älvkarlebyn kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 9576,
+   "pinta_ala_km2": 616,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Johan Carl Garney",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0319.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%84lvkarleby%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Älvsbyn": {
+   "nimi": "Älvsbynin kunta",
+   "wikidata": "Q255025",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%84lvsbynin_kunta",
+   "tiivistelma": "Älvsbynin kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 7767,
+   "pinta_ala_km2": 1795,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2560.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%84lvsbyn%20vapen.svg"
+   }
+  },
+  "Ängelholm": {
+   "nimi": "Ängelholmin kunta",
+   "wikidata": "Q255206",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%84ngelholmin_kunta",
+   "tiivistelma": "Ängelholmin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 45204,
+   "pinta_ala_km2": 478,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Emma Andersson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1292.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%84ngelholm%20vapen.svg"
+   }
+  },
+  "Åmål": {
+   "nimi": "Åmålin kunta",
+   "wikidata": "Q271079",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%85m%C3%A5lin_kunta",
+   "tiivistelma": "Åmålin kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Dalslandiin.",
+   "vakiluku": 11575,
+   "pinta_ala_km2": 890,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1492.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%85m%C3%A5l%20vapen.svg"
+   }
+  },
+  "Ånge": {
+   "nimi": "Ången kunta",
+   "wikidata": "Q271107",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%85ngen_kunta",
+   "tiivistelma": "Ången kunta on Västernorrlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Medelpadiin ja Jämtlandiin.",
+   "vakiluku": 8920,
+   "pinta_ala_km2": 3296,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2260.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%85nge%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Åre": {
+   "nimi": "Åren kunta",
+   "wikidata": "Q271153",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%85ren_kunta",
+   "tiivistelma": "Åren kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Jämtlandiin.",
+   "vakiluku": 12705,
+   "pinta_ala_km2": 8236,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lars Molin",
+     "kuvaus": "ruotsalainen kirjailija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2321.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%85re%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Årjäng": {
+   "nimi": "Årjängin kunta",
+   "wikidata": "Q2777887",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%85rj%C3%A4ngin_kunta",
+   "tiivistelma": "Årjängin kunta on Värmlannin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Värmlantiin ja Dalslandiin.",
+   "vakiluku": 9727,
+   "pinta_ala_km2": 1653,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Olle Högstrand",
+     "kuvaus": "ruotsalainen kirjailija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1765.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%85rj%C3%A4ng%20vapen.svg"
+   }
+  },
+  "Åsele": {
+   "nimi": "Åselen kunta",
+   "wikidata": "Q271274",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%85selen_kunta",
+   "tiivistelma": "Åselen kunta on Västerbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Lappiin.",
+   "vakiluku": 2660,
+   "pinta_ala_km2": 4544,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Jan-Olof Borgén",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2463.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%85sele%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Åstorp": {
+   "nimi": "Åstorpin kunta",
+   "wikidata": "Q201813",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%85storpin_kunta",
+   "tiivistelma": "Åstorpin kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 16555,
+   "pinta_ala_km2": 93,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1277.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%85storp%20vapen.svg"
+   }
+  },
+  "Åtvidaberg": {
+   "nimi": "Åtvidabergin kunta",
+   "wikidata": "Q271340",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%85tvidabergin_kunta",
+   "tiivistelma": "Åtvidabergin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan ja Smålandiin.",
+   "vakiluku": 11476,
+   "pinta_ala_km2": 780,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0561.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%85tvidaberg%20vapen.svg"
+   }
+  },
+  "Öckerö": {
+   "nimi": "Öckerön kunta",
+   "wikidata": "Q293928",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96cker%C3%B6n_kunta",
+   "tiivistelma": "Öckerön kunta on Länsi-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Bohusläniin.",
+   "vakiluku": 12872,
+   "pinta_ala_km2": 511,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1407.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96cker%C3%B6%20vapen.svg"
+   }
+  },
+  "Ödeshög": {
+   "nimi": "Ödeshögin kunta",
+   "wikidata": "Q293970",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96desh%C3%B6gin_kunta",
+   "tiivistelma": "Ödeshögin kunta on Itä-Götanmaan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Itä-Götanmaahan.",
+   "vakiluku": 5231,
+   "pinta_ala_km2": 669,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0509.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil\n\nOriginal interpretation:Fred Chess",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96desh%C3%B6g%20vapen.svg"
+   }
+  },
+  "Örebro": {
+   "nimi": "Örebron kunta",
+   "wikidata": "Q297718",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96rebron_kunta",
+   "tiivistelma": "Örebron kunta on Örebron läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Närkeen ja Västmanlandiin.",
+   "vakiluku": 160369,
+   "pinta_ala_km2": 1621,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Sejde Abrahamsson",
+     "kuvaus": "ruotsalainen jalkapalloilija"
+    },
+    {
+     "nimi": "Ivar Hörhammer",
+     "kuvaus": "suomalainen poliitikko, toimittaja ja taidekauppias"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1880.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96rebro%20vapen.svg"
+   }
+  },
+  "Örkelljunga": {
+   "nimi": "Örkelljungan kunta",
+   "wikidata": "Q297936",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96rkelljungan_kunta",
+   "tiivistelma": "Örkelljungan kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 10258,
+   "pinta_ala_km2": 330,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1257.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96rkelljunga%20vapen.svg"
+   }
+  },
+  "Örnsköldsvik": {
+   "nimi": "Örnsköldsvikin kunta",
+   "wikidata": "Q298003",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96rnsk%C3%B6ldsvikin_kunta",
+   "tiivistelma": "Örnsköldsvikin kunta on Västernorrlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Ångermanlandiin.",
+   "vakiluku": 55406,
+   "pinta_ala_km2": 8428,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Peter Artedi",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Richard Söderberg",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "William Strömgren",
+     "kuvaus": "ruotsalainen jääkiekkoilija"
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2284.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96rnsk%C3%B6ldsvik%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Östersund": {
+   "nimi": "Östersundin kunta",
+   "wikidata": "Q306789",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96stersundin_kunta",
+   "tiivistelma": "Östersundin kunta on Jämtlandin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Jämtlandiin.",
+   "vakiluku": 65052,
+   "pinta_ala_km2": 2501,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Mariana Handler",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2380.png",
+    "lisenssi": "CC BY-SA 3.0",
+    "tekija": "Vladimir A. Sagerlund",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96stersund%20kommunvapen%20-%20Riksarkivet%20Sverige.png"
+   }
+  },
+  "Österåker": {
+   "nimi": "Österåkerin kunta",
+   "wikidata": "Q117728",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96ster%C3%A5kerin_kunta",
+   "tiivistelma": "Österåkerin kunta on Tukholman läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 50023,
+   "pinta_ala_km2": 554,
+   "perustettu": 1983,
+   "henkilot": [
+    {
+     "nimi": "Lennart Klingström",
+     "kuvaus": "ruotsalainen meloja"
+    },
+    {
+     "nimi": "Thomas Lagerlöf",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Patrik Forsberg",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0117.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Marmelad",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96ster%C3%A5ker%20vapen.svg"
+   }
+  },
+  "Östhammar": {
+   "nimi": "Östhammarin kunta",
+   "wikidata": "Q59093",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96sthammarin_kunta",
+   "tiivistelma": "Östhammarin kunta on Uppsalan läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Uplantiin.",
+   "vakiluku": 22176,
+   "pinta_ala_km2": 3713,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Chris Heister",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/0382.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96sthammar%20vapen.svg"
+   }
+  },
+  "Östra Göinge": {
+   "nimi": "Östra Göingen kunta",
+   "wikidata": "Q307370",
+   "wikipedia": "https://fi.wikipedia.org/wiki/%C3%96stra_G%C3%B6ingen_kunta",
+   "tiivistelma": "Östra Göingen kunta on Skånen läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Skåneen.",
+   "vakiluku": 13693,
+   "pinta_ala_km2": 451,
+   "perustettu": 1974,
+   "henkilot": [
+    {
+     "nimi": "Elisabet Carlsson",
+     "kuvaus": "ruotsalainen näyttelijä"
+    },
+    {
+     "nimi": "Elin Nilsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/1256.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96stra%20G%C3%B6inge%20vapen.svg"
+   }
+  },
+  "Överkalix": {
+   "nimi": "Ylikainuun kunta",
+   "wikidata": "Q307569",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ylikainuun_kunta",
+   "tiivistelma": "Ylikainuun kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 3171,
+   "pinta_ala_km2": 2919,
+   "perustettu": 1971,
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2513.png",
+    "lisenssi": "CC BY-SA 2.5",
+    "tekija": "Lokal_Profil",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96verkalix%20vapen.svg"
+   }
+  },
+  "Övertorneå": {
+   "nimi": "Ylitornion kunta",
+   "wikidata": "Q307603",
+   "wikipedia": "https://fi.wikipedia.org/wiki/Ylitornion_kunta",
+   "tiivistelma": "Ylitornion kunta on Norrbottenin läänissä sijaitseva Ruotsin kunta. Maakuntajaossa se kuuluu Norrbotteniin.",
+   "vakiluku": 3973,
+   "pinta_ala_km2": 2488,
+   "perustettu": 1971,
+   "henkilot": [
+    {
+     "nimi": "Lisa Wede",
+     "kuvaus": ""
+    },
+    {
+     "nimi": "Stefan Nilsson",
+     "kuvaus": ""
+    }
+   ],
+   "vaakuna": {
+    "tiedosto": "vaakunat/SE/2518.png",
+    "lisenssi": "CC BY 4.0",
+    "tekija": "Övertorneå kommun",
+    "lahde": "https://commons.wikimedia.org/wiki/File:%C3%96vertorne%C3%A5%20kommuns%20vapensk%C3%B6ld.svg"
+   }
+  }
+ }
+}
